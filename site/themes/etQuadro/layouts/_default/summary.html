@@ -10,7 +10,7 @@ summary.html
 		{{- with .Params.lead }}
 		<p class="list__lead post__lead">{{ . }}</p>
 		{{- end }}
-		{{ with partial "post_meta.html" . -}}
+		{{ with partial "post-meta.html" . -}}
 		<div class="list__meta meta">{{ . }}</div>
 		{{- end }}
 	</header>
