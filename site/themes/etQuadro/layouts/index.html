@@ -1,0 +1,264 @@
+{{ define "main" }}
+<div id="container" class="clearfix">
+  {{- .Render "featuredposts" }}
+
+  <div id="content-in">
+    {{- .Render "miniposts" }}
+  </div>
+  <!-- /content-in -->
+  <div id="sidebar">
+    <div id="primary">
+      <ul>
+        <li id="search-2" class="widget">
+          <div class="widget-content">
+            <h4 class="widget-title">Search</h4>
+            <form role="search" method="get" id="searchform" class="searchform" action="httplocalhost/">
+              <div>
+                <label class="screen-reader-text" for="s">Search for:</label>
+                <input type="text" value="" name="s" id="s" />
+                <input type="submit" id="searchsubmit" value="Search" />
+              </div>
+            </form>
+          </div>
+          <div class="widget-bottom"></div>
+        </li>
+        <li id="categories-3" class="widget">
+          <div class="widget-content">
+            <h4 class="widget-title">Categories</h4>
+            <form action="httplocalhost" method="get">
+              <label class="screen-reader-text" for="cat">Categories</label
+              ><select name="cat" id="cat" class="postform">
+                <option value="-1">Select Category</option>
+                <option class="level-0" value="1064">Application</option>
+                <option class="level-0" value="3">Articles</option>
+                <option class="level-0" value="4">Artists</option>
+                <option class="level-0" value="1289">Bon Jovi Friday</option>
+                <option class="level-0" value="5">Bootlegs</option>
+                <option class="level-0" value="7">Events</option>
+                <option class="level-0" value="1214">Free Tickets</option>
+                <option class="level-0" value="8">Fun</option>
+                <option class="level-0" value="9">Gig Promotion</option>
+                <option class="level-0" value="10">Gig Reviews</option>
+                <option class="level-0" value="11">Interviews</option>
+                <option class="level-0" value="12">Music</option>
+                <option class="level-0" value="13">Music Video</option>
+                <option class="level-0" value="14">News</option>
+                <option class="level-0" value="15">Pics</option>
+                <option class="level-0" value="1531">Podcast</option>
+                <option class="level-0" value="16">Poll</option>
+                <option class="level-0" value="1323">Press Release</option>
+                <option class="level-0" value="681">Red Bull Studio Cape Town</option>
+                <option class="level-0" value="1260">Releases</option>
+                <option class="level-0" value="691">remix competition</option>
+                <option class="level-0" value="17">Reviews</option>
+                <option class="level-0" value="1672">TV</option>
+                <option class="level-0" value="1">Uncategorized</option>
+              </select>
+            </form>
+            <script type="text/javascript">
+              /* <![CDATA[ */
+              (function () {
+                var dropdown = document.getElementById("cat");
+                function onCatChange() {
+                  if (dropdown.options[dropdown.selectedIndex].value > 0) {
+                    dropdown.parentNode.submit();
+                  }
+                }
+                dropdown.onchange = onCatChange;
+              })();
+              /* ]]> */
+            </script>
+          </div>
+          <div class="widget-bottom"></div>
+        </li>
+        <li id="archives-3" class="widget">
+          <div class="widget-content">
+            <h4 class="widget-title">Archives</h4>
+            <label class="screen-reader-text" for="archives-dropdown-3">Archives</label>
+            <select id="archives-dropdown-3" name="archive-dropdown">
+              <option value="">Select Month</option>
+              <option value="httplocalhost/2013/02/">February 2013</option>
+              <option value="httplocalhost/2013/01/">January 2013</option>
+              <option value="httplocalhost/2012/12/">December 2012</option>
+              <option value="httplocalhost/2012/11/">November 2012</option>
+              <option value="httplocalhost/2012/10/">October 2012</option>
+              <option value="httplocalhost/2012/09/">September 2012</option>
+              <option value="httplocalhost/2012/08/">August 2012</option>
+              <option value="httplocalhost/2012/07/">July 2012</option>
+              <option value="httplocalhost/2012/06/">June 2012</option>
+              <option value="httplocalhost/2012/05/">May 2012</option>
+              <option value="httplocalhost/2012/04/">April 2012</option>
+              <option value="httplocalhost/2012/03/">March 2012</option>
+              <option value="httplocalhost/2012/02/">February 2012</option>
+              <option value="httplocalhost/2012/01/">January 2012</option>
+              <option value="httplocalhost/2011/12/">December 2011</option>
+              <option value="httplocalhost/2011/11/">November 2011</option>
+              <option value="httplocalhost/2011/10/">October 2011</option>
+              <option value="httplocalhost/2011/09/">September 2011</option>
+              <option value="httplocalhost/2011/08/">August 2011</option>
+              <option value="httplocalhost/2011/07/">July 2011</option>
+              <option value="httplocalhost/2011/06/">June 2011</option>
+              <option value="httplocalhost/2011/05/">May 2011</option>
+              <option value="httplocalhost/2011/04/">April 2011</option>
+              <option value="httplocalhost/2011/03/">March 2011</option>
+              <option value="httplocalhost/2011/02/">February 2011</option>
+              <option value="httplocalhost/2011/01/">January 2011</option>
+              <option value="httplocalhost/2010/12/">December 2010</option>
+              <option value="httplocalhost/2010/11/">November 2010</option>
+              <option value="httplocalhost/2010/10/">October 2010</option>
+              <option value="httplocalhost/2010/09/">September 2010</option>
+              <option value="httplocalhost/2010/08/">August 2010</option>
+              <option value="httplocalhost/2010/07/">July 2010</option>
+              <option value="httplocalhost/2010/06/">June 2010</option>
+              <option value="httplocalhost/2010/05/">May 2010</option>
+              <option value="httplocalhost/2010/04/">April 2010</option>
+              <option value="httplocalhost/2010/03/">March 2010</option>
+              <option value="httplocalhost/2010/02/">February 2010</option>
+              <option value="httplocalhost/2010/01/">January 2010</option>
+              <option value="httplocalhost/2009/12/">December 2009</option>
+              <option value="httplocalhost/2009/11/">November 2009</option>
+              <option value="httplocalhost/2009/10/">October 2009</option>
+              <option value="httplocalhost/2009/09/">September 2009</option>
+              <option value="httplocalhost/2009/08/">August 2009</option>
+              <option value="httplocalhost/2009/07/">July 2009</option>
+              <option value="httplocalhost/2009/06/">June 2009</option>
+              <option value="httplocalhost/2009/05/">May 2009</option>
+              <option value="httplocalhost/2009/04/">April 2009</option>
+              <option value="httplocalhost/2009/03/">March 2009</option>
+              <option value="httplocalhost/2009/02/">February 2009</option>
+              <option value="httplocalhost/2009/01/">January 2009</option>
+              <option value="httplocalhost/2008/12/">December 2008</option>
+              <option value="httplocalhost/2008/11/">November 2008</option>
+              <option value="httplocalhost/2008/10/">October 2008</option>
+              <option value="httplocalhost/2008/09/">September 2008</option>
+              <option value="httplocalhost/2008/08/">August 2008</option>
+              <option value="httplocalhost/2008/07/">July 2008</option>
+              <option value="httplocalhost/2008/06/">June 2008</option>
+              <option value="httplocalhost/2008/05/">May 2008</option>
+              <option value="httplocalhost/2008/04/">April 2008</option>
+              <option value="httplocalhost/2008/03/">March 2008</option>
+              <option value="httplocalhost/2008/02/">February 2008</option>
+            </select>
+
+            <script type="text/javascript">
+              /* <![CDATA[ */
+              (function () {
+                var dropdown = document.getElementById("archives-dropdown-3");
+                function onSelectChange() {
+                  if (dropdown.options[dropdown.selectedIndex].value !== "") {
+                    document.location.href = this.options[this.selectedIndex].value;
+                  }
+                }
+                dropdown.onchange = onSelectChange;
+              })();
+              /* ]]> */
+            </script>
+          </div>
+          <div class="widget-bottom"></div>
+        </li>
+        <li id="tag_cloud-4" class="widget">
+          <div class="widget-content">
+            <h4 class="widget-title">Tag Cloud</h4>
+            <div class="tagcloud">
+              <a href="/tag/assembly/" class="tag-cloud-link tag-link-73 tag-link-position-1" style="font-size: 8.7179487179487pt" aria-label="assembly (10 items)">assembly</a>
+              <a href="/tag/biscope/" class="tag-cloud-link tag-link-108 tag-link-position-2" style="font-size: 8.7179487179487pt" aria-label="biscope (10 items)">biscope</a>
+              <a href="/tag/cape-town/" class="tag-cloud-link tag-link-144 tag-link-position-3" style="font-size: 22pt" aria-label="cape town (59 items)">cape town</a>
+              <a href="/tag/codec/" class="tag-cloud-link tag-link-164 tag-link-position-4" style="font-size: 10.692307692308pt" aria-label="codec (13 items)">codec</a>
+              <a href="/tag/competition/" class="tag-cloud-link tag-link-168 tag-link-position-5" style="font-size: 8.7179487179487pt" aria-label="competition (10 items)">competition</a>
+              <a href="/tag/data-takashi/" class="tag-cloud-link tag-link-208 tag-link-position-6" style="font-size: 10.692307692308pt" aria-label="data takashi (13 items)">data takashi</a>
+              <a href="/tag/discotheque/" class="tag-cloud-link tag-link-247 tag-link-position-7" style="font-size: 8.7179487179487pt" aria-label="discotheque (10 items)">discotheque</a>
+              <a href="/tag/dj-lapse/" class="tag-cloud-link tag-link-256 tag-link-position-8" style="font-size: 9.974358974359pt" aria-label="dj lapse (12 items)">dj lapse</a>
+              <a href="/tag/download/" class="tag-cloud-link tag-link-270 tag-link-position-9" style="font-size: 8pt" aria-label="download (9 items)">download</a>
+              <a href="/tag/dubstep/" class="tag-cloud-link tag-link-274 tag-link-position-10" style="font-size: 9.4358974358974pt" aria-label="dubstep (11 items)">dubstep</a>
+              <a href="/tag/durban/" class="tag-cloud-link tag-link-276 tag-link-position-11" style="font-size: 11.589743589744pt" aria-label="durban (15 items)">durban</a>
+              <a href="/tag/electro/" class="tag-cloud-link tag-link-290 tag-link-position-12" style="font-size: 17.692307692308pt" aria-label="electro (34 items)">electro</a>
+              <a href="/tag/electronica/" class="tag-cloud-link tag-link-294 tag-link-position-13" style="font-size: 8pt" aria-label="electronica (9 items)">electronica</a>
+              <a href="/tag/event/" class="tag-cloud-link tag-link-312 tag-link-position-14" style="font-size: 18.589743589744pt" aria-label="event (38 items)">event</a>
+              <a href="/tag/fiction/" class="tag-cloud-link tag-link-332 tag-link-position-15" style="font-size: 8.7179487179487pt" aria-label="fiction (10 items)">fiction</a>
+              <a href="/tag/free-tickets/" class="tag-cloud-link tag-link-1757 tag-link-position-16" style="font-size: 8.7179487179487pt" aria-label="Free Tickets (10 items)">Free Tickets</a>
+              <a href="/tag/gazelle/" class="tag-cloud-link tag-link-375 tag-link-position-17" style="font-size: 10.692307692308pt" aria-label="gazelle (13 items)">gazelle</a>
+              <a href="/tag/go-go-bar/" class="tag-cloud-link tag-link-382 tag-link-position-18" style="font-size: 8pt" aria-label="go-go bar (9 items)">go-go bar</a>
+              <a href="/tag/grave-danger/" class="tag-cloud-link tag-link-389 tag-link-position-19" style="font-size: 8pt" aria-label="grave danger (9 items)">grave danger</a>
+              <a href="/tag/griet/" class="tag-cloud-link tag-link-1163 tag-link-position-20" style="font-size: 8.7179487179487pt" aria-label="Griet (10 items)">Griet</a>
+              <a href="/tag/haezer/" class="tag-cloud-link tag-link-397 tag-link-position-21" style="font-size: 19.666666666667pt" aria-label="haezer (44 items)">haezer</a>
+              <a href="/tag/jacob-israel/" class="tag-cloud-link tag-link-445 tag-link-position-22" style="font-size: 13.384615384615pt" aria-label="jacob israel (19 items)">jacob israel</a>
+              <a href="/tag/jhb/" class="tag-cloud-link tag-link-456 tag-link-position-23" style="font-size: 13.74358974359pt" aria-label="jhb (20 items)">jhb</a>
+              <a href="/tag/johannesburg/" class="tag-cloud-link tag-link-460 tag-link-position-24" style="font-size: 19.307692307692pt" aria-label="johannesburg (42 items)">johannesburg</a>
+              <a href="/tag/johnny-neon/" class="tag-cloud-link tag-link-462 tag-link-position-25" style="font-size: 8pt" aria-label="johnny neon (9 items)">johnny neon</a>
+              <a href="/tag/king-of-town/" class="tag-cloud-link tag-link-484 tag-link-position-26" style="font-size: 9.974358974359pt" aria-label="king of town (12 items)">king of town</a>
+              <a href="/tag/live/" class="tag-cloud-link tag-link-530 tag-link-position-27" style="font-size: 8.7179487179487pt" aria-label="live (10 items)">live</a>
+              <a href="/tag/liver/" class="tag-cloud-link tag-link-533 tag-link-position-28" style="font-size: 11.230769230769pt" aria-label="Liver (14 items)">Liver</a>
+              <a href="/tag/mtkidu/" class="tag-cloud-link tag-link-594 tag-link-position-29" style="font-size: 13.74358974359pt" aria-label="mtkidu (20 items)">mtkidu</a>
+              <a href="/tag/music-video/" class="tag-cloud-link tag-link-1751 tag-link-position-30" style="font-size: 15.717948717949pt" aria-label="Music Video (26 items)">Music Video</a>
+              <a href="/tag/newtown/" class="tag-cloud-link tag-link-610 tag-link-position-31" style="font-size: 9.4358974358974pt" aria-label="newtown (11 items)">newtown</a>
+              <a href="/tag/party/" class="tag-cloud-link tag-link-640 tag-link-position-32" style="font-size: 16.076923076923pt" aria-label="party (27 items)">party</a>
+              <a href="/tag/popskarr/" class="tag-cloud-link tag-link-976 tag-link-position-33" style="font-size: 12.128205128205pt" aria-label="Popskarr (16 items)">Popskarr</a>
+              <a href="/tag/pretoria/" class="tag-cloud-link tag-link-665 tag-link-position-34" style="font-size: 12.666666666667pt" aria-label="pretoria (17 items)">pretoria</a>
+              <a
+                href="/tag/red-bull-music-studios-cape-town/"
+                class="tag-cloud-link tag-link-683 tag-link-position-35"
+                style="font-size: 8.7179487179487pt"
+                aria-label="Red Bull Music Studios Cape Town (10 items)"
+                >Red Bull Music Studios Cape Town</a
+              >
+              <a href="/tag/remix/" class="tag-cloud-link tag-link-690 tag-link-position-36" style="font-size: 18.589743589744pt" aria-label="remix (38 items)">remix</a>
+              <a href="/tag/richard-rumney/" class="tag-cloud-link tag-link-701 tag-link-position-37" style="font-size: 8.7179487179487pt" aria-label="richard rumney (10 items)">richard rumney</a>
+              <a href="/tag/richard-the-third/" class="tag-cloud-link tag-link-705 tag-link-position-38" style="font-size: 18.589743589744pt" aria-label="richard the third (38 items)"
+                >richard the third</a
+              >
+              <a href="/tag/sassquatch/" class="tag-cloud-link tag-link-723 tag-link-position-39" style="font-size: 10.692307692308pt" aria-label="sassquatch (13 items)">sassquatch</a>
+              <a href="/tag/south-africa/" class="tag-cloud-link tag-link-766 tag-link-position-40" style="font-size: 21.102564102564pt" aria-label="south africa (53 items)">south africa</a>
+              <a href="/tag/the-assembly/" class="tag-cloud-link tag-link-813 tag-link-position-41" style="font-size: 13.74358974359pt" aria-label="the assembly (20 items)">the assembly</a>
+              <a href="/tag/the-frown/" class="tag-cloud-link tag-link-1449 tag-link-position-42" style="font-size: 9.4358974358974pt" aria-label="The Frown (11 items)">The Frown</a>
+              <a href="/tag/the-woods/" class="tag-cloud-link tag-link-830 tag-link-position-43" style="font-size: 12.128205128205pt" aria-label="the woods (16 items)">the woods</a>
+              <a href="/tag/unit-r/" class="tag-cloud-link tag-link-855 tag-link-position-44" style="font-size: 11.230769230769pt" aria-label="Unit r (14 items)">Unit r</a>
+              <a href="/tag/yesterdays-pupil/" class="tag-cloud-link tag-link-891 tag-link-position-45" style="font-size: 14.820512820513pt" aria-label="yesterdays pupil (23 items)"
+                >yesterdays pupil</a
+              >
+            </div>
+          </div>
+          <div class="widget-bottom"></div>
+        </li>
+        <li id="recent-comments-3" class="widget">
+          <div class="widget-content">
+            <h4 class="widget-title">Recent Comments</h4>
+            <ul id="recentcomments">
+              <li class="recentcomments">
+                <span class="comment-author-link"><a href="http://twitter.com/rickdisco" rel="external nofollow ugc" class="url">rickdisco</a></span> on
+                <a href="/2013/02/06/ctemf-2013-ticket-giveaway/#comment-226279">CTEMF 2013 &#8211; Ticket Giveaway!</a>
+              </li>
+              <li class="recentcomments">
+                <span class="comment-author-link"><a href="http://twitter.com/NextConcerts_4U" rel="external nofollow ugc" class="url">NextConcerts_4U</a></span> on
+                <a href="/2013/01/18/ctemf-2013-cape-town-electronic-music-festival-12-17-february-2013/#comment-222148"
+                  >CTEMF 2013 &#8211; CAPE TOWN ELECTRONIC MUSIC FESTIVAL 12 &#8211; 17 February 2013</a
+                >
+              </li>
+              <li class="recentcomments">
+                <span class="comment-author-link"><a href="http://twitter.com/rickdisco" rel="external nofollow ugc" class="url">rickdisco</a></span> on
+                <a href="/2013/01/18/ctemf-2013-cape-town-electronic-music-festival-12-17-february-2013/#comment-222151"
+                  >CTEMF 2013 &#8211; CAPE TOWN ELECTRONIC MUSIC FESTIVAL 12 &#8211; 17 February 2013</a
+                >
+              </li>
+              <li class="recentcomments">
+                <span class="comment-author-link"><a href="http://twitter.com/rickdisco" rel="external nofollow ugc" class="url">rickdisco</a></span> on
+                <a href="/2013/01/16/red-bull-studio-cape-town-greg-reve-unveiled/#comment-221777">Red Bull Studio Cape Town: Greg Reve &#8211; Unveiled</a>
+              </li>
+              <li class="recentcomments">
+                <span class="comment-author-link"><a href="http://twitter.com/Serisha_L" rel="external nofollow ugc" class="url">Serisha_L</a></span> on
+                <a href="/2012/12/10/podcast-electrotrash-red-bull-studios-ct-presents-mix-match-05-women-who-kill/#comment-216679"
+                  >Podcast: Electrotrash &#038; Red Bull Studios CT presents Mix &#038; Match 05 Women Who Kill</a
+                >
+              </li>
+            </ul>
+          </div>
+          <div class="widget-bottom"></div>
+        </li>
+      </ul>
+    </div>
+    <!-- primary -->
+    <!--	secondary sidebar here-->
+  </div>
+  <!-- /sidebar -->
+</div>
+<!-- /container -->
+{{ end }}

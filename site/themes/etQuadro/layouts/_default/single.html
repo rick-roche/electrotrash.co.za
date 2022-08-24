@@ -1,0 +1,33 @@
+{{ define "main" }}
+<div id="content">
+  <div id="content-in">
+    <div class="post">
+      <h3 class="title">{{ .Title }}</h3>
+      <div class="meta clearfix">
+        <span class="date-post">Posted on {{ .Date.Format "January 2 2006" }}</span>
+        <span class="author-post"> <br />by
+        {{- range $index, $element := .Params.authors }}
+          {{ if gt $index 0 }} & {{ end }}
+          <a href="/authors/{{ urlize . }}">{{ . }}</a>
+        {{ end }}
+      </span>
+      </div>
+      <div class="entry">{{ .Content }}</div>
+      <div class="clear"></div>
+    </div>
+    <div class="navigation clearfix">
+      {{- if .PrevInSection -}}
+      <div class="alignleft single">
+        <a href="{{ .PrevInSection.RelPermalink }}" class="prev" rel="prev" title="{{ .PrevInSection.Title }}"><i class="fas fa-angle-left fa-fw"></i>{{ .PrevInSection.Title }}</a>
+      </div>
+      {{- end -}} {{ if .NextInSection }}
+      <div class="alignright">
+        <a href="{{ .NextInSection.RelPermalink }}" class="next" rel="next" title="{{ .NextInSection.Title }}">{{ .NextInSection.Title }}<i class="fas fa-angle-right fa-fw"></i></a>
+      </div>
+      {{- end -}}
+      <!-- </div> -->
+    </div>
+    <div class="bottomthing"></div>
+  </div>
+</div>
+{{ end }}

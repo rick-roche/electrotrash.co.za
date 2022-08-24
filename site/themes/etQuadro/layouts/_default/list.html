@@ -1,0 +1,21 @@
+{{ define "main" }}
+<div id="content">
+    <div id="content-in">
+      <div class="post">
+        <h3 class="title">{{ .Title }}</h3>
+        <div class="meta clearfix">
+            <ul>
+                <!-- Ranges through content/x/*.md -->
+                {{ range .Pages }}
+                    <li>
+                        <a href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
+                    </li>
+                {{ end }}
+            </ul>
+        </div>
+        <div class="clear"></div>
+    </div>
+    <div class="bottomthing"></div>
+</div>
+</div>
+{{ end }}
