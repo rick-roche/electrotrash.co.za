@@ -3,10 +3,12 @@
     {{- partial "head.html" . -}}
     <body>
         {{- partial "header.html" . -}}
-        <div id="main">
+        <div id="container" class="clearfix">
         {{- block "main" . }}{{- end }}
 
+        {{- .Render "sidebar" }}
         </div>
+        <!-- /container -->
         {{- partial "footer.html" . -}}
     </body>
 </html>
