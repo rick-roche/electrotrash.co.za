@@ -570,6 +570,35 @@ div.eventry.thumbnailed .content {
 	color: #ffffff;
 }
 
+/* .archive-item-date {
+	width: 4em;
+	text-align: right;
+	float: right;
+} */
+
+.tag-cloud-tags {
+	margin: 10px 0;
+}
+
+.tag-cloud-tags a {
+	display: inline-block;
+	position: relative;
+	margin: 5px 10px;
+	@include overflow-wrap(break-word);
+	@include transition(all ease-out 0.3s);
+
+	&:active,
+	&:focus,
+	&:hover {
+	@include transform(scale(1.2));
+	}
+}
+
+.tag-cloud-tags sup {
+	color: grey;
+}
+
+
 /*
 .artistpage {*/
 /*padding-left:12px;

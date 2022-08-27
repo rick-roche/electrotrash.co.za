@@ -1,0 +1,47 @@
+{{- define "title" -}} {{- .Params.Title | default (T .Data.Plural) | default .Data.Plural | dict "Some" | T "allSome" }} - {{ .Site.Title -}} {{- end -}} {{- define "main" -}} {{- $taxonomies :=
+.Data.Plural -}} {{- $terms := .Data.Terms.ByCount -}} {{- $type := .Type -}}
+<div id="content">
+  <div id="content-in">
+    <div class="post">
+      {{- /* Title */ -}}
+      <h2 class="title">All {{ .Title }}</h2>
+
+      <div class="entry">
+        {{- /* Categories Page */ -}} {{- if eq $taxonomies "categories" -}}
+        <div class="categories-card">
+          {{- range $terms -}} {{- $term := .Term -}} {{- $pages := .Pages -}} {{- with $.Site.GetPage "taxonomy" (printf "%v/%v" $type $term) -}}
+          <div class="card-item">
+            <div class="card-item-wrapper">
+              <h2 class="card-item-title">
+                <a href="{{ .RelPermalink }}"> <i class="far fa-folder fa-fw"></i>&nbsp;{{ .Page.Title }} </a>
+              </h2>
+              <ul>
+                {{- range first 5 $pages -}}
+                <li>
+                  <a href="{{ .RelPermalink }}" class="archive-item-link"> {{- .Title -}} </a>
+                </li>
+                {{- end -}}
+              </ul>
+              {{- if gt (len $pages) 5 -}}
+              <span class="more-post">
+                <a href="{{ .RelPermalink }}" class="more-single-link">More >></a>
+              </span>
+              {{- end -}}
+            </div>
+          </div>
+          {{- end -}} {{- end -}}
+        </div>
+
+        {{- /* Tag Cloud Page */ -}} {{- else if eq $taxonomies "tags" -}}
+        <div class="tag-cloud-tags">
+          {{- range sort $.Site.Taxonomies.tags.ByCount ".Count" "desc" -}}
+          <a href="{{ .Page.RelPermalink }}">{{ .Page.Title }} <sup>({{ .Count }})</sup></a>
+          {{- end -}}
+        </div>
+        {{- end -}}
+      </div>
+    </div>
+    <div class="bottomthing"></div>
+  </div>
+</div>
+{{- end -}}
