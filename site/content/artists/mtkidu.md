@@ -7,8 +7,8 @@ authors: ["Rick Disco"]
 
 ![](/images/mtkidu-tftd.jpg)
 
-_Members:_ Murray Turpin (MT) and Nicholas Nesbitt (Kidu)  
-_Website:_ [www.mtkidu.com](http://www.mtkidu.com)_  
+_Members:_ Murray Turpin (MT) and Nicholas Nesbitt (Kidu)
+_Website:_ [www.mtkidu.com](http://www.mtkidu.com)_
 Email:_ mtkidu@gmail.com
 
 **Biography:**
@@ -26,12 +26,12 @@ The time has come to break the conventional moulds of exhibiting and the traditi
 
 So in a word or 303, that’s us and what we do….for now
 
-Love us.  
+Love us.
 Mtkidu
 
-[http://www.facebook.com/pages/MTKIDU/7884414245](http://www.facebook.com/pages/MTKIDU/7884414245 "Mtkidu Facebook Page")  
+[http://www.facebook.com/pages/MTKIDU/7884414245](http://www.facebook.com/pages/MTKIDU/7884414245 "Mtkidu Facebook Page")
 [http://www.myspace.com/mtkidu](http://www.myspace.com/mtkidu "Mtkidu on Myspace")
 
-Ps. Shakawon cd launch, music video and tour coming soon, watch this space.
+Ps. Shakawon CD launch, music video and tour coming soon, watch this space.
 
-[Get FREE music from Mtkidu on electrotrash here](../downloads/#mtkidu "electrotrash Downloads")!
+[Get FREE music from Mtkidu on electrotrash here](/downloads/#mtkidu "electrotrash Downloads")!

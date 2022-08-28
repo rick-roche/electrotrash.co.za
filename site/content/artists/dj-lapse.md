@@ -11,10 +11,10 @@ _Website_: [www.myspace.com/djlapsecapetown](http://www.myspace.com/djlapsecapet
 
 Kind words by VEREVÜLFF
 
-> "With Lapses' roots firmly planted in hip-hop and soul, and as with many fans they fond hip-hop stagnated and bored the crap out of many of it's dj's/producers. Forcing them at gun point to explore other genre's, which we can only thank them for... because now Lapse makes dance music, and plays dance music.
+> "With Lapses' roots firmly planted in hip-hop and soul, and as with many fans they fond hip-hop stagnated and bored the crap out of many of its DJ's/producers. Forcing them at gun point to explore other genres, which we can only thank them for... because now Lapse makes dance music, and plays dance music.
 >
 > Still collecting the fuel for his tracks (from his love for funk/soul), with hand claps and cow bells. Lapse has always made and played music to move too, whether it's moving too work, play or too and from the bar it doesn't dare you to stand still.
 >
 > His is the soundtrack to all you salmon swimming upstream. "
 
-[Get FREE music from DJ Lapse on electrotrash here](../downloads/#lapse "electrotrash Downloads")!
+[Get FREE music from DJ Lapse on electrotrash here](/downloads/#lapse "electrotrash Downloads")!

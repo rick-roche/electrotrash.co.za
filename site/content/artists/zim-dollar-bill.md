@@ -1,5 +1,5 @@
 ---
-title: 'zim dollar bill'
+title: 'Zim Dollar Bill'
 date: Mon, 14 Dec 2009 12:16:04 +0000
 draft: false
 authors: ["dirtyoldman"]

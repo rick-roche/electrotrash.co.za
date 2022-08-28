@@ -13,4 +13,4 @@ Tigerstrike was born in the summer of 2007. With Raffael (The Sound and formerly
 
 Catch more of this trio on their [Facebook page](http://www.facebook.Acom/pages/TIGERSTRIKE-Band/40003691442 "Tigerstrike")!
 
-[Get FREE music from Tigerstrike on electrotrash here](../artists/downloads/#tigerstrike "electrotrash Downloads")!
+[Get FREE music from Tigerstrike on electrotrash here](/artists/downloads/#tigerstrike "electrotrash Downloads")!

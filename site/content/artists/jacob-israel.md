@@ -17,11 +17,11 @@ He worked with Louis Minnaar to produce "Henri", an animation that won the M-Net
 
 This year, he started "Chrisus" (www.chrisus.tv), an audiovisual company with Ola Kobak, Louis Minnaar and Corne Roodt.
 
-Jacob is currently working on new multi touch audio performances and he loves to stay up until the wee hours of the morning, burning his retinas to create novel and wonderful gadgets for stuff.
+Jacob is currently working on new multitouch audio performances, and he loves to stay up until the wee hours of the morning, burning his retinas to create novel and wonderful gadgets for stuff.
 
 Visit [www.chrisus.tv](http://www.chrisus.tv "Chrisus.tv") to download his albums and to view the videos.
 
-[Get FREE music from Jacob Israel on electrotrash here](../downloads/#jacob "electrotrash Downloads")!
+[Get FREE music from Jacob Israel on electrotrash here](/downloads/#jacob "electrotrash Downloads")!
 
 [![](/wp-content/uploads/2008/08/screen-300x146.jpg "jacob israel - screen")](/wp-content/uploads/2008/08/screen.jpg)
 

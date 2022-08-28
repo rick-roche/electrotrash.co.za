@@ -18,5 +18,3 @@ We always appreciate feedback and suggestions, so feel free to [contact us](/con
 Thank you to all of you for your continued support. We love you all and we hope to achieve many great things in times to come!
 
 Take it easy dirtyoldman, RickDisco and the rest of the electrotrash team. ^5!
-
-`[ad#et-page]`
