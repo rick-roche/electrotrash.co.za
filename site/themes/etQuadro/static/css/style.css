@@ -450,6 +450,10 @@ div.eventry.thumbnailed .content {
 	/* margin: 0px 0px 0px 0px; */
 }
 
+#sidebar select {
+	width: 275px;
+}
+
 .widget {
 	clear: left;
 	display: block;
@@ -597,6 +601,7 @@ div.eventry.thumbnailed .content {
 .tag-cloud-tags sup {
 	color: grey;
 }
+
 
 
 /*

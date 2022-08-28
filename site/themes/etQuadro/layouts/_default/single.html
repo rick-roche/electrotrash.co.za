@@ -3,6 +3,7 @@
   <div id="content-in">
     <div class="post">
       <h3 class="title">{{ .Title }}</h3>
+      {{ if (ne .Type "page") }}
       <div class="meta clearfix">
         <span class="date-post">Posted on {{ .Date.Format "January 2 2006" }}</span>
         <span class="author-post"> <br />by
@@ -12,6 +13,7 @@
         {{ end }}
       </span>
       </div>
+      {{ end }}
       <div class="entry">{{ .Content }}</div>
       <div class="clear"></div>
     </div>

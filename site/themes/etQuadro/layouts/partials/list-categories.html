@@ -1,0 +1,58 @@
+<li id="categories-3" class="widget">
+  <div class="widget-content">
+    <h4 class="widget-title">Categories</h4>
+    <form action="httplocalhost" method="get">
+      <label class="screen-reader-text" for="cat">Categories</label>
+      <select name="cat" id="cat" class="postform">
+        <!-- <option value="-1">Select Category</option> -->
+        {{ range ( where .Site.Pages "Type" "categories" ) }}
+            {{ if (eq .Title "Categories") }}
+              <option class="category" value="-1">Select Category</option>
+            {{else}}
+              <option class="category" value="{{.Permalink}}">{{.Title}}</option>
+            {{end}}
+        {{end}}
+        <!-- <option class="level-0" value="1064">Application</option>
+        <option class="level-0" value="3">Articles</option>
+        <option class="level-0" value="4">Artists</option>
+        <option class="level-0" value="1289">Bon Jovi Friday</option>
+        <option class="level-0" value="5">Bootlegs</option>
+        <option class="level-0" value="7">Events</option>
+        <option class="level-0" value="1214">Free Tickets</option>
+        <option class="level-0" value="8">Fun</option>
+        <option class="level-0" value="9">Gig Promotion</option>
+        <option class="level-0" value="10">Gig Reviews</option>
+        <option class="level-0" value="11">Interviews</option>
+        <option class="level-0" value="12">Music</option>
+        <option class="level-0" value="13">Music Video</option>
+        <option class="level-0" value="14">News</option>
+        <option class="level-0" value="15">Pics</option>
+        <option class="level-0" value="1531">Podcast</option>
+        <option class="level-0" value="16">Poll</option>
+        <option class="level-0" value="1323">Press Release</option>
+        <option class="level-0" value="681">Red Bull Studio Cape Town</option>
+        <option class="level-0" value="1260">Releases</option>
+        <option class="level-0" value="691">remix competition</option>
+        <option class="level-0" value="17">Reviews</option>
+        <option class="level-0" value="1672">TV</option>
+        <option class="level-0" value="1">Uncategorized</option> -->
+      </select>
+    </form>
+    <script type="text/javascript">
+      /* <![CDATA[ */
+      (function () {
+        var dropdown = document.getElementById("cat");
+        function onCatChange() {
+            var url = dropdown.options[dropdown.selectedIndex].value;
+            if (url != '') { // require a URL
+                window.location = url; // redirect
+            }
+            return false;
+        }
+        dropdown.onchange = onCatChange;
+      })();
+      /* ]]> */
+    </script>
+  </div>
+  <div class="widget-bottom"></div>
+</li>
