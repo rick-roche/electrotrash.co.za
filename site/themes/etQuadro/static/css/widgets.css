@@ -14,6 +14,10 @@
 	width: 190px;
 }
 
+#search #search-input {
+	width: 200px;
+}
+
 /* ads widget */
 #ads-125-125 {
 	text-align: center;

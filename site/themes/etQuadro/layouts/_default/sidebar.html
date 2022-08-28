@@ -1,69 +1,10 @@
 <div id="sidebar">
   <div id="primary">
     <ul>
-      <li id="search-2" class="widget">
-        <div class="widget-content">
-          <h4 class="widget-title">Search</h4>
-          <form role="search" method="get" id="searchform" class="searchform" action="httplocalhost/">
-            <div>
-              <label class="screen-reader-text" for="s">Search for:</label>
-              <input type="text" value="" name="s" id="s" />
-              <input type="submit" id="searchsubmit" value="Search" />
-            </div>
-          </form>
-        </div>
-        <div class="widget-bottom"></div>
-      </li>
-      <li id="categories-3" class="widget">
-        <div class="widget-content">
-          <h4 class="widget-title">Categories</h4>
-          <form action="httplocalhost" method="get">
-            <label class="screen-reader-text" for="cat">Categories</label
-            ><select name="cat" id="cat" class="postform">
-              <option value="-1">Select Category</option>
-              <option class="level-0" value="1064">Application</option>
-              <option class="level-0" value="3">Articles</option>
-              <option class="level-0" value="4">Artists</option>
-              <option class="level-0" value="1289">Bon Jovi Friday</option>
-              <option class="level-0" value="5">Bootlegs</option>
-              <option class="level-0" value="7">Events</option>
-              <option class="level-0" value="1214">Free Tickets</option>
-              <option class="level-0" value="8">Fun</option>
-              <option class="level-0" value="9">Gig Promotion</option>
-              <option class="level-0" value="10">Gig Reviews</option>
-              <option class="level-0" value="11">Interviews</option>
-              <option class="level-0" value="12">Music</option>
-              <option class="level-0" value="13">Music Video</option>
-              <option class="level-0" value="14">News</option>
-              <option class="level-0" value="15">Pics</option>
-              <option class="level-0" value="1531">Podcast</option>
-              <option class="level-0" value="16">Poll</option>
-              <option class="level-0" value="1323">Press Release</option>
-              <option class="level-0" value="681">Red Bull Studio Cape Town</option>
-              <option class="level-0" value="1260">Releases</option>
-              <option class="level-0" value="691">remix competition</option>
-              <option class="level-0" value="17">Reviews</option>
-              <option class="level-0" value="1672">TV</option>
-              <option class="level-0" value="1">Uncategorized</option>
-            </select>
-          </form>
-          <script type="text/javascript">
-            /* <![CDATA[ */
-            (function () {
-              var dropdown = document.getElementById("cat");
-              function onCatChange() {
-                if (dropdown.options[dropdown.selectedIndex].value > 0) {
-                  dropdown.parentNode.submit();
-                }
-              }
-              dropdown.onchange = onCatChange;
-            })();
-            /* ]]> */
-          </script>
-        </div>
-        <div class="widget-bottom"></div>
-      </li>
-      <li id="archives-3" class="widget">
+      {{- partial "search.html" . -}}
+      {{- partial "list-categories.html" . -}}
+      {{- partial "list-archives.html" . -}}
+      <!-- <li id="archives-3" class="widget">
         <div class="widget-content">
           <h4 class="widget-title">Archives</h4>
           <label class="screen-reader-text" for="archives-dropdown-3">Archives</label>
@@ -147,7 +88,7 @@
           </script>
         </div>
         <div class="widget-bottom"></div>
-      </li>
+      </li> -->
       <li id="tag_cloud-4" class="widget">
         <div class="widget-content">
           <h4 class="widget-title">Tag Cloud</h4>
