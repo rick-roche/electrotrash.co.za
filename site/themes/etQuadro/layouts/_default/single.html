@@ -17,6 +17,7 @@
       <div class="entry">{{ .Content }}</div>
       <div class="clear"></div>
     </div>
+    {{ if (ne .Type "page") }}
     <div class="navigation clearfix">
       {{- if .PrevInSection -}}
       <div class="alignleft single">
@@ -29,6 +30,7 @@
       {{- end -}}
       <!-- </div> -->
     </div>
+    {{ end }}
     <div class="bottomthing"></div>
   </div>
 </div>
