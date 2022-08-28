@@ -96,6 +96,7 @@ window.addEventListener("DOMContentLoaded", event => {
                 this.field("content");
                 this.field("description");
                 this.field("categories");
+                this.field("authors");
                 this.field("tags");
 
                 for (let document of documents) {
