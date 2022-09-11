@@ -61,7 +61,7 @@ jobs:
 
       - name: Deploy Infra
         id: deploy_infra
-        if: github.event_name != 'pull_request'
+        # if: github.event_name != 'pull_request'
         uses: azure/CLI@v1
         with:
           inlineScript: |
