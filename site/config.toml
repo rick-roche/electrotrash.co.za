@@ -1,0 +1,37 @@
+baseURL = 'https://www.electrotrash.co.za'
+languageCode = 'en-us'
+title = 'electrotrash.co.za | Is South African Electronic Music'
+theme = 'etQuadro'
+
+[permalinks]
+  posts = '/:year/:month/:day/:title/'
+
+[taxonomies]
+  author = "authors"
+  tag = "tags"
+  category = "categories"
+
+# Custom RSS template
+[outputFormats.RSS]
+    mediaType = "application/rss+xml"
+    baseName = "rss"
+
+# Search index for lunr.js
+[outputFormats.SearchIndex]
+    mediaType = "application/json"
+    baseName = "search"
+
+# Hugo’s output control
+[outputs]
+    page = ["HTML"]
+    home = ["HTML", "RSS", "SearchIndex"]
+    section = ["HTML", "RSS"]
+    taxonomyTerm = ["HTML", "RSS"]
+    taxonomy = ["HTML", "RSS"]
+
+# Theme Settings
+[params]
+  displayCategory = true
+  enablePostTags = true
+  displayPostDescription = false
+  categoryBy = "categories"

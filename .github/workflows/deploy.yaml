@@ -1,0 +1,44 @@
+name: Deploy Infra and App
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    types: [opened, synchronize, reopened, closed]
+    branches:
+      - main
+
+env:
+  RESOURCE_GROUP: 'rg-electrotrash-co-za'
+  RESOURCE_TAGS: '{"owner":"rick.roche", "app":"electrotrash.co.za", "repo":"https://github.com/rick-roche/electrotrash.co.za" }'
+  APP_NAME: 'et-co-za'
+  LOCATION: 'westeurope'
+
+jobs:
+  validate-infra:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Azure Login
+        uses: azure/login@v1
+        with:
+          creds: ${{ secrets.AZURE_CREDENTIALS }}
+
+      - name: Validate Infra
+        id: validate_infra
+        # if: github.event_name != 'pull_request'
+        uses: azure/CLI@v1
+        with:
+          inlineScript: |
+            az deployment group validate \
+              --resource-group ${{ env.RESOURCE_GROUP }} \
+              --template-file ./infra/main.bicep \
+              --parameters \
+                  appName='${{ env.APP_NAME }}' \
+                  location='${{ env.LOCATION }}' \
+                  repositoryUrl='https://github.com/rick-roche/electrotrash.co.za' \
+                  repositoryToken='${{ secrets.WORKFLOW_TOKEN }}' \
+                  tags='${{ env.RESOURCE_TAGS }}'
