@@ -52,10 +52,6 @@ resource staticSite 'Microsoft.Web/staticSites@2021-02-01' = { // https://docs.m
   name: staticSiteName
   location: location
   tags: tags
-  identity: {
-    type: identityType
-    userAssignedIdentities: empty(userAssignedIdentities) ? null : userAssignedIdentities
-  }
   sku: sku
   properties: {
     allowConfigFileUpdates: allowConfigFileUpdates
