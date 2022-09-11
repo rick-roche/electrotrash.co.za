@@ -1,4 +1,4 @@
-baseURL = 'https://www.electrotrash.co.za'
+# baseURL = 'https://www.electrotrash.co.za'
 languageCode = 'en-us'
 title = 'electrotrash.co.za | Is South African Electronic Music'
 theme = 'etQuadro'
