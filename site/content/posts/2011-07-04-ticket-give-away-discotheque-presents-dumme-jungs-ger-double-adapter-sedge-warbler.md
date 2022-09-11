@@ -21,4 +21,3 @@ Dumme Jungs (that means stupid kids) from Germany are playing alongside Double A
 >
 > _**Sedge Warbler**. The pairing of Cape Town luminaries **Dank** and **Disco**, they released their debut _Welcome To The Universe_ this year, and are steadily increasing their influence across the globe._
 
-\[tags\]discotheque, double-adapter, Due Jungs, Free Tickets, Sedge Warbler, Daylight, Music Video\[/tags\]

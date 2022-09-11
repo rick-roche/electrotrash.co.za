@@ -17,4 +17,4 @@ featured: '/wp-content/uploads/2010/09/dj_fukdiskodeathface-304x190.jpg'
 
 Go give him a like on Facebook [here](http://www.facebook.com/pages/Dj-FukdiskoDeathface/381796996354 "DJ Fukdiskodeathface")!
 
-^5! \[tags\]DJ Fukdiskodeathface, Promo Mix, kwaitoesquefevelatechnodeathmix\[/tags\]
+^5!

@@ -17,4 +17,3 @@ CoDeC dropped off a banger to help you shake off those winter blues and get down
 
 ^5!
 
-\[tags\]CoDeC, Rave\[/tags\]

@@ -15,4 +15,3 @@ The OFFICIAL Music Video for the first Single from Yesterday's Pupil's brand new
 
 Video Directed by Louis Minnaar
 
-\[tags\]Yesterday's Pupil, Too tired to Disco\[/tags\]

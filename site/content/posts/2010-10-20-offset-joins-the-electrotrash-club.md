@@ -21,4 +21,3 @@ His remix of "Pressure" by The Fuzz is a slow winder that builds up really nicel
 
 ^5!
 
-\[tags\]Offset, Kevin Louw, Durban\[/tags\]

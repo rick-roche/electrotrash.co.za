@@ -29,4 +29,3 @@ Hyphen [http://www.facebook.com/hyphensa](http://www.facebook.com/hyphensa)
 
 Gluttony (Homegrown DJ Competition Winner) [http://www.facebook.com/pages/Gluttony/158142674264299](http://www.facebook.com/pages/Gluttony/158142674264299)
 
-\[tags\]Homegrown, Counterstrike, Hyphen, RudeOne, Gluttony, MC Psyke, Free, Competition, Ticket\[/tags\]

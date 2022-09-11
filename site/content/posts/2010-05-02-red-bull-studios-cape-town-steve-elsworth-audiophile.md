@@ -19,4 +19,3 @@ But his other half is pure robot, automaton if you will, pulsing with mechanical
 
 Then onto the Red Bull Music Academy Radio. “Electro” and “Minimal” have often been seen as opposites or even enemy genres, but both have their roots in the rich history of techno. Check out this radio show with the godfather of minimal, Richie Hawtin:
 
-\[tags\]Red Bull Music Studios, Audiophile, Steve Elsworth, Cape Town\[/tags\]

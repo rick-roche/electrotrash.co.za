@@ -15,4 +15,3 @@ Them boys from Popskarr dropped off this awesome remix of We Have Band's Oh! The
 
 \[download#246#nohits\]
 
-\[tags\]We Have Band, Oh!, Oh, Popskarr, Remix, Video\[/tags\]

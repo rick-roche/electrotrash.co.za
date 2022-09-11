@@ -21,4 +21,3 @@ and they ain't kidding. Stabby keys really bring that rave feel home, while the 
 
 Also don't forget that their [remix](/2009/11/05/popskarr-is-here-tonight-and-wants-you-to-remix-em/) [competition](http://blogs.myspace.com/index.cfm?fuseaction=blog.view&friendId=496772243&blogId=517147035) for the track Tonight ends in 6 days!
 
-\[tags\]Popskarr, S.P.I.L.L.S.\[/tags\]

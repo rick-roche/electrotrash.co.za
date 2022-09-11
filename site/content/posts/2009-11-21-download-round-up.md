@@ -21,4 +21,3 @@ and the second is a Lapse revisit of the classic Planet Rock.
 
 Both are extremely grab-worthy. Boosh!
 
-\[tags\]Mix n Blend, Lapse, Shall We Swing, Planet Rock, Afrika Bambaataa, Soulsonic Force\[/tags\]

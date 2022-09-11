@@ -27,4 +27,3 @@ Read more about the project over [here](http://www.outhere.de/?page_id=3555 "Wel
 
 I hope you enjoy this! Let us know! ^5!
 
-\[tags\]BLNRB, Welcome To The Madhouse, Modeselektor, Gebruder Teichmann, Jahcoozi, Kenya, Nairobi, Berlin, Germany\[/tags\]

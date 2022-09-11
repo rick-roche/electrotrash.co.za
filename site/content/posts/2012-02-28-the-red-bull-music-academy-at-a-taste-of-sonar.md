@@ -39,4 +39,3 @@ _Take a listen to RBMA 2004 participant and Red Bull Studio Cape Town manager, R
 
 19:00 Diggin4Dodge 20:30 Terrence Pearce 21:30 Culoe De Song & Jullian Gomes 23:00 Thibo Tazz 00:30 Behr 01:30 Richard The Third 03:00 Rebel Clef 04:00 Close
 
-\[tags\]Red Bull Music Academy, A Taste Of Sónar\[/tags\]

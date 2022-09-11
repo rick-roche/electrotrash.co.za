@@ -15,4 +15,3 @@ Electro-pop/rock producer Johnny Neon is back with a new track entitled _Love Si
 
 Download: \[download#341#nohits\]
 
-\[tags\]Johnny Neon, Love Sick City\[/tags\]

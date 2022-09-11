@@ -11,4 +11,3 @@ After a long hiatus the Red Bull Music Studio column on Electrotrash is back. To
 
 On that note we head over to Red Bull Music Academy Radio to take a look at another french maître de la musique électronique, Djedjotronic who incidentally has also worked with Spoek Mathambo. This mix recorded live at the Pantiero festival in Cannes is a strong signifier of the current sound of banging electro: a mad tapestry of rave, distortion, afro-rhythms and the hype energy you expect when you listen to someone off Boys Noize records.
 
-\[tags\]Red Bull Music Studios Cape Town, Toxic Avenger, Djedjotronic\[/tags\]

@@ -17,4 +17,3 @@ Liver has been playing a bunch of shows around Cape Town recently and still mana
 
 ^5!
 
-\[tags\]Liver, Lethargy\[/tags\]

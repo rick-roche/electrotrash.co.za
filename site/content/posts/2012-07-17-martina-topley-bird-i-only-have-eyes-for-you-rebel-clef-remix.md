@@ -17,4 +17,3 @@ Rebel Clef has just dropped off this gem of a remix. There isn't much I can say,
 
 Download: \[download#342#nohits\]
 
-\[tags\]Martina Topley Bird, The Flamingos, I Only Have Eyes For You, Rebel Clef, Remix\[/tags\]

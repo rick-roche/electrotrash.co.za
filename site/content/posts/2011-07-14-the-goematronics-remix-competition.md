@@ -29,4 +29,3 @@ We hope to hear a lot of awesome remixes by the time the competition closes, so 
 
 ^5!
 
-\[tags\]Abdullah Ibrahim, Basil “Mannenberg” Coetzee, BPM magazine, Creative Cape Town, Fletcher, Goema, Goematronic, Kalahari Surfers, Krushed & Sorted, Mr Mo, Mutha FM, Paul Bothner Music, Peter A and Erefaan Pearce, Red Bull Music Studios Cape Town, Robbie Jansen\[/tags\]

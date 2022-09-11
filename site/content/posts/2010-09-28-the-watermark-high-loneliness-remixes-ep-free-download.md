@@ -21,4 +21,3 @@ Head on down to [www.thewatermarkhigh.co.za](http://www.thewatermarkhigh.co.za "
 
 ^5!
 
-\[tags\]The Watermark High, Loneliness As An Art Form, Loneliness Remixes EP, Pretoria\[/tags\]

@@ -11,4 +11,3 @@ featured: '/wp-content/uploads/2012/05/Petite-Noir-304x190.jpg'
 
 [![](/wp-content/uploads/2012/05/Petite-Noir.jpg "Petite Noir")](/2012/05/30/red-bull-studio-cape-town-petite-noir/petite-noir/) Petite Noir's new single _Disappear_ get's the video treatment courtesy of [Travys Owen](http://www.travysowen.com/). Mapped overlays transform a video of IamWaves singing to the camera, into a visual feast of colour and shape.
 
-\[tags\]Petite Noir, Disappear, Music Video\[/tags\]

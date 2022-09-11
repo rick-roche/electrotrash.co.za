@@ -15,4 +15,3 @@ Just over 3 weeks to apply for the Red Bull Music Academy 2012, hosted in the ci
 
 [How To Apply For The Red Bull Music Academy](http://vimeo.com/19390601) from [Red Bull Music Academy](http://vimeo.com/redbullmusicacademy) on [Vimeo](http://vimeo.com).
 
-\[tags\]Red Bull Music Studios Cape Town, Red Bull Academy 2012, New York\[/tags\]

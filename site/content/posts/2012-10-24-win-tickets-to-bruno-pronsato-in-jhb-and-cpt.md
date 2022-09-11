@@ -27,4 +27,3 @@ American born Steven Ford, better known as Bruno Pronsato, is a DJ and producer 
 
 Listen to the podcast below to get a taste of what to expect:
 
-\[tags\]Bruno Pronsato, Cape Town, Johannesburg, Competition, Free, Tickets, Archangel, Louche Music, Podcast\[/tags\]

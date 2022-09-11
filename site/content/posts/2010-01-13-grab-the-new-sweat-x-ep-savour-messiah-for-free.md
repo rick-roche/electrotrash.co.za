@@ -17,4 +17,3 @@ Ok, so this is like 2 weeks old, but I was in Cape Town on holiday so... [Saviou
 
 \[download#211#nohits\]
 
-\[tags\]Sweat.X, Saviour & Messiah EP\[/tags\]

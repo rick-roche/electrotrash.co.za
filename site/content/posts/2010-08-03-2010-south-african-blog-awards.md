@@ -13,4 +13,3 @@ featured: '/wp-content/uploads/2010/08/cristie-kerr-trophy-304x190.jpg'
 
 So it's time for the annual [South African Blog Awards](http://website.sablogawards.com/2010/nominate?blog=www.electrotrash.co.za&category=12). We've missed the boat on this one in the past, only realising half-way through that that they've begun. Well, we noticed this year, so if you dig this blog and wanna spread the love, click the nominate widget on your right. Thanks!
 
-\[tags\]South Africa, SA, Blog Awards, 2010\[/tags\]

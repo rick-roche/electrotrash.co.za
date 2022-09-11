@@ -23,4 +23,3 @@ Download: \[download#364#nohits\]
 
 \[soundcloud url="http://api.soundcloud.com/tracks/55480386" params="" width="100%" height="166" iframe="true" /\]
 
-\[tags\]women who kill, Lingering Pussyfoot, Bass, South Africa\[/tags\]

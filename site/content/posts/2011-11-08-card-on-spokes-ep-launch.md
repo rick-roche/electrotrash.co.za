@@ -17,4 +17,3 @@ The launch is presale only and will be held at a secret location (hint, it's not
 
 Visit [www.cardonspokes.com](http://www.cardonspokes.com) or [Facebook](http://www.facebook.com/event.php?eid=121810391260914) for more details.
 
-\[tags\]Card On Spokes, In You Go, EP, Launch\[/tags\]

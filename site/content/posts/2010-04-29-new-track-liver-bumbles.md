@@ -21,4 +21,3 @@ What do you think?
 
 Go give Liver some soundcloud love [here](http://soundcloud.com/theliver/ "the liver")!
 
-\[tags\]Liver, Bumbles\[/tags\]

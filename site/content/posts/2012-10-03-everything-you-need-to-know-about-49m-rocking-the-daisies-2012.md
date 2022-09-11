@@ -49,4 +49,3 @@ PRINGLES SHNIT CINEMA
 
 Bursting with flavour and overflowing with all things Shnit, this year Pringles will be making sure that you are fully-stocked with snacks whilst watching world- class short films in the Pringles Shnit Cinema. Featuring in only a few select cities around the world, SHNIT Cape Town is the only festival in Africa and 49M RTD is proud to bring this cinema to the festival for the second year running. Last year, the festival was greeted with great success and acclaim, a welcome break from the outside madness of the festival. This year, expect it to be bigger, better and bursting madness, fun and flavour thanks to Pringles.You will be able to buy your favourite snack all around the festival and make sure you're munching on them while getting your cinema fix throughout the weekend.
 
-\[tags\]Rocking the Daisies, Festival, 2012, Cape Town, South Africa, 49M\[/tags\]

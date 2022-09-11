@@ -17,4 +17,3 @@ We are also giving away guestlist + 1 to one lucky reader. If you are in Cape To
 
  [Latest](http://soundcloud.com/rebelclef/sets/latest) by [RebelClef](http://soundcloud.com/rebelclef)
 
-\[tags\]Cold Turkey, Card on Spokes, Mix n Blend, Miss H, Soulo Starr, Blotchy, Rebel Clef, Free Tickets\[/tags\]

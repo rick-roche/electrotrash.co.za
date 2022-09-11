@@ -13,4 +13,3 @@ featured: '/wp-content/uploads/2012/06/cs1509150-02a-big-304x190.jpg'
 
 Download: \[download#337#nohits\]
 
-\[tags\]Schlachthofbronx, Ayoba, Spoek Mathambo, Gnucci, 150BPM Remix\[/tags\]

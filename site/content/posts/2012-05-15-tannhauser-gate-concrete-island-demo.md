@@ -15,4 +15,3 @@ Tannhäuser Gate is the new synth heavy project of Wild Eyes members Gareth Daws
 
 Download: \[download#328#nohits\]
 
-\[tags\]Tannhäuser Gate, Concrete Island\[/tags\]

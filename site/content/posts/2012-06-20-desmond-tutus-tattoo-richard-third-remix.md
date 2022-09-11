@@ -13,4 +13,3 @@ featured: '/wp-content/uploads/2012/06/dattrttr-304x190.png'
 
 Pretoria Indie-Rockers, Desmond & the Tutus get the dubstep treatment courtesty of Richard the Third. Retaining little but the coarse, broken vocals of the original and adding a whole lot of bass, the remix is a midtempo grinder. Give it a listen and let us know what you think.
 
-\[tags\]Desmond & the Tutus, Tattoo, Richard the Third, Remix\[/tags\]

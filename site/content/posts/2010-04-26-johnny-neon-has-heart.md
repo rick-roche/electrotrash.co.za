@@ -15,4 +15,3 @@ Johnny Neon dropped off a new track over the weekend. It's called _Hearts_ and i
 
 \[download#239#nohits\]
 
-\[tags\]Johnny Neon, Hearts\[/tags\]

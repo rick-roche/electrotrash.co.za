@@ -15,4 +15,3 @@ Liver just did a new remix of "Drive Like You Stole It" by the Glitch Mob and he
 
  [The glitch mob - remix it like u stole it (liver remix)](http://soundcloud.com/theliver/the-glitch-mob-remix-it-like-u-stole-it-liver-remix) by [theLiver](http://soundcloud.com/theliver)
 
-\[tags\]Liver, Glitch Mob, Remix It Like U Stole It\[/tags\]

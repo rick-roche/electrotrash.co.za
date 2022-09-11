@@ -19,4 +19,3 @@ The man behind Myrid Ambre is looking for someone to join him in a gig at the Wa
 
 \[download#180#nohits\]
 
-\[tags\]myrid ambre, weird realm, stephen timm\[/tags\]

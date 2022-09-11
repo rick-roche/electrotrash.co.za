@@ -15,4 +15,3 @@ One third of the avant-garde audio/visual electro group MTKidu, Kidu is now prod
 
 Download: \[download#337#nohits\]
 
-\[tags\]Kidu, Bride Reunion, Your Eyes\[/tags\]

@@ -35,4 +35,3 @@ Lianne La Havas - Forget (Shlohmo remix)
 
 Women Who Kill - Distant Longing
 
-\[tags\]podcast, women who kill, mix and match, red bull studio, cape town\[/tags\]

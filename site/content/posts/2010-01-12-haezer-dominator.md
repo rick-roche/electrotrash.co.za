@@ -19,4 +19,3 @@ Grab it below!
 
 ^5!
 
-\[tags\]HAEZER, Dominator\[/tags\]

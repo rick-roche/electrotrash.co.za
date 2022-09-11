@@ -17,4 +17,3 @@ Let us know what you think!
 
 \[download#164#nohits\]
 
-\[tags\]CoDeC, desmond & the tutus, pictures, remix, cape town\[/tags\]

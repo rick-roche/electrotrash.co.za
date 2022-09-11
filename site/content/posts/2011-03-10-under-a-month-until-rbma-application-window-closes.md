@@ -39,4 +39,3 @@ Some notable South African success stories:
 
 All applicants will be notified by June 24 whether their application was successful or not. For all successful applicants, all workshops and sessions are free (and open only to selected participants). The Red Bull Music Academy also covers the flight and accommodation costs. The Academy doesn't give out certificates or sponsor artists. It's not about getting 'discovered' by a record label either, or 'learn' how to make it in the industry. We offer you a unique experience filled with the inspiration you need to keep making the music that moves you, one you're likely to never forget. Red Bull generally has no interest in using any of your music created at the Academy to any other than RBMA matters, and doesn't obtain copyrights to any of your work. Creativity is the only currency here, music what we live and stand for.
 
-\[tags\]Red Bull Music Academy, Tokyo, 2011\[/tags\]

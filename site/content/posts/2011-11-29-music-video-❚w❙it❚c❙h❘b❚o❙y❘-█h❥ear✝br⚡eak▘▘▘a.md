@@ -9,4 +9,3 @@ thumbnail: '/wp-content/uploads/2011/11/witch-150x150.jpg'
 featured: '/wp-content/uploads/2011/11/witch-304x190.jpg'
 ---
 
-\[tags\]❚W❙IT❚C❙H❘B❚O❙Y❘, █H❥eAR✝BR⚡EAK▘▘▘a, Music Video\[/tags\]

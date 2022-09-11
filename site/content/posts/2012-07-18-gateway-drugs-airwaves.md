@@ -15,4 +15,3 @@ Sex and nostalgia. Cape Town based Gateway Drugs have it down with their new tra
 
 Download: \[download#343#nohits\]
 
-\[tags\]Gateway Drugs, Airwaves\[/tags\]

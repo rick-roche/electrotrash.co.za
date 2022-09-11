@@ -39,4 +39,3 @@ Grab some mixtapes from Destrukto below!
 
 ^5!
 
-\[tags\]Destrukto, Greg Tucker, Koos Lubbe, MonoDestrukt, The Frown, Ulterior, The Wild Eyes\[/tags\]

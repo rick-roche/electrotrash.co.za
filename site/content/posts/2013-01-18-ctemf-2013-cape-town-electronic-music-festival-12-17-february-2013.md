@@ -39,4 +39,3 @@ Ticket Prices: Friday Ticket - R150 Saturday Ticket - R150 Sunday Ticket - R150 
 
 Limited R200 early bird tickets on sale from 3 December 2012 to Wednesday, 16 January 2013  – All tickets available on Webtickets.
 
-\[tags\]CTEMF 2013, lineup, Cape Town Electronic Music Festival, richie hawtin, shangaan electro\[/tags\]

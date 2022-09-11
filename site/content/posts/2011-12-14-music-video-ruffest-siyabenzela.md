@@ -11,4 +11,3 @@ featured: '/wp-content/uploads/2011/12/ruffest-304x190.jpg'
 
 [](/2011/12/14/music-video-ruffest-siyabenzela/ruffest/)
 
-\[tags\]Ruffest, Siyabenzela, Music Video\[/tags\]

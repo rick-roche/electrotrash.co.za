@@ -55,4 +55,3 @@ Sunday:
 12.30 - 13.30: Thibo Tazz
 13.30 - 14.30: Stone-Age Citizens
 
-\[tags\]Red Bull Studio Live, Synergy 2012\[/tags\]

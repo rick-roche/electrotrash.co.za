@@ -13,4 +13,3 @@ featured: '/wp-content/uploads/2012/06/scan-304x190.jpg'
 
 Download: \[download#339#nohits\]
 
-\[tags\]Sedge Warbler, Codeine, Music Video\[/tags\]

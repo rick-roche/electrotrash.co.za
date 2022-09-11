@@ -19,4 +19,3 @@ There are also a few tracks that you can listen to on the Card On Spokes Soundcl
 
 ^5!
 
-\[tags\]Card On Spokes, Shane Cooper, 10 Minute Mix\[/tags\]

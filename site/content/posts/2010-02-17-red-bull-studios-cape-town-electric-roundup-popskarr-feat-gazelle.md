@@ -23,4 +23,3 @@ As I walked into the Academy today I saw that the first lecturer of the day was 
 
 \[download#227#nohits\]
 
-\[tags\]Gazelle, Popskarr, Obsession, The Finish Line (Bass Version)\[/tags\]

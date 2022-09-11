@@ -17,4 +17,3 @@ Go and have a look over [here](https://www.beatport.com/en-US/html/content/relea
 
 ^5!
 
-\[tags\]HAEZER, WTFIH, Who The Fuck Is HAEZER, Beatport\[/tags\]

@@ -17,4 +17,3 @@ After his recent visit to South Africa, The Toxic Avenger gave the separates to 
 
 [Toxic Is Dead (Video Edit)](http://soundcloud.com/scionav/toxic-is-dead-video-edit/)
 
-\[tags\]Toxic Avenger, Lapse, Toxic is Dead, Remix\[/tags\]

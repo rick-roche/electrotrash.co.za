@@ -21,4 +21,3 @@ The track - as the name suggests - is all about [Freddy Krueger](http://en.wikip
 
 ^5!
 
-\[tags\]paul gala, freddy krueger slasher mashup, black rabbit\[/tags\]

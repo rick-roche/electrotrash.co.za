@@ -41,4 +41,3 @@ The Grrrl is planning the next video.
 
 Facebook: [https://www.facebook.com/mrsakitumi](https://www.facebook.com/mrsakitumi) / [https://www.facebook.com/thegrrrl](https://www.facebook.com/thegrrrl) Twitter: [https://twitter.com/MrSakitumi](https://twitter.com/MrSakitumi) / [https://twitter.com/The\_Grrrl](https://twitter.com/The_Grrrl)
 
-\[tags\]Mr Sakitumi, The Grrrl, Jungle Jimmy, Music Video, YouTube\[/tags\]

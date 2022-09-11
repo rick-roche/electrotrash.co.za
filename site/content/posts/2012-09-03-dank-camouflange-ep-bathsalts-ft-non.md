@@ -15,4 +15,3 @@ Dank has just released his brand new EP entitled Camouflange on Skanky Panky rec
 
 Download: \[download#370#nohits\]
 
-\[tags\]Dank, Bathsalts, Camouflange EP, Non, Shadowhuntaz, Music Video, Glitch, South Africa\[/tags\]

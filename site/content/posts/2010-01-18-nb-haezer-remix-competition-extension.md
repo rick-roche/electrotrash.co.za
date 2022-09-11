@@ -25,4 +25,3 @@ Grab this banging edit HAEZER did of  Sebastian for some inspiration!
 
 ^5!
 
-\[tags\]HAEZER, Remix Competition, Crack In The Wall\[/tags\]

@@ -25,4 +25,3 @@ The Studio’s main focus is on the public it serves and this is evident through
 
 With a high emphasis on availability, the Red Bull Studio is plugged into every main facet of the technologically advanced musical landscape through all major internet channels including Facebook, Twitter, Soundcloud and MXit to best ensure everybody is not only afforded the opportunity to expose their sounds to the Studio Team for consideration, but also so that everyone can get a large slice of the magic that is being cooked up everyday.  [Red Bull Studio Sessions 03 presented by Audiophile021](http://soundcloud.com/red-bull-studio-ct/red-bull-studio-sessions-03) by [Red Bull Studio CT](http://soundcloud.com/red-bull-studio-ct)
 
-\[tags\]Red Bull Studio Session 03, Audiophile 021\[/tags\]

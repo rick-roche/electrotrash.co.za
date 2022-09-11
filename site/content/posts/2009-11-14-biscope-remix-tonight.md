@@ -37,4 +37,3 @@ A really cool remix of the classic with a Biscope twist. Niiiice!
 
  [Ben E King - Stand By Me (Biscope Boot)](http://soundcloud.com/biscope/ben-e-king-stand-by-me-biscope-boot) by [biscope](http://soundcloud.com/biscope)
 
-\[tags\]Biscope, Popskarr, Tonight, Remix, Fire, Ben E King, Stand By Me\[/tags\]

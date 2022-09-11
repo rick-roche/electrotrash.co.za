@@ -15,4 +15,3 @@ Battle Beyond the Stars' entry into the Sébastien Tellier remix contest is a tr
 
 Download: \[download#374#nohits\]
 
-\[tags\]Sébastien Tellier, Russian Attractions, Battle Beyond the Stars Remix, South Africa, Electro-pop, french touch, official music video\[/tags\]

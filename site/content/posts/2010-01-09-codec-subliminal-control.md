@@ -19,4 +19,3 @@ I am also busy with crafting a new look for electrotrash so stay tuned in the ne
 
 ^5!
 
-\[tags\]CoDeC, Subliminal Control, Gerald Van Wyk\[/tags\]

@@ -15,4 +15,3 @@ Popskarr are back with a brand new singled entitled _Empathy._ In true Popskarr 
 
 \[download#306#nohits\]
 
-\[tags\]Popskarr, Empathy\[/tags\]

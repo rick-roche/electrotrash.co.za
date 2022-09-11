@@ -21,4 +21,3 @@ Check them out on Facebook as well... [Here](http://www.facebook.com/pages/Seks-
 
 ^5!
 
-\[tags\]Will Mono, Jan Joknie, Seks Vir Plesier\[/tags\]

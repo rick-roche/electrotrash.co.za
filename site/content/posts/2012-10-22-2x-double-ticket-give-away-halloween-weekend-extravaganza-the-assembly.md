@@ -17,4 +17,3 @@ Halloween is here and that means it's time to party in silly costumes. We've got
 
 [![](/wp-content/uploads/2012/10/sat-halloween-e1350911511694.jpg "sat-halloween")](/2012/10/22/2x-double-ticket-give-away-halloween-weekend-extravaganza-the-assembly/sat-halloween/)
 
-\[tags\]Halloween Weekend Extravaganza, The Assembly, Ticket, Free, Giveaway\[/tags\]

@@ -19,4 +19,3 @@ The remix has that electro banger feel / disco feel you get from slap bass and d
 
 aaaand check out this awesome video they put together to with it. Love the nostalgia.
 
-\[tags\]Johnny Neon, Hearts, Who Killed JR, Remix, Video\[/tags\]

@@ -21,4 +21,3 @@ I know nothing about Oltak except that his real name is Katleho Makhale and he m
 
 Then keeping with the spacey 8-bit hip-hop vibes here are three shows from Red Bull Music Academy Radio. Both Hudson Mohawke and Samiyam are Red Bull Music Academy alumni, while Flying Lotus needs little introduction being one of the all time masters of mad beatsmanship. Take a listen on the RBMA Radio player below:
 
-\[tags\]Oltak, Red Moon\[/tags\]

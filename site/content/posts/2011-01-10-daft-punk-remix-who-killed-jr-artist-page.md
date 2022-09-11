@@ -19,4 +19,3 @@ The Robot Rock remix is itself quite epic. Although the original was a great tra
 
  [Daft Punk - Robot Rock (Who Killed JR remix)](http://soundcloud.com/who-killed-jr/daft-punk-robot-rock-who-killed-jr-remix) by [Who Killed JR?](http://soundcloud.com/who-killed-jr)
 
-\[tags\]Who Killed JR?, Daft Punk, Robot Rock, Remix, Artist Page\[/tags\]

@@ -27,4 +27,3 @@ I played that night and recorded my set as I was doing my thing, I have uploaded
 
 Till next time! ^5!
 
-\[tags\]PostBox, Arcade Empire, Rick Disco, Little Rock, Yesterday's Pupil, Sassquatch, PlaatJaapie, TV\[/tags\]

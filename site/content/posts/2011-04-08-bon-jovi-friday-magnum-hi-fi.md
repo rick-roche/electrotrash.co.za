@@ -19,4 +19,3 @@ Tracklist:
 
 1.Noneadatwhitestar Feat. G Tit - Soul Clap 2.Secret Monog (Fulgeance Remix) - Cex 3.Ruff Is The Way (SRG GMS Edit) - 2Ruff 4.Bear Crunk - Vent 5.Tender Wrinkle - Opuio 6.Pound 4 Pound - edIT 7.Rolling In The Deep (Jamie XX Shuffle) - Adele 8.More Important Than Micheal Jordan - Prettylights 9.Pick One Up And Smoke It Sometime - Tv CHOONS 10.Lonely C feat. Charles Levine - Soul Clap 11.The L Word (feat. Jada) - Deniz Kurtel 12.Hoping (Herbert's High Dub) - Louie Austen 13.Le Velour (Original Mix) - Shonky 14.Battle For Middle You - Julio Bashmore 15.Magnificent (Justin Martin's No Heart and Soul Mix) - Iz And Diz 16.Don't Turn The Lights On (Christian Martin Remix) - Chromeo 17.War Paint feat. Gina Mitchell (Claude VonStroke Remix) - Poxymuzic 18.Vocal Chords (DJ Version) - Claude VonStroke
 
-\[tags\]Bon Jovi Friday, Magnum Hi-Fi, Welcome, April 2011\[/tags\]

@@ -17,4 +17,4 @@ Released today, Boss is the latest single from [Richard The Third](http://thirdw
 
 [Richard the Third - Boss](http://soundcloud.com/richardthethird/sets/richard-the-third-boss) by [Richard the Third](http://soundcloud.com/richardthethird)
 
-> \[tags\]Richard The Third, Boss, Rebone\[/tags\]
+>

@@ -23,4 +23,3 @@ Take a listen to this fresh glitch-hopping grinder from Voicetag who will be pla
 
  [Voicetag - Earth Quakes](http://soundcloud.com/red-bull-studio-ct/earth-quakes) by [Red Bull Studio CT](http://soundcloud.com/red-bull-studio-ct)
 
-\[tags\]Red Bull Studio Cape Town, Oppikoppi, Red Bull Studio Live, HAEZER, Markus Wormstorm, Krushed & Sorted, 7ft Soundsystem, Mr. Sakitumi, Biscope, Blunted Stuntsman\[/tags\]

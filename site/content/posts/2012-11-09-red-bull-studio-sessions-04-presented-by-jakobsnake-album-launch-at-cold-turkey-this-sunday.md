@@ -17,4 +17,4 @@ Youngsta will be on the mic il Duce on the visuals
 
 Go check out Red Bull MOBILE and like their Facebook page or follow them on twitter @redbullmobileza to win a limited number of double tickets for the event!
 
-+21 YRS, ID required 1PM - 11PM R30 B4 4pm \[tags\]Red Bull, Studio Sessions 04, JakobSnake, Album Launch, Cold Turkey\[/tags\]
++21 YRS, ID required 1PM - 11PM R30 B4 4pm

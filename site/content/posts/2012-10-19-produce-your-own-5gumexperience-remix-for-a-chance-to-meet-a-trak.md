@@ -41,4 +41,3 @@ Step 3: Explore Remix
 
 Once approved, remixes will be publicly available for listening, commenting and sharing through the following Soundcloud Group: [soundcloud.com/groups/5gum-contest/tracks](http://soundcloud.com/groups/5gum-contest/tracks)
 
-\[tags\]#5GumExperience, A-trak, Remix Competition\[/tags\]

@@ -21,4 +21,4 @@ The Red Bull Studio happily invited the talented musician to perform and record 
 
 In the spirit of the best new electronica, have a listen to the Red Bull Music Academy Radio Fireside Chat with Caribou, otherwise known as Manitoba, one of the most prolific artists pushing modern electronic music today:
 
-^5! \[tags\]Red Bull Studio Cape Town, Caribou, Card On Spokes, Electronica, Hip Hop, Afrikaanstrumental\[/tags\]
+^5!

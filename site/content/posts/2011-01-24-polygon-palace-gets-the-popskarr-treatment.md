@@ -19,4 +19,3 @@ The original is one of those electro/indie feel good tracks complete with stabby
 
  [Polygon Palace - We Have a Visual (Popskarr Remix)](http://soundcloud.com/popskarr/polygon-palace-we-have-a-visual-popskarr-remix) by [POPSKARR](http://soundcloud.com/popskarr)
 
-\[tags\]Polygon Palace, We Have A Visual, Popskarr Remix\[/tags\]

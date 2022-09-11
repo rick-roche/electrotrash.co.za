@@ -15,4 +15,3 @@ Veld is back and smoother than ever. Laid back electronic with a slick bassline 
 
 Download: \[download#379#nohits\]
 
-\[tags\]Veld, Swell\[/tags\]

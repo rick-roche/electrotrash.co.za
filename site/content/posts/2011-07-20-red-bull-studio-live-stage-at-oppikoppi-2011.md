@@ -31,4 +31,3 @@ SUNDAY
 
 Make sure to keep checking out our Red Bull Studio Facebook Page for our daily Koppi Countdown, profiling all the artists that are performing.
 
-\[tags\]OppiKoppi, Red Bull Studio, 2011, Unknown Brother\[/tags\]

@@ -29,4 +29,3 @@ Give them some Facebook love as well... [here](http://www.facebook.com/Fulkaband
 
 ^5!
 
-\[tags\]Fulka, The Mystery Of The Seven Stars, Ola Kobak, Jacob Israel, Corné Roodt, Christian Henn, Jean-Louise Nel, Folktronica, Pretoria, South Africa\[/tags\]

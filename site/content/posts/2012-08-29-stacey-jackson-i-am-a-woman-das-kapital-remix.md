@@ -44,4 +44,3 @@ Have a listen to the remix on Soundcloud so long:
 
 ^5!
 
-\[tags\]Stacey Jackson, 3B1G, Das Kapital, I Am A Woman\[/tags\]

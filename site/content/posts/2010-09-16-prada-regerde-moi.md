@@ -15,6 +15,6 @@ PRADA dropped off a new track entitled _Regerdé Moi_ \[sic\]. It's a cool blen
 
 \[download#254#nohits\]
 
-\[tags\]Prada, Regerde Moi\[/tags\]
+
 
 [/wp-content/uploads/2010/09/prada-e1284582838139.jpg](/wp-content/uploads/2010/09/prada-e1284582838139.jpg)

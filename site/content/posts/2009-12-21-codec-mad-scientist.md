@@ -19,4 +19,3 @@ A pretty banging tune that got me grooving in my room, clearly showing us the di
 
 ^5!
 
-\[tags\]CoDeC, Mad Scientist\[/tags\]

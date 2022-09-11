@@ -27,4 +27,3 @@ Taken from Honey Beats Vol. 1, _Phat Cat Wet_ is an uptempo, electro-hop track w
 
  [Jam Jarr - Phat Cat Wet](http://soundcloud.com/jamjarrcpt/jam-jarr-phat-cat-wet) by [Jam Jarr](http://soundcloud.com/jamjarrcpt)
 
-\[tags\]Jam Jarr, Neck Low, Phat Cat Wet\[/tags\]

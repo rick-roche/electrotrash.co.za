@@ -15,4 +15,3 @@ SLABOFMISUSE is a Cape Town producer of downtempo Glitch/Hip Hop. Having previou
 
 Download: \[download#382#nohits\]
 
-\[tags\]SLABOFMISUES, EP, Glitch, Hip Hop, Electronica, South Afria\[/tags\]

@@ -17,4 +17,3 @@ _Doubtless_ is full of Liver swagga. The drums have a funky swing in their step 
 
 Cardiff based Astroid Boys! comissioned a remix of their track _Welcometo the Zoo._ It is grimey, filthy and and whatever else my online thesaures spits out for dirty. The production is tight on this one, with strings and organs filling out the backend and massive drums shattering my windows.  [Astroid Boys - Welcome To The Zoo (Liver remix)](http://soundcloud.com/theliver/astroid-boys-welcome-to-the) by [theLiver](http://soundcloud.com/theliver)
 
-\[tags\]Liver, Doubtless, Astroid  Boys!, Welcome to the Zoo Liver Remix\[/tags\]

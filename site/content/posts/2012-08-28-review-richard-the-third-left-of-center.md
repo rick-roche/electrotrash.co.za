@@ -36,4 +36,3 @@ Abstract distortion, imagine an **U**t**OP**ia of cartoon workers in a coco fact
 
 **African Dope Records:** [http://shop.africandope.co.za/product.php?id\_product=100](http://shop.africandope.co.za/product.php?id_product=100 "Richard The Third - Left Of Center on African Dope Records") **Beatport:** [http://www.beatport.com/release/left-of-center/947545](http://www.beatport.com/release/left-of-center/947545 "Richard The Third - Left Of Center on BeatPort")
 
-\[tags\]Richard The Third, Left Of Center, African Dope, Cape Town, Bass, Kwaito, The Ruffest, Afro-dust\[/tags\]

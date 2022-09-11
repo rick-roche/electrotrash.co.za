@@ -35,4 +35,3 @@ So yeah, check out more from the band at their website [here](http://johnnyforei
 
 Take it easy ^5!
 
-\[tags\]Johnny Foreigner, South African Tour, This Summer Promo\[/tags\]

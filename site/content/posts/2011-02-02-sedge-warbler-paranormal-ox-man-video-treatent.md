@@ -17,4 +17,3 @@ Buy the album here: [http://www.addictech.com/store/produc...](http://www.addict
 
 Stay tuned for more from Sedge Warbler...
 
-\[tags\]Sedge Warbler, Paranormal Ox Man, Music Video\[/tags\]

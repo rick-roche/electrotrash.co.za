@@ -19,4 +19,4 @@ Alongside his production, his DJ mixes are also garnering international recognit
 
 Petite Noir is a rich tapestry of American Rock influence and African shuffles. At times cold and driving, at others – warm, intricate and cinematic. His exclusive track for Red Bull Studios is a great reference for his sound and progression as a musician.
 
-Download: \[download#329#nohits\] \[tags\]Red Bull Studio Cape Town, Petite Noir, Disappear\[/tags\]
+Download: \[download#329#nohits\]

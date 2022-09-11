@@ -21,4 +21,4 @@ Jakbosnake comes at you straight to make your mind bug. From one side of the ear
 
 \[download#333#nohits\]
 
-Finally, Big Space has dropped not one, but two great remixes. Check 'em out below: \[tags\]The Frown, Metallic Kiss, women who kill, JakobSnake, Big Space, remix\[/tags\]
+Finally, Big Space has dropped not one, but two great remixes. Check 'em out below:

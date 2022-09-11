@@ -15,4 +15,3 @@ Voted the 'Greatest Dance Act of all Time' by Mixmag in 2012, Synergy Live is pr
 
 [www.synergylive.co.za](www.synergylive.co.za)
 
-\[tags\]Synergy Live, 2012, The Prodigy\[/tags\]

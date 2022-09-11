@@ -17,4 +17,3 @@ In the words of Fulka beatsmith Jacob Israel:
 
 Head over [here](http://fulka.bandcamp.com/track/dancing-in-our-darkest-days) to grab it! kthnx baai
 
-\[tags\]Fulka, Dancing in our Darkest Days\[/tags\]

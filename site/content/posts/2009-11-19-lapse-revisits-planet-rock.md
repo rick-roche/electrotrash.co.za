@@ -15,4 +15,3 @@ Lapse is back and this time he has taken the classic track Planet Rock and chopp
 
 \[download#194#nohits\]
 
-\[tags\]Afrika Bambaataa, Soulsonic Force, Lapse, Planet Rock, Revisit\[/tags\]

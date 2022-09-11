@@ -15,4 +15,3 @@ Johnny Neon is heading to Germany to spread his brand of death electropop in Eur
 
 Download: \[download#386#nohits\]
 
-\[tags\]Johnny Neon, Teenage Sunset, Electro, Pop, Death, South Africa\[/tags\]

@@ -13,4 +13,3 @@ featured: '/wp-content/uploads/2012/10/69343_444244455623905_302101432_n-304x190
 
 Johannesburg born [Alan](https://soundcloud.com/alankruger) [Kruger](https://www.facebook.com/AlanKrugerMusic) started his career in 1999 as a rap producer with electro influences. These days he producers quality techno with a Berlin feel and spends his time playing throughout Europe. _Old Crock_ has  a groove reminiscent of Paul Kalkbrenner, complete with  horns. Check out the video below or listen to it on SoundCloud.
 
-\[tags\]Alan Kruger, Old Crock, Skeleton Dance, Minimal Techno, South Africa\[/tags\]

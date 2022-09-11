@@ -15,6 +15,6 @@ Regular readers should recognise the name Who Killed JR as the guy who did that 
 
 \[download#264#nohits\]
 
-\[tags\]Anoraak, Who Killed JR, Crazy Eyes, Who Killed JR's robopop remix\[/tags\]
+
 
 Anoraak, Who Killed JR, Crazy Eyes, Who Killed JR's robopop remix\[/tags

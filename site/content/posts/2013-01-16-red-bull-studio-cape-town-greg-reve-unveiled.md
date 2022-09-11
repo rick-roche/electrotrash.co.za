@@ -15,4 +15,3 @@ Greg Reve is a South African producer whose prolific output of work over the yea
 
 The Red Bull Studio team finally had the chance to touch base (no pun) with Greg a month or two back when he came in to collab with iLL.Gates (more info on that to follow). After chatting, in the true spirit of the share-and-share alike Bass Music scene, Greg gave the Studio his 'Unveilved" EP to upload to the Studio Soundcloud account for free download! What the fuckk... featuring collabs with renowned South African songstress, Tasha Baxter, and alt. Hip-Hop god, Anti-Pop Consortium, its an absolute corker of a release and a true gift to Bass-loving masses this Xmas. Take a listen and download below:
 
-\[tags\]Greg Reve, Unveiled\[/tags\]

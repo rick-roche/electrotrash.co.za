@@ -21,4 +21,3 @@ What do you think?
 
 ^5!
 
-\[tags\]Popskarr, Spoek Mathambo, The Light\[/tags\]

@@ -15,4 +15,3 @@ _Let's Do It_ is the latest release by [Gay Thing](https://soundcloud.com/gaythi
 
 Download: \[download#375#nohits\]
 
-\[tags\]Gay Thing, Let's Do It, Electro-pop,South Africa\[/tags\]

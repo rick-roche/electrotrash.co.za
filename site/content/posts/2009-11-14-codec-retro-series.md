@@ -17,4 +17,3 @@ Capetonian [CoDeC](/artists/codec "CoDeC on electrotrash.co.za") has been making
 
 ^5!
 
-\[tags\]CoDeC, Retro Series EP, PC Board Factory, Charons Crossing, Retro Space, Solar Sail\[/tags\]

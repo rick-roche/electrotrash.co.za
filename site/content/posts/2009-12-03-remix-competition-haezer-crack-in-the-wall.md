@@ -29,4 +29,3 @@ Update: Download the original of the track below... \[download#198#nohits\]
 
 Looking forward to hearing all the remixes! ^5!
 
-\[tags\]HAEZER, Remix Competition, Crack In The Wall\[/tags\]

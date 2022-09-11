@@ -13,4 +13,3 @@ featured: '/wp-content/uploads/2011/11/artworks-000013367333-j8oapb-original-304
 
 \[download#318#nohits\]
 
-\[tags\]Justice, Newlands, Who Killed JR's french fried remix\[/tags\]

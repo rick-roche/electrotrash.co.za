@@ -21,4 +21,3 @@ _Hold Your Vision_ was recorded at the Red Bull Studio in Cape Town and is deep,
 
 \[download#303#nohits\]
 
-\[tags\]Indidginus, Hold Your Vision\[/tags\]

@@ -15,6 +15,6 @@ Angry dubstep courtesy of Audiophile 021! Some how this remix just works, but I 
 
 \[download#296#nohits\]
 
-\[tags\]Metallica, Battery, Audiophile 021, Dubstep Remix\[/tags\]
+
 
 _That better Steve?_

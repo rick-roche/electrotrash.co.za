@@ -15,4 +15,3 @@ Battle Beyond the Stars goes all tropical with his remix of Van She's latest sin
 
 Download: \[download#350#nohits\]
 
-\[tags\]Van She, Jamaica, Battle Beyond the Stars Remix\[/tags\]

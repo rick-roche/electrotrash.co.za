@@ -19,4 +19,3 @@ Sliced Twice is a diamond amongst the gems in WKJRs catalogue in that it is the 
 
 \[download#295#nohits\]
 
-\[tags\]Clubfeet, Edge of Extremes, Who Killed JR Remix, Who Killed JR, Sliced Twice, usic Video\[/tags\]

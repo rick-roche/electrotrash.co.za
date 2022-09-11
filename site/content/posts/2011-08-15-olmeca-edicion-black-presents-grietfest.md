@@ -66,4 +66,3 @@ _Join GRIETFEST on Facebook: [http://on.fb.me/p9NBn5](http://on.fb.me/p9NBn5)_
 
 _GRIET: [http://www.griet.co.za](http://www.griet.co.za/)_
 
-\[tags\]Griet, Grietfest, Belzebass, HAEZER, Double Adapter, Crossman & Phizicist, MAtt Suttner, Sassquatch, Counterstrike, RudeOne, Anti Alias, Ambush, Mr Green, Hypomaniacs, El Phonix, I Am Noize, LOUDbietz, Gettafix, Makattack, Town Hall, Jhb\[/tags\]

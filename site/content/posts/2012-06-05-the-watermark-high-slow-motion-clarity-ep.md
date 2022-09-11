@@ -19,4 +19,3 @@ I really recommend grabbing this one, it is a smooth, uplifting experience that 
 
 **\[dl\] Grab [The Watermark High - Slow Motion Clarity EP on Bandcamp here](http://thewatermarkhigh.bandcamp.com/ "The Watermark High")!**
 
-\[tags\]The Watermark High, Paul van der Walt, Johannesburg, Bandcamp, Slow Motion Clarity EP\[/tags\]

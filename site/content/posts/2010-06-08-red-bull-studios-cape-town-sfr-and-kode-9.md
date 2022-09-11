@@ -59,4 +59,3 @@ A very recent Red Bull Music Academy Radio show is a mix by Kode 9, prolific Dub
 
 ^5!
 
-\[tags\]Red Bull Studios Cape Town, SFR, Kode 9\[/tags\]

@@ -13,4 +13,3 @@ featured: '/wp-content/uploads/2011/06/lilyallenthefear-304x190.jpg'
 
 \[download#292#nohits\]
 
-\[tags\]Lily Allen, The Fear, Remix, Audiophile 021, ReRub\[/tags\]

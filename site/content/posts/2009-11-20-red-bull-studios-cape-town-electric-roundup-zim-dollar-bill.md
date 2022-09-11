@@ -21,4 +21,3 @@ One of the synths used was the Moog Little Phatty, which is the main reason thes
 
 The RBMA Radio mix for this post comes from Djedjotronic. He is honestly my favourite producer on Boys Noize records right now, even more than the mighty Alex Rider himself. Djedjotronic’s style of music has been described as Ghetto-Tech. It’s a brilliant concoction of the electro sound that Boys Noize has made famous mixed up with cut up rap, afro-style syncopated rhythms and huge doses of ‘rave’ (trust me it works). His collaborations with Spoek Mathambo have yielded one of the best records of the year, the mammoth “Dirty & Hard”. Listen to this live mix at the Pantiero Stage in Cannes:
 
-\[tags\]Red Bull Music Studios Cape Town, Liver, Naartjie, Zim Dollar Bill\[/tags\]

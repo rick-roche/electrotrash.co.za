@@ -37,7 +37,7 @@ With the focus of their music on rhythm, vocal melody and drums, their music dem
 
 **And many more...**
 
-\[tags\]Vans Off The Wall Music Night, Datarock, Juggernaught, Sabretooth, Great Apes\[/tags\]
+
 
 Press Release: VANS OFF THE WALL MUSIC NIGHT Comes To South Africa on the 3rd of December!
 

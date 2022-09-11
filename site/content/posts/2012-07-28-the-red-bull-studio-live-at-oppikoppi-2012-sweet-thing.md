@@ -43,4 +43,3 @@ The Red Bull Studio Live Stage at Oppikoppi 2012 plans to explore, educate, enth
 
 13:00        Rebel Clef 14:30        Big Space 15:30        Terrence Pearce 16:30        Diggin 4 Dodge 18:00        Floyd Lavine 19:00        Marshall 20:00        The Frown 21:00        PHDJ 22:00        Sideshow 23:00        Sibot 00:00       Diplo 01:30        Das Kapital 02:30        Pascal & Pearce 03:30        Kid Fonque 05:00        Offline
 
-\[tags\]Red Bull Studio Cape Town, Oppikoppi, Sweet Thing, 2012, MX Doppe, SoulSista, 2lani the Warrior, Oskido, Unsound System, Monique Pascall & T-Minus, Nick Grater, Fletcher, Raiko, Blotchy, Mr Sakitumi, Grrrl, Veranda Panda, Mix n Blend, PH Fat, Phizicist, Twelv & Thesis, Rudeone, Haezer, Baskerville, Killer Robot, RAM, Rebel Clef, Big Space, Terrence Pierce, Diggin 4 Dodge, Floyd Lavine, Marshall, The Frown, PHDJ, Sideshow, Sibot, Diplo, Das Kapital, Pascal & Pierce, Kid Fonque\[/tags\]

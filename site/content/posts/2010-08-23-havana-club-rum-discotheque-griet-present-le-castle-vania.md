@@ -21,4 +21,3 @@ Limited early bird tickets are now on sale for Friday 27th August at just R40 ea
 
 Tickets for Pretoria's event will be available at the door for R50 each.
 
-\[tags\]Le Castle Vania, Havana Club Rum, Discotheque, Griet, HAEZER\[/tags\]

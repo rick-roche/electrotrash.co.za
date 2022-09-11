@@ -17,4 +17,3 @@ We wish we were going to be at all the shows!
 
 ^5!
 
-\[tags\]HAEZER, Who The Fuck Is HAEZER European Tour\[/tags\]

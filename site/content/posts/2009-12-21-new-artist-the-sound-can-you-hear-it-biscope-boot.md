@@ -25,4 +25,3 @@ And why don't you give a listen to the latest bootleg to come out of the Biscope
 
  [Erykah Badu - Didn Cha Know (Biscope Boot)](http://soundcloud.com/biscope/erykah-badu-didn-cha-know-biscope-boot) by [biscope](http://soundcloud.com/biscope)
 
-\[tags\]The Sound, Access Violation, Haezer, Jax Panik, Sirens In The Night, Remix, Biscope, Erykah Badu, Didn't Cha Know, Boot\[/tags\]

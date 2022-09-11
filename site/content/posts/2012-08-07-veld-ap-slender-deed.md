@@ -19,4 +19,3 @@ The afro-tech rythms of _a deed_ make it more upbeat, but vicious synth stabs an
 
 Download: \[download#354#nohits\]
 
-\[tags\]Veld, AP Slender, a deed, Deep House, South Africa\[/tags\]

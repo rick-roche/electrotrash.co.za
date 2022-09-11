@@ -17,4 +17,3 @@ Have a listen to this mixtape from [Sparrow](/artists/sparrow/ "Sparrow"): Get S
 
 Excellent! ^5!
 
-\[tags\]Sparrow, Get Shitfaced & Dance\[/tags\]

@@ -21,4 +21,3 @@ The tracklisting is as follows:
 
 Let him know which one is your favourite!
 
-\[tags\]HAEZER, Remix, Sean Terra, Ikki, The Mastertrons, Electro Ferris, The Boomzers, Noize Generation\[/tags\]

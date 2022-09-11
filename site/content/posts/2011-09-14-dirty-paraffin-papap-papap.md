@@ -17,4 +17,3 @@ Our friends over at [Andile's Bored Company](http://andilesbored.com/2011/09/02/
 
 
 
-\[tags\]Dirty Paraffin, Papap! Papap!\[/tags\]

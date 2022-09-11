@@ -19,4 +19,3 @@ If you would like to submit a mix for our **Bon Jovi Friday** slot, get in touch
 
 ^5!
 
-\[tags\]dirtyoldDisco, Bon Jovi Friday Mix\[/tags\]

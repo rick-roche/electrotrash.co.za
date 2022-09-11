@@ -19,4 +19,3 @@ Grab the bass-heavy, bitchin', boot below!
 
 \[download#215#nohits\]
 
-\[tags\]Biscope, Sub Focus, Rockit, Boot\[/tags\]

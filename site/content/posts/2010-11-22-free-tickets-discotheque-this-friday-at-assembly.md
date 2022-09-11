@@ -15,4 +15,3 @@ It's time to Disco this Friday at Assembly! Discotheque presents [](http://http:
 
 First two correct answers will get the tickets. The party is this Friday in Cape Town, so please only enter if you can actually make it to the party! Competition closes Wednesday at 23h59... Good Luck!
 
-\[tags\]Assembly, Discotheque, Shuffle Shame, Blush n Bass, Grave Danger, Enough Weapons, Ticket Giveaway\[/tags\]

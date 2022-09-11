@@ -15,4 +15,3 @@ WhoKilledJR's latest remix is pure sex. From his trademark slap-bass, to the sta
 
 \[download#310#nohits\]
 
-\[tags\]Hearts Revolution, Teenage Teardrops, Who Killed JR , Black Flash remix\[/tags\]

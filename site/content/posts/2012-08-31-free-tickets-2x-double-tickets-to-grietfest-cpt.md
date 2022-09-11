@@ -25,4 +25,3 @@ To enter all you have to do is send an email to [freeshit@electrotrash.co.za](ma
 >
 > Buy Tickets for CT Here: [http://tinyurl.com/bulzp97](http://tinyurl.com/bulzp97)
 
-\[tags\]Grietfest, 2012, Red Bull, Oh My God It’s Techno Music, MK, Trumpdisco, Q.G.\[/tags\]

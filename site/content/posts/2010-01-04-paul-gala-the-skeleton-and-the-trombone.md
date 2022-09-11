@@ -23,4 +23,3 @@ With an EP due to be out in the next five weeks, I'm sure we will have a lot to 
 
 ^5!
 
-\[tags\]Paul Gala, The Skeleton and the Trombone, EXX, Tomcraft, Biscuit\[/tags\]

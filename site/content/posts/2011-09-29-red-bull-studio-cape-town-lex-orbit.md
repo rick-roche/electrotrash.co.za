@@ -27,4 +27,3 @@ And:
 
  [Lex Orbit - Away in a Stable](http://soundcloud.com/red-bull-studio-ct/lex-orbit-away-in-a-stable) by [Red Bull Studio CT](http://soundcloud.com/red-bull-studio-ct)
 
-\[tags\]Lex Orbit, MoodyB, Jahelo Choto, Away in a Stable\[/tags\]

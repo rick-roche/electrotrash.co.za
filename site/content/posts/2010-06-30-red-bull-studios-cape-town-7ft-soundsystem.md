@@ -21,4 +21,3 @@ The tune, “Dred Bull Dub”, produced at the studio is an example of these guy
 
 Sticking to Dub, arguably the forefather of electronic music, here's a RBMA Radio show with the godfather of the genre, the mad genius Lee Scratch Perry. Recorded live at Primavera Sound 2010, its absolutely crucial.
 
-\[tags\]7ft Soundsystem, Red Bull Music Studios Cape Town, God Shuffled His Feet, Zolani Mahola\[/tags\]

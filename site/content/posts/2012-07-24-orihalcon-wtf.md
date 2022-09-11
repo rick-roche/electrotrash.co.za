@@ -15,4 +15,3 @@ We haven't had an electro banger on the blog in a while, so the track _WTF!!_ by
 
 Download: \[download#346#nohits\]
 
-\[tags\]ORIHALCON, WTF!!\[/tags\]

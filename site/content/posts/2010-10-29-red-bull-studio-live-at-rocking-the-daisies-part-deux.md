@@ -45,4 +45,3 @@ The Red Bull Studio Live Stage at Rocking the Daisies was in many ways too impre
 
 For your listening pleasure here are two live mixes from the Peanut, the slamming peak-hour electro of BTEAM and gnarly bass-step of Audiophile 021:
 
-\[tags\]Red Bull Music Studio Live, Audiophile\_021, BTeam, Rocking the Daisies\[/tags\]

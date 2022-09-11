@@ -29,6 +29,6 @@ Doors open @ 9:30pm
 
 Good luck!
 
-\[tags\]Rubadub, Document One, Tainted Dub EP, Mercury Live, Binary, Psydstep, Dub Vader, 7ft Soundsystem\[/tags\]
+
 
 freeshit@electrotrash.co.za

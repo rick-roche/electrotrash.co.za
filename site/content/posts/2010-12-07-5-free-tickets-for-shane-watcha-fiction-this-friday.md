@@ -31,4 +31,3 @@ Here a little info grabbed from his [soundcloud](http://soundcloud.com/shanewatc
 
  [Shane Watcha - Summer Love mix 2009](http://soundcloud.com/shanewatcha/shane-watcha-cable-podcast-summer-love-mix-2009) by [shanewatcha](http://soundcloud.com/shanewatcha)
 
-\[tags\]Shane Watcha, Markus Wormstorm, AK47, Contraband, Free Tickets, Fiction\[/tags\]

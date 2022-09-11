@@ -15,4 +15,3 @@ featured: '/wp-content/uploads/2011/11/artworks-000011541188-737zq4-original-304
 
 
 
-\[tags\]Card On Spokes, In You Go\[/tags\]

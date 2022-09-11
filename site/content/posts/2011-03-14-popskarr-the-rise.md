@@ -17,4 +17,3 @@ Judging from what I have heard, their debut will be something to look forward to
 
 \[download#276#nohits\]
 
-\[tags\]Popskarr, The Rise\[/tags\]

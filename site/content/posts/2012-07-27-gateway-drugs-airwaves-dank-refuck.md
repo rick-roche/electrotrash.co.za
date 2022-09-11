@@ -13,4 +13,4 @@ featured: '/wp-content/uploads/2012/07/artworks-000026754611-881z08-original-304
 
 Dank turns the sex up to 11 on his remix of the new Gateway Drugs track _Airwaves._Giving it that 90s RnB feel, complete with claps and a porno-synth.  Dank will be releasing his [new EP](/2012/07/13/dank-camouflange-ep-preview/) coming out in just over a month, so in the mean time grab the remix below and put it on repeat.
 
-Download: \[download#348#nohits\] \[tags\]Gateway Drugs, Airwaves, DANK REFUCK, Remix\[/tags\]
+Download: \[download#348#nohits\]

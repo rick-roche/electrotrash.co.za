@@ -19,4 +19,3 @@ Grab the remix below, let us know what you think!
 
 ^5!
 
-\[tags\]Popskarr, Short Circuit, Let Go, Remix, Binary Entertainment\[/tags\]

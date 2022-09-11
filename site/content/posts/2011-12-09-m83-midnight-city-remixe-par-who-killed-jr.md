@@ -15,4 +15,3 @@ With his latest remix, Who Killed JR takes the moody, dreamy _Midnight City_ by 
 
 \[download#323#nohits\]
 
-\[tags\]M83, Midnight City, Who Killed JR, Remix\[/tags\]

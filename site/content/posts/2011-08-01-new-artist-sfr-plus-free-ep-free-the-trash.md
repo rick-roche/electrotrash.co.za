@@ -21,4 +21,3 @@ On top of all the international releases, he has also found time to produce a ki
 
 [SFR - Difference in Detail EP (Free download at www.djsfr.com)](http://soundcloud.com/deejaysfr/sets/sfr-difference-in-detail-ep) by [deejaysfr](http://soundcloud.com/deejaysfr)
 
-\[tags\]SFR, Difference in Detail, Feed the Trash\[/tags\]

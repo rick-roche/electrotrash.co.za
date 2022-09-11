@@ -21,4 +21,3 @@ Ruffest are a Cape Town based kwaito-house group and a name to keep an eye on. T
 
 \[download#302#nohits\]
 
-\[tags\]Adele, Rolling In The Deep, Ruffest, Siyabenzela, Dubstep, Audiophile 021, Refix, Kwai Step, RemixAdele, Rolling In The Deep, Ruffest, Siyabenzela, Dubstep, Audiophile 021, Refix, Kwai Step, Remix\[/tags\]

@@ -19,4 +19,3 @@ The kids from Grave Danger sent me this badass mix that they did for Discotheque
 
 ^5!
 
-\[tags\]grave danger, grave the disco\[/tags\]

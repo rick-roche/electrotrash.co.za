@@ -31,4 +31,3 @@ YESTERDAY’S PUPIL on Twitter: [https://twitter.com/YesterdaysPupil](https://tw
 
 ^5!
 
-\[tags\]Yesterdays pupil, Tumi Molekane, Duel!, The Beast, Harm, Free download, Part 2, Singularity, Griet\[/tags\]

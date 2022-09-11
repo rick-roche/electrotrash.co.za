@@ -23,4 +23,3 @@ DJ and Producer Battle Beyond the Stars will be dropping his "unique blend of El
 
  [Cold](http://soundcloud.com/battlebeyondthestars/coldfinal) by [Battle Beyond the Stars](http://soundcloud.com/battlebeyondthestars)
 
-\[tags\]Discotheque, Bteam, Kennedy, Anthea, Battle Beyond the Stars, Free Tickets\[/tags\]

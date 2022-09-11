@@ -13,4 +13,3 @@ featured: '/wp-content/uploads/2012/10/artworks-000031910251-u97ff8-original-304
 
 Dance, You're On Fire get the remix treatment courtesty of The Watermark High.
 
-\[tags\]Dance, You're On Fire, Carry You, The Watermark High, Remix\[/tags\]

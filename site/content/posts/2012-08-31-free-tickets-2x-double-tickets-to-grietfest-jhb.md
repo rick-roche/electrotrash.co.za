@@ -63,4 +63,3 @@ To enter all you have to do is send an email to [freeshit@electrotrash.co.za](ma
 
 ^5!
 
-\[tags\]Grietfest, 2012, Red Bull, Oh My God It’s Techno Music, MK, Trumpdisco, Q.G.\[/tags\]

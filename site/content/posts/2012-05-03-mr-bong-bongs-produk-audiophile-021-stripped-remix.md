@@ -13,4 +13,3 @@ featured: '/wp-content/uploads/2012/05/mrbong-304x190.jpg'
 
 The end of May sees the release of _Bongs Produk_, the new single from Mr Bong. It features Koldprodukt and remixes by Dr Moody, Mini Da Minx vs Wreckage and Audiophile 021. Featuring a bassline that is reminiscent of _Anarchy in the UK_ by the Sex Pistols meets dub(step), the Audiophile 021 remix has the aural texture of crunchy peanut butter. Give it a listen below!
 
-\[tags\]Mr Bong, Bongs Produk, Audiophile 021, Remix\[/tags\]

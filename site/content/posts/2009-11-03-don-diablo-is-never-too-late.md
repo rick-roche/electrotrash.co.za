@@ -25,4 +25,3 @@ The Mason remix takes the track towards a more electro direction, with a fidgety
 
 This really rad bootleg is a fun little take on his track 'Too Cool for School' with the hook 'I'm in Amsterdam Bitch' an obvious reference to the LMFAO track 'I'm in Miami Bitch'. Fun and bouncy!
 
-\[tags\]Don Diablo, Mason, Never Too Late, Too Cool for Amsterdam, Hugo van Dyck\[/tags\]

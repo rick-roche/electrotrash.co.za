@@ -15,4 +15,3 @@ Haezer is off to Portugal but left us with a little something to remember him by
 
 \[download#268#nohits\]
 
-\[tags\]Haezer, Circe, Black (RIP)\[/tags\]

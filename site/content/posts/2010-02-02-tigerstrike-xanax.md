@@ -21,4 +21,3 @@ I have been promised some killer remixes in the not too distant future so stay t
 
 ^5!
 
-\[tags\]Tigerstrike, Xanax\[/tags\]

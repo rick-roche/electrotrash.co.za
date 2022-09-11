@@ -21,4 +21,3 @@ Don Diablo throws in some ear candy as well by offering two hot remixes for free
 
 ^5!
 
-\[tags\]Don Diablo, Who's Your Daddy, A.Skillz, Black Noise\[/tags\]

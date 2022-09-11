@@ -15,4 +15,3 @@ Hyphen takes us back to the beginning in this month's episode of Mix & Match. We
 
 Download: \[download#376#nohits\]
 
-\[tags\]Podcast, Mix & Match, Hyphen\[/tags\]

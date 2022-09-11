@@ -31,4 +31,3 @@ Sunday was like a trip back in time. Fletcher. Markus Wormstorm. Felix Laband. S
 
 Rocking the Daisies was great. Let me rephrase that. The Red Bull Tent was great, I have no idea how Rocking the Daisies was. I heard it was an green fest, but when I left I saw just as much trash lying around as at any other festival. I heard not even artists got tickets for their partners. It also looked like everyone had a good time and my tent, despite not being able to zip shit, was not messed with, so I guess the final verdict would be good effort with room for improvement. Having spent the last decade in Gauteng and thus being spoiled by the mammoth that is OppiKoppi it is understandable that I am a bit biased. Will I go next year? You bet, if only to see if they have improved on this year. Rocking the Daisies is a festival that has a lot of potential and I am eager to see it grow!
 
-\[tags\]Rocking the Daisies\[/tags\]

@@ -15,4 +15,3 @@ featured: '/wp-content/uploads/2011/04/Logo-High-Res-copy-304x190.jpg'
 
  [Go!Go! mix by HAEZER](http://soundcloud.com/omgitm/go-go-mix-by-haezer) by [OMGITM™](http://soundcloud.com/omgitm)
 
-\[tags\]Haezer, It’s Not Our Fault, GO!GO!\[/tags\]

@@ -23,4 +23,3 @@ _Quarter Mile_ is the title track of his latest EP  which you can buy from [Jun
 
  [Quarter Mile](http://soundcloud.com/audiophile021/quarter-mile) by [Audiophile021](http://soundcloud.com/audiophile021)
 
-\[tags\]Audiophile 021, Interlude Dub No. 2, Informer, Quarter Mile\[/tags\]

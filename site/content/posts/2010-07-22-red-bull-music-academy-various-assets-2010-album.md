@@ -33,4 +33,3 @@ Various Assets – Not For Sale 2010 is available for download on [www.redbullmu
 
 ^5!
 
-\[tags\]Red Bull Music Academy, Various Assets 2010, DJ MP6-60, Jullian Gomez, Various Assets – Not For Sale 2010\[/tags\]

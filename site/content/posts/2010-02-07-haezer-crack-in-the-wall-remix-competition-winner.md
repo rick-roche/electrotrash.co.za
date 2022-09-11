@@ -31,4 +31,3 @@ He sent us this awesome new track of his for you to download as thanks! Grab it 
 
 ^5!
 
-\[tags\]HAEZER, Crack In The Wall Remix Competition, Chains, Winner\[/tags\]

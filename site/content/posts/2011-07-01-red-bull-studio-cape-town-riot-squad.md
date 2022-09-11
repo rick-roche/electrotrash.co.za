@@ -17,4 +17,3 @@ Enter the Riot Squad: not only are they hungry and ambitious to become A-list DJ
 
 [Riot Squad - Millenium](http://soundcloud.com/red-bull-studio-ct/millenium) by [Red Bull Studio CT](http://soundcloud.com/red-bull-studio-ct)
 
-\[tags\]Red Bull Studio, Cape Town, Riot Squad, Millenium\[/tags\]

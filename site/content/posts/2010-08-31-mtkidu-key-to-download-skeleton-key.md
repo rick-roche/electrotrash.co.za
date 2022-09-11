@@ -19,4 +19,3 @@ The fourth track off the the album "Skeleton Key" is now available. With this se
 
 Radical ^5!
 
-\[tags\]MTKIDU, Skeleton Key, Crossbones\[/tags\]

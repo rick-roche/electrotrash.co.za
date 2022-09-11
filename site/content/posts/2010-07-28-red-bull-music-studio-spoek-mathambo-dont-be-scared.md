@@ -19,4 +19,3 @@ To get an idea of the heavier sounds of album take a listen and download to the 
 
  [Spoek Mathambo - Germs (H.I.V.I.P.)](http://soundcloud.com/red-bull-studio-ct/spoek-mathambo-germs-h-i-v-i-p) by [Red Bull Studio CT](http://soundcloud.com/red-bull-studio-ct)
 
-\[tags\]Red Bull Music Studio, Spoek Mathambo, Don't Be Scared\[/tags\]

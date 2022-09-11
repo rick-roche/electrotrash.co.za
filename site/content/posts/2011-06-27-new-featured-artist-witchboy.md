@@ -21,4 +21,3 @@ Witchboy is the dark side of Nikhil Singh, one-third of the Wild Eyes. Creating 
 
 \[download#300#nohits\]
 
-\[tags\]Witchboy, scorpio, hollymode, my secret name is laura, white cats in my brain\[/tags\]

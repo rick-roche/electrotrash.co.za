@@ -25,4 +25,3 @@ See you there!
 
 ^5!
 
-\[tags\]Rocking The Daisies, Rocking The Gardens\[/tags\]

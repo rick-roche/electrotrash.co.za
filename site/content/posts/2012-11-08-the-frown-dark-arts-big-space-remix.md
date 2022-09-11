@@ -15,4 +15,3 @@ If you dig the tune and wanna play it out, why not buy it over at [Bandcamp](htt
 
 Download: \[download#387#nohits\]
 
-\[tags\]The Frown, Dark Arts, Big Space. Remix\[/tags\]

@@ -31,4 +31,3 @@ To pick up the metaphor where we left off, if Loneliness As An Art Form is an ex
 
 Finally, in today’s digital world one always needs a compelling reason to purchase music on physical media. The packaging for Loneliness As An Art Form is perhaps as beautiful as the music, with just as much attention to detail.  You can get your copy at shows as they are very limited in numbers, alternatively you can grab a free download of the album from the bands website (for a limited time only!)... [www.thewatermarkhigh.co.za](http://www.thewatermarkhigh.co.za/ "The Watermark High")!
 
-\[tags\]The Watermark High, Loneliness As An Art From, I Don't Need Serotonin, No Matter Where I Go, I End Up Me\[/tags\]

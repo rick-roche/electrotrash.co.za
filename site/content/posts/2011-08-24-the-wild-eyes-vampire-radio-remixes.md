@@ -19,4 +19,3 @@ Das Kapital drops some radical rhythms, with an equally bouncy bassline to keep 
 
 Battle Beyond the Stars disturbs the original through dissonance. With a biting synth lead and drums that are hard as nails, this remix grabs you by the crotch and doesn't let go.
 
-\[tags\]The Wild Eyes, Vampire Radio, Das Kapital, Battle Beyond the Stars, Remix\[/tags\]

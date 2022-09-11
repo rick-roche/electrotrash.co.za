@@ -17,4 +17,3 @@ Download: \[download#347#nohits\]
 
 You can listen to the entire EP below and download it in its entirety from the [African Dope Soundcloud Page](https://soundcloud.com/africandope/).
 
-\[tags\]Jam Jarr, I Am Not Here\[/tags\]

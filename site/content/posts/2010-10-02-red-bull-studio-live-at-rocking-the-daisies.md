@@ -25,6 +25,6 @@ For more info:
 
 [www.rockingthedaisies.com](http://www.rockingthedaisies.com/)
 
-[![](/wp-content/uploads/2010/10/Red-Bull-Studio-Live-694x1024.jpg "Red Bull Studio Live")](/2010/10/02/red-bull-studio-live-at-rocking-the-daisies/red-bull-studio-live/)\[tags\]Red Bull Studio Live, Rocking the Daisies\[/tags\]
+[![](/wp-content/uploads/2010/10/Red-Bull-Studio-Live-694x1024.jpg "Red Bull Studio Live")](/2010/10/02/red-bull-studio-live-at-rocking-the-daisies/red-bull-studio-live/)
 
 Red Bull Studio Live

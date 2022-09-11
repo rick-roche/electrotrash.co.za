@@ -23,4 +23,3 @@ To commemorate the release of the Red Bull Studio Sessions 02, we've gathered up
 
 Until then check out the full mix on our Soundcloud and [Facebook](https://www.facebook.com/event.php?eid=124316380973774&index=1) for more details :  [Red Bull Studio Sessions 02 presented by Richard the Third](http://soundcloud.com/red-bull-studio-ct/01-red-bull-studio-sessions-02) by [Red Bull Studio CT](http://soundcloud.com/red-bull-studio-ct)
 
-\[tags\]Red Bull Studio Sessions, The Colonius, Richard the Third, Jam Jarr, Soft Touch Operation, Audiophile021, Zim Dollar Bill, Enough Weapons, Hyphen & SFR, Mix n Blend, 7ft Soundsystem, Ill Skillz, Oltak\[/tags\]

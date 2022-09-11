@@ -15,4 +15,3 @@ The Frown's now single, _Metallic Kiss_, gets the remix treatment courtesty of A
 
 Download \[download#330#nohits\]
 
-\[tags\]Audiophile 021, The Frown, Metallic Kiss, Remix\[/tags\]

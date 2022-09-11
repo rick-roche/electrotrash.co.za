@@ -23,4 +23,3 @@ and here is some promo material that was meant to go up last week, but somehow t
 
 \[download#236#nohits\]
 
-\[tags\]F.O.O.L, We;re not French, Haezer, Remix\[/tags\]

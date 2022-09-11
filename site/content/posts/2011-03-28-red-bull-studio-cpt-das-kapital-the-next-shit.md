@@ -27,6 +27,6 @@ To say, "keep your eyes peeled" would fit into a cliche that does no justice to 
 
  [Das Kapital - Overload](http://soundcloud.com/red-bull-studio-ct/das-kapital-overload) by [Red Bull Studio CT](http://soundcloud.com/red-bull-studio-ct)
 
-\[tags\]Das Kapital, Red Bull Studio Cape Town\[/tags\]
+
 
 Das Kapital, Red Bull Studio Cape TownDas Kapital, Red Bull Studio Cape TownDas Kapital, Red Bull Studio Cape Town

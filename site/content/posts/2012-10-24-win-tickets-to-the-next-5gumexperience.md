@@ -21,4 +21,3 @@ As you know, A-trak and Hudson Mohawke will tear up Jozi and CT this Friday and 
 
 Tickets to both events will be mailed by Thursday and blog competition winners will receive theirs by Friday.
 
-\[tags\]#5GumExperience, Tickets, Competition, Free, Hudson Mohawk, A-trakp\[/tags\]

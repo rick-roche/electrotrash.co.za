@@ -35,4 +35,3 @@ Let us know what you think!
 
 ^5!
 
-\[tags\] HAEZER, Yasi, EP, Joey Bloom, Circe, Griet \[/tags\]

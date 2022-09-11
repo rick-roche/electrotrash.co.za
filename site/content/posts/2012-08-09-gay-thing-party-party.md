@@ -13,4 +13,3 @@ featured: '/wp-content/uploads/2012/08/Gay-thing-Poster-2-copy-304x190.jpg'
 
 Download:\[download#355#nohits\]
 
-\[tags\]Gay Thing, Party Party, South Africa, Electro Pop\[/tags\]

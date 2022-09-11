@@ -13,4 +13,3 @@ featured: '/wp-content/uploads/2012/08/Disco-Waltz-2-304x190.jpg'
 
 Download: \[download#363#nohits\] \[soundcloud url="http://api.soundcloud.com/tracks/56273786" params="" width="100%" height="166" iframe="true" /\]
 
-\[tags\]Gay Thing, Disco Waltz, South Africa, Electo, Pop\[/tags\]

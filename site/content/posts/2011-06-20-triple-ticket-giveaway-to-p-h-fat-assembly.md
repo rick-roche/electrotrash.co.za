@@ -19,4 +19,3 @@ And check out this killer Kuduro style remix of Dinosaur Blood by Das Kapital:
 
  [P.H. Fat - Dinosaur Blood (Das Kapital Kuduro Remix)](http://soundcloud.com/daskapital/p-h-fat-daskapital) by [Das Kapital](http://soundcloud.com/daskapital)
 
-\[tags\]P.H.Fat, Free Tickets, Like A Motherfucking Bird, Dinosaur Blood, Das Kapital, Kuduro Remix, The Assembly\[/tags\]

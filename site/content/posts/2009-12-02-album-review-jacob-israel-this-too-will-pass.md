@@ -27,6 +27,6 @@ The physical album itself is also a thing of beauty. The limited 250 run feature
 
 This track will be available for a limited time only so grab it now! \[download#196#nohits\]
 
-\[tags\]Jacob Israel, This Too Shall Pass, think of someone you love, he'll think of you\[/tags\]
+
 
 \[download#193#nohits\] \[download#194#nohits\] \[download#195#nohits\]

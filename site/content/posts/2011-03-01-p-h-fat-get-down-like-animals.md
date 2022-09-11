@@ -21,4 +21,3 @@ Did I say the previous bassline was heavy? Ooops. _Dinosaur Blood_ seems even he
 
 \[download#275#nohits\]
 
-\[tags\]P.H.Fat, Big Five, Fuzzy Slippers, Dinosaur Blood\[/tags\]

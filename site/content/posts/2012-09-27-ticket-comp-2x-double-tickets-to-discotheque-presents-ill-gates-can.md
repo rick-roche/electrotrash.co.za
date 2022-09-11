@@ -27,4 +27,3 @@ R50 Early Bird Tickets R60 Webtickets R60 Door before 10pm R70 Door After 11pm
 
 [www.webtickets.co.za/assembly](http://www.webtickets.co.za/assembly)
 
-\[tags\]ill.Gates, Discotheque, Free Tickets, fok julle naaiers, die antwoord, round 2\[/tags\]

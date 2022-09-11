@@ -9,4 +9,3 @@ categories: ["Music Video"]
 
 \[via [Facebook](http://www.facebook.com/video/video.php?v=328895235575&ref=mf)\]
 
-\[tags\]Yesterday's Pupil, Mechanisms of the Universe\[/tags\]

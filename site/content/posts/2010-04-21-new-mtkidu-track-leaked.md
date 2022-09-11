@@ -19,4 +19,3 @@ The track was actually written 3 months ago, but seems very relevant right now. 
 
 \[audio:/files/mtkidu/mtkidu\_-\_awb\_vs\_anc\_(unmastered leak).mp3\]
 
-\[tags\]MTKIDU, AWB vs ANC\[/tags\]

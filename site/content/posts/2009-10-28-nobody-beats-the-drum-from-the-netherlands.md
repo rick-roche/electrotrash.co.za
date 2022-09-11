@@ -19,4 +19,3 @@ Grab the track and a remix below, go and check out their [website](http://www.no
 
 ^5!
 
-\[tags\]nobody beats the drum, purple cactus\[/tags\]

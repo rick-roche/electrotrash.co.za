@@ -17,4 +17,3 @@ Catch Haezer this Saturday at the Woods with support from Baggy Dawg (Desmond & 
 
 [Facebook Event](http://www.facebook.com/event.php?eid=108199985869994&ref=ts)
 
-\[tags\]Haezer, Baggy Dawg, dirtyoldDisco, Moe Joe, Double Adapter, Here Come the Punks, The Woods\[/tags\]

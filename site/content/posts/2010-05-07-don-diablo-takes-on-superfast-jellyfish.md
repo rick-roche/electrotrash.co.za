@@ -19,4 +19,3 @@ You can listen to the track via the Soundcloud player below and download it \[vi
 
 ^5!
 
-\[tags\]Gorillaz, Superfast Jellyfish, Don Diablo, Remix\[/tags\]

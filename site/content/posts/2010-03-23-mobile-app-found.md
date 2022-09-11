@@ -43,4 +43,3 @@ And let us know what you think of the app!
 
 ^5!
 
-\[tags\]FOUND, Le Cool, Nokia, Ovi, Mobile, South Africa, Durban, Johannesburg, Cape Town\[/tags\]

@@ -17,4 +17,3 @@ Watch the video below, love them on Facebook and let us know what you think!
 
 ^5!
 
-\[tags\]CoDeC, LAN, Live Electro\[/tags\]

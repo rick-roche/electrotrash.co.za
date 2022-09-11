@@ -21,4 +21,3 @@ The second track features what can only be described as synthesised steel drums,
 
 \[download#271#nohits\]
 
-\[tags\]Battle Beyond the Stars, Memory EP, Memory Metal, Caribbean Monsters\[/tags\]

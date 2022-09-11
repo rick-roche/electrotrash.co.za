@@ -15,4 +15,3 @@ Towards the end of last year Jacob Israel brought out his 3rd album. [I enjoyed 
 
 \[download#245#nohits\]
 
-\[tags\]Jacob Israel, This Too Will Pass, Free Album\[/tags\]

@@ -23,4 +23,3 @@ Ok enough talk, Enough Weapons – Take the Bull by the Horns, probably the bigg
 
 Then onto Red Bull Music Academy Radio, this show is a selection of fine cuts from the kings of breakbeat, the Stanton Warriors.
 
-\[tags\]Red Bull Music Studios Cape Town, Enough Weapons\[/tags\]

@@ -21,4 +21,3 @@ Give Placid Larry some Facebook love over [here](http://www.facebook.com/pages/P
 
 ^5!
 
-\[tags\]Placid Larry, Backwash, Time Saver\[/tags\]

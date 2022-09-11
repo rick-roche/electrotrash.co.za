@@ -17,4 +17,3 @@ Battle Beyond The Stars will be dropping his new EP entitled Memorial in the ver
 
 
 
-\[tags\]Battle Beyond The Stars, The Desert\[/tags\]

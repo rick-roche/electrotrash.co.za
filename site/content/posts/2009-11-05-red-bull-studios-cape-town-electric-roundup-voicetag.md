@@ -25,4 +25,3 @@ So here’s a roundup. First up a selection of tracks from Mr. Oizo who is argua
 
 _For more posts from the Red Bull Studios Cape Town, click on the [RBMS CPT](/category/red-bull-music-studios-cpt/ "Red Bull Music Studios Cape Town") button on the menu above. New posts from the studio fortnightly!_
 
-\[tags\]red bull music studios cape town, voicetag, spiders and moths, disco israel, ph fat, fuzzy slippers, jake lipmann\[/tags\]

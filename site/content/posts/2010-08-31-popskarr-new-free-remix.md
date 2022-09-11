@@ -19,4 +19,3 @@ And you folks in Durban this weekend, go and watch them!
 
 [![](/wp-content/uploads/2010/08/popskarr-dbn.jpg "popskarr-dbn")](/wp-content/uploads/2010/08/popskarr-dbn.jpg)
 
-\[tags\]Popskarr, Monarchy, The Phoenix Alive\[/tags\]

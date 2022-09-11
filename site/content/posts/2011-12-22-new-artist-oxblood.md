@@ -15,4 +15,3 @@ Oxblood is Cape Town producer Robin Brink. He as put together a mix of his unrel
 
  [Unreleased Demos \[Mix\]](http://soundcloud.com/oxbloodmusic/sets/unreleased-demos-mix) by [Oxblood](http://soundcloud.com/oxbloodmusic)
 
-\[tags\]Oxblood, Subequator Loop, Unreleased Demo Mix, Music Video\[/tags\]

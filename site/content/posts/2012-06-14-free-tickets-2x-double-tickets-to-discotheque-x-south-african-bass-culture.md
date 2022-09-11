@@ -23,4 +23,3 @@ We have 2 sets of double tickets to give away for South African Bass Culture, th
 >
 > [SOUNDCLOUD](http://snd.sc/AquANo)
 
-\[tags\]Free Tickets, Competition, Discotheque, South African Bass Culture, Richard The Third, Terrence Pearce, Plaigarhythm, The Banktella, Rebel Clef\[/tags\]

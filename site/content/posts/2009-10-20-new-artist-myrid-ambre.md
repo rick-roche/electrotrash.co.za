@@ -21,4 +21,3 @@ Stephen has told me that the first person to guess who is doing the main vocals 
 
 If you are in Cape Town on Wednesday 28 October, go on down to [Mabu Vinyl](http://www.mabuvinyl.co.za/ "Mabu Vinyl") (2 Rheede Street, Gardens, Cape Town) and watch Myrid Ambre perform live! It starts at 6PM and there will be free stuff!
 
-\[tags\]myrid ambre, stephen timm, cape town, buckfever underground, ambient electronica\[/tags\]

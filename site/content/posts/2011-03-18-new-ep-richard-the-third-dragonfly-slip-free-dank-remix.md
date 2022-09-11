@@ -23,4 +23,4 @@ _Slip_ features the emotive vocals of Black Porcelain which at to the dark and m
 
 As an added bonus check out this sweet bootleg that Richard put together. It is a tribute to Nate Dogg (RIP) featuring Burial and Four Tet. An awesome mashup and tribute.
 
-\[download#280#nohits\]   \[tags\]Richard the Third, Dragonfly Slip, The Slip, BlackPorcelain, Dank Remix, I Got Ego, Nate Dogg, Four Tet, Burial\[/tags\]
+\[download#280#nohits\]

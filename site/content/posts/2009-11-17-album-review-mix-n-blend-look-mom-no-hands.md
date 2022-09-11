@@ -25,4 +25,3 @@ Mix n Blend have really put something special together with this album. It is cl
 
  [Mix n Blend Look Mom No Hands](http://soundcloud.com/mixnblend/sets/mix-n-blend-look-mom-no-hands) by [mixnblend](http://soundcloud.com/mixnblend)
 
-\[tags\]Mix n Blend, Look mom no hands, Shall we Swing\[/tags\]

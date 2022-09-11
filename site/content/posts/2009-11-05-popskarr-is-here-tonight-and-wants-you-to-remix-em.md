@@ -25,4 +25,3 @@ This remix takes the track in a whole new direction. Think nu-italo disco, compl
 
 These are the separates for the [remix competition](http://blogs.myspace.com/index.cfm?fuseaction=blog.view&friendId=496772243&blogId=517147035). Send your submissions to [popskarr@gmail.com](mailto:popskarr@gmail.com)
 
-\[tags\]Popskarr, Lapse, IAmWaves, Tonight, Remix Competion, Mr. Vega\[/tags\]

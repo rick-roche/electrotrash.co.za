@@ -9,4 +9,3 @@ thumbnail: '/wp-content/uploads/2011/11/frown-150x150.jpg'
 featured: '/wp-content/uploads/2011/11/frown-304x190.jpg'
 ---
 
-\[tags\]The Frown, The National, Music Video\[/tags\]

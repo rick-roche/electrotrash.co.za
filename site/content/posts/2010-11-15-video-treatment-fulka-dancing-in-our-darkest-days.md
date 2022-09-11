@@ -15,4 +15,3 @@ Fulka, [this one](/artists/Fulka/) not [this one](http://www.youtube.com/watch?v
 
 Filters create a retro/vintage feel that lends itself well to the track. The video captures the spirit of the track beautifully. Opening to a scene of over the top breakfast preparation by Mrs. Kobak it moves to a scene of her band, waking in up and deciding to skip breakfast in favour of an old fashioned sing-a-long... The song really does feel like waking up on a warm summers day without a care in the world.
 
-\[tags\]Fulka, Dancing In Our Darkest Days, Louis Minnaar, Music Video\[/tags\]

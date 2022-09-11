@@ -21,4 +21,3 @@ Download The Goodbye Remix Edition here for FREE: [http://www.yesterdayspupil.co
 
 Download: \[download#381#nohits\]
 
-\[tags\]Yesterday's Pupil, Part 4, The Goodbye Remix Edition, Haezer, Minnaar, The Watermark High, Jacob Israel, Pullpitp\[/tags\]

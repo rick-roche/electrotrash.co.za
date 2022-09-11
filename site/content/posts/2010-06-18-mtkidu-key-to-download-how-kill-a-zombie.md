@@ -21,4 +21,3 @@ Stay tuned for more from this series of tracks being released! Let us know what 
 
 ^5!
 
-\[tags\]MTKIDU, Skeleton Key, Zombie, Chop It's Fucking Head Off, chopchopchop\[/tags\]

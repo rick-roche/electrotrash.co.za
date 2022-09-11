@@ -9,4 +9,3 @@ categories: ["Music Video"]
 
 [OORLOG FRANKENSTEIN](http://www.facebook.com/#/pages/OORLOG-FRANKENSTEIN/265596735446?ref=ts) are Francois van Coke and Peach van Pletzen aka Yesterday's Pupil. This video is for the Haezer remix of their tack Dans Dans Dans. Think angry afrikaans vocals, distorted guitars with an electronic touch. It's definitely something different.
 
-\[tags\]Oorlog Frankenstein, Dans Dans Dans, Haezer\[/tags\]

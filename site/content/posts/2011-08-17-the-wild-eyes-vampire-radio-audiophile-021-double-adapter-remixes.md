@@ -15,4 +15,3 @@ Audiophile 021 takes the track to the horror show, re-recording the vocals and s
 
 \[download#309#nohits\]   The Double Adapter remix is a full-on 4 on the floor, 7 gram rock, electro_thrash_ banger. The distorted synths hit you hard and induce nosebleeds, with visions of kids in neon, punching the snot out of each other. It's like they don't give a fuck, or something...
 
-\[tags\]The Wild Eyes, Vampire Radio, Audiophile 021 Fear Of The Dark Remix, Double Adapter Remix\[/tags\]

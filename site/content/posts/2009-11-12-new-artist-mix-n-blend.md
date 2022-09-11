@@ -45,4 +45,3 @@ Finally, their remix of Gazelle's first single 'Die Verlore Seun' is an awesome 
 
 Check out their [Soundcloud page](http://soundcloud.com/mixnblend) for lots more free tracks.
 
-\[tags\]Mix n Blend, Bakaman, Liver, Gazelle, Shall We Swing, Everyone Calm, Die Verlore Seun, Remix\[/tags\]

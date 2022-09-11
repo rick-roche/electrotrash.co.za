@@ -19,4 +19,3 @@ Instead I'm going to post the first Waddy track that most people living in South
 
 P.S.: Hey Waddy, if you want me to take this track down, [email me](mailto:dirtyoldman@electrotrash.co.za).
 
-\[tags\]Die Antwoord, Watkin Tudor Jones, The Original Evergreen, Puff the Magik\[/tags\]

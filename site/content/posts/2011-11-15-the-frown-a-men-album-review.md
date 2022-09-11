@@ -23,4 +23,4 @@ Watch the video "**Before The Sun Sets**":
 
 [The Frown - Before the Sun Sets](http://vimeo.com/11332897) from [russell grant](http://vimeo.com/redteamgo) on [Vimeo](http://vimeo.com).
 
-Grab the album from [Howl Records here](http://howl.wolves.co.za/?cat=6)! \[tags\]The Frown, Amen, Review, Eve Rakow, Tim Apter, Niall Bingham, Twyla Spiller, Caroline Leisegang, Max Lehr\[/tags\]
+Grab the album from [Howl Records here](http://howl.wolves.co.za/?cat=6)!

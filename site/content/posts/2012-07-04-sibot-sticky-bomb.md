@@ -15,4 +15,3 @@ While Sibot is putting the finishing touches on his upcoming EP, Throw Away, he 
 
 Download: \[download#340#nohits\]
 
-\[tags\]Sibot, Sticky Bomb\[/tags\]

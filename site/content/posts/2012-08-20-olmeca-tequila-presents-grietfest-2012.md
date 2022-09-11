@@ -65,4 +65,3 @@ Join the [OLMECA FAN PAGE](http://www.facebook.com/OlmecaTequilaSA "OlmecaTequil
 
 Join GRIETFEST on Facebook [HERE](https://www.facebook.com/events/277175719063651/277181115729778/?notif_t=plan_mall_activity "Grietfest 2012")!
 
-\[tags\]Grietfest, 2012, Red Bull, Oh My God It's Techno Music, MK, Trumpdisco, Q.G.\[/tags\]

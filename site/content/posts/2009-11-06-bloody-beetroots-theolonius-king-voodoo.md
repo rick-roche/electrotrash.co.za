@@ -19,4 +19,3 @@ Those of you that saw the [Bloody Beetroots](http://www.myspace.com/thebloodybee
 
 \[download#179#nohits\]
 
-\[tags\]Bloody Beetroots, Gazelle, Theolonius, King Voodoo, Xander Ferreira\[/tags\]

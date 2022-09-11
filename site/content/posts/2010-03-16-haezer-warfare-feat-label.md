@@ -21,4 +21,3 @@ Take it easy
 
 ^5!
 
-\[tags\]HAEZER, Warefare, Label\[/tags\]

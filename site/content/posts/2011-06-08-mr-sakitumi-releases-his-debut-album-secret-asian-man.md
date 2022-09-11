@@ -39,4 +39,3 @@ SECRET ASIAN MAN, after its release on the 8th of June, will be available throug
 
 **African Dope:** [http://www.africandope.co.za](http://www.africandope.co.za/)
 
-\[tags\]Mr Sakitumi, African Dope, Secret Asian Man\[/tags\]

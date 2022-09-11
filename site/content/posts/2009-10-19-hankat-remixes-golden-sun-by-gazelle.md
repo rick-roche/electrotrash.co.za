@@ -17,4 +17,3 @@ So Danish producer [Hankat](http://www.myspace.com/hankat090909) has taken the t
 
 \[via [la melodie du bonheur](http://lamelodiedubonheur.blogspot.com/2009/10/gazelle.html)\]
 
-\[tags\]Gazelle, Golden Sun, Hankat Remix\[/tags\]

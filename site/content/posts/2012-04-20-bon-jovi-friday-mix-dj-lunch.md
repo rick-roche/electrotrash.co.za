@@ -21,4 +21,3 @@ So grab LUNCH's mix below and then head on over to the next Style Vs Sound next 
 
 Check out the Facebook link to the party for more info: [Style Vs Sound - 26 April 2012](https://www.facebook.com/events/200642383385562/ "Style Vs Sound")
 
-\[tags\]Bon Jovi Friday Mix, Data Takashi, Riaan Botha, Style vs Sound, Style vs Fashion, Broaden a New Sound, Kitcheners Carvery, JHB, DJ Danger Ingozi\[/tags\]

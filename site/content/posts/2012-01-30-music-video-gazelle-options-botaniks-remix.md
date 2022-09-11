@@ -11,4 +11,3 @@ featured: '/wp-content/uploads/2012/01/options-304x190.jpg'
 
 [](/2012/01/30/music-video-gazelle-options-botaniks-remix/options/)
 
-\[tags\]Gazelle, Options, Botaniks Remix, Music Video\[/tags\]

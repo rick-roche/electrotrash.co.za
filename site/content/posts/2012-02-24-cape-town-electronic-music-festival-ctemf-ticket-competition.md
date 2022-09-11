@@ -19,4 +19,3 @@ To stand a chance of winning 1 of 5 tickets simple visit the [Facebook page](htt
 
 > Who is the best electronic act (Live or DJ) you have seen and where did they perform?
 
-\[tags\]Cape Town Electronic Music Festival, CTEMF, Ticket Competition\[/tags\]

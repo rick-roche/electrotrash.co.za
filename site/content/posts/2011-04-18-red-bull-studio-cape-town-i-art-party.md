@@ -31,4 +31,3 @@ Lastly “Ali Bama” is a classic Klaapse Klopse tune with a guest performance 
 
 In the end the project shows incredible promise in terms of future endeavours. Already the music created is something that is ambitiously collaborative.
 
-\[tags\]i art party, red bull studio cape town, Quinton Lewis, Chris Punda & Richard the Third – Waars My Meisie, Chris Punda & Richard the Third – Cosmic Manganje, Quinton Lewis, the Kids Of Woodstock & Richard the Third – Ali Bama\[/tags\]

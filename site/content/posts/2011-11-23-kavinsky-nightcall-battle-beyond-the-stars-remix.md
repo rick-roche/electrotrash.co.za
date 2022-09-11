@@ -15,4 +15,3 @@ A year in the making, this remix is the latest from Cape Town based producer Bat
 
 \[download#321#nohits\]
 
-\[tags\]Kavinsky, Nightcall, Battle Beyond the Stars Remix\[/tags\]

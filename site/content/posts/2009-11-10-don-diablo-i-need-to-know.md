@@ -19,4 +19,3 @@ Our friend Stephen from [Muzikology](http://www.muzikology.com "Muzikology") sen
 
 There you have it, Boosh! ^5!
 
-\[tags\]don diablo, i need to know, free album\[/tags\]

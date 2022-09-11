@@ -15,4 +15,3 @@ Liver dropped if a new track the other day and i've been listening to it ever si
 
 \[download#263#nohits\]
 
-\[tags\]Liver, Whisper\[/tags\]

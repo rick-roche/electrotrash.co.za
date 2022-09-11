@@ -25,4 +25,3 @@ Those of you wanting to catch HAEZER live in action, be sure to keep an eye on t
 
 ^5!
 
-\[tags\]HAEZER, James Bond\[/tags\]

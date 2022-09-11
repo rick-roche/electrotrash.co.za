@@ -17,4 +17,3 @@ In the other corner we have Petite Noir with a spooky, spacey remix. Arps and pa
 
 Download: \[download#335#nohits\]
 
-\[tags\]The Frown, Metallic Kiss, Petite Noir, Card on Spokes, Remix\[/tags\]

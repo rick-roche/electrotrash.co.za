@@ -21,4 +21,3 @@ Following on from the gleeful, hurricane stages at Oppikoppi and Rocking the Dai
 
 **Sunday 27** 10:50 – 11:40 Big Space 11:40 – 12:30 Ruffest 12:30 – 13:20 Blotchy 13:20 – 14:10 Rebel Clef 14:10 – 15:00 Ish
 
-\[tags\]Red Bull Studio Live, Synergy Live 2011\[/tags\]

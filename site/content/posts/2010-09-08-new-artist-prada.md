@@ -21,4 +21,3 @@ Check out PRADA on Facebook over [here](http://www.facebook.com/pages/PRADA/1318
 
 Let us know what you think! ^5!
 
-\[tags\]PRADA, Yannick Ilunga, Johnny Kotze, Popskarr, Johnny Neon\[/tags\]

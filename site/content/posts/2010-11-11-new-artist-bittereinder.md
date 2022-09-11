@@ -21,6 +21,6 @@ Their first single got its video treatment courtesy of Louis Minnaar. You may re
 
 Both singles come off their new album _'n Ware Verhaal_ (a true story) which is available in all good music stores nation wide as well as online at [rhythmmusicstore.com](http://rhythmmusicstore.com/music/6717/Bittereinder/%27n-Ware-Verhaal) for a mere 77 rond! Get it!
 
-\[tags\]bittereinder, 'n Ware Verhaal, A Tale of Three Cities, Ware Verhaal, Video\[/tags\]
+
 
 bittereinde, 'n Ware Verhaal, A Tale of Three Cities, Ware Verhaal, Videobittereinde, 'n Ware Verhaal, A Tale of Three Cities, Ware Verhaal, Video

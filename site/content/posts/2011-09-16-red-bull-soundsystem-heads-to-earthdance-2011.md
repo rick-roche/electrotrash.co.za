@@ -89,4 +89,3 @@ _Voice Tag_
 
 [![](/wp-content/uploads/2011/09/The_Red_Bull_Soundsystem_Being_Built.jpg "The_Red_Bull_Soundsystem_Being_Built")](/2011/09/16/red-bull-soundsystem-heads-to-earthdance-2011/the_red_bull_soundsystem_being_built/) To find out more about the Red Bull Soundsystem, take a look at this video of Maximum Signal Control:
 
-\[tags\]Red Bull Soundsystem, Earthdance 2011\[/tags\]

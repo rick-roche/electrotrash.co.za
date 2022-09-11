@@ -15,4 +15,3 @@ If you missed this party, you missed out! Bruno Pronsato graced our shores with 
 
 [![dsc_0079](/wp-content/gallery/bruno-pronsato/thumbs/thumbs_dsc_0079.jpg)](/wp-content/gallery/bruno-pronsato/dsc_0079.jpg)[![dsc_0075](/wp-content/gallery/bruno-pronsato/thumbs/thumbs_dsc_0075.jpg)](/wp-content/gallery/bruno-pronsato/dsc_0075.jpg)[![dsc_0054](/wp-content/gallery/bruno-pronsato/thumbs/thumbs_dsc_0054.jpg)](/wp-content/gallery/bruno-pronsato/dsc_0054.jpg)[![dsc_0052](/wp-content/gallery/bruno-pronsato/thumbs/thumbs_dsc_0052.jpg)](/wp-content/gallery/bruno-pronsato/dsc_0052.jpg)[![dsc_0050](/wp-content/gallery/bruno-pronsato/thumbs/thumbs_dsc_0050.jpg)](/wp-content/gallery/bruno-pronsato/dsc_0050.jpg)
 
-\[tags\]Bruno Pronsato, Make Believe, CT Train Lodge, Pics, 03 November 2012\[/tags\]

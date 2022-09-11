@@ -13,4 +13,3 @@ featured: '/wp-content/uploads/2011/06/slecthe-mensen-vid-promo-web-304x190.jpg'
 
 Brand new video from Bittereinder featuring Dutch rapper Tim Beumers! Angry and dark, the video treatment reflects the mood of this track. Spitting faster than my high school Afrikaans can  handle, Ajax delivers some of the tightest rhymes I have heard in that language. Tim Beumers large presence comes through, with his half tempo rhymes making it slightly easier to understand his Dutch drawl. The lesson for today is keep singing!
 
-\[tags\]Bittereinder, Slechte Mensen, Tim Beumers, Music Video\[/tags\]

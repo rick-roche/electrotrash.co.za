@@ -25,4 +25,3 @@ The latest project from the legendary Cape Town producer, Markus Wormstorm, is n
 >
 > In a nutshell Biblo is designed to give the commercial world access to high quality music in a smooth hassle-free environment. Most importantly it gives young musicians a platform from which they can make their music make some money.
 
-\[tags\]Markus Wormstorm, Biblo, Library music, that doesn't suck, south africa\[/tags\]

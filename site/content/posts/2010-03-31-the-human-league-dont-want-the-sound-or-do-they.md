@@ -19,4 +19,3 @@ Grab it below and then click [here](http://www.youtube.com/watch?v=arUqoKjU3D4) 
 
 \[download#234#nohits\]
 
-\[tags\]The Human League, Don't You Want Me, The Sound, Bootleg Remix\[/tags\]

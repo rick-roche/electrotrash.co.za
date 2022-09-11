@@ -27,6 +27,6 @@ The remix of _Morning After Dark_ sees Audiophile 021 adding filth and removing 
 
 Enjoyed the above? Why not check out some of his [other](http://soundcloud.com/audiophile021/nit-grit-babylon-audiophile021-remix) [remixes](http://soundcloud.com/audiophile021/steve-lawler-gimme-some-more-audiophile-021-pushing-tin-remix) [on SoundCloud](http://soundcloud.com/audiophile021/eddie-amador-house-music-audiophile-021-bootleg)?
 
-\[tags\]187 Lockdown, Gunman, Audiophile 021 Capped Remix, The Glitch Mob, Drive It Like You Stole It, Audiophile 021 Remix, Timbaland Ft. So Shy, Morning After Dark, Audiophile 021 Dubstep Redux\[/tags\]
+
 
 <object height="81" width="100%"> <param name="movie" value="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F4581159&show\_comments=true&auto\_play=false&color=ff00ff"></param> <param name="allowscriptaccess" value="always"></param> <embed allowscriptaccess="always" height="81" src="http://player.soundcloud.com/player.swf?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F4581159&show\_comments=true&auto\_play=false&color=ff00ff" type="application/x-shockwave-flash" width="100%"></embed> </object>   <span><a href="http://soundcloud.com/audiophile021/the-glitch-mob-drive-it-like-you-stole-it-audiophile-021-remix">The Glitch Mob - Drive It Like You Stole It (Audiophile 021 Remix)</a> by <a href="http://soundcloud.com/audiophile021">Audiophile021</a></span>

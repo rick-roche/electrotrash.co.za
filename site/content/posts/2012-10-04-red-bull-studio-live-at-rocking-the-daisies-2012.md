@@ -29,4 +29,3 @@ This year of course sees the Red Bull Studios continuing efforts to present the 
 
 11:00    DJ Tempo 13:00    Christian Tiger School 14:00    Card on Spokes 15:00    Blotchy 16:00    Nastie Ed 17:00    Kabila 18:00    Floyd Lavine 19:00    Toby2Shoes 20:00    Youngsta 20:30    Yoda 21:30    Rudeone 22:30    Twelv & Thesis 23:30    Toy Toy 01:00    Goldfish 02:00    Agoria 03:30    Space Time Continuum 05:00    Close
 
-\[tags\]Red Bull Studio Live at Rocking the Daisies 2012\[/tags\]

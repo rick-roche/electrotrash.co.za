@@ -19,4 +19,3 @@ CoDeC brings out a lot of beautiful bass in this one as well as some really well
 
 ^5!
 
-\[tags\]CoDeC, Circe, St. Savior\[/tags\]

@@ -17,6 +17,6 @@ The track is starts soft and dreamy and breaks into a feel good chorus of happy 
 
 On a side note, Lapse is one year older today (Happy Birthday Dude!). Wish him Happy Birthday tomorrow @ [Future Disco](/event/future-disco/)!
 
-\[tags\]Popskarr, Johnny Neon, All Night\[/tags\]
+
 
 Popskarr, Johnny Neon, All Night

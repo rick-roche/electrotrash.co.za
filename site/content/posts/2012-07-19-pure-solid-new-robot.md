@@ -15,4 +15,3 @@ Pure Solid has been producing quality Dub riddims at a relentless pace. While hi
 
 Download: \[download#344#nohits\]
 
-\[tags\]Pure Solid, New Robot\[/tags\]
