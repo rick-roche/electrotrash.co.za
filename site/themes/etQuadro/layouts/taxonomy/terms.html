@@ -35,7 +35,7 @@
         {{- /* Tag Cloud Page */ -}} {{- else if eq $taxonomies "tags" -}}
         <div class="tag-cloud-tags">
           {{- range sort $.Site.Taxonomies.tags.ByCount ".Count" "desc" -}}
-          <a href="{{ .Page.RelPermalink }}">{{ .Page.Title }} <sup>({{ .Count }})</sup></a>
+          <a href="{{ .Page.RelPermalink }}">{{ title .Page.Title }} <sup>({{ .Count }})</sup></a>
           {{- end -}}
         </div>
         {{- end -}}
