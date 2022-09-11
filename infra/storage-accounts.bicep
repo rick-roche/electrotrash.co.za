@@ -70,4 +70,3 @@ resource st 'Microsoft.Storage/storageAccounts@2022-05-01' = {
 
 output storageAccountName string = st.name
 output primaryBlobEndpoint string = st.properties.primaryEndpoints.blob
-output secondaryBlobEndpoint string = st.properties.secondaryEndpoints.blob

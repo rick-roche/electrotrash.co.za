@@ -47,7 +47,6 @@ module swa 'static-sites.bicep' = {
 }
 
 output primaryBlobEndpoint string = sta.outputs.primaryBlobEndpoint
-output secondaryBlobEndpoint string = sta.outputs.secondaryBlobEndpoint
 
 output siteName string = swa.outputs.siteName
 output siteDefaultHostname string = swa.outputs.defaultHostName
