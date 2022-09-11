@@ -3,6 +3,8 @@ languageCode = 'en-us'
 title = 'electrotrash.co.za | Is South African Electronic Music'
 theme = 'etQuadro'
 
+relativeURLs = 'true'
+
 [permalinks]
   posts = '/:year/:month/:day/:title/'
 
