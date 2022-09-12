@@ -13,7 +13,7 @@ As we continue to aim to expose South African electronic music and its artists, 
 
 After the jump: Sébastien Tellier, Matthew Dear, Gameboy/Gamegirl
 
-[![Sebastien Tellier Sexuality Cover](/wp-content/uploads/2008/02/00-sebastien_tellier-sexual-front_cover.thumbnail.jpg)](/wp-content/uploads/2008/02/00-sebastien_tellier-sexual-front_cover.jpg "Sebastien Tellier Sexuality Cover")
+[![Sebastien Tellier Sexuality Cover](/wp-content/uploads/2008/02/00-sebastien_tellier-sexual-front_cover1-150x150.jpg)](/wp-content/uploads/2008/02/00-sebastien_tellier-sexual-front_cover.jpg "Sebastien Tellier Sexuality Cover")
 
 On the 25th of Feb. long time et favourite Sébastien Tellier is releasing his new album entitled _Sexuality._ From what i've listen to all i can say is sexy! Over at [Missingtoof](http://missingtoof.com/v2/2008/02/21/sebastien-tellier-sexuality-album-produced-by-daft-punks-guy-manuel-de-homem-christo-kilometer-pomme-sexual-sportswear-with-sebastian-remix/) they have a more complete write-up along with some sample tracks for your downloading pleasure.
 
