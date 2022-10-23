@@ -9,13 +9,13 @@ thumbnail: '/wp-content/uploads/2011/01/web-fin-150x150.jpg'
 featured: '/wp-content/uploads/2011/01/web-fin-304x190.jpg'
 ---
 
-[![](/wp-content/uploads/2011/01/web-fin-e1295993467964.jpg "Dogbox Foam Party")](/2011/01/26/free-tickets-for-the-dogbox-foam-party/web-fin/)
+[![](/wp-content/uploads/2011/01/web-fin.jpg "Dogbox Foam Party")](/2011/01/26/free-tickets-for-the-dogbox-foam-party/web-fin/)
 
 So finally the time has come for the annual DOGBOX Foam Party!!!!! Clear your plans for the 5th of Febuary and set aside 50 Rond.  To those who cannot spare a fiddy, don't dispair, we have one set of Double Tickets to give away. All you need to do is send us a mail to [freeshit@electrotrash.co.za](mailto:freeshit@electrotrash.co.za?Subject=Dogbox%20Foam%20Party) and name  one of the acts by 23:59 CAT on 02 Feb 11 to stand a chance to win!
 
 Head on over to HotBox Studios to enjoy the sounds layed down by: Liver (Up all the way from CPT!), MoeJoe, Matt Suttner, Sassquatch, Doctor Khumalo and Professor Mystery. You can expect lots of Foam!,  Lazers, a Beer Garden and Cream Soda Cane!!!! Judging from the pictures taken at the last one by the [we-are-awesome](http://www.we-are-awesome.com) crew you can also expect hipsters looking, well...
 
-[![](/wp-content/uploads/2011/01/img_0026-e1295994564681.jpg "so awesome")](/2011/01/26/free-tickets-for-the-dogbox-foam-party/img_0026/)
+[![](/wp-content/uploads/2011/01/img_0026.jpg "so awesome")](/2011/01/26/free-tickets-for-the-dogbox-foam-party/img_0026/)
 
 
 

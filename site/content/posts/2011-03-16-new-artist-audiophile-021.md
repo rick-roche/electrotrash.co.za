@@ -9,7 +9,7 @@ thumbnail: '/wp-content/uploads/2011/03/audiophile0211-150x150.jpg'
 featured: '/wp-content/uploads/2011/03/audiophile0211-304x190.jpg'
 ---
 
-[![](/wp-content/uploads/2011/03/audiophile0211-e1300279239281.jpg "audiophile021")](/2011/03/16/new-artist-audiophile-021/audiophile021-2/)
+[![](/wp-content/uploads/2011/03/audiophile0211.jpg "audiophile021")](/2011/03/16/new-artist-audiophile-021/audiophile021-2/)
 
 Audiophile 021 is one of the artists that should have been on Electrotrash a long time ago, but ... Better late than never as they say! As the name implies Audiophile021 hails from the bass-loving city that is Cape Town. This talented producer is constantly pushing out new, glitchy and dirty beats, one wonders if he ever actually sleeps. For more info and links to his social media check out his [artist page here](/artists/audiophile021/)!
 

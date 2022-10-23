@@ -9,7 +9,7 @@ thumbnail: '/wp-content/uploads/2011/02/Red-Bull-Studio-CD-2-150x150.jpg'
 featured: '/wp-content/uploads/2011/02/Red-Bull-Studio-CD-2-304x190.jpg'
 ---
 
-[![](/wp-content/uploads/2011/02/Red-Bull-Studio-CD-2-e1297351576367.jpg "Red Bull Studio CD 2")](/2011/02/10/red-bull-studio-sessions-2-launch/red-bull-studio-cd-2/) After a rocking first instalment, the Red Bull Studio's vaults have once again been opened to the public with the release of The Red Bull Studio Sessions 02 presented by Richard the Third.
+[![](/wp-content/uploads/2011/02/Red-Bull-Studio-CD-2.jpg "Red Bull Studio CD 2")](/2011/02/10/red-bull-studio-sessions-2-launch/red-bull-studio-cd-2/) After a rocking first instalment, the Red Bull Studio's vaults have once again been opened to the public with the release of The Red Bull Studio Sessions 02 presented by Richard the Third.
 
 2010 was the year the Red Bull Studio in Cape Town got its swagger. Helping produce the internationally acclaimed debut by Spoek Mathambo, 'Mshini Wam', hosting Ill Skillz now legendary "Skillz that Pay the Billz" 24 hour music project and the discovery of the electronic musical genius of mild-mannered Oltak are but a few examples of the studio's prolific output.
 

@@ -9,7 +9,7 @@ thumbnail: '/wp-content/uploads/2011/03/Red-Bull-Music-Academy-Tokyo-2011-150x15
 featured: '/wp-content/uploads/2011/03/Red-Bull-Music-Academy-Tokyo-2011-304x190.jpg'
 ---
 
-[![](/wp-content/uploads/2011/03/Red-Bull-Music-Academy-Tokyo-2011-e1299771004494.jpg "Red Bull Music Academy Tokyo 2011")](/2011/03/10/under-a-month-until-rbma-application-window-closes/red-bull-music-academy-tokyo-2011/)
+[![](/wp-content/uploads/2011/03/Red-Bull-Music-Academy-Tokyo-2011.jpg "Red Bull Music Academy Tokyo 2011")](/2011/03/10/under-a-month-until-rbma-application-window-closes/red-bull-music-academy-tokyo-2011/)
 
 The Red Bull Music Academy takes place Tokyo from October 23 to November 4, and November 13 to November 25, 2011 and entries close on the 4th April 2011. To get a feel for what to expect at the Red Bull Music Academy, Workshops will be held around South Africa.
 

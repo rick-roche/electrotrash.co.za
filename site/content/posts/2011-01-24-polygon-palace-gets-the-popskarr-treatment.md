@@ -9,7 +9,7 @@ thumbnail: '/wp-content/uploads/2011/01/polygonpalacewehaveavisual-150x150.jpg'
 featured: '/wp-content/uploads/2011/01/polygonpalacewehaveavisual-304x190.jpg'
 ---
 
-[![](/wp-content/uploads/2011/01/polygonpalacewehaveavisual-e1295879539667.jpg "polygonpalacewehaveavisual")](/2011/01/24/polygon-palace-gets-the-popskarr-treatment/polygonpalacewehaveavisual/)
+[![](/wp-content/uploads/2011/01/polygonpalacewehaveavisual.jpg "polygonpalacewehaveavisual")](/2011/01/24/polygon-palace-gets-the-popskarr-treatment/polygonpalacewehaveavisual/)
 
 So I woke up around lunchtime to find this gem, fresh from being mastered, in my inbox. It comes of the second EP from Australian based Electro Duo [Polygon Palace](http://www.facebook.com/polygonpalace) entitled _We Have A Visual_, which apart from the this one features remixes by Human Life, Bubblegum Sci Fi and Pulsar.
 

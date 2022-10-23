@@ -9,7 +9,7 @@ thumbnail: '/wp-content/uploads/2011/03/designer-drugs-CPT-150x150.jpg'
 featured: '/wp-content/uploads/2011/03/designer-drugs-CPT-304x190.jpg'
 ---
 
-[![](/wp-content/uploads/2011/03/designer-drugs-CPT-e1300801891307.jpg "designer-drugs-CPT")](/2011/03/22/discotheque-presents-designer-drugs-usa/designer-drugs-cpt/)
+[![](/wp-content/uploads/2011/03/designer-drugs-CPT.jpg "designer-drugs-CPT")](/2011/03/22/discotheque-presents-designer-drugs-usa/designer-drugs-cpt/)
 
 Designer Drugs are coming! Yay! From the press release:
 
@@ -29,4 +29,4 @@ Designer Drugs are coming! Yay! From the press release:
 
  [Designer Drugs - For All We Know](http://soundcloud.com/designerdrugsmusic/designer-drugs-for-all-we-know) by [Designer Drugs Official](http://soundcloud.com/designerdrugsmusic)
 
-[![](/wp-content/uploads/2011/03/designer-drugs-JHB-e1300801938103.jpg "designer-drugs-JHB")](/2011/03/22/discotheque-presents-designer-drugs-usa/designer-drugs-jhb/)
+[![](/wp-content/uploads/2011/03/designer-drugs-JHB.jpg "designer-drugs-JHB")](/2011/03/22/discotheque-presents-designer-drugs-usa/designer-drugs-jhb/)

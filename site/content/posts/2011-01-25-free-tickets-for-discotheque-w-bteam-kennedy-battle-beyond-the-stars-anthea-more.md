@@ -9,7 +9,7 @@ thumbnail: '/wp-content/uploads/2011/01/28th-jan-150x150.jpg'
 featured: '/wp-content/uploads/2011/01/28th-jan-304x190.jpg'
 ---
 
-[![](/wp-content/uploads/2011/01/28th-jan-e1295989050299.jpg "28th-jan")](/2011/01/26/free-tickets-for-discotheque-w-bteam-kennedy-battle-beyond-the-stars-anthea-more/28th-jan/)
+[![](/wp-content/uploads/2011/01/28th-jan.jpg "28th-jan")](/2011/01/26/free-tickets-for-discotheque-w-bteam-kennedy-battle-beyond-the-stars-anthea-more/28th-jan/)
 
 [Discotheque](http://www.facebook.com/event.php?eid=124060950996819) is going to massive this Friday featuring [Bteam](http://www.facebook.com/beateam), [Kennedy](http://www.facebook.com/pages/Kennedy/121971254537082), [Anthea](http://www.antheamusic.com/), [Battle Beyond the Stars](http://www.facebook.com/battlebeyondthestars) and more! We have a pair of tickets to give away. All you need to do is mail us [freeshit@electrotrash.co.za](mailto:freeshit@electrotrash.co.za?Subject=Discotheque%2028%20Jan) and name one of the DJs playing on the night. Competition closes 27 Jan 23:59 CAT. Read on below to get a taste of what to expect!
 
