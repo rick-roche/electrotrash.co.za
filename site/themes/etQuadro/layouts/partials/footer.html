@@ -11,7 +11,15 @@
   <link rel="stylesheet" href="/css/widgets.css" type="text/css" media="screen" />
   <!-- <link rel="stylesheet" href="/css/comments.css" type="text/css" media="screen" /> -->
 
+  <script type="text/javascript" src="/js/jquery.easing.min.js"></script>
+  <script type="text/javascript" src="/js/jquery.lavalamp.js"></script>
 
+  {{ if eq .Kind "home" }}
+  <!-- this is only needed for the featured loader -->
+  <script type="text/javascript" src="/js/jquery.cycle.all.min.js"></script>
+  {{ end }}
+
+  <script type="text/javascript" src="/js/jquery/jquery.min.js?ver=3.6.0" id="jquery-core-js"></script>
 
   <!-- search -->
   <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lunr@2.3.8/lunr.min.js"></script>

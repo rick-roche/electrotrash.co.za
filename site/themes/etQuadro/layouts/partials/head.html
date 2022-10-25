@@ -5,21 +5,9 @@
 
   <title>{{ .Site.Title }}</title>
 
-  <!-- many things -->
+  <!-- needs to be in header - jQuery -->
   <script type="text/javascript" src="/js/jquery-1.2.6-packed.js"></script>
-  <!-- menu -->
-  <script type="text/javascript" src="/js/jquery.easing.min.js"></script>
-  <!-- many things -->
-  <script type="text/javascript" src="/js/jquery.lavalamp.js"></script>
-
   <script type="text/javascript" src="/js/menu-hover.js"></script>
-  {{ if eq .Kind "home" }}
-  <!-- this is the featured loader -->
-  <script type="text/javascript" src="/js/jquery.cycle.all.min.js"></script>
-  <!-- also featured images -->
-  {{ end }}
-
-  <script type="text/javascript" src="/js/jquery/jquery.min.js?ver=3.6.0" id="jquery-core-js"></script>
 
   <!-- <link
     rel="stylesheet"
