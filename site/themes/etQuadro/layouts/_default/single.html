@@ -16,8 +16,9 @@
       {{ end }}
       <div class="entry">{{ .Content }}</div>
       <div class="entry">
-        Tags:&nbsp;{{- with .Params.tags -}}
+        {{- with .Params.tags -}}
           {{- if ge (len .) 1 -}}
+            Tags:&nbsp;
             {{- range . -}}
               <a href="/tags/{{ . | urlize }}/">{{ title . }},</a>
             {{ end -}}
