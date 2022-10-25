@@ -1,6 +1,7 @@
 ---
-title: 'Free Tickets: Resident Advisor brings the Horizons Events to South Africa with World''s #1 DJ, Seth Troxler!'
+title: "Free Tickets: Resident Advisor brings the Horizons Events to South Africa with World's #1 DJ, Seth Troxler!"
 date: Thu, 06 Dec 2012 08:53:48 +0000
+url: /2012/12/06/free-tickets-resident-advisor-brings-the-horizons-events-to-south-africa
 draft: false
 authors: ["dirtyoldman"]
 tags: ["cape town", "competition", "free", "johannesburg", "Seth Troxler", "Ticket"]
