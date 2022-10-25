@@ -5,7 +5,7 @@ draft: false
 authors: ["dirtyoldman"]
 ---
 
-![GaZelle](/wp-content/uploads/2009/03/gazelle163eg3-200x300.jpg "GaZelle")
+![GaZelle](/wp-content/uploads/2009/03/gazelle163eg31-200x300.jpg "GaZelle")
 
 _There is more to Africa than Safari and Civil War….. We got dance music…. It is where dance music began anyway…._
 

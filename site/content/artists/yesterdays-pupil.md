@@ -1,5 +1,5 @@
 ---
-title: 'Yesterday&#039;s Pupil'
+title: "Yesterday's Pupil"
 date: Sun, 08 Feb 2009 22:08:14 +0000
 draft: false
 authors: ["Rick Disco"]

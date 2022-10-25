@@ -1,5 +1,5 @@
 ---
-title: 'Oceans &amp; Cities'
+title: 'Oceans & Cities'
 date: Sun, 08 Jun 2008 13:01:15 +0000
 draft: false
 authors: ["Rick Disco"]

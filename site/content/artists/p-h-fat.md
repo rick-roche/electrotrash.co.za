@@ -5,7 +5,7 @@ draft: false
 authors: ["dirtyoldman"]
 ---
 
-[![](/wp-content/uploads/2011/02/100617_PH_Fat_1048-e1298379679120.jpg "P.H.Fat")](/artists/p-h-fat/100617_ph_fat_1048/)
+[![](/wp-content/uploads/2011/02/100617_PH_Fat_1048.jpg "P.H.Fat")](/artists/p-h-fat/100617_ph_fat_1048/)
 
 [Facebook](http://soundcloud.com/phfat) [MySpace](http://www.myspace.com/phfatband) [Soundcloud](http://soundcloud.com/phfat)
 
