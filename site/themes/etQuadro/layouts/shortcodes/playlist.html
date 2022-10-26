@@ -13,17 +13,13 @@
     <a id="next" href="#next">Next &#x23ED;</a>
   </div>
 
-  {{ range $index, $link := $links }}
-  <div>
-      index:{{ $index }}
-      link:{{ $link }}
-      title:{{ index $titles $index }}
-  </div>
-  {{ end }}
-
   <ol id="playlist">
     {{ range $index, $title := $titles }}
+        {{ if eq $index 0 }}
+    <li class="active">
+        {{ else }}
     <li>
+        {{ end }}
       <a class="track" href="{{ index $links $index }}">{{ $title }}</a>
     </li>
     {{ end }}
@@ -35,3 +31,12 @@
 
 {{ $js := resources.Get "js/audio-player.js" | js.Build | minify }}
 <script type="text/javascript" src="{{ $js.Permalink }}"></script>
+
+
+{{ range $index, $link := $links }}
+<div>
+    index:{{ $index }}
+    link:{{ $link }}
+    title:{{ index $titles $index }}
+</div>
+{{ end }}
