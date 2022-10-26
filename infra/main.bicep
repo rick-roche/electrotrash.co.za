@@ -18,7 +18,7 @@ module sta 'storage-accounts.bicep' = {
 module bs 'blob-services.bicep' = {
   name: 'deploy-blob-${appName}'
   params: {
-    containerNames: [
+    publicContainerNames: [
       'music'
     ]
     storageAccountName: sta.outputs.storageAccountName
