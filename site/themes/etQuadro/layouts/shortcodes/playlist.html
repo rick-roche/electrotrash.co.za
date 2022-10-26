@@ -1,0 +1,34 @@
+<div class="playlist-container">
+  <audio id="player" preload="none" tabindex="0" controls></audio>
+
+  <h4 class="now-playing">
+    <div id="now-playing"></div>
+  </h4>
+
+  <div id="controls">
+    <a id="prev" href="#prev">&#x23EE; Previous</a>
+    <a id="next" href="#next">Next &#x23ED;</a>
+  </div>
+
+  <ol id="playlist">
+    <li class="active">
+      <a class="track" href="https://archive.org/download/calexico2006-12-02..flac16/calexico2006-12-02d1t02.mp3" data-artist="187 Lockdown" data-title="Gunman (Audiophile 021 Capped Remix)"
+        >Calexico - Across The Wire</a
+      >
+    </li>
+
+    <li>
+      <a class="track" href="https://archive.org/download/ra2007-07-21/ra2007-07-21d1t05_64kb.mp3" data-artist="Audiophile 021" data-title="Informer">Ryan Adams &amp; The Cardinals - Cold Rose</a>
+    </li>
+
+    <li>
+      <a class="track" href="https://archive.org/download/slac2002-02-15/slac2002-02-15d1t07_64kb.mp3" data-artist="Audiophile 021" data-title="Interlude Dub No. 2">The Slackers - Married Girl</a>
+    </li>
+  </ol>
+</div>
+
+{{ $scss := resources.Get "sass/audio-player.scss" | resources.ToCSS | minify }}
+<link rel="stylesheet" href="{{ $scss.Permalink }}" />
+
+{{ $js := resources.Get "js/audio-player.js" | js.Build | minify }}
+<script type="text/javascript" src="{{ $js.Permalink }}"></script>

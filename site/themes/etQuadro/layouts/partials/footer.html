@@ -2,7 +2,7 @@
   <p id="sponsor">Copyright © 2022 electrotrash.co.za</p>
 
   {{ $css := resources.Match "css/*.css" | resources.Concat "theme/min.css" | minify }}
-  <link rel="stylesheet" href="{{ $css.Permalink }}">
+  <link rel="stylesheet" href="{{ $css.Permalink }}" />
 
   <script type="text/javascript" src="/js/jquery.easing.min.js"></script>
   <script type="text/javascript" src="/js/jquery.lavalamp.js"></script>
