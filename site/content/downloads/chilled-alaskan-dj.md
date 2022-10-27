@@ -1,5 +1,5 @@
 ---
-title: "Chilled Alaskan Dj"
+title: "Chilled Alaskan DJ"
 draft: false
 authors: ["Rick Disco"]
 ---

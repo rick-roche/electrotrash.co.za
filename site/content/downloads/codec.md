@@ -1,5 +1,5 @@
 ---
-title: "Codec"
+title: "CoDeC"
 draft: false
 authors: ["Rick Disco"]
 ---
