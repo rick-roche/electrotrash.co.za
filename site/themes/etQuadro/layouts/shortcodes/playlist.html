@@ -1,11 +1,13 @@
 <div class="playlist-container">
-  <audio id="player" preload="none" tabindex="0" controls></audio>
-
   {{ $links := split (.Get "links") "," }}
   {{ $titles := split (.Get "titles") "," }}
 
+  <audio id="player" preload="none" tabindex="0" controls>
+    <source src="{{ index $links 0 }}" type="audio/mpeg">
+  </audio>
+
   <h4 class="now-playing">
-    <div id="now-playing"></div>
+    <div id="now-playing">Now playing: {{ index $titles 0 }}</div>
   </h4>
 
   <div id="controls">
