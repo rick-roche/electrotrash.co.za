@@ -26,9 +26,6 @@
   </ol>
 </div>
 
-{{ $scss := resources.Get "sass/audio-player.scss" | resources.ToCSS | minify }}
-<link rel="stylesheet" href="{{ $scss.Permalink }}" />
-
 {{ $js := resources.Get "js/audio-player.js" | js.Build | minify }}
 <script type="text/javascript" src="{{ $js.Permalink }}"></script>
 
