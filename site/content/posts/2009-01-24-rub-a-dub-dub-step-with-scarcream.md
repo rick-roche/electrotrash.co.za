@@ -13,4 +13,6 @@ Dubstep isn't the biggest genre in South Africa but [ScarCream](/artists/scarcre
 
 The join us as our latest [Featured Artist](/artists/ "electrotrash Artists")! Horay! Read more about them [here](/artists/scarcream "ScarCream") and then grab some free tunes below, or in our [Downloads](/downloads "electrotrash Downloads") section [here](/downloads "electrotrash Downloads")!
 
-\[download#73#nohits\] \[download#74#nohits\]
+{{< playlist
+    links="https://stetcoza.blob.core.windows.net/music/scarcream/scarcream_-_bad_house_music.mp3,https://stetcoza.blob.core.windows.net/music/scarcream/scarcream_-_sangoma.mp3"
+    titles="ScarCream - Bad House Music,ScarCream - Sangoma" >}}

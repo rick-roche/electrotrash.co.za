@@ -15,6 +15,8 @@ So the first [Yesterday's Pupil](/artists/yesterdays-pupil "Yesterday's Pupil") 
 
 Grab the track below! See more about Yesterday's Pupil [here](/artists/yesterdays-pupil "Yesterday's Pupil") and more of HAEZER [here](http://www.facebook.com/pages/HAEZER/24353086721 "HAEZER")! Let us know what you think!
 
-\[download#109#nohits\]
+{{< audio
+    src="https://stetcoza.blob.core.windows.net/music/yesterdays_pupil/yesterdays_pupil_-_poly_die_(haezer_rmx).mp3"
+    caption="Yesterday's Pupil - Poly Die (HAEZER Remix)" >}}
 
 ^5!

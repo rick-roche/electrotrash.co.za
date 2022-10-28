@@ -13,8 +13,14 @@ featured: '/wp-content/uploads/2009/03/phoenix_19011-304x190.jpg'
 
 I've been a bit slow this week and nearly let these two awesome tracks slip past me! Two of our most active artists have dropped off yet another track each... here they are:
 
-\[download#96#nohits\] - An awesome synth driven track from [CoDeC](/artists/codec "CoDeC")!
+An awesome synth driven track from [CoDeC](/artists/codec "CoDeC")!
+{{< audio
+    src="https://stetcoza.blob.core.windows.net/music/codec/codec_-_liberator_(the_sound_rework).mp3"
+    caption="CoDeC - Liberator (The Sound Rework)" >}}
 
-\[download#97#nohits\] - A great remix of an already fantastic track, thanks [DJ Lapse](/artists/dj-lapse "DJ Lapse")! Grab the original [here](http://www.wearephoenix.com "Phoenix")!
+A great remix of an already fantastic track, thanks [DJ Lapse](/artists/dj-lapse "DJ Lapse")! Grab the original [here](http://www.wearephoenix.com "Phoenix")!
+{{< audio
+    src="https://stetcoza.blob.core.windows.net/music/dj_lapse/phoenix_-_1901_(dj_lapse_remix).mp3"
+    caption="Phoenix - 1901 (DJ Lapse Remix)" >}}
 
 ^5!

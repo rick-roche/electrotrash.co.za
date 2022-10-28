@@ -23,15 +23,11 @@ All the music coming out of the studio will be available on the exclusive Red Bu
 
 Kicking things off is this Dubstep remix of DJ MX’s “Like I See You” featuring song bird Black Porcelain. While the original is a rolling South African house number, not really in line with Electrotrash’s vibe, the remix is a dark, asthmatic juggernaut that fits in perfectly with the meteorically rising Dubstep scene in Cape Town.
 
-\[download#167#nohits\] - _Soundcloud link, 13.8MB_
+{{< soundcloud 781594 >}}
 
-These tracks were recorded and produced during the Red Bull Music Academy Taster some months back at the studios. The taster, dubbed ‘A Third World Perspective’ saw 20 music minds from around South Africa come together to share knowledge with music greats such as Sipho Hotstix and Trevor Jackson for three days. To find out more about the taster, and to get the lowdown on the studios in general, head over to the Red Bull Studio Cape Town blog here – [www.redbullstudioza.com](http://www.redbullstudioza.com/)
+These tracks were recorded and produced during the Red Bull Music Academy Taster some months back at the studios. The taster, dubbed ‘A Third World Perspective’ saw 20 music minds from around South Africa come together to share knowledge with music greats such as Sipho Hotstix and Trevor Jackson for three days. To find out more about the taster, and to get the lowdown on the studios in general, head over to the Red Bull Studio Cape Town blog here – ~~[www.redbullstudioza.com](http://www.redbullstudioza.com/)~~
 
-Before I leave I would like to introduce one last musical innovation courtesy of the world’s biggest energy drink: Red Bull Music Academy Radio. An internet radio station, RBMA Radio has a catalogue on some of the most incredible artists making music in the world, I kid you not. As an example you can see this playlist embedded into this post below which you can actually simply play off this post.
-
-_RBMA Player Code:_
-
-
+Before I leave I would like to introduce one last musical innovation courtesy of the world’s biggest energy drink: Red Bull Music Academy Radio. An internet radio station, RBMA Radio has a catalogue on some of the most incredible artists making music in the world, I kid you not. ~~As an example you can see this playlist embedded into this post below which you can actually simply play off this post.~~
 
 A banging electrified mix from Crookers, a one on one Dubstep session featuring Benga and Skream and a live recording of electro-pop king, M83 should be enough to make you head over to [www.redbullmusicacademyradio.com](http://www.redbullmusicacademyradio.com/) to see what the deal is for yourselves.
 

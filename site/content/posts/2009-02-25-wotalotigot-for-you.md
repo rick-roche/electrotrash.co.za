@@ -13,12 +13,18 @@ featured: '/wp-content/uploads/2009/02/shotbeak-tdc-cover1-304x190.jpg'
 
 So here it is, another bumper addition of brand new South African electronica! First up, a new track from [Oceans & Cities](/artists/oceans-cities "Oceans & Cities"), keeping in his usual ambiant style.
 
-\[download#89#nohits\]
+{{< audio
+    src="https://stetcoza.blob.core.windows.net/music/oceans_&_cities/oceans_&_cities_-_not_any-more.mp3"
+    caption="Oceans & Cities - not. Any/More" >}}
 
-Secondly we have a remix that [DJ Lapse](/artists/dj-lapse "DJ Lapse") did of AC/DC's "Back In Black"
-
-\[download#94#nohits\]
+~~Secondly we have a remix that [DJ Lapse](/artists/dj-lapse "DJ Lapse") did of AC/DC's "Back In Black"~~
 
 And then lastly we have a new artist, [Shotbeak](/artists/shotbeak "Shotbeak"), up. He kindly sent us a 6 track E.P. as well as a 9 track album for your aural pleasure! Grab a track off each album below as a sampler, and if you like them head over to our [Downloads](/downloads "electrotrash Downloads") section [here](/downloads "electrotrash Downloads") to download both the albums!
 
-\[download#92#nohits\] \[download#93#nohits\]
+{{< audio
+    src="https://stetcoza.blob.core.windows.net/music/shotbeak/shotbeak_-_crag.mp3"
+    caption="Shotbeak - Crag" >}}
+
+{{< audio
+    src="https://stetcoza.blob.core.windows.net/music/shotbeak/shotbeak_-_new_bar.mp3"
+    caption="Shotbeak - New Bar" >}}

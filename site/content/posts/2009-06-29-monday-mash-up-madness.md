@@ -13,10 +13,14 @@ featured: '/wp-content/uploads/2009/06/3461_medium1-304x190.jpg'
 
 
 And now for something completely different...
-I've put together two bootlegs for you guys. The one is a little bit on the commercial side but might work on certain dancefloos, while the other is slightly less commercial and also not a dance floor banger although it depends on the party i guess :D
+I've put together two bootlegs for you guys. The one is a little bit on the commercial side but might work on certain dancefloors, while the other is slightly less commercial and also not a dance floor banger, although it depends on the party I guess :D
 
-\[download#131#nohits\]
+{{< audio
+    src="https://stetcoza.blob.core.windows.net/music/dirtyoldman/kid_kudi_vs_crookers_vs_mc_miker_g_&_deejay_sven_-_holiday_at_night_(dirtyoldman_bootie).mp3"
+    caption="Kid Kudi vs. Crookers vs. MC Miker G & Deejay Sven - Holiday at Night (dirtyoldman bootie)" >}}
 
-\[download#130#nohits\]
+{{< audio
+    src="https://stetcoza.blob.core.windows.net/music/dirtyoldman/beastie_boys_vs_roeyksopp_-_intergalatic_up_here_(dirtyoldman_bootie).mp3"
+    caption="Beastie Boys vs. Röyksopp - Intergalatic Up Here (dirtyoldman bootie)" >}}
 
-Check the video for the original "Holiday Rap" by MC Miker G & Deejay Sven!
+~~Check the video for the original "Holiday Rap" by MC Miker G & Deejay Sven!~~

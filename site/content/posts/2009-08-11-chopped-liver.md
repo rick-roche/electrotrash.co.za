@@ -13,4 +13,6 @@ featured: '/wp-content/uploads/2009/08/liver-live-4501-304x190.jpg'
 
 So we have a new artist up on the site... known as "Liver" he is from Cape Town and makes some slick beats... Glitch-hop / Downbeat / Breakbeat / Good beat! Read his profile over [here](/artists/liver "Liver") and grab a tune from him below, sit back and relax...
 
-\[download#139#nohits\]
+{{< playlist
+    links="https://stetcoza.blob.core.windows.net/music/liver/liver_-_smoking_the_hedge.mp3"
+    titles="Liver - Smoking The Hedge" >}}

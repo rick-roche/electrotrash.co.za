@@ -15,4 +15,4 @@ Amsterdam's [Don Diablo](http://www.myspace.com/dondiablo "Don Diablo on Myspace
 
 Grab the track below! Sexy summer Sunday music!
 
-\[download#152#nohits\] - _Mediafire link, 8.71 MB_
+~~_Mediafire link, 8.71 MB_~~

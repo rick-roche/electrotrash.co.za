@@ -17,4 +17,6 @@ Read more about the event [here](/2009/02/22/tites-02-the-assembly-cpt/ "T.I.T.E
 
 Grab a free track below to get you in the mood!
 
-\[download#88#nohits\]
+{{< audio
+    src="https://stetcoza.blob.core.windows.net/music/codec/codec_-_electron_(haezer_remix).mp3"
+    caption="CoDeC - Electron (HAEZER Remix)" >}}

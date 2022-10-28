@@ -13,11 +13,15 @@ Capetonian act Haezer has released their first music video! The video is for the
 
 Personally I prefer the song to the video... a pretty easy listening electro punk track... grab it...
 
-\[download#61#nohits\]
+{{< audio
+    src="https://stetcoza.blob.core.windows.net/music/haezer/haezer_-_sirens_in_the_night_(feat_jax_panik).mp3"
+    caption="HAEZER - Sirens In The Night (feat. Jax Panik)" >}}
 
-We also have a remix Haezer did of the Dirty Skirts track _Witches Bewitch Us_ for you! The remix is a banging rework of the original track, making it synth driven and pretty danceable. Put this on your ipod!
+We also have a remix Haezer did of the Dirty Skirts track _Witches Bewitch Us_ for you! The remix is a banging rework of the original track, making it synth driven and pretty danceable. Put this on your iPod!
 
-\[download#62#nohits\]
+{{< audio
+    src="https://stetcoza.blob.core.windows.net/music/haezer/the_dirty_skirts_-_witches_bewitch_us_(haezer_remix).mp3"
+    caption="The Dirty Skirts - Witches Bewitch Us (Haezer Remix)" >}}
 
 Remember, there is loads of free music in our [Downloads](/downloads "electrotrash Downloads") section!
 

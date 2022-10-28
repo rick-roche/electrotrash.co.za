@@ -27,6 +27,8 @@ The best part about it all is that all the content coming through the Red Bull M
 
 To get a taste of what's been going down at the studio, grab this download of [Moleke Mebembe](http://www.myspace.com/molekembembe "Moleke Mbembe on Myspace")'s ‘Killa Kat' featuring [Gazelle](/artists/gazelle/ "Gazelle"). It's a dark slow disco burner:
 
-\[download#126#nohits\]
+{{< audio
+    src="https://stetcoza.blob.core.windows.net/music/moleke_mbembe/moleke_mbembe_-_killa_kat_featuring_gazelle.mp3"
+    caption="Moleke Mbembe - Killa Kat featuring Gazelle" >}}
 
 Otherwise for more tunes from the studio head over to the blog at [www.redbullstudioscapetown.wordpress.com](http://www.redbullstudioscapetown.wordpress.com "Red Bull Studios Cape Town").

@@ -15,7 +15,9 @@ It's always great to get a new artist on the site, especially when it's someone 
 
 Grab a sample track below and read more about Myrid Ambre [here](/artists/myrid-ambre/ "Myrid Ambre")!
 
-\[download#166#nohits\]
+{{< audio
+    src="https://stetcoza.blob.core.windows.net/music/myrid_ambre/myrid_ambre_-_let_the_world_know.mp3"
+    caption="Myrid Ambre - Let The World Know" >}}
 
 Stephen has told me that the first person to guess who is doing the main vocals on the track will get a **FREE** copy of his album. So anybody, everybody, anywhere in the world... leave a comment below with your guess (when you leave the comment you have to leave an email address - we will contact you on that!) and if you are the first person to guess correctly, a free CD is yours!
 

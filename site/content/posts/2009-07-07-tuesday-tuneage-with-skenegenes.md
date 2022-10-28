@@ -13,6 +13,8 @@ featured: '/wp-content/uploads/2009/07/skengenes1-304x190.jpg'
 
 Grabbed this one from Skenegenes (AKA [Grave Danger](http://www.facebook.com/group.php?gid=72436332684 "Grave Danger Facebook Group")) on Sunday... What a rad track, been listening to it for two days straight. Mellow, well composed, awesome! Another _electrotrash_ approved goodie!
 
-\[download#137#nohits\]
+{{< playlist
+    links="https://stetcoza.blob.core.windows.net/music/grave_danger/skenegenes_-_kebarub.mp3"
+    titles="Skenegenes - Kebarub" >}}
 
 Take it easy ^5!

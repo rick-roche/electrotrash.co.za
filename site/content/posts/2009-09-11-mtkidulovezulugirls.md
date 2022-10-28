@@ -23,14 +23,24 @@ On  to the music. The album opens with the dreamy, aptly entitled _Lulluby_ \[si
 
 All in the album covers a large variety of emotions, rather than ‘genres’. The 11 tracks that form the album are a solid selection, which is further contextualised by the above mentioned comic. MtKidu have come a long way since playing in the basement of Horror Café at Secret Parties. If you love MtKidu, you will love this album. If you’ve never heard of MtKidu, but like music that doesn’t follow the same formula that is found in most genres’ I recommend checking it out. You can get the album at MtKidu live shows and you can order it through their website.
 
-Since everybody loves this one \[download#154#nohits\]
+Since everybody loves this one
+{{< audio
+    src="https://stetcoza.blob.core.windows.net/music/mtkidu/mtkidu_-_i_love_zulu_girls.mp3"
+    caption="MTKidu - I Love Zulu Girls" >}}
 
-And 'cause i love this one even more \[download#155#nohits\]
+And 'cause i love this one even more
+{{< audio
+    src="https://stetcoza.blob.core.windows.net/music/mtkidu/mtkidu_-_kool_klone_kid.mp3"
+    caption="MtKidu - Kool Klone Kid" >}}
 
 As part of their album launch, they got several artists to interpret their songs. Below are to of these ‘covers’: The first is by Givan Lötz, who takes _I love Zulu girls_ and changes into an acoustic guitar based folksy-buskeresque song.
 
-\[download#156#nohits\]
+{{< audio
+    src="https://stetcoza.blob.core.windows.net/music/mtkidu/givan_lotz_-_i_love_zulu_girls_(mtkidu_cover).mp3"
+    caption="Givan Lötz - I Love Zulu Girls (MTKidu Cover)" >}}
 
 Ola Kobak takes the already beautiful and sad _Forest Song_ and makes it even more so, creating a piano based ballad, which is bound to give you goose bumps.
 
-\[download#157#nohits\]
+{{< audio
+    src="https://stetcoza.blob.core.windows.net/music/mtkidu/ola_kobak_-_forest_song_(mtkidu_cover).mp3"
+    caption="Ola Kobak - Forest Song (MTKidu Cover)" >}}

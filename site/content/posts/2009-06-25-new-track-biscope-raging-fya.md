@@ -15,6 +15,8 @@ Got a new track in from the brothers Rumney... Biscope seems to be growing from 
 
 Let us know what you think!
 
-\[download#128#nohits\]
+{{< audio
+    src="https://stetcoza.blob.core.windows.net/music/biscope/biscope_-_raging_fya.mp3"
+    caption="Biscope - Raging Fya" >}}
 
 ^5!

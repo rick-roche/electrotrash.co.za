@@ -13,6 +13,6 @@ featured: '/wp-content/uploads/2009/08/6171_133532728474_133529193474_3151907_73
 
 Lapse is at it again! This time Brittish electro-pop sensation La Roux, led by the ginger-haired singer Elly Jackson and produced by Ben Langmaid, get their third single 'Bulletproof' remixed by one of our favourite Cape Town based remixers (now there is a sub-genre), DJ Lapse! Or is it just Lapse now? Doesn't matter, on to the music!
 
-\[download#138#nohits\]
+~~Removed~~
 
 This track is driven by sexy, yet simple keys that removes some of the urgency of the original, leaving behind a track that is smooth and sultry. The synths and claps that roll in and out add another layer that reminds you that, in the words of La Roux, "I'm having fun, don't put me down...".

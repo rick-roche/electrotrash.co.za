@@ -29,11 +29,10 @@
 {{ $js := resources.Get "js/audio-player.js" | js.Build | minify }}
 <script type="text/javascript" src="{{ $js.Permalink }}"></script>
 
-
-{{ range $index, $link := $links }}
+<!-- {{ range $index, $link := $links }}
 <div>
     index:{{ $index }}
     link:{{ $link }}
     title:{{ index $titles $index }}
 </div>
-{{ end }}
+{{ end }} -->

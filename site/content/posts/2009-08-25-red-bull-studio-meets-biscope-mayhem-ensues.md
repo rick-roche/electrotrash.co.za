@@ -13,11 +13,15 @@ featured: '/wp-content/uploads/2009/08/biscope-304x190.jpg'
 
 Our favourite urban dubsteppin, beats producing brotherly duo the Rumney brothers aka Biscope took advantage of some sick gear and the happy coincidence of both being down south to lay down 2 brand new tracks at the Red Bull Studio in Cape Town. As always Biscope bring us some bass heavy dubstep along with nod inducing beats.
 
-\[download#144#nohits\]
+{{< audio
+    src="https://stetcoza.blob.core.windows.net/music/biscope/biscope_-_down.mp3"
+    caption="Biscope - Down" >}}
 
 This slow burner, as the name suggests, features a deep grinding bass that just keeps dropping, well, down... The twittering synths in the background are a nice touch too!
 
-\[download#145#nohits\]
+{{< audio
+    src="https://stetcoza.blob.core.windows.net/music/biscope/biscope_-_its_going.mp3"
+    caption="Biscope - It's Going" >}}
 
 Slightly more uptempo, _It's going_ as the sample in it suggests goes crazy, with squelchy bass that seems to have been wrung out of the synths using sharp tools.
 

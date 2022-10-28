@@ -13,4 +13,6 @@ OMFG this track is bangin'! Richard drops off some dirty electro ready to get yo
 
 Give it a listen and tell us what you think? I'm thinking a white label release with a dirtyoldman edit on the flip would be an awesome idea...
 
-Download: \[download#33\]
+{{< audio
+    src="https://stetcoza.blob.core.windows.net/music/richard_the_third/richard_the_third_-_how_can_you_tell.mp3"
+    caption="Richard The Third feat. Bride Reunion - How Can You Tell" >}}

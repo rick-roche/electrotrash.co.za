@@ -15,10 +15,14 @@ Two AWESOME remixes from the Skene brothers aka Grave Danger. First up is a remi
 
 Grave Danger is now also a proud resident in our featured artist section... read more [here](/artists/grave-danger/ "Grave Danger")!
 
-\[download#142#nohits\]
+{{< playlist
+    links="https://stetcoza.blob.core.windows.net/music/grave_danger/princess_superstar_-_perfect_(grave_danger_remix).mp3"
+    titles="Princess Superstar - Perfect (Grave Danger Remix)" >}}
 
-\[download#143#nohits\]
+{{< playlist
+    links="https://stetcoza.blob.core.windows.net/music/grave_danger/status_iv_-_you_aint_really_down_(grave_danger_remix).mp3"
+    titles="Status IV - You Ain't Really Down (Grave Danger Remix)" >}}
 
-And as a bonus, here is a mediafire link to a Grave Danger mix: [http://www.mediafire.com/file/z3ymji3eydi/](http://www.mediafire.com/file/z3ymji3eydi/ "Grave Danger Mix")
+And as a bonus, here is a Mediafire link to a Grave Danger mix: [http://www.mediafire.com/file/z3ymji3eydi/](http://www.mediafire.com/file/z3ymji3eydi/ "Grave Danger Mix")
 
 Kick it! ^5!

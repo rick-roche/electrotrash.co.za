@@ -15,4 +15,6 @@ Monday morning... load this one up on your iPod for your drive to work... A bran
 
 Give it a listen and let us know what you think!
 
-\[download#153#nohits\]
+{{< audio
+    src="https://stetcoza.blob.core.windows.net/music/haezer/haezer_-_lui_die_klok.mp3"
+    caption="HAEZER - Lui Die Klok" >}}\

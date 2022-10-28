@@ -31,6 +31,10 @@ Read what he has to say about it after the jump! The mix is in our [downloads](/
 
 Thanks a lot to VEREVÜLFF for this mix! You can get a hold of him through his Facebook fan page... [here](http://www.new.facebook.com/pages/VEREVULFF/10136808689 "Verevulff Fan Page")!
 
-The mix can be found in our [downloads](/downloads "electrotrash Downloads") area or from this convenient link: \[download#46\] It is about 91mb large, but totally worth it!
+The mix can be found in our [downloads](/downloads "electrotrash Downloads") area or listen below. It is about 91mb large, but totally worth it!
+
+{{< audio
+    src="https://stetcoza.blob.core.windows.net/music/verevulff/verevuelff_-_atlantis_to_interzone_set.mp3"
+    caption="VEREV√úLFF - Atlantis to the Interzone mix" >}}
 
 Rick Disco ^5!

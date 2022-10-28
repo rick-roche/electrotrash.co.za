@@ -13,4 +13,8 @@ I have been really slow in getting this post up! A while ago Len Cockraft aka _H
 
 Len used to be the drummer for the band "[The Wild Eyes](http://www.thewildeyes.com "The Wild Eyes")", I was a big fan of them, so for me it is awesome to see someone from the band releasing some electro fun! Len is also involved in the [Daydream Nation](http://www.facebook.com/group.php?gid=19622978575 "Daydream Nation") parties that have been taking place at [The Assembly](http://www.theassembly.co.za "The Assembly") in Cape Town. I'm sure you will be hearing more about this swinger in the coming months!
 
-Grab the track below (or check our Downloads page!) \[download#53#nohits\]
+Grab the track below (or check our Downloads page!)
+
+{{< audio
+    src="https://stetcoza.blob.core.windows.net/music/hipless_couples/hipless_couples_-_just_fffuck.mp3"
+    caption="Hipless Couples - Just FFFuck" >}}

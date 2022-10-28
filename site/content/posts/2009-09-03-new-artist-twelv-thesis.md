@@ -15,4 +15,6 @@ We got a new artist up for you guys and it's none other than the super bass heav
 
 They also kindly sent us a copy of a super bouncy track called 'Games' which you can download below. It features lyrics that show their love for video games and a groovy bassline over some mid-tempo breaks. As a bonus it's in 320kbps nogal! Enjoy!
 
-\[download#151#nohits\]
+{{< audio
+    src="https://stetcoza.blob.core.windows.net/music/twelv_&_thesis/twelv_&_thesis_-_games.mp3"
+    caption="Twelv & Thesis - Games" >}}

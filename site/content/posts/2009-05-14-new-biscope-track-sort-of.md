@@ -15,7 +15,10 @@ I'm going to have to speak to Richard the Third because i'm a little confused. D
 
 [Biscope](/artists/biscope/), in case you didn't already know, consist of the Rumney Brothers aka Richard the Third and Twelv and in their own words produce "Dub Stepping Urban Beats and Pieces". This track is a "filthy dubstep bootleg" of Shimmy Shimmy Ya by ODB. Download it in its full 320kbps glory and prepare to get your headnod on... Oh Yeah!
 
-\[download#111#nohits\] (320kbps & 16Mb totally worth it!)
+(320kbps & 16Mb totally worth it!)
+{{< audio
+    src="https://stetcoza.blob.core.windows.net/music/biscope/biscope_-_ol_dirty_(shimmy_shimmy_ya_dubstep_remix).mp3"
+    caption="Biscope - Ol Dirty (Shimmy Shimmy Ya Dubstep Remix)" >}}
 
 Also visit our [Downloads](/downloads/) section for another Biscope track as well as a bunch of other tracks!
 

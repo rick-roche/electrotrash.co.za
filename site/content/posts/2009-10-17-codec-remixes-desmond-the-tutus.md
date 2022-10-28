@@ -15,5 +15,6 @@ Cape Town is a remix machine at the moment with awesome remixes of tracks coming
 
 Let us know what you think!
 
-\[download#164#nohits\]
-
+{{< audio
+    src="https://stetcoza.blob.core.windows.net/music/codec/desmond_&_the_tutu's_-_pictures_(codec_remix).mp3"
+    caption="Desmond & The Tutu's - Pictures (CoDeC Remix)" >}}

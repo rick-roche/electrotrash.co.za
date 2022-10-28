@@ -15,7 +15,13 @@ I got an email from these guys and after listening to the tracks, I had to share
 
 Grab the track and a remix below, go and check out their [website](http://www.nobodybeatsthedrum.com/ "Noboy Beats The Drum") as well as their [myspace](http://www.myspace.com/nobodybeatsthedrum "Noboy Beats The Drum"). I have also added the music video to the track which will make you wanna hop on a plane to go and see them live!
 
-\[download#168#nohits\] \[download#169#nohits\]
+{{< audio
+    src="https://stetcoza.blob.core.windows.net/music/nobody_beats_the_drum/nobody_beats_the_drum_-_purple_cactus.mp3"
+    caption="Nobody Beats The Drum - Purple Cactus" >}}
+
+{{< audio
+    src="https://stetcoza.blob.core.windows.net/music/nobody_beats_the_drum/nobody_beats_the_drum_-_purple_cactus_(dem_slackers_remix).mp3"
+    caption="Nobody Beats The Drum - Purple Cactus (Dem Slackers Remix)" >}}
 
 ^5!
 

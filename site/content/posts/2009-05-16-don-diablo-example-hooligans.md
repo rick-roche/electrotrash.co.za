@@ -17,6 +17,12 @@ A kind man from [Muzikology B.V.](http://www.muzikology.com/ "Muzikology B.V.") 
 
 The video is pretty rad, so give it a look! They also sent through links to download **SEVEN** different mixes of the track, one of which is a mash-up with [Daft Punk](http://www.daftpunk.com "Daft Punk")'s "Aerodynamic". Grab them below! Grab some album art for the tracks over [here](/wp-content/uploads/2009/05/dondiabloexamplehooligans.jpg "Don Diablo & Example - Hooligans")!
 
-\[download#112#nohits\] _(Mediafire link, 8.22MB)_ \[download#113#nohits\] _(Mediafire link, 8.29MB)_ \[download#114#nohits\] _(Mediafire link, 8.94MB)_ \[download#115#nohits\] _(Mediafire link, 8.45MB)_ \[download#116#nohits\] _(Mediafire link, 8.12MB)_ \[download#117#nohits\] _(Mediafire link, 6.18MB)_ \[download#118#nohits\] _(Mediafire link, 9.44MB)_
+~~_(Mediafire link, 8.22MB)_
+_(Mediafire link, 8.29MB)_
+_(Mediafire link, 8.94MB)_
+_(Mediafire link, 8.45MB)_
+_(Mediafire link, 8.12MB)_
+_(Mediafire link, 6.18MB)_
+_(Mediafire link, 9.44MB)_~~
 
 Take it easy! ^5!

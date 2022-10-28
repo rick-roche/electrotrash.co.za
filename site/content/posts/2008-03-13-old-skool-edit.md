@@ -13,4 +13,6 @@ Electro is a rather ambiguous term. Use it today and most people think of a sub-
 
 People such as [Afrika Bambaataa](//www.zulunation.com/afrika.html) have been credited for pioneering hip hop, but their influence on electronic music has been just as great. The recent trend featuring female rappers over simple electro-type is a case in point. Bam is the man, the father of the electro funk. I threw together i quick edit of his famous '82 track Planet Rock, dropping most of the rhymes.
 
-Download: \[download#32\]
+{{< audio
+    src="https://stetcoza.blob.core.windows.net/music/dirtyoldman/afrika_bambaataa_&_soulsonic_force_-_planet_rock_(dirtyoldman_dub_edit).mp3"
+    caption="Afrika Bambaata & Soulsonic Force - Planet Rock (dirtyoldman dub edit)" >}}

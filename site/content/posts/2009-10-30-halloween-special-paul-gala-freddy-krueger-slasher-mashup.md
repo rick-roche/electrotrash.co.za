@@ -17,7 +17,9 @@ Paul assures me that we will be hearing a lot more from him in the future, which
 
 The track - as the name suggests - is all about [Freddy Krueger](http://en.wikipedia.org/wiki/Freddy_Krueger "Freddy Krueger on Wikipedia"), features Mia on vocals and will make you wanna dance in your Halloween costume for the whole weekend! Oh yeah!
 
-\[download#171#nohits\]
+{{< audio
+    src="https://stetcoza.blob.core.windows.net/music/paul_gala/paul_gala_-_freddy_krueger_slasher_mashup.mp3"
+    caption="Paul Gala - Freddy Krueger Slasher Mashup" >}}
 
 ^5!
 

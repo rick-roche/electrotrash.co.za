@@ -13,4 +13,6 @@ featured: '/wp-content/uploads/2009/04/haezer-live1-304x190.jpg'
 
 [HAEZER](/artists/haezer "HAEZER") sent us a deliciously dirty electro track for you all to enjoy! Grab it below... let us know what you think!
 
-\[download#108#nohits\]
+{{< audio
+    src="https://stetcoza.blob.core.windows.net/music/haezer/haezer_-_smut_me.mp3"
+    caption="HAEZER - Smut Me" >}}

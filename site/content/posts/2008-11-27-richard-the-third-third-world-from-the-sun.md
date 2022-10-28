@@ -15,4 +15,6 @@ However, as a favour to us he sent us the dirty disco banger "Dancing with the D
 
 So in case that doesn't work, or you just never go out but love listening to banging electro here it is:
 
-\[download#60#nohits\]
+{{< audio
+    src="https://stetcoza.blob.core.windows.net/music/richard_the_third/richard_the_third_-_dancing_with_the_djs_girl.mp3"
+    caption="Richard TheThird - Dancing With The DJ's Girl " >}}

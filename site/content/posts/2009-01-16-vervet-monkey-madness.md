@@ -13,6 +13,8 @@ Richard Smith, AKA [KLIKTRAK](/artists/kliktrak "KLIKTRAK"), sent me some groovy
 
 Whatever that might mean I think it's pretty damn good. Grab two Vervet tracks below, get some KLIKTRAK from our [Downloads](/downloads "electrotrash Downloads") section as well and then check out the Vervet website [here](http://www.vervet.tv/ "Vervet.TV") and then add their Facebook music page [here](http://www.facebook.com/pages/Vervet/25643810825 "Vervet Facebook Page")!
 
-\[download#69#nohits\] \[download#70#nohits\]
+{{< playlist
+    links="https://stetcoza.blob.core.windows.net/music/vervet/vervet_-_cyanide.mp3,https://stetcoza.blob.core.windows.net/music/vervet/vervet_-_zone_fracture.mp3"
+    titles="Vervet - Cyanide,Vervet - Zone Fracture" >}}
 
 Take it easy ^5!

@@ -15,7 +15,9 @@ I think it's safe to say that when it comes to remixes, [DJ Lapse](/artists/dj-l
 
 The latest addition to his remix resumé is that of _Walking on a Dream_ by [Empire of the Sun](http://www.myspace.com/empireofthesunsound "Empire of the Sun on Myspace"). Adding a catchy bassline to the track and a favourite remix to my collection, be sure to check this one out!
 
-\[download#119#nohits\]
+{{< audio
+    src="https://stetcoza.blob.core.windows.net/music/dj_lapse/empire_of_the_sun_-_walking_on_a_dream_(dj_lapse_remix).mp3"
+    caption="Empire of the Sun - Walking on a Dream (DJ Lapse Remix)" >}}
 
 Grab some more from DJ Lapse in our [Downloads](/downloads "electrotrash Downloads") section!
 

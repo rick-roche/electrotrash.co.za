@@ -17,4 +17,6 @@ There is a new kid on the block for us to listen to... The duo want to keep thei
 
 Listen to it below and let us know!
 
-\[download#110#nohits\]
+{{< audio
+    src="https://stetcoza.blob.core.windows.net/music/machette_jacobite/machette_jacobite_-_left_difficulty.mp3"
+    caption="Machette Jacobite - Left Difficulty" >}}

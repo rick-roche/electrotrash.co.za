@@ -17,7 +17,9 @@ Grab the link to the track and read the comic after the jump!
 
 First download the song:
 
-\[download#85#nohits\]
+{{< audio
+    src="https://stetcoza.blob.core.windows.net/music/mtkidu/mtkidu_-_the_girl_who_does_not_exist.mp3"
+    caption="Mtkidu - The Girl Who Does Not Exist" >}}
 
 Then read the comic!
 
