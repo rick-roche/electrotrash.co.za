@@ -1,0 +1,65 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<script src=
+"https://cdnjs.cloudflare.com/ajax/libs/axios/0.19.2/axios.min.js">
+   </script>
+
+<script>
+    function download(url) {
+        rx=/[^\/]+.mp3/;
+        filename=rx.exec(url)[0];
+        axios({
+            url: url,
+            method: 'GET',
+            responseType: 'blob'
+    })
+    .then((response) => {
+           const url = window.URL
+           .createObjectURL(new Blob([response.data]));
+                  const link = document.createElement('a');
+                  link.href = url;
+                  link.setAttribute('download', filename);
+                  document.body.appendChild(link);
+                  link.click();
+    })}
+
+// https://stetcoza.blob.core.windows.net/music/dirtyoldman/afrika_bambaataa_&_soulsonic_force_-_planet_rock_%28dirtyoldman_dub_edit%29.mp3
+</script>
+
+<style>
+    .audio-container-center {
+        max-width: 45em;
+        text-align: center;
+    }
+
+    .audio-container-left {
+        text-align: left;
+    }
+
+    audio {
+        width: 100%;
+    }
+
+    /* figure {
+        display: block;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 40px;
+        margin-inline-end: 40px;
+    } */
+</style>
+
+{{ if .Get "link-only" }}
+<div class="audio-container-left">
+    <figcaption>{{ with .Get "caption" }}{{ . }}{{ end }}  {{ with .Get "src" }}<button onclick='download("{{ . | relURL }}")'><i class="fa fa-download"></i></button>{{ end }}</figcaption>
+</div>
+{{ else }}
+<figure class="audio-container-center">
+    <audio controls preload="{{ .Get "preload" | default "metadata" }}">
+    {{ with .Get "src" }}<source src="{{ . | relURL }}" type="audio/mpeg">{{ end }}
+    </audio>
+    <figcaption>{{ with .Get "caption" }}{{ . }}{{ end }}  {{ with .Get "src" }}<button onclick='download("{{ . | relURL }}")'><i class="fa fa-download"></i></button>{{ end }}</figcaption>
+</figure>
+{{ end }}
+
+
