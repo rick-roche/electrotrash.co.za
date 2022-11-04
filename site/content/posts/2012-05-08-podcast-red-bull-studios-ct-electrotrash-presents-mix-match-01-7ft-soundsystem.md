@@ -13,7 +13,7 @@ featured: '/wp-content/uploads/2012/05/mixmatchlogo-304x190.jpg'
 
 Red Bull Studios CT & Electrotrash presents Mix & Match - a exploration into the sonic influences of some of South Africas most interresting producers and DJs. This monthly podcast features a selection of their favourtite tracks along side self produced material, with the aim of highlighting and exposing new, as well as established electronic music artists and their interests.  This month we feature Cape Town based Dub producer 7FT giving us an introduction to Dub and Reggae music, as well as his new exploits as label manager. Listen out for exclusive tracks, unreleased material and some interresting tales of Dub.
 
-Download: \[download#327#nohits\]
+{{< soundcloud 45592064 >}}
 
 Tracklist:
 

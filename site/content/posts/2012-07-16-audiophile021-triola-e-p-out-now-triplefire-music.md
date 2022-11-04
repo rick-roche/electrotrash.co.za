@@ -13,3 +13,4 @@ featured: '/wp-content/uploads/2012/07/artworks-000025296994-qz8huv-original-304
 
 Audiophile021's latest release is entitled Triola, out now on Triplefire Music. A two track EP, which sees this Cape Town producer and DJ enter new territory. Unlike his other releases, this one is pure 4 on the floor techno goodness. Minimal and moody, the groove of the title track lies in the bassline. Slightly more uptempo and dancefloor oriented, _Red vs. Blue_ is another quality production. Preview the EP below and buy it on beatport!
 
+{{< soundcloud-playlist 2127500 >}}

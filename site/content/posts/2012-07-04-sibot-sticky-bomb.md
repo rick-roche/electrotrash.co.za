@@ -13,5 +13,4 @@ featured: '/wp-content/uploads/2012/07/artworks-000026098579-r0qcn8-original-304
 
 While Sibot is putting the finishing touches on his upcoming EP, Throw Away, he has decided to play Santa and give away a track. _Sticky Bomb_ is made for the dancefloor. Large, punchy drums with shuffled snares set the stage for the chopped bass and a pitch bent, fidgetesque lead. What really stands out are the rock 'n roll style fills that really tie the track together. Grab the track below.
 
-Download: \[download#340#nohits\]
-
+{{< soundcloud 51749177 >}}

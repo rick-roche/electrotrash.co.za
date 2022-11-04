@@ -15,5 +15,4 @@ Rebel Clef has just dropped off this gem of a remix. There isn't much I can say,
 
 > Flamingos Original, Martina Topley Bird Cover, Rebel Clef Remix. All instruments reprogrammed and performed by Rebel Clef.
 
-Download: \[download#342#nohits\]
-
+{{< soundcloud 52822785 >}}

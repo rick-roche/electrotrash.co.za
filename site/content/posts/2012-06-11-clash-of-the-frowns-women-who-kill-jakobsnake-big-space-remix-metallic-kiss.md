@@ -17,8 +17,10 @@ Women who kill takes a darker tone and leaves an eerie kind of bone chilling gui
 
 Jakbosnake comes at you straight to make your mind bug. From one side of the ear phones to the other he makes your head spin looking around while Lucifer’s bassline snakes around and rears it’s head in front of you. The beat keeps you in a trance and reminds you that if there was to be a heaven versus hell party, no one except harp playing, Mozart loving, snow flake motherfuckers would be trying to get down to Stevie Wonders ebony and ivory upstairs. HELL IS WHERE THE PARTY IS AT! Clash of the Frowns what side you standing on?
 
-\[download#332#nohits\]
+{{< soundcloud 47921017 >}}
 
-\[download#333#nohits\]
+{{< soundcloud 48798334 >}}
 
 Finally, Big Space has dropped not one, but two great remixes. Check 'em out below:
+
+{{< soundcloud-playlist 2087923 >}}

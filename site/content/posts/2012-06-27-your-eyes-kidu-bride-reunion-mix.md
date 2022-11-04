@@ -13,5 +13,4 @@ featured: '/wp-content/uploads/2012/06/artworks-000025685761-13blzi-original-304
 
 One third of the avant-garde audio/visual electro group MTKidu, Kidu is now producing solo. _Your Eyes_ features the vocals of Bride Reunion aka Louise Eksteen. With a definite Electroclash feel, complete with slightly distorted synth arps, washed out & chopped up vocals and a roland drum machine shuffling in the background, the nostalgia factor is high!
 
-Download: \[download#337#nohits\]
-
+{{< soundcloud 50945903 >}}

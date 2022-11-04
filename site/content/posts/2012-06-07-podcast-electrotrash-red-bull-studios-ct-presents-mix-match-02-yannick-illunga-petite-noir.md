@@ -13,9 +13,11 @@ featured: '/wp-content/uploads/2012/05/mixmatchlogo-304x190.jpg'
 
 Red Bull Studios CT & Electrotrash presents Mix & Match – a exploration into the sonic influences of some of South Africas most interresting producers and DJs. This monthly podcast features a selection of their favourtite tracks along side self produced material, with the aim of highlighting and exposing new, as well as established electronic music artists and their interests. This month we feature Cape Town based Popskarr vocalist, IamWaves, whose solo project, Petite Noir, is making waves (pun). Check it out and give it a listen!
 
-Download: \[download#331#nohits\]
+{{< soundcloud 48813151 >}}
 
-Tracklist: Editors - The Boxer
+Tracklist:
+
+Editors - The Boxer
 
 Morrissey - The Last of the International Playboys
 

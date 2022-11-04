@@ -11,5 +11,4 @@ featured: '/wp-content/uploads/2012/06/cs1509150-02a-big-304x190.jpg'
 
 [![](/wp-content/uploads/2012/06/cs1509150-02a-big.jpg "Ayoba")](/2012/06/26/schlachthofbronx-ayoba-ft-spoek-mathambo-gnucci-schlachthofbronx-150bpm-remix/cs1509150-02a-big/) Germany's Schlachthofbronx has just released a new remix for their single Ayoba featuring Spoek Mathambo and Gnucci. Although the single is from two years ago, it's still fresh as ever. High energy and vuvuzela's over a 4/4 beat. What more could you ask for?
 
-Download: \[download#337#nohits\]
-
+{{< soundcloud 50810150 >}}

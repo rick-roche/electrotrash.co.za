@@ -13,5 +13,5 @@ featured: '/wp-content/uploads/2012/06/artworks-000024189609-1c9c2d-original-304
 
 The Frown's now single, _Metallic Kiss_, gets the remix treatment courtesty of Audiophile 021, who takes it all the way back down to 110 bpm, delivering a remix that is reminiscent of 90s glitch. The bassline has a bit of funk to it, which contrasts nicely with the soft, whispy vocals. Now if someone can tell my why I think of Enigma when I hear the intro, I'd be grateful.
 
-Download \[download#330#nohits\]
+{{< soundcloud 48030164 >}}
 

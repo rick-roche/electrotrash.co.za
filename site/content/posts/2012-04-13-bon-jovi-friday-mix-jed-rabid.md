@@ -21,4 +21,28 @@ Listen to this mix by Cape Town based Bass producer Jed Rabid and let us know wh
 
 40 minute mix with 23 of my tracks from 2011.
 
-0:00 basik 1:50 revengenator 3:20 chapter ending 4:10 tie me down 6:20 assistant from the gods 7:40 stalker 9:00 inner jah 11:45 creep 13:30 silky 15:50 tasteless 17:00 wild at heart 19:45 misonceptions 21:15 midnight 23:30 death cola 25:00 plug in 26:45 serotonin 28:40 rumble in the jungle 30:00 kopy 31:50 hearts dissonance (melodik remix) 33:40 242am (featuring devstep) 35:20 takes drugs 36:45 noisy radical 38:10 inner jah (callan maart remix)
+{{< soundcloud 32422079 >}}
+
+0:00 basik \
+1:50 revengenator \
+3:20 chapter ending \
+4:10 tie me down \
+6:20 assistant from the gods \
+7:40 stalker \
+9:00 inner jah \
+11:45 creep \
+13:30 silky \
+15:50 tasteless \
+17:00 wild at heart \
+19:45 misonceptions \
+21:15 midnight \
+23:30 death cola \
+25:00 plug in \
+26:45 serotonin \
+28:40 rumble in the jungle \
+30:00 kopy \
+31:50 hearts dissonance (melodik remix) \
+33:40 242am (featuring devstep) \
+35:20 takes drugs \
+36:45 noisy radical \
+38:10 inner jah (callan maart remix)
