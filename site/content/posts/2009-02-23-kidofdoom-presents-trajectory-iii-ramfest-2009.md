@@ -17,4 +17,3 @@ Go and check out a video of Trajectory 2 over [here](http://www.youtube.com/watc
 
 [Check out the Facebook event for more](http://www.facebook.com/event.php?eid=49297300207 "Facebook Event")!
 
-\[ad#et-page\]

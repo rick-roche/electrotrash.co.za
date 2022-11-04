@@ -17,4 +17,3 @@ Where: The Go-Go Bar, Cnr Henry Nxumalo and Bree Streets, Newtown, Johannesburg
 
 [Check out the Facebook event for more details](http://www.new.facebook.com/event.php?eid=45624528908 "Facebook Event")!
 
-\[ad#et-page\]

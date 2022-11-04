@@ -15,4 +15,3 @@ Haezer, Orlando Doom and Hipless Couples! Oh yeah!
 
 [Check out Baseline Studio for more](http://www.baselinestudio.co.za/blog/?p=290 "Baseline Studio")! Or the [Facebook event](http://www.facebook.com/event.php?eid=44495811537 "Facebook Event")!
 
-\[ad#et-page\]

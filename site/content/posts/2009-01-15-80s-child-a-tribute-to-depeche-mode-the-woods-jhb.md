@@ -21,4 +21,3 @@ Where: The Woods, 66 Carr Street, Newtown, JHB Cost: Free!
 
 [Check out the Facebook event for more info](http://www.facebook.com/event.php?eid=56786894781 "Facebook Event")!
 
-\[ad#et-page\]

@@ -19,4 +19,3 @@ so stop acting like a bitch and put your hands up. nuff said.
 
 [Check out the Facebook event for more](http://www.facebook.com/event.php?eid=45226158282&ref=ts "Facebook Event")!
 
-\[ad#et-page\]

@@ -23,4 +23,3 @@ Digital Rockit’s website [www.digitalrockit.com](http://www.digitalrockit.com 
 
 Check out the Facebook event [here](http://www.facebook.com/event.php?eid=62540542309 "Facebook Event")!
 
-\[ad#et-page\]

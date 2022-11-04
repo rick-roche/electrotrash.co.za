@@ -73,4 +73,3 @@ It's a record that sounds unlike anything else around, edgy and original, but wi
 
 [Check out the Facebook event for more details](http://www.facebook.com/event.php?eid=75114841200 "Facebook Event")!
 
-\[ad#et-page\]

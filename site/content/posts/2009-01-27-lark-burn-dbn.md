@@ -17,4 +17,3 @@ The fourth leg of Lark's "Brave Tour 2009"!
 
 [Check out the Facebook event for more](http://www.facebook.com/event.php?&eid=76387570728 "Facebook Event")!
 
-\[ad#et-page\]

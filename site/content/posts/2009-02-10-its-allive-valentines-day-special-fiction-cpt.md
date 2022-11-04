@@ -21,4 +21,3 @@ IT'S ALLIVE!!!
 
 [Check out the Facebook event for more](http://www.facebook.com/event.php?eid=48071084567 "Facebook Event")!
 
-\[ad#et-page\]

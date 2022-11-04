@@ -23,4 +23,3 @@ Table Reservations: 012 430 3176
 
 [Check out the Facebook event here](http://www.facebook.com/event.php?eid=47226233785 "Facebook Event")!
 
-\[ad#et-page\]

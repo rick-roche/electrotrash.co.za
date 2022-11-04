@@ -17,4 +17,3 @@ Where: Go-Go Bar, Henry Nxumalo Street, JHB Cost: R40
 
 [Check out the Facebook event here](http://www.facebook.com/event.php?eid=31401667798 "Facebook Event")!
 
-\[ad#et-page\]

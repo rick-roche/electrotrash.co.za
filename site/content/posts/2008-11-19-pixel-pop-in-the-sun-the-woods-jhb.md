@@ -31,4 +31,3 @@ Where: The Woods (Old Fuel Cafe), 66 Car Street, Newtown, JHB Cost: FREE!
 
 [Check out the Facebook event](http://www.facebook.com/event.php?eid=35055923986 "Facebook Event")!
 
-\[ad#et-page\]

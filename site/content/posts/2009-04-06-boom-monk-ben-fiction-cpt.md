@@ -41,4 +41,3 @@ Supporting acts Fletcher, Mix n Blend and fellow Glasgow local Astroboy round ou
 
 Check out the Facebook event [here](http://www.facebook.com/event.php?eid=142213440423 "Facebook Event")!
 
-\[ad#et-page\]

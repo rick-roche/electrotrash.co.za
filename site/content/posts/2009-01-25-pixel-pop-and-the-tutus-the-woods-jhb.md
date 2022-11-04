@@ -41,4 +41,3 @@ Where: The Woods, 66 Carr Street, Newtown, Johannesburg Cost: Free!
 
 [Check out the Facebook event for more](http://www.facebook.com/event.php?eid=45160664626 "Facebook Event")!
 
-\[ad#et-page\]

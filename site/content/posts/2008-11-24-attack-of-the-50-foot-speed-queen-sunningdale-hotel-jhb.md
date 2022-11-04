@@ -15,4 +15,3 @@ Cortina Whiplash, The Shadowclub and Mtkidu!
 
 [Check out the Facebook event here](http://www.facebook.com/event.php?eid=51037525644 "Facebook Event")!
 
-\[ad#et-page\]

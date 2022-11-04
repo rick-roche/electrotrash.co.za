@@ -15,4 +15,3 @@ Where: The Woods, Cost: Free
 
 [Check out the Facebook event here](http://www.facebook.com/event.php?eid=37024253341 "Facebook Event")!
 
-\[ad#et-page\]

@@ -17,4 +17,3 @@ Where: Sunningdales Hotel, 88 Corlett Drive, JHB Cost: R30
 
 [Check out the Facebook event here](http://www.facebook.com/event.php?eid=40360232575 "Facebook Event")!
 
-\[ad#et-page\]

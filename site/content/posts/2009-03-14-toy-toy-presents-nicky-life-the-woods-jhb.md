@@ -25,4 +25,3 @@ e-mail: info@digitalrockit.com more info: [www.digitalrockit.com](http://www.dig
 
 Check out the Facebook event [here](http://www.facebook.com/event.php?eid=137351795124 "Facebook Event")!
 
-\[ad#et-page\]

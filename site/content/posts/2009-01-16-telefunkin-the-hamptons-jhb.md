@@ -25,4 +25,3 @@ _\*tune into Don’t Look Down’s Africa-wide, live DJ booth: Mon-Fri from 17h0
 
 [Check out the Facebook event for more](http://www.facebook.com/event.php?eid=43800624139 "Facebook Event")!
 
-\[ad#et-page\]

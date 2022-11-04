@@ -17,4 +17,3 @@ Mad, rad, eXtreme electro!
 
 [Check out the Facebook event here](http://www.facebook.com/event.php?eid=37402421394 "Facebook Event")!
 
-\[ad#et-page\]

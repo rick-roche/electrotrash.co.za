@@ -29,4 +29,3 @@ Where: Go-Go Bar, cnr bree and henry nxumalo, JHB Cost: R50 (book online at [htt
 
 [Check out the Facebook event](http://www.facebook.com/event.php?eid=46046675759 "Facebook Event")!
 
-\[ad#et-page\]

@@ -21,4 +21,3 @@ Where: The Bus Factory, 3 President Street, Newtown, JHB Cost: R80 for a doodler
 
 [Check out the Facebook event](http://www.facebook.com/event.php?eid=37528007609 "Facebook Event")!
 
-\[ad#et-page\]

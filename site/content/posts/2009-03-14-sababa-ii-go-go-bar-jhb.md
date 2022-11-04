@@ -21,4 +21,3 @@ Check out [www.jhblive.com/sababa](http://www.jhblive.com/sababa "Sababa (JHBLiv
 
 Check out the Facebook event [here](http://www.facebook.com/event.php?eid=56294047012 "Facebook Event")!
 
-\[ad#et-page\]

@@ -25,4 +25,3 @@ White Denim. Black Disco. Grey Area.
 
 [Check out the Facebook event for more](http://www.facebook.com/event.php?eid=46758009437 "Facebook Event")!
 
-\[ad#et-page\]

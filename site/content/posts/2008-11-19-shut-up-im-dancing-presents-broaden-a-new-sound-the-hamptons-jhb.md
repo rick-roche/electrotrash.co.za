@@ -23,4 +23,3 @@ Where: The Hamptons (old Sublime / Miami), 130, 11th Street, Benmore, JHB
 
 [Check out the Facebook event](http://www.facebook.com/event.php?eid=35470158623 "Facebook Event")!
 
-\[ad#et-page\]

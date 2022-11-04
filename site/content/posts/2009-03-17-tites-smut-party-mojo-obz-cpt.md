@@ -23,4 +23,3 @@ Get ready for more dirty electro. **AND WE HAVE A SURPRISE FOR THE LADIES...**
 
 Chck out the Facebook event [here](http://www.facebook.com/event.php?eid=54791889916 "Facebook Event")!
 
-\[ad#et-page\]

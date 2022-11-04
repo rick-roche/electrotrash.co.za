@@ -19,4 +19,3 @@ R.O.A.R Dress Code: Make an effort! No Jock Attire, No Popped Collars.
 
 Check out the Facebook group [here](http://www.facebook.com/group.php?gid=50074388171 "Facebook Group") for more details!
 
-\[ad#et-page\]

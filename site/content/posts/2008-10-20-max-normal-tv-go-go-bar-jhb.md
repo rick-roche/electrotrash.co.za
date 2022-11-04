@@ -15,4 +15,3 @@ Go check out Max Normal.TV, live in JHB!
 
 [Check out the Facebook event for more details](http://www.facebook.com/event.php?eid=44885661008 "Facebook Event")!
 
-\[ad#et-page\]

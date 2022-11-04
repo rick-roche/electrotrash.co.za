@@ -27,4 +27,3 @@ ROAR Dress Code: Make an effort!
 
 [Check out the Facebook event for more details](http://www.facebook.com/event.php?eid=58310108221 "Facebook Event")!
 
-\[ad#et-page\]

@@ -21,4 +21,3 @@ It's fun and not quite a real job. Beat that for a living.
 
 Check out the Facebook event [here](http://www.facebook.com/event.php?eid=29294919977 "Facebook Event")!
 
-\[ad#et-page\]

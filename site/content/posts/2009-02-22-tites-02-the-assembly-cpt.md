@@ -19,6 +19,6 @@ the sound codec battle beyond the stars(phil kramer) dj lapse birdlife dj's haez
 
 Check out www.tites.co.za for more!
 
-\[ad#et-page\]
+
 
  [![T.I.T.E.S. 02](/wp-content/uploads/2009/02/tites02-200x300.jpg "T.I.T.E.S. 02") _Click for a larger version!_](/wp-content/uploads/2009/02/tites02.jpg)

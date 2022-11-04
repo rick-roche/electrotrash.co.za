@@ -15,4 +15,3 @@ The final show of Lark's "Brave Tour"!
 
 [Keep an eye on the Facebook event for more details](http://www.facebook.com/event.php?eid=71051604072 "Facebook Event")!
 
-\[ad#et-page\]

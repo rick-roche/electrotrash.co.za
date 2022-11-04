@@ -17,4 +17,3 @@ More on Yesterday's Pupil [here](/artists/yesterdays-pupil "Yesterday's Pupil").
 
 [Check out the Facebook event fomr more details](http://www.facebook.com/event.php?eid=55543097674 "Facebook Event")!
 
-\[ad#et-page\]

@@ -29,4 +29,3 @@ Info: skater@iburst.co.za / 084 555 2694
 
 URL: [http://www.facebook.com/home.php#/group.php?gid=44639920298](http://www.facebook.com/home.php#/group.php?gid=44639920298 "Facebook Event")
 
-\[ad#et-page\]

@@ -35,4 +35,3 @@ Where: Fiction, 226 Long Street, Cape Town Cost: R30
 
 [Check out the Facebook event for more](http://www.facebook.com/event.php?eid=54547391554 "Facebook Event")!
 
-\[ad#et-page\]

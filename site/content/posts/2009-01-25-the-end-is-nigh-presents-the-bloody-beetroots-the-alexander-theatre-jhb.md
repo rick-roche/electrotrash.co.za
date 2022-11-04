@@ -23,4 +23,3 @@ Secure parking at the Liberty Life Parkade.
 
 [Check out the Facebook event for more](http://www.facebook.com/event.php?eid=46946842676 "Facebook Event")!
 
-\[ad#et-page\]

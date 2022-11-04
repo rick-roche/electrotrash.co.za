@@ -27,4 +27,3 @@ Where: The Alexander Theatre, 36 Stiemens Street, Braamfontein. Cost: Unsure
 
 [Check out the Facebook event here](http://www.facebook.com/event.php?eid=29152624647 "Facebook Event")!
 
-\[ad#et-page\]

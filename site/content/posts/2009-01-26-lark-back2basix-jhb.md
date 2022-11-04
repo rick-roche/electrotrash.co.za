@@ -21,4 +21,3 @@ PRESOLD TICKETS WILL BE AVAILABLE FROM BACK2BASIX FROM TUESDAY 3 FEB @ R80 PER P
 
 [Check out the Facebook event for more details](http://www.facebook.com/event.php?&eid=46397272950 "Facebook Event")!
 
-\[ad#et-page\]

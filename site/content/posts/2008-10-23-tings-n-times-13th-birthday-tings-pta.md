@@ -19,4 +19,3 @@ Nul 19h30 Yesterdays Pupil 20h45 KIDOFDOOM 22h00 Bed On Bricks 23h15 Tidal Waves
 
 [Check out the Facebook event here](http://www.facebook.com/event.php?eid=36569686494 "Facebook Event")!
 
-\[ad#et-page\]

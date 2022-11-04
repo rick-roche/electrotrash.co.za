@@ -19,4 +19,3 @@ R.O.A.R Dress Code: Make an effort! Buy 1 get 1 Free before 22h00
 
 Check out the Facebook event [here](http://www.facebook.com/event.php?eid=78133153915 "Facebook Event") for more!
 
-\[ad#et-page\]

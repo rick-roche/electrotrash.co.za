@@ -19,4 +19,3 @@ First band starts at 21:00!
 
 [Check out the Facebook event for more details](http://www.facebook.com/event.php?eid=60421405994 "Facebook Event")!
 
-\[ad#et-page\]

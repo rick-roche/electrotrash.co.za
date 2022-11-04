@@ -37,4 +37,3 @@ No More Corruption! No More Injustice! No More Shit Music!
 
 [Check out the Facebook event for more details](http://www.facebook.com/group.php?gid=4042856794 "Facebook Event")!
 
-\[ad#et-page\]

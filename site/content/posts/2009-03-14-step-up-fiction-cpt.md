@@ -29,4 +29,3 @@ As always Butan Prizes and give aways.
 
 [Check out the Facebook event for more details](http://www.facebook.com/event.php?eid=56123274927 "Facebook Event")!
 
-\[ad#et-page\]

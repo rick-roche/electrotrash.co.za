@@ -37,4 +37,3 @@ We don't do deep, we don't do cheese and we do not take requests. If you want de
 
 [Check out the Facebook event for more details](http://www.facebook.com/event.php?eid=43298422897 "Facebook Event")!
 
-\[ad#et-page\]

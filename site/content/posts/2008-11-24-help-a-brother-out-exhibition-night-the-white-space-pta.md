@@ -26,4 +26,3 @@ Check out:
 *   [Facebook event](http://www.facebook.com/event.php?eid=41100471955 "Facebook Event")
 *   [Blogspot](http://helpabrotheroutexhibit.blogspot.com/ "Blog")
 
-\[ad#et-page\]

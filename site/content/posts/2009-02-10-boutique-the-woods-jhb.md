@@ -35,4 +35,3 @@ Smart Casual Streetwear-> Sneakers are fine. 'Rivonia-wear' discouraged. Door pe
 
 [Check out the Facebook event for more](http://www.facebook.com/event.php?eid=47800498470 "Facebook Event")!
 
-\[ad#et-page\]

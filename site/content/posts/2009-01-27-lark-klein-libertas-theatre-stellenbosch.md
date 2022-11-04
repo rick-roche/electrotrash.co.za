@@ -15,4 +15,3 @@ The second last show of Lark's "Brave Tour 2009"!
 
 [Keep checking the Facebook event for more details](http://www.facebook.com/event.php?&eid=45435559748 "Facebook Event")!
 
-\[ad#et-page\]

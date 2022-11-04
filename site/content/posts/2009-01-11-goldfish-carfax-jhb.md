@@ -23,4 +23,3 @@ Goldfish hit Jozi for a night of all your favourite Goldfish tunes plus some tas
 
 [Check out the Facebook event for more details](http://www.facebook.com/event.php?eid=56294258956 "Facebook Event")!
 
-\[ad#et-page\]

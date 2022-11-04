@@ -15,4 +15,3 @@ The party is featuring [Tigerstrike](http://www.myspace.com/wearetigerstrike "Ti
 
 [Check out the Facebook event here](http://www.facebook.com/event.php?eid=38886993402 "Facebook Event")!
 
-\[ad#et-page\]
