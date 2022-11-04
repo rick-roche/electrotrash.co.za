@@ -13,4 +13,4 @@ We want to know who your Top 5 favourite artists on the site are! We have **twen
 
 Click on "Read the rest of this entry" below to access the poll and vote now! All you have to do is select your five favourite artists from the list and click on Vote at the bottom of the post! The poll ends at midday on 1 February 2009!
 
-\[poll id="2"\]
+{{< wp-poll-2 >}}

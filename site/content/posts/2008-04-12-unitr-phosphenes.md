@@ -15,7 +15,9 @@ The album is 45mins of synth sexiness. Opening the album is their first single _
 
 So we wanted to post up a track or two from the album to give you guys a taste, but Unit.r's management said NO downloads, only streaming and feature _Daft_. Which is odd, 'cause if you click [here](http://www.unit-r.com/01_unit_r_daft.mp3), you can download the mp3 from unit-r.com... So I won't upload _The Rooftop_ for your listening pleasure, but instead offer you _Daft_ in streaming format. That means you're gonna have to buy the album, but don't worry, it's fuckin' great from start to finish and worth every cent. So do it, buy Phosphenes!
 
-\[audio:01\_unit\_r\_daft.mp3\] Stream Unit.r - Daft (_if you don't see the player above get the latest version of flash [here](http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash "flash player"), or try to not use Internet Explorer_, _try [firefox](http://www.firefox.com) instead_)
+{{< audio
+    caption="Unit.r - Daft"
+    src="http://www.unit-r.com/01_unit_r_daft.mp3" >}}
 
 **Links:**
 

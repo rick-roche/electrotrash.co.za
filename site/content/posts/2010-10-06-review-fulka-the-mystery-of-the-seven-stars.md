@@ -25,7 +25,6 @@ This is a warm, beautiful and engaging album that stands out for me as one of th
 
 Give them some Facebook love as well... [here](http://www.facebook.com/Fulkaband "Fulka on Facebook")! There are also **three tracks available for free** download from the album over at [fulka.bandcamp.com](http://fulka.bandcamp.com "fulka.bandcamp.com"), so go and check them out! _Previews below!_
 
-![](/wp-includes/js/tinymce/plugins/media/img/trans.gif ""quality":"high","allowScriptAccess":"always","allowNetworking":"always","wmode":"transparent","bgcolor":"#FFFFFF","src":"http://bandcamp.com/EmbeddedPlayer.swf/album=2913568363/size=venti/bgcol=FFFFFF/linkcol=4285BB/"")
+{{< bandcamp-album 2913568363 >}}
 
 ^5!
-
