@@ -26,11 +26,15 @@ The package contains mixes from:
 *   Oldsoundsnew
 *   [Moony](http://www.moony.it/ "Monny")
 
-**Release by: 3B1G Records** Release/catalogue number: 3B1G007 Release date: Sep 23, 2012
+**Release by: 3B1G Records**
+
+Release/catalogue number: 3B1G007
+
+Release date: Sep 23, 2012
 
 Have a listen to the remix on Soundcloud so long:
 
-\[soundcloud url="http://api.soundcloud.com/tracks/52596823" params="auto\_play=false&show\_artwork=false&color=ff7700" width="100%" height="166" iframe="true" /\]
+{{< soundcloud 52596823 >}}
 
 #### Stacey Jackson Online:
 

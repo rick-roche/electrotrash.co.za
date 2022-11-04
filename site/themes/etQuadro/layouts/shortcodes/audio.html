@@ -10,5 +10,3 @@
     <figcaption>{{ with .Get "caption" }}{{ . }}{{ end }}  {{ with .Get "src" }}<button onclick='downloadSong("{{ . | absURL }}")'><i class="fa fa-download"></i></button>{{ end }}</figcaption>
 </figure>
 {{ end }}
-
-

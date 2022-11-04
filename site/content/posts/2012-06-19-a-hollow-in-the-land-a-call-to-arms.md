@@ -23,9 +23,7 @@ This debut release is the first single off of a self-titled EP that is due to be
 
 Give it a listen and let us know what you think!
 
-Download: \[download#334#nohits\]
-
-\[soundcloud url="http://api.soundcloud.com/tracks/50057695" params="auto\_play=false&show\_artwork=true&color=ff7700" width="100%" height="166" iframe="true" /\]
+{{< soundcloud 50057695 >}}
 
 ^5!
 

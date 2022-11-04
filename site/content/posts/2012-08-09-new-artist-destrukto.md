@@ -17,25 +17,25 @@ He recently started producing alongside Koos Lubbe as MonoDestrukt... Have a lis
 
 ### MonoDestrukt Demo's
 
-**Download**: \[download#356#nohits\] \[soundcloud url="http://api.soundcloud.com/tracks/52585821" iframe="true" /\]
+{{< soundcloud 52585821 >}}
 
-**Download**: \[download#357#nohits\] \[soundcloud url="http://api.soundcloud.com/tracks/19614679" iframe="true" /\]
+{{< soundcloud 19614679 >}}
 
 ### Remixes
 
-**Download**: \[download#358#nohits\] \[soundcloud url="http://api.soundcloud.com/tracks/23402376" iframe="true" /\]
+{{< soundcloud 23402376 >}}
 
-**Download**: \[download#359#nohits\] \[soundcloud url="http://api.soundcloud.com/tracks/23401368" iframe="true" /\]
+{{< soundcloud 23401368 >}}
 
-**Download**: \[download#360#nohits\] \[soundcloud url="http://api.soundcloud.com/tracks/17763707" iframe="true" /\]
+{{< soundcloud 17763707 >}}
 
 ### Mixtapes
 
 Grab some mixtapes from Destrukto below!
 
-**Download**: \[download#361#nohits\]
+**Download**: ~~http://soundcloud.com/destruktorobots/bobs-15-june-test-4/download~~
 
-**Download**: \[download#362#nohits\]
+**Download**: ~~http://soundcloud.com/destruktorobots/destrukto-dub-sex-mix/download~~
 
 ^5!
 

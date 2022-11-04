@@ -7,6 +7,7 @@ tags: ["#5GumExperience", "A-trak", "remix competition"]
 categories: ["Gig Promotion", "Music", "remix competition"]
 thumbnail: '/wp-content/uploads/2012/10/843x403_REMIX_232-150x150.jpg'
 featured: '/wp-content/uploads/2012/10/843x403_REMIX_232-304x190.jpg'
+url: '/2012/10/19/produce-your-own-5gumexperience-remix-for-a-chance-to-meet-a-trak'
 ---
 
 [![](/wp-content/uploads/2012/10/843x403_REMIX_232.jpg "#5Gum Remix Competition")](/wp-content/uploads/2012/10/843x403_REMIX_232.jpg)
@@ -27,7 +28,7 @@ One can download the “A-Trak Money Makin’” stems in 2 ways:
 *   Download the zipped files via the following link: [http://bit.ly/5remixpack](http://bit.ly/5remixpack)
 *   Listen to & download the individual stems via a Soundcloud set:
 
-\[soundcloud url="http://api.soundcloud.com/playlists/2620765" params="auto\_play=false&show\_artwork=true&color=ff7700" width="100%" height="450" iframe="true" /\]
+{{< soundcloud-playlist 2620765 >}}
 
 Step 2: Submit Remix
 --------------------
@@ -39,5 +40,4 @@ Remixes need to be submitted via the following Soundcloud ["DropBox"](http://bit
 Step 3: Explore Remix
 ---------------------
 
-Once approved, remixes will be publicly available for listening, commenting and sharing through the following Soundcloud Group: [soundcloud.com/groups/5gum-contest/tracks](http://soundcloud.com/groups/5gum-contest/tracks)
-
+Once approved, remixes will be publicly available for listening, commenting and sharing through the following Soundcloud Group: [soundcloud.com/5gumsa/sets/5gumexperience-remix-contest](https://soundcloud.com/5gumsa/sets/5gumexperience-remix-contest)

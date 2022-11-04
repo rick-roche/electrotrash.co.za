@@ -26,13 +26,15 @@ Abstract distortion, imagine an **U**t**OP**ia of cartoon workers in a coco fact
 
 #### Listen
 
-\[soundcloud url="http://api.soundcloud.com/tracks/48381172" params="auto\_play=false&show\_artwork=true&color=ff7700" width="100%" height="166" iframe="true" /\]
+{{< soundcloud 48381172 >}}
 
-\[soundcloud url="http://api.soundcloud.com/tracks/48382214" params="auto\_play=false&show\_artwork=true&color=ff7700" width="100%" height="166" iframe="true" /\]
+{{< soundcloud 48382214 >}}
 
-\[soundcloud url="http://api.soundcloud.com/tracks/35662835" params="auto\_play=false&show\_artwork=true&color=ff7700" width="100%" height="166" iframe="true" /\]
+{{< soundcloud 35662835 >}}
 
 #### Buy
 
-**African Dope Records:** [http://shop.africandope.co.za/product.php?id\_product=100](http://shop.africandope.co.za/product.php?id_product=100 "Richard The Third - Left Of Center on African Dope Records") **Beatport:** [http://www.beatport.com/release/left-of-center/947545](http://www.beatport.com/release/left-of-center/947545 "Richard The Third - Left Of Center on BeatPort")
+**African Dope Records:** [http://shop.africandope.co.za/product.php?id\_product=100](http://shop.africandope.co.za/product.php?id_product=100 "Richard The Third - Left Of Center on African Dope Records")
+
+**Beatport:** [http://www.beatport.com/release/left-of-center/947545](http://www.beatport.com/release/left-of-center/947545 "Richard The Third - Left Of Center on BeatPort")
 
