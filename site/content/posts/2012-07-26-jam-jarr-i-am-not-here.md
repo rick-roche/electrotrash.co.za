@@ -13,7 +13,10 @@ featured: '/wp-content/uploads/2012/07/artworks-000021793216-yussh1-original-304
 
 Jam Jarr's latest single _I Am Not Here_, gets the video treatment courtesy of Stacey Howell and Zoë McLean. Shot in Black and White, it features someone in a praying mantis outfit, a dog and the Jam Jarr crew, getting down in the forest, it has the B-Horror feel to it. Grab the single and check out the video below.
 
-Download: \[download#347#nohits\]
+{{< soundcloud 43410587 >}}
+
+{{< youtube id="uiphQ2r8ANY" class="youtube-container">}}
 
 You can listen to the entire EP below and download it in its entirety from the [African Dope Soundcloud Page](https://soundcloud.com/africandope/).
 
+{{< soundcloud-playlist 1876248 >}}

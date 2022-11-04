@@ -49,4 +49,7 @@ _Venue_: Loaded (Behind Carfax) _Price_: R100 @ Door _Information_: toytoy@digit
 
 For more details on Trevor Jackson, Playgroup and the tour, check out these links:
 
-[http://www.redbullmusicacademy.com](http://www.redbullmusicacademy.com "Red Bull Music Academy") [http://www.trevor-jackson.com](http://www.trevor-jackson.com "Trevor Jackson") [http://www.myspace.com/playgroup](http://www.myspace.com/playgroup "Playgroup on Myspace") [http://sshadoworkss.co.za](http://sshadoworkss.co.za "Sshadoworkss")
+[http://www.redbullmusicacademy.com](http://www.redbullmusicacademy.com "Red Bull Music Academy") \
+[http://www.trevor-jackson.com](http://www.trevor-jackson.com "Trevor Jackson") \
+[http://www.myspace.com/playgroup](http://www.myspace.com/playgroup "Playgroup on Myspace") \
+[http://sshadoworkss.co.za](http://sshadoworkss.co.za "Sshadoworkss")

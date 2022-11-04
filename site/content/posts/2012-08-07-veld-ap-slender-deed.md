@@ -13,9 +13,9 @@ featured: '/wp-content/uploads/2012/08/artworks-000027710335-qlmqga-original-304
 
 Jozi based producer [Veld](https://soundcloud.com/veld) makes beautiful electronic music. More recently his focus has been on the deeper side of house as his two productions _AP Slender_ and _a deed_ show. The off-time wobble over a deep gro0ve of _AP Slender_ will make it a dance floor favourite.
 
-Download: \[download#353#nohits\]
+Download: ~~https://soundcloud.com/veld/ap-slender/download~~
 
 The afro-tech rythms of _a deed_ make it more upbeat, but vicious synth stabs and a slightly detuned organ leave you feeling slightly unsettled.
 
-Download: \[download#354#nohits\]
+Download: ~~https://soundcloud.com/veld/a-deed/download~~
 

@@ -29,4 +29,8 @@ From the [facebook event](http://www.facebook.com/event.php?eid=14405891756 "fac
 >
 > He can also be found every Friday night DJing at Apt. in New York’s meatpacking district.
 >
-> [http://www.dfarecords.com](http://www.dfarecords.com/) [http://www.beatsinspace.net](http://www.beatsinspace.net/) [http://www.myspace.com/beatsinspace](http://www.myspace.com/beatsinspace) [http://sshadoworkss.co.za/](http://sshadoworkss.co.za/) [http://sportscene.co.za/](http://sportscene.co.za/)
+> [http://www.dfarecords.com](http://www.dfarecords.com/) \
+[http://www.beatsinspace.net](http://www.beatsinspace.net/) \
+[http://www.myspace.com/beatsinspace](http://www.myspace.com/beatsinspace) \
+[http://sshadoworkss.co.za/](http://sshadoworkss.co.za/) \
+[http://sportscene.co.za/](http://sportscene.co.za/)

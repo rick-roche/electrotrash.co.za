@@ -13,5 +13,4 @@ featured: '/wp-content/uploads/2012/07/kondo-khr-2-hv-304x190.jpg'
 
 Pure Solid has been producing quality Dub riddims at a relentless pace. While his music is without a doubt _solid_ on its' own, watching a perfomance with live visuals takes it to the next level. Check out Pure Solid on [Soundcloud](https://soundcloud.com/pure-solid) for more great tunes.
 
-Download: \[download#344#nohits\]
-
+{{< soundcloud 53015511 >}}

@@ -2,7 +2,7 @@
 title: 'The Frown - ä''-men Album Review!'
 date: Tue, 15 Nov 2011 08:21:45 +0000
 draft: false
-authors: ["narochelle"]
+authors: ["Little Rock"]
 tags: ["Amen", "Caroline Leisegang", "Eve Rakow", "Max Lehr", "Niall Bingham", "review", "The Frown", "Tim Apter", "Twyla Spiller"]
 categories: ["Music", "Music Video", "Reviews"]
 thumbnail: '/wp-content/uploads/2011/11/the_frown-amen_disc-150x150.jpg'

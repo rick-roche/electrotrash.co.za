@@ -25,10 +25,9 @@ R 60
 
 Doors open @ 9:30pm
 
-[http://www.facebook.com/rubadubSA](http://www.facebook.com/rubadubSA "RubADub") [http://twitter.com/rubadubsa](http://twitter.com/rubadubsa "Rubadub")
+[http://www.facebook.com/rubadubSA](http://www.facebook.com/rubadubSA "RubADub") \
+[http://twitter.com/rubadubsa](http://twitter.com/rubadubsa "Rubadub")
 
 Good luck!
-
-
 
 freeshit@electrotrash.co.za

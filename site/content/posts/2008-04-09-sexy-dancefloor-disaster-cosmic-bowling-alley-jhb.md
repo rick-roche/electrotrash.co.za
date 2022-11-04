@@ -13,7 +13,10 @@ Where: Cosmic Bowling Alley, 280, Corlett Drive, Bramley Gardens, inside Midways
 
 **Line Up:**
 
-[ANDREW THE DJ](http://www.facebook.com/pages/Andrew/10149926470 "Facebook Fan Page") [DATA TAKASHI](http://www.facebook.com/pages/Data-Takashi/7150180993?ref=s "Facebook Fan Page") [NIXON TAPES](http://www.facebook.com/pages/Nixon-Tapes/21749495236) [VEREVÜLFF](http://www.facebook.com/pages/VEREVULFF/10136808689?ref=s "Facebook Fan Page") (to be confirmed)
+[ANDREW THE DJ](http://www.facebook.com/pages/Andrew/10149926470 "Facebook Fan Page") \
+[DATA TAKASHI](http://www.facebook.com/pages/Data-Takashi/7150180993?ref=s "Facebook Fan Page") \
+[NIXON TAPES](http://www.facebook.com/pages/Nixon-Tapes/21749495236) \
+[VEREVÜLFF](http://www.facebook.com/pages/VEREVULFF/10136808689?ref=s "Facebook Fan Page") (to be confirmed)
 
 This will also be a taster for a new night out, SPACE INVADERS, being launched on the 26th of April at CCHQ!
 

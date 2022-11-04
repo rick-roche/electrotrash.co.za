@@ -2,7 +2,7 @@
 title: 'Review: Richard The Third - Left Of Center'
 date: Tue, 28 Aug 2012 09:59:50 +0000
 draft: false
-authors: ["narochelle"]
+authors: ["Little Rock"]
 tags: ["african dope", "Afro-dust", "bass", "cape town", "Kwaito", "Left Of Center", "richard the third", "The Ruffest"]
 categories: ["Music", "Releases", "Reviews"]
 thumbnail: '/wp-content/uploads/2012/08/richard-the-third-left-of-center-150x150.jpg'

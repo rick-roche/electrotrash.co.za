@@ -17,6 +17,11 @@ So we wanted to post up a track or two from the album to give you guys a taste, 
 
 \[audio:01\_unit\_r\_daft.mp3\] Stream Unit.r - Daft (_if you don't see the player above get the latest version of flash [here](http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash "flash player"), or try to not use Internet Explorer_, _try [firefox](http://www.firefox.com) instead_)
 
-**Links:** [unit-r.com](http://www.unit-r.com/) [unit.r on myspace](http://www.myspace.com/unitr)
+**Links:**
+
+[unit-r.com](http://www.unit-r.com/) \
+[unit.r on myspace](http://www.myspace.com/unitr)
 
 Check the video to _Clap_ after the jump
+
+{{< youtube id="KyWZrCBealA" class="youtube-container">}}

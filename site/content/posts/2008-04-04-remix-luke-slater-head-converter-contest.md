@@ -23,4 +23,8 @@ More detailed information about the contest can be found at www.foem.info
 
 FOEM is an independent A&R agency, promotion agency, licensing agency, talent resource and netlabel, founded in 2003 in Cologne. FOEM is driven by people in Germany, Holland, the UK, China, the USA and Romania. Many thousands of musicians belong to the community.
 
-**Links:** [www.foem.info](http://www.foem.info) [www.lukeslater.com](http://www.lukeslater.com) [www.mote-evolver.com](http://www.mote-evolver.com)
+**Links:**
+
+[www.foem.info](http://www.foem.info) \
+[www.lukeslater.com](http://www.lukeslater.com) \
+[www.mote-evolver.com](http://www.mote-evolver.com)

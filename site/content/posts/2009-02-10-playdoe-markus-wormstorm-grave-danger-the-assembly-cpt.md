@@ -17,10 +17,9 @@ FEAT: - Playdoe LIVE - Markus Wormstorm - Grave Danger
 
 DOORS 9pm
 
-[http://www.myspace.com/fuckplaydoe](http://www.myspace.com/fuckplaydoe) [http://www.myspace.com/markuswormstorm](http://www.myspace.com/markuswormstorm)
+[http://www.myspace.com/fuckplaydoe](http://www.myspace.com/fuckplaydoe) \
+[http://www.myspace.com/markuswormstorm](http://www.myspace.com/markuswormstorm)
 
 ROAR - NO U18's - I.D REQUIRED - NO WEAPONS
 
 [Check out the Facebook event for more](http://www.facebook.com/event.php?eid=45379473980 "Facebook Event")!
-
-\[ad#et-page\]

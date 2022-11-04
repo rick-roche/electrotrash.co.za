@@ -29,7 +29,10 @@ We have two sets of double tickets for Zombie Nation (UKW Records / Munich) LIVE
 >
 > Zombie Nation’s original and collaborative productions (as ZZT) have been remixed and reworked by the likes of Justice, Erol Alkan, DJ Mehdi, Étienne de Crécy, Yuksek, Siriusmo, Julio Bashmore, Boris Dlugosh, Hey Today!, Housemeister, Fukkk Off, Gesaffelstein, Proxy, Afrojack, Bart B More and Harvard Bass amongst others, and have also featured in all three volumes of the Radio Soulwax ‘Under The Covers’ series.
 >
-> Web: [www.zombienation.com](http://www.zombienation.com) [www.facebook.com/zombienation](http://www.facebook.com/zombienation) [www.twitter.com/zombienation](http://www.twitter.com/zombienation)
+> Web: \
+[www.zombienation.com](http://www.zombienation.com) \
+[www.facebook.com/zombienation](http://www.facebook.com/zombienation) \
+[www.twitter.com/zombienation](http://www.twitter.com/zombienation)
 >
 > \===== ABOUT: =====
 >
@@ -37,14 +40,28 @@ We have two sets of double tickets for Zombie Nation (UKW Records / Munich) LIVE
 >
 > \===== TICKETS =====
 >
-> Earlybird – R60 (via Webtickets [http://www.webtickets.co.za/event.aspx?itemid=379362606](http://www.webtickets.co.za/event.aspx?itemid=379362606)) Presold – R80 (via Webtickets [http://www.webtickets.co.za/event.aspx?itemid=379362606](http://www.webtickets.co.za/event.aspx?itemid=379362606)) Door – R100
+> Earlybird – R60 (via Webtickets [http://www.webtickets.co.za/event.aspx?itemid=379362606](http://www.webtickets.co.za/event.aspx?itemid=379362606)) \
+Presold – R80 (via Webtickets [http://www.webtickets.co.za/event.aspx?itemid=379362606](http://www.webtickets.co.za/event.aspx?itemid=379362606)) \
+Door – R100
 >
 > \==== MUSIC ====
 >
-> Zombie Nation – Forza [http://www.youtube.com/watch?v=T8ZydY0rgV8](http://www.youtube.com/watch?v=T8ZydY0rgV8) Zombie Nation – Radio Controlled [http://www.youtube.com/watch?v=xAX3lXREDx8](http://www.youtube.com/watch?v=xAX3lXREDx8) Zombie Nation – Radio Controlled (Hey Today! Remix) [http://www.youtube.com/watch?v=ztEXbZib8vs](http://www.youtube.com/watch?v=ztEXbZib8vs) Zombie Nation – Overshoot (DJ Mehdi Remix) [http://www.youtube.com/watch?v=2XaiF538uEg&feature=related](http://www.youtube.com/watch?v=2XaiF538uEg&feature=related) Zombie Nation – Tight (Étienne de Crécy Remix) [http://soundcloud.com/zombie-nation/zombie-nation-tight-etienne-de](http://soundcloud.com/zombie-nation/zombie-nation-tight-etienne-de) Zombie Nation – Chickflick (Boris Dlugosh Remix) - [http://soundcloud.com/borisfromhamburg/zombie-nation-chickflick-boris](http://soundcloud.com/borisfromhamburg/zombie-nation-chickflick-boris) Zombie Nation – Mystery Meat Affair (Shadow Dancer Remix) [http://soundcloud.com/turborecordings/mystery-meat-affair-shadow](http://soundcloud.com/turborecordings/mystery-meat-affair-shadow) Tiga – What You Need (Zombie Nation Remix) [http://www.youtube.com/watch?v=xiMO7Aun70c](http://www.youtube.com/watch?v=xiMO7Aun70c) Zombie Nation – Kernkraft 400 [http://www.youtube.com/watch?v=z5LW07FTJbI](http://www.youtube.com/watch?v=z5LW07FTJbI)
->
-> ZZT – The Worm [http://www.youtube.com/watch?v=UKEDSYo\_HMg](http://www.youtube.com/watch?v=UKEDSYo_HMg) ZZT – Work [http://www.youtube.com/watch?v=39DOunpMB9g](http://www.youtube.com/watch?v=39DOunpMB9g) ZZT – Vulkan Alarm [http://www.youtube.com/watch?v=djsMagqGLRw](http://www.youtube.com/watch?v=djsMagqGLRw) ZZT – Vulkan Alarm (Proxy Remix) [http://www.youtube.com/watch?v=6S8FaPXd-9E](http://www.youtube.com/watch?v=6S8FaPXd-9E) ZZT - Partys over Los Angeles [http://www.youtube.com/watch?v=0htU1wClPA4](http://www.youtube.com/watch?v=0htU1wClPA4) ZZT - Lower State of Consciousness (Justice Remix) [http://www.youtube.com/watch?v=GaW4kpNZfFY](http://www.youtube.com/watch?v=GaW4kpNZfFY) ZZT – Afrika (Gesaffelstein Remix) [http://www.youtube.com/watch?v=ajTGbis2X7A&feature=related](http://www.youtube.com/watch?v=ajTGbis2X7A&feature=related)
->
+> Zombie Nation – Forza [http://www.youtube.com/watch?v=T8ZydY0rgV8](http://www.youtube.com/watch?v=T8ZydY0rgV8) \
+> Zombie Nation – Radio Controlled [http://www.youtube.com/watch?v=xAX3lXREDx8](http://www.youtube.com/watch?v=xAX3lXREDx8) \
+> Zombie Nation – Radio Controlled (Hey Today! Remix) [http://www.youtube.com/watch?v=ztEXbZib8vs](http://www.youtube.com/watch?v=ztEXbZib8vs) \
+> Zombie Nation – Overshoot (DJ Mehdi Remix) [http://www.youtube.com/watch?v=2XaiF538uEg&feature=related](http://www.youtube.com/watch?v=2XaiF538uEg&feature=related) \
+> Zombie Nation – Tight (Étienne de Crécy Remix) [http://soundcloud.com/zombie-nation/zombie-nation-tight-etienne-de](http://soundcloud.com/zombie-nation/zombie-nation-tight-etienne-de) \
+> Zombie Nation – Chickflick (Boris Dlugosh Remix) - [http://soundcloud.com/borisfromhamburg/zombie-nation-chickflick-boris](http://soundcloud.com/borisfromhamburg/zombie-nation-chickflick-boris) \
+> Zombie Nation – Mystery Meat Affair (Shadow Dancer Remix) [http://soundcloud.com/turborecordings/mystery-meat-affair-shadow](http://soundcloud.com/turborecordings/mystery-meat-affair-shadow) \
+> Tiga – What You Need (Zombie Nation Remix) [http://www.youtube.com/watch?v=xiMO7Aun70c](http://www.youtube.com/watch?v=xiMO7Aun70c) \
+> Zombie Nation – Kernkraft 400 [http://www.youtube.com/watch?v=z5LW07FTJbI](http://www.youtube.com/watch?v=z5LW07FTJbI) \
+> ZZT – The Worm [http://www.youtube.com/watch?v=UKEDSYo\_HMg](http://www.youtube.com/watch?v=UKEDSYo_HMg) \
+> ZZT – Work [http://www.youtube.com/watch?v=39DOunpMB9g](http://www.youtube.com/watch?v=39DOunpMB9g) \
+> ZZT – Vulkan Alarm [http://www.youtube.com/watch?v=djsMagqGLRw](http://www.youtube.com/watch?v=djsMagqGLRw) \
+> ZZT – Vulkan Alarm (Proxy Remix) [http://www.youtube.com/watch?v=6S8FaPXd-9E](http://www.youtube.com/watch?v=6S8FaPXd-9E) \
+> ZZT - Partys over Los Angeles [http://www.youtube.com/watch?v=0htU1wClPA4](http://www.youtube.com/watch?v=0htU1wClPA4) \
+> ZZT - Lower State of Consciousness (Justice Remix) [http://www.youtube.com/watch?v=GaW4kpNZfFY](http://www.youtube.com/watch?v=GaW4kpNZfFY) \
+> ZZT – Afrika (Gesaffelstein Remix) [http://www.youtube.com/watch?v=ajTGbis2X7A&feature=related](http://www.youtube.com/watch?v=ajTGbis2X7A&feature=related) \
 > John Starlight – Shadowbreaker (Boys Noize Remix) [http://www.youtube.com/watch?v=jUaJUe6YKxU&feature=related](http://www.youtube.com/watch?v=jUaJUe6YKxU&feature=related)
 
 Good Luck! ^5!

@@ -13,3 +13,4 @@ featured: '/wp-content/uploads/2012/05/artworks-000017282882-xy121l-crop-304x190
 
 [Petite](https://www.facebook.com/petitenoir1) [Noir](http://soundcloud.com/petitenoir) is the solo project of Popskarr lead singer Iamwaves and as the name implies, is a little dark. His vocals are tinged with melancholy reminiscent of Joy Divisions' Ian Curtis. The video treatment reflects the akwardly honest nature of _Till We Ghosts_ subtle beauty. Check out the video below and let us know what you think:
 
+{{< youtube id="2s-aPbKecJg" class="youtube-container">}}
