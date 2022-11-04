@@ -23,6 +23,17 @@ Then he kindly made a mini-mix to let us know what to expect next week...
 
 ~~[HAEZER - Mini-Mix](http://www.zshare.net/audio/609055307ca5b52a/ "HAEZER Mini-Mix") (zShare link, 35.37MB)~~
 
-**Tracklisting:** 1. Show'em the bass(Acapella) 2. Will Smith - Fresh Prince Of Bel Air(Mustard Pimp Remix) 3.N.A.S.A - Gifted(Steve Aoki remix) 4.Zodiac Cartel - We Don't Play That(Aniki's Playground mix) 5.Messinian - Throw It Away(Designer Drugs remix) 6.Don Rimini - Rave On 7.Smashing Pumpkins - Zero Machine(Le Castle Vania remix) 8.Foamo - Everything Cool 9.The Bloody Beetroots - Warp(Blaze Tripp remix) 10.Rambrandt - Alarm
+**Tracklisting:**
+
+1. Show'em the bass(Acapella)
+2. Will Smith - Fresh Prince Of Bel Air(Mustard Pimp Remix)
+3. N.A.S.A - Gifted(Steve Aoki remix)
+4. Zodiac Cartel - We Don't Play That(Aniki's Playground mix)
+5. Messinian - Throw It Away(Designer Drugs remix)
+6. Don Rimini - Rave On
+7. Smashing Pumpkins - Zero Machine(Le Castle Vania remix)
+8. Foamo - Everything Cool
+9. The Bloody Beetroots - Warp(Blaze Tripp remix)
+10. Rambrandt - Alarm
 
 Don't miss him live! ^5!

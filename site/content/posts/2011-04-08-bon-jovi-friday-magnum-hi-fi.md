@@ -35,5 +35,5 @@ Tracklist:
 14. Battle For Middle You – Julio Bashmore
 15. Magnificent (Justin Martin’s No Heart and Soul Mix) – Iz And  Diz
 16. Don’t Turn The Lights On (Christian Martin Remix) – Chromeo
- 17. War Paint feat. Gina Mitchell (Claude VonStroke Remix) – Poxymuzic
- 18. Vocal Chords (DJ Version) – Claude VonStroke
+17. War Paint feat. Gina Mitchell (Claude VonStroke Remix) – Poxymuzic
+18. Vocal Chords (DJ Version) – Claude VonStroke

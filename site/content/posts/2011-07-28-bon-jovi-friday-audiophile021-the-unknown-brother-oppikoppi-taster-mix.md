@@ -17,5 +17,23 @@ OppiKoppi is next week and you know Electrotrash is going to be there! Our good 
 
 Track Listing
 
-1\. Nasty Nasty - Visions 2. Grime Syndicate - Two In The Trunk 3. Doshy - Redworm 4. Chase & Status - Hitz (Wretch 32 Remix) 5. Subvert - Speaker Humpin 6. Doshy - Lazer Blaster feat. Unik 7. Subvert - Unknown Virus 8. SFR - Burning Up 9. Ire - Boomblast (Hironimus Bosch Remix) 10. Ill-Esha - Only Fair (Unsub Remix) 11. Benny Page - Take You Back 12. DJ Madd - Murder 96 13. Benga - Transformers 14. Self Evident - The Celebration 15. Skrillex - Ruffneck (Flex) 16. Audiophile 021 - Interlude Dub No.2 (Callan Maart Remix) 17. Skism - Power 18. Chase & Status - Let You Go feat. Mali 19. SFR - Hows My Attack 20. Liquid Stranger - Bombaclaad Star
-
+1. Nasty Nasty - Visions
+2. Grime Syndicate - Two In The Trunk
+3. Doshy - Redworm
+4. Chase & Status - Hitz (Wretch 32 Remix)
+5. Subvert - Speaker Humpin
+6. Doshy - Lazer Blaster feat. Unik
+7. Subvert - Unknown Virus
+8. SFR - Burning Up
+9. Ire - Boomblast (Hironimus Bosch Remix)
+10. Ill-Esha - Only Fair (Unsub Remix)
+11. Benny Page - Take You Back
+12. DJ Madd - Murder 96
+13. Benga - Transformers
+14. Self Evident - The Celebration
+15. Skrillex - Ruffneck (Flex)
+16. Audiophile 021 - Interlude Dub No.2 (Callan Maart Remix)
+17. Skism - Power
+18. Chase & Status - Let You Go feat. Mali
+19. SFR - Hows My Attack
+20. Liquid Stranger - Bombaclaad Star

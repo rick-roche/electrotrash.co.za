@@ -33,47 +33,47 @@ The Red Bull Studio Live Stage at Oppikoppi 2012 plans to explore, educate, enth
 
 ####  Thursday:
 
-1. 13:00        Red Bull Studio presents Introspectum
-1. 17:30        MX Doppe’
-1. 19:00        SoulSista
-1. 20:30        2lani the Warrior
-1. 22:00        Oskido
-1. 23:30        Unsound System
-1. 01:00        Monique Pascall & T-Minus
-1. 02:30        Nick Grater
-1. 04:00        Offline
+- 13:00        Red Bull Studio presents Introspectum
+- 17:30        MX Doppe’
+- 19:00        SoulSista
+- 20:30        2lani the Warrior
+- 22:00        Oskido
+- 23:30        Unsound System
+- 01:00        Monique Pascall & T-Minus
+- 02:30        Nick Grater
+- 04:00        Offline
 
 #### Friday:
 
-1. 13:00        Fletcher
-1. 14:30        Raiko
-1. 16:00        Blotchy
-1. 17:30        Mr Sakitumi & Grrrl
-1. 18:30        Veranda Panda
-1. 19:30        Mix n Blend
-1. 21:00        PH Fat
-1. 21:45        Phizicist
-1. 22:45        Twelv & Thesis
-1. 23:30        Rudeone
-1. 00:30        Haezer
-1. 01:30        Baskerville
-1. 02:30        Killer Robot presents RAM
-1. 04:00        Offline
+- 13:00        Fletcher
+- 14:30        Raiko
+- 16:00        Blotchy
+- 17:30        Mr Sakitumi & Grrrl
+- 18:30        Veranda Panda
+- 19:30        Mix n Blend
+- 21:00        PH Fat
+- 21:45        Phizicist
+- 22:45        Twelv & Thesis
+- 23:30        Rudeone
+- 00:30        Haezer
+- 01:30        Baskerville
+- 02:30        Killer Robot presents RAM
+- 04:00        Offline
 
 #### Saturday:
 
-1. 13:00        Rebel Clef
-1. 14:30        Big Space
-1. 15:30        Terrence Pearce
-1. 16:30        Diggin 4 Dodge
-1. 18:00        Floyd Lavine
-1. 19:00        Marshall
-1. 20:00        The Frown
-1. 21:00        PHDJ
-1. 22:00        Sideshow
-1. 23:00        Sibot
-1. 00:00       Diplo
-1. 01:30        Das Kapital
-1. 02:30        Pascal & Pearce
-1. 03:30        Kid Fonque
-1. 05:00        Offline
+- 13:00        Rebel Clef
+- 14:30        Big Space
+- 15:30        Terrence Pearce
+- 16:30        Diggin 4 Dodge
+- 18:00        Floyd Lavine
+- 19:00        Marshall
+- 20:00        The Frown
+- 21:00        PHDJ
+- 22:00        Sideshow
+- 23:00        Sibot
+- 00:00       Diplo
+- 01:30        Das Kapital
+- 02:30        Pascal & Pearce
+- 03:30        Kid Fonque
+- 05:00        Offline

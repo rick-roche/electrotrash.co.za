@@ -23,4 +23,14 @@ He also put a little mix together to give you a taste of what to expect.  It so
 
 Tracklist:
 
-1\. Oliver $ Feat. MC Wesley - Subiu, Desceu 2. Jumping Back Slash - Imbuvu Beat 3. J-Wow - Sparks 4. Das Kapital - Ratanang 5. Daniel Haakman - Purr Na Na 6. MJ Cole - Flux Riddim 7. Busy Signal - Da Style Deh (Douster Dagga Remix) 8. Jumping Back Slash - Storms 9. JakobSnake - Axe Wound 10. The Ruffest - Siyabenzela 11. Edu K - Sentadinha (Featuring Bonde Das Preparadas)
+1. Oliver $ Feat. MC Wesley - Subiu, Desceu
+2. Jumping Back Slash - Imbuvu Beat
+3. J-Wow - Sparks
+4. Das Kapital - Ratanang
+5. Daniel Haakman - Purr Na Na
+6. MJ Cole - Flux Riddim
+7. Busy Signal - Da Style Deh (Douster Dagga Remix)
+8. Jumping Back Slash - Storms
+9. JakobSnake - Axe Wound
+10. The Ruffest - Siyabenzela
+11. Edu K - Sentadinha (Featuring Bonde Das Preparadas)

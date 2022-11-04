@@ -15,9 +15,14 @@ featured: '/wp-content/uploads/2010/08/haezer-rmx-304x190.jpg'
 
 The tracklisting is as follows:
 
-1\. Sean Terra - Mandrake(HAEZER RMX) 2. Ikki - Models(HAEZER RMX) 3. The Mastertrons - Fat man(HAEZER RMX) 4. Electro Ferris feat. Markus Lange & Denis Naidano - Sonnelicht(HAEZER RMX) 5. The Boomzers - WTF(HAEZER RMX) 6. HAEZER - Monkey 7. Noize Generation - Get the fuck up(HAEZER RMX)
+1. Sean Terra - Mandrake(HAEZER RMX)
+2. Ikki - Models(HAEZER RMX)
+3. The Mastertrons - Fat man(HAEZER RMX)
+4. Electro Ferris feat. Markus Lange & Denis Naidano - Sonnelicht(HAEZER RMX)
+5. The Boomzers - WTF(HAEZER RMX)
+6. HAEZER - Monkey
+7. Noize Generation - Get the fuck up(HAEZER RMX)
 
- [REMIX PREVIEWS](http://soundcloud.com/haezer/remix-previews) by [HAEZER](http://soundcloud.com/haezer)
+[REMIX PREVIEWS](http://soundcloud.com/haezer/remix-previews) by [HAEZER](http://soundcloud.com/haezer)
 
 Let him know which one is your favourite!
-

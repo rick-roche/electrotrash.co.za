@@ -25,6 +25,10 @@ Sovereign Academy
 
 Directions to Capitol Theater from Jozi - map to be uploaded soon:
 
-1\. Take the N1 North to PTA 2.about 2 and a halk KM after Lynwood turnoff take the N4 turnoff into city center 3. The N4 becomes Pretorius St 4. 8km after turning onto the N4/ Pretoius, turn right onto Parliment 5. It's Super easy!
+1. Take the N1 North to PTA
+2. about 2 and a halk KM after Lynwood turnoff take the N4 turnoff into city center
+3. The N4 becomes Pretorius St
+4. 8km after turning onto the N4/ Pretoius, turn right onto Parliment
+5. It's Super easy!
 
 [Facebook event is here](http://www.facebook.com/event.php?eid=22826877921 "Sovereign Academy Graduation")!

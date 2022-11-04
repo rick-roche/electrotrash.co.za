@@ -13,7 +13,30 @@ featured: '/wp-content/uploads/2012/03/audiophileatasteofthingstocomectemf-304x1
 
 With CTEMF just around the corner, Audiophile021 decided to put a mix together that showcases some of the new tracks he'll be playing out in the future. Hopping genre's, this mix features a variety of tracks to get your body moving. Crank it when you hit play!
 
+{{< soundcloud 40426943 >}}
+
 Tracklist:
 
-1\. Daega Sound - When Youre Dreaming 2. Brownz - Time For Change 3. Minor Rain - Desert Road 4. Pistons Beneath - Resonate 5. DJ Madd - Riginal 6. Gutcha - Sativa Indica 7. Apatic - Neverwhere 8. Altazer - Shut Up 9. Scuba - The Hope 10. Soap Dodgers - Belly 11. Dismantle - Last Line 12. Emalkay - Flesh & Bone (feat. Rod Azian) 13. Zeds Dead - Hit Me 14. Soap Dodgers - Rachel Went South 15. AFK - Boobahstick 16. Culprate - Nightmare 17. Redlight - Get Out My Head 18. Culprate - Sodden 19. Mimosa - Delirium 20. Dr. Bloodnugget - Menace to Society 21. Antiserum & Dubsworth - Droid Prom 22. Addergebroed - Limbo 23. Truth & Decoda - The Emperor
-
+1.  Daega Sound - When Youre Dreaming
+2.  Brownz - Time For Change
+3. Minor Rain - Desert Road
+4. Pistons Beneath - Resonate
+5. DJ Madd - Riginal
+6. Gutcha - Sativa Indica
+7. Apatic - Neverwhere
+8. Altazer - Shut Up
+9. Scuba - The Hope
+10. Soap Dodgers - Belly
+11. Dismantle - Last Line
+12. Emalkay - Flesh & Bone (feat. Rod Azian)
+13. Zeds Dead - Hit Me
+14. Soap Dodgers - Rachel Went South
+15. AFK - Boobahstick
+16. Culprate - Nightmare
+17. Redlight - Get Out My Head
+18. Culprate - Sodden
+19. Mimosa - Delirium
+20. Dr. Bloodnugget - Menace to Society
+21. Antiserum & Dubsworth - Droid Prom
+22. Addergebroed - Limbo
+23. Truth & Decoda - The Emperor
