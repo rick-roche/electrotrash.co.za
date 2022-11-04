@@ -27,7 +27,9 @@ The winning entry is the [Chains](http://soundcloud.com/industrial86 "Chains") r
 
 He sent us this awesome new track of his for you to download as thanks! Grab it below!
 
-\[download#222#nohits\]
+{{< audio
+    caption="HAEZER - Anarchy"
+    src="https://stetcoza.blob.core.windows.net/music/haezer/haezer_-_anarchy_!.mp3" >}}
 
 ^5!
 

@@ -13,5 +13,6 @@ featured: '/wp-content/uploads/2009/12/cover-304x190.jpg'
 
 zim dollar bill are Narch and Liver. You may recall Richard the Third writing a bit about them in his Red Bull post.  These two kids from Cape Town make fat, bassy electro that just screams dancefloor. Check out their artist profile [here](/artists/zim-dollar-bill/), which has links to their facebook & myspace pages where you can stream a few of their other tracks. Grab the track _bleh!_ below, it's nice 'n dirty.
 
-\[download#199#nohits\]
-
+{{< audio
+    caption="zim dollar bill - bleh!"
+    src="https://stetcoza.blob.core.windows.net/music/zim_dollar_bill/zim_dollar_bill_-_bleh!.mp3" >}}

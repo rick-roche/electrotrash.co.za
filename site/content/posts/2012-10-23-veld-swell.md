@@ -13,5 +13,5 @@ featured: '/wp-content/uploads/2012/10/artworks-000027710335-qlmqga-original-304
 
 Veld is back and smoother than ever. Laid back electronic with a slick bassline and synths with a light touch. Enjoy!
 
-Download: \[download#379#nohits\]
+Download: ~~https://soundcloud.com/veld/swell-9/~~
 

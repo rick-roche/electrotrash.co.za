@@ -21,7 +21,9 @@ We hope to receive a lot more remixes by then!
 
 Grab this banging edit HAEZER did of  Sebastian for some inspiration!
 
-\[download#212#nohits\]
+{{< audio
+    caption="Sebastian - Motor (HAEZER Edit)"
+    src="https://stetcoza.blob.core.windows.net/music/haezer/sebastian_-_motor_(haezer_bootleg_re-edit).mp3" >}}
 
 ^5!
 

@@ -15,15 +15,23 @@ So the [HAEZER](http://www.facebook.com/pages/HAEZER/24353086721 "HAEZER") [remi
 
 Here are the Top 5 tracks in no particular order:
 
-\[download#217#nohits\]
+{{< audio
+    caption="Haezer - Crack in the Wall (Chains Remix)"
+    src="https://stetcoza.blob.core.windows.net/music/haezer/crack_in_the_wall_remixes/haezer_-_crack_in_the_wall_(chains_remix).mp3" >}}
 
-\[download#218#nohits\]
+{{< audio
+    caption="Haezer - Crack in the Wall (Wh!te No!se Remix)"
+    src="https://stetcoza.blob.core.windows.net/music/haezer/crack_in_the_wall_remixes/haezer_-_crack_in_the_wall_(wh!te_no!se_remix).mp3" >}}
 
-\[download#219#nohits\]
+{{< audio
+    caption="Haezer - Crack in the Wall (CoDeC Remix)"
+    src="https://stetcoza.blob.core.windows.net/music/haezer/crack_in_the_wall_remixes/haezer_-_crack_in_the_wall_(codec_remix).mp3" >}}
 
-\[download#220#nohits\]
+{{< audio
+    caption="HAEZER - Crack In The Wall (The Sound Remix)"
+    src="https://stetcoza.blob.core.windows.net/music/haezer/crack_in_the_wall_remixes/haezer_-_crack_in_the_wall_(the_sound_remix).mp3" >}}
 
-Update: \[download#221#nohits\] not available for download :(
+Update: HAEZER - Crack In The Wall (the W4RRIORS Remix) not available for download :(
 
  [HAEZER - Crack in the wall(ChainChomp remix)](http://soundcloud.com/industrial86/haezer-crack-in-the-wall-chains-remix) by [ChainChomp](http://soundcloud.com/industrial86)
 

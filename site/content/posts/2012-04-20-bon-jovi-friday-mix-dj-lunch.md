@@ -17,7 +17,9 @@ Ri asked for folks to drop of mixes if they wanted to play and LUNCH stepped up 
 
 So grab LUNCH's mix below and then head on over to the next Style Vs Sound next Thursday (16 April 2012) and have a great night out!
 
-\[dl\] \[download#326#nohits\] - _75.3 MB / 55 mins long_
+{{< audio
+    src="https://stetcoza.blob.core.windows.net/music/mixes/dj_lunch_-_bangers_and_mash_volume_1.mp3"
+    caption="LUNCH - Bangers and Mash Volume 1" >}}
 
 Check out the Facebook link to the party for more info: [Style Vs Sound - 26 April 2012](https://www.facebook.com/events/200642383385562/ "Style Vs Sound")
 

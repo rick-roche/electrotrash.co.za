@@ -13,11 +13,15 @@ featured: '/wp-content/uploads/2009/11/roundup-monsanto-304x190.jpg'
 
 So it seems the Hype Machine has missed a number of downloads due to the fact that they weren't on the main page but in the article... So I thought I'd just have a quick post featuring the downloads that the Hype Machine missed. Bad Hype Machine! Bad. The first is a really fun track from Mix n Blend's new album Look mom, no hands
 
-\[download#193#nohits\]
+{{< audio
+    caption="Mix n Blend feat Fletcher & Sindy - Shall We Swing"
+    src="https://stetcoza.blob.core.windows.net/music/mix_n_blend/mix_n_blend_-_shall_we_swing_(feat_fletcher_&_sindy).mp3" >}}
 
 and the second is a Lapse revisit of the classic Planet Rock.
 
-\[download#194#nohits\]
+{{< audio
+    caption="Afrika Bambaataa & Soulsonic Force - Planet Rock (Lapse Revisit)"
+    src="https://stetcoza.blob.core.windows.net/music/dj_lapse/afrika_bambaataa_&_soulsonic_force_-_planet_rock_(lapse_revisit).mp3" >}}
 
 Both are extremely grab-worthy. Boosh!
 

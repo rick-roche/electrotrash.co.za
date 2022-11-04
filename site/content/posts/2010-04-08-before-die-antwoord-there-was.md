@@ -15,7 +15,9 @@ well, a whole lot actually. While I could go through the whole list and talk abo
 
 Instead I'm going to post the first Waddy track that most people living in South Africa in the mid 90's heard.  The track is _Puff the Magik_ and was released in 1995 and reached a sort of cult status on Campus Radio stations. The track itself has nothing in common with the 1975 folk song by Peter, Paul and Mary, except that the one blatantly deals with getting high, while the other was rumored to, but actually deals with loss of innocence. Grab it below and let us know which Waddy project you liked to the most...
 
-\[download#235#nohits\]
+{{< audio
+    caption="The Original Evergreen - Puff The Magik (Radio Edit)"
+    src="https://stetcoza.blob.core.windows.net/music/the_original_evergreen/the_original_evergreen_-_puff_the_magik_(radio_edit).mp3" >}}
 
 P.S.: Hey Waddy, if you want me to take this track down, [email me](mailto:dirtyoldman@electrotrash.co.za).
 

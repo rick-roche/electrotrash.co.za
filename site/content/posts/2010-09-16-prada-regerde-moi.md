@@ -13,8 +13,8 @@ featured: '/wp-content/uploads/2010/09/prada-304x190.jpg'
 
 PRADA dropped off a new track entitled _Regerdé Moi_ \[sic\]. It's a cool blend of electropop meets disco that is sure to please your ears. New to the electrotrash stable, but not new to the scene, PRADA are set to bring out fresh material soon (watch this space). Grab the track below and tell us what you think!
 
-\[download#254#nohits\]
-
-
+{{< audio
+    caption="PRADA - Regarde? Moi"
+    src="https://stetcoza.blob.core.windows.net/music/prada/prada_-_regerde_moi.mp3" >}}
 
 [/wp-content/uploads/2010/09/prada-e1284582838139.jpg](/wp-content/uploads/2010/09/prada-e1284582838139.jpg)

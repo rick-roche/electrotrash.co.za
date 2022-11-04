@@ -15,5 +15,6 @@ _The Rise_ is classic Popskarr. Warm pads set the mood, while synth melodies add
 
 Judging from what I have heard, their debut will be something to look forward to, in the mean time grab _The Rise_ below!
 
-\[download#276#nohits\]
-
+{{< audio
+    caption="Popskarr - The Rise"
+    src="https://stetcoza.blob.core.windows.net/music/popskarr/popskarr_-_the_rise.mp3" >}}

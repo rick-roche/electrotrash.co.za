@@ -17,13 +17,17 @@ Neck Low is a grinding dubstep track featuring raw rhymes and phat, wobbly bass.
 
 > A most ferocious take on the Dupstep genre by those Glitch fanatics Jam Jarr. It's got raps delivered at break-neck speeds, and bass that is hand-delivered to your face. This one is not for the faint-hearted.
 
-\[download#273#nohits\]
+{{< audio
+    caption="Jam Jarr - Neck Low"
+    src="https://stetcoza.blob.core.windows.net/music/jam_jarr/jam_jarr_-_neck_low.mp3" >}}
 
  [Jam Jarr - Neck Low](http://soundcloud.com/jamjarrcpt/jam-jarr-neck-low) by [Jam Jarr](http://soundcloud.com/jamjarrcpt)
 
 Taken from Honey Beats Vol. 1, _Phat Cat Wet_ is an uptempo, electro-hop track which just screams Party Time! Bakamans witty rhymes lead the way here, while the beats and bass should tempt even the most reserved to bounce on the dancefloor.  Honey Beats Vol.1 is a free download available to members of the African Dope Records mailing list. Sign up [here](http://www.africandope.co.za/lists/?p=subscribe&id=1) to get access!
 
-\[download#272#nohits\]
+{{< audio
+    caption="Jam Jarr - Phat Cat Wet"
+    src="https://stetcoza.blob.core.windows.net/music/jam_jarr/jam_jarr_-_phat_cat_wet.mp3" >}}
 
  [Jam Jarr - Phat Cat Wet](http://soundcloud.com/jamjarrcpt/jam-jarr-phat-cat-wet) by [Jam Jarr](http://soundcloud.com/jamjarrcpt)
 

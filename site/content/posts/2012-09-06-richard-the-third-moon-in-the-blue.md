@@ -13,4 +13,4 @@ featured: '/wp-content/uploads/2012/09/artworks-000029519102-xr99k1-original-304
 
 You can buy the new Richard the Third album, Left of Center, via [African Dope](http://shop.africandope.co.za/product.php?id_product=100) and [Beatport](http://www.beatport.com/release/left-of-center/947545).
 
-Download: \[download#372#nohits\]
+{{< soundcloud 58331444 >}}

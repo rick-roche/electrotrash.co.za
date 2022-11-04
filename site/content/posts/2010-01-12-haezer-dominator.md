@@ -15,7 +15,9 @@ As we near the end of the [HAEZER Remix Comp](/2009/12/04/remix-competition-haez
 
 Grab it below!
 
-\[download#210#nohits\]
+{{< audio
+    caption="HAEZER - Dominator"
+    src="https://stetcoza.blob.core.windows.net/music/haezer/haezer_-_dominator.mp3" >}}
 
 ^5!
 

@@ -13,7 +13,9 @@ featured: '/wp-content/uploads/2010/05/liver-304x190.jpg'
 
 Liver has been playing a bunch of shows around Cape Town recently and still managed to get the time to send us a new track of his! Grab it below... its a nice bassy one!
 
-\[download#243#nohits\]
+{{< audio
+    caption="Liver - Lethargy"
+    src="https://stetcoza.blob.core.windows.net/music/liver/liver_-_lethargy.mp3" >}}
 
 ^5!
 

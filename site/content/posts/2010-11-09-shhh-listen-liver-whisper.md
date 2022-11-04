@@ -13,5 +13,6 @@ featured: '/wp-content/uploads/2010/11/artworks-000002912746-m6vrt1-original-304
 
 Liver dropped if a new track the other day and i've been listening to it ever since. It's starts off with one of the filthiest bass i've heard in a while, over which synths that sound of summer day-dreams are layerd. The effect is warm and fills you with a kind of euphoria that makes your body nod to the subtle beat guiding the track. I really like this new direction Liver has taken and can't wait to hear what new sounds will be coming our way! If you want it, take it below...
 
-\[download#263#nohits\]
-
+{{< audio
+    caption="Liver - Whisper"
+    src="https://stetcoza.blob.core.windows.net/music/liver/liver_-_whisper.mp3" >}}

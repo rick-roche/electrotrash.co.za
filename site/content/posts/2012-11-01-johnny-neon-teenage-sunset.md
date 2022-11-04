@@ -13,5 +13,4 @@ featured: '/wp-content/uploads/2012/11/artworks-000032535605-ohihz6-original-304
 
 Johnny Neon is heading to Germany to spread his brand of death electropop in Europe. As a parting gift he sent us his latest offering entitled _Teenage Sunset_. Typically Johnny, it features an arped bass, sliding synths and drum programming straight out of the 80s. Grab it below and drive into the Sunset!
 
-Download: \[download#386#nohits\]
-
+Download: ~~https://soundcloud.com/johnny-neon/teenage-sunset/~~

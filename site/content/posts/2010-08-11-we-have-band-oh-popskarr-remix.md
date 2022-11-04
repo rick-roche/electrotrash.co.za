@@ -13,5 +13,6 @@ featured: '/wp-content/uploads/2010/08/we-have-band-304x190.jpg'
 
 Them boys from Popskarr dropped off this awesome remix of We Have Band's Oh! The original has that typical indie-dance-rock sound, which Popskarr replace with deep synths and keys. Overall the treatment is effictive. The remix sounds like what the original should've sounded like. Plus it has a dj friendly intro and outro. Bonus! I see this remix getting dem kids dancin'... Grab it below and check the video of the original after the jump, just so you can hear what I mean!
 
-\[download#246#nohits\]
-
+{{< audio
+    caption="We Have Band - Oh! (Popskarr Remix)"
+    src="https://stetcoza.blob.core.windows.net/music/popskarr/we_have_band_-_oh!_(popskarr_remix).mp3" >}}

@@ -19,9 +19,20 @@ This is the second installment in a series of mixes [JakobSnake](http://www.face
 
 This is a great start to the weekend. Download it, pump it and dance!
 
-\[download#313#nohits\]
+{{< audio
+    caption="JakobSnake - Umlungu Shuffle"
+    src="https://stetcoza.blob.core.windows.net/music/mixes/jakobsnake_-_umlungu_shuffle.mp3" >}}
 
 TRACKLIST:
 
-1\. Seiji – Basslips 2. Jumping Back Slash – Panther Blast 3. Dj What What – Umsebenzi Wami 4. Modeselektor – Art & Cash (Phon.o Remix) 5. The Wild Eyes – Vampire Radio (Das Kapital Remix) 6. Dj Cleo – Im your DJ 7. Blawan – Getting me down 8. Jumping Back Slash – Flaai baby 9. TKZee – Izinja Zam (Richard the Third Bootleg) 10. SBTRKT – Colonise 11. Model 500 – Starlight
-
+1. Seiji – Basslips
+2. Jumping Back Slash – Panther Blast
+3. Dj What What – Umsebenzi Wami
+4. Modeselektor – Art & Cash (Phon.o Remix)
+5. The Wild Eyes – Vampire Radio (Das Kapital Remix)
+6. Dj Cleo – Im your DJ
+7. Blawan – Getting me down
+8. Jumping Back Slash – Flaai baby
+9. TKZee – Izinja Zam (Richard the Third Bootleg)
+10. SBTRKT – Colonise
+11. Model 500 – Starlight

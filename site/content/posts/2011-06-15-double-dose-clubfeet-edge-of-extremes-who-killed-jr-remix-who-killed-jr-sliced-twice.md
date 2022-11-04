@@ -13,9 +13,12 @@ featured: '/wp-content/uploads/2011/06/Edge-of-Extremes-A-1.01-580x580-304x190.j
 
 I have been sitting on this remix for a while now, waiting for [WKJR](http://soundcloud.com/who-killed-jr) to get clearance from the label to release it. Finally I can share this amazing remix with you guys. The original is dreamy electro-pop, by [Clubfeet](http://www.facebook.com/HelloClubfeet) a five-piece from Melbourne, Australia, and Cape Town, South Africa. Adding a slight chop to the vocals and seriously jacking up the bassline with his trademark slap-bass sound, [Who Killed JR](http://www.facebook.com/pages/Who-Killed-JR/140418519308677) delivers another top class remix. I predict sex oozing from dancefloors in the near future!
 
-\[download#294#nohits\]
+{{< audio
+    caption="Clubfeet - Edge of Extremes (Who Killed JR remix)"
+    src="https://stetcoza.blob.core.windows.net/music/who_killed_jr/clubfeet_-_edge_of_extremes_(who_killed_jr_remix).mp3" >}}
 
 Sliced Twice is a diamond amongst the gems in WKJRs catalogue in that it is the only original he has released to date. Featuring that gut punching slap bass that almost defines his sound, the track comes at you like a freight-train. Vocoder arps and a playful 8bit synth add to the madness. Fuck yeah!
 
-\[download#295#nohits\]
-
+{{< audio
+    caption="Who Killed JR - Sliced Twice n Caught in the Vice"
+    src="https://stetcoza.blob.core.windows.net/music/who_killed_jr/who_killed_jr_-_sliced_twice_n_caught_in_the_vice.mp3" >}}

@@ -13,5 +13,5 @@ featured: '/wp-content/uploads/2012/10/artworks-000029262399-pg16i5-original-304
 
 SLABOFMISUSE is a Cape Town producer of downtempo Glitch/Hip Hop. Having previously released the fifth installment of Denver based, [Cold Busted's Street bangerz](http://www.beatport.com/release/street-bangerz-vol-5-the-wheels-on-the-bus/822609), his self-titled EP is available as a free download below. Slow and sexy, this is music for the laid back days.
 
-Download: \[download#382#nohits\]
+Download: ~~http://www.mediafire.com/?5d8rw343a5pgng2'~~
 

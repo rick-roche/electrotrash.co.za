@@ -17,7 +17,9 @@ As a Christmas special, Stephen will be offering a buy one get one free promotio
 
 Sounds good? Get yourself one!
 
-\[download#201#nohits\]
+{{< audio
+    caption="Myrid Ambre - I See"
+    src="https://stetcoza.blob.core.windows.net/music/myrid_ambre/myrid_ambre_-_i_see.mp3" >}}
 
 ^5!
 

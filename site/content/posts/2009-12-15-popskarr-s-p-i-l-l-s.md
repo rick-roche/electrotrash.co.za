@@ -17,7 +17,9 @@ Lapse and IAmWaves, better known as Popskarr are back again with their new singl
 
 and they ain't kidding. Stabby keys really bring that rave feel home, while the vocals are drawn out and dark. Loving it!
 
-\[download#200#nohits\]
+{{< audio
+    caption="Popskarr - S.P.I.L.L.S."
+    src="https://stetcoza.blob.core.windows.net/music/popskarr/popskarr_-_spills.mp3" >}}
 
 Also don't forget that their [remix](/2009/11/05/popskarr-is-here-tonight-and-wants-you-to-remix-em/) [competition](http://blogs.myspace.com/index.cfm?fuseaction=blog.view&friendId=496772243&blogId=517147035) for the track Tonight ends in 6 days!
 

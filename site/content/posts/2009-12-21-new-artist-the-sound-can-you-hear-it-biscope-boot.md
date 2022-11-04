@@ -15,11 +15,15 @@ featured: '/wp-content/uploads/2009/12/TheSoundIsNow-304x190.jpg'
 
 Access Violation is an instrumental track which features heavy distortion along side sweeping synths. It is never overpowering or 'too heavy', but instead is great to listen to and it might even get a few bodies moving!
 
-\[download#203#nohits\]
+{{< audio
+    caption="The Sound - Access Violation"
+    src="https://stetcoza.blob.core.windows.net/music/the_sound/the_sound_-_access_violation.mp3" >}}
 
 The Sound does it again on this remix, combining distortion and synths in a way that is dirty, but never too much. Very rad remix!
 
-\[download#204#nohits\]
+{{< audio
+    caption="Haezer feat. Jax Panik - Sirens In The Night (The Sound Remix)"
+    src="https://stetcoza.blob.core.windows.net/music/the_sound/haezer_(feat_jax_panik)_-_sirens_in_the_night_(the_sound_remix).mp3" >}}
 
 And why don't you give a listen to the latest bootleg to come out of the Biscope beat shed. It's smooth and sexy and I like it!
 

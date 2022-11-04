@@ -25,8 +25,8 @@ All in all Jacob Israel has managed to produce an album that transports you to s
 
 The physical album itself is also a thing of beauty. The limited 250 run features hand sown & silk-screened covers and and a glass mastered disc. It is currently available at +27 Design Cafe in Pretoria and at The Street in Greenside, with possible Cape Town retail available in December. If you can't get a physical copy, try emailing Jacob Israel and hope he can send you a copy or wait until he puts it up for digital download. We'll let ya know where and for how much when he does.
 
-This track will be available for a limited time only so grab it now! \[download#196#nohits\]
+This track will be available for a limited time only so grab it now!
 
-
-
-\[download#193#nohits\] \[download#194#nohits\] \[download#195#nohits\]
+{{< audio
+    caption="Jacob Israel - think of Someone you love"
+    src="https://stetcoza.blob.core.windows.net/music/jacob_israel/jacob_israel_-_think_of_someone_you_love,__hell_think_of_you.mp3" >}}

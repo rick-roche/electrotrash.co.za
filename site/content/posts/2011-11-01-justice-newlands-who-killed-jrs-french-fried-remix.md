@@ -11,5 +11,6 @@ featured: '/wp-content/uploads/2011/11/artworks-000013367333-j8oapb-original-304
 
 [![](/wp-content/uploads/2011/11/artworks-000013367333-j8oapb-original.jpg)](/2011/11/01/justice-newlands-who-killed-jrs-french-fried-remix/artworks-000013367333-j8oapb-original/) Who Killed JR is back with a brand new remix, this time tackling French duo Justice. _Newlands_ comes off their latest album "Audio, Video, Disco", which sees the two exploring that nostalgic classic rock sound. The remix sees Who Killed JR ditching all the prog. rock sections and working with only the funkiest riffs. Who Killed JR really has that French sound down and his added bass and synths give the track a bit of extra punch, making it sound more like what I expected from Justice in the first place. If you're looking for a dance-floor worthy remix, look no further! Download below:
 
-\[download#318#nohits\]
-
+{{< audio
+    caption="Justice - Newlands (Who Killed JR's French Fried Remix)"
+    src="https://stetcoza.blob.core.windows.net/music/who_killed_jr/justice_-_newlands_(who_killed_jrs_french_fried_remix).mp3" >}}

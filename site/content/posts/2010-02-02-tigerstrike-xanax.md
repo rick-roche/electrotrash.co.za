@@ -15,7 +15,9 @@ Jonathan from [Tigerstrike](/artists/tigerstrike/ "Tigerstrike on electrotrash")
 
 Grab the track below... it is has a haunting, synthpop'ish melody that I couldn't stop whistling and when combined with their indie vocals it's a pretty rad sound!
 
-\[download#214#nohits\]
+{{< audio
+    caption="Tigerstrike - Xanax"
+    src="https://stetcoza.blob.core.windows.net/music/tigerstrike/tigerstrike_-_xanax.mp3" >}}
 
 I have been promised some killer remixes in the not too distant future so stay tuned!
 

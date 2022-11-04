@@ -13,7 +13,9 @@ featured: '/wp-content/uploads/2011/07/rave1-304x190.jpg'
 
 CoDeC dropped off a banger to help you shake off those winter blues and get down to the groove again! It's entitled Rave and that is pretty explanatory... Kick it!
 
-\[dl\] \[download#304#nohits\]
+{{< audio
+    caption="CoDeC - Rave"
+    src="https://stetcoza.blob.core.windows.net/music/codec/codec_-_rave.mp3" >}}
 
 ^5!
 

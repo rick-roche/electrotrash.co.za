@@ -15,7 +15,6 @@ MTKIDU are recording their new album, Skeleton Key, as we speak. The new album w
 
 The track was actually written 3 months ago, but seems very relevant right now. If this track is anything to go by, the new album should be amazing.  No matter what MTKIDU bring out, it always has their own distinct sound and _AWB vs ANC_ is not different. Although it touches the familiar territory of electro-pop, they do it with their own flair and sound. Thanks to our inside source for "leaking" the track!
 
-\[download#238#nohits\]
-
-\[audio:/files/mtkidu/mtkidu\_-\_awb\_vs\_anc\_(unmastered leak).mp3\]
-
+{{< audio
+    caption="MTKIDU - AWB vs ANC (unmastered leak)"
+    src="https://stetcoza.blob.core.windows.net/music/mtkidu/mtkidu_-_awb_vs_anc_(unmastered).mp3" >}}

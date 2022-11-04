@@ -15,7 +15,9 @@ featured: '/wp-content/uploads/2010/03/haezer-warfare-304x190.jpg'
 
 This one is hard and heavy and features some vocals from Label... let us know what you think!
 
-\[download#231#nohits\]
+{{< audio
+    caption="HAEZER - Warfare (feat. Label)"
+    src="https://stetcoza.blob.core.windows.net/music/haezer/haezer_-_warfare_(feat_label).mp3" >}}
 
 Take it easy
 

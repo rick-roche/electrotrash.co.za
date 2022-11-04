@@ -17,7 +17,13 @@ Under the alias "Placid Larry", Daniel encompasses ambient, chill out, trip-hop 
 
 Give Placid Larry some Facebook love over [here](http://www.facebook.com/pages/Placid-Larry/140781545963857?ref=ts "Placid Larry on Facebook")! And if you want to buy his tunes, head on over to [iTunes](http://itunes.apple.com/us/artist/placid-larry/id356766356 "Placid Larry on iTunes") or [Beatport](http://tinyurl.com/2utxqhe "Placid Larry on Beatport")!
 
-\[DL\] \[download#255#nohits\] \[DL\] \[download#256#nohits\]
+{{< audio
+    caption="Placid Larry - Backwash"
+    src="https://stetcoza.blob.core.windows.net/music/placid_larry/placid_larry_-_backwash.mp3" >}}
+
+ {{< audio
+    caption="Placid Larry - Time Saver"
+    src="https://stetcoza.blob.core.windows.net/music/placid_larry/placid_larry_-_time_saver.mp3" >}}
 
 ^5!
 

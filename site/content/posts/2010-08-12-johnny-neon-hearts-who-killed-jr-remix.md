@@ -15,7 +15,9 @@ Johnny Neon just dropped off a remix of his track 'Hearts' by Who Killed JR that
 
 The remix has that electro banger feel / disco feel you get from slap bass and dirty synths. It really has a party vibe to it and I wouldn't be surprised if you hear it on a dancefloor near you soon.
 
-\[download#247#nohits\]
+{{< audio
+    caption="Johnny Neon - Hearts (Who Killed JR Remix)"
+    src="https://stetcoza.blob.core.windows.net/music/johnny_neon/johhny_neon_-_hearts_(who_killed_jr_remix).mp3" >}}
 
 aaaand check out this awesome video they put together to with it. Love the nostalgia.
 

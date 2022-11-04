@@ -13,7 +13,11 @@ featured: '/wp-content/uploads/2010/09/dj_fukdiskodeathface-304x190.jpg'
 
 [DJ Fukdiskodeathface](http://www.facebook.com/pages/Dj-FukdiskoDeathface/381796996354 "DJ Fukdiskodeathface") made this "kwaitoesquefevelatechnodeathmix" for y'all to download and get your grind on to. Ok maybe not hardcore grinding. Some pretty beats, perfectly mixed together, top notch squire. It builds up nicely for the grind.
 
-\[download#250#nohits\] - _Roughly 85MB and 36 minutes long!_
+_Roughly 85MB and 36 minutes long!_
+
+{{< audio
+    caption="DJ Fukdiskodeathface - Promo Mix"
+    src="https://stetcoza.blob.core.windows.net/music/dj_fukdiskodeathface/dj_fukdiskodeathface_-_promo_mix.mp3" >}}
 
 Go give him a like on Facebook [here](http://www.facebook.com/pages/Dj-FukdiskoDeathface/381796996354 "DJ Fukdiskodeathface")!
 

@@ -11,7 +11,8 @@ featured: '/wp-content/uploads/2010/02/808-304x190.jpg'
 
 [![](/wp-content/uploads/2010/02/808.jpg "808")](/2010/02/16/hipless-couples-arent-an-808-after-all/attachment/808/)
 
-We've  been having quite the busy time IRL, which has led to a slight neglect of our inbox. This track is one of those that got lost amongst our starred and labeled mails (thanks gmail!). I'm not an 8080 after all or just INA808AA for short is reminiscent of acid house, with the bassline synth working its' little oscillators off! You know the deal, clicky clicky below to get the track.
+We've been having quite the busy time IRL, which has led to a slight neglect of our inbox. This track is one of those that got lost amongst our starred and labelled mails (thanks gmail!). I'm not an 8080 after all or just INA808AA for short is reminiscent of acid house, with the bassline synth working its' little oscillators off! You know the deal, clicky clicky below to get the track.
 
-\[download#225#nohits\]
-
+{{< audio
+    caption="Hipless Couples - I'm not an 808 after all"
+    src="https://stetcoza.blob.core.windows.net/music/hipless_couples/hipless_couples_-_im_not_an_808_after_all.mp3" >}}

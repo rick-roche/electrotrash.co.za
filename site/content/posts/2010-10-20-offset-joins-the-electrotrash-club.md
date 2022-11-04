@@ -17,7 +17,17 @@ Grab these three tracks below to get a taste of what he is about and then why no
 
 His remix of "Pressure" by The Fuzz is a slow winder that builds up really nicely with some mature production. The "Soulkiller" remix is some nice, back to basics, drum & bass... not too hard, with a good dose of vocals. "Scratch That Lick" finishes off the trio of tasters with a more downtempo beat showing just how versatile Offset can be. The remixes were done in the last year or two with "Scratch That Lick" coming from older works that Offset has done.
 
-\[DL\] \[download#259#nohits\] \[DL\]\[download#258#nohits\] \[DL\]\[download#260#nohits\]
+{{< audio
+    caption="The La Els & OFFSET - Soulkiller (OFFSET Drum & Bass mix)"
+    src="https://stetcoza.blob.core.windows.net/music/offset/the_la_els_&_offset_-_soulkiller_(offset_drum_&_bass_mix).mp3" >}}
+
+{{< audio
+    caption="The Fuzz - Pressure (Offset Disco Mix)"
+    src="https://stetcoza.blob.core.windows.net/music/offset/the_fuzz_-_pressure_(offset_disco_mix).mp3" >}}
+
+{{< audio
+    caption="Offset - Scratch That Lick"
+    src="https://stetcoza.blob.core.windows.net/music/offset/offset_-_scratch_that_lick.mp3" >}}
 
 ^5!
 

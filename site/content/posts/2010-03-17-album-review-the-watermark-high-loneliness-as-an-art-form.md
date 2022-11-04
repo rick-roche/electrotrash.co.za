@@ -21,11 +21,15 @@ Combining both sampled and synthesised drums, the rhythmic base for the music is
 
 _I don’t need Serotonin_ is for me the stand-out track on the album, with it’s epic instrumental build-up which makes the second part featuing vocals feel like a different song.
 
-\[download#232#nohits\]
+{{< audio
+    caption="The Watermark High - I Don't Need Serotonin"
+    src="https://stetcoza.blob.core.windows.net/music/the_watermark_high/the_watermark_high_-_i_dont_need_serotonin.mp3" >}}
 
 As a whole the tracks on this album come together to form an aural entity that can be described as greater than the sum of it’s parts, as the saying goes. Cheesey saying or not, the album is cohesive thanks to the songs on it. _No matter where I go, I end up me_ is a good example of one of those tracks which transforms itself from a crazy drum led piece to a simple melodic one.
 
-\[download#233#nohits\]
+{{< audio
+    caption="The Watermark High - No Matter Where I Go"
+    src="https://stetcoza.blob.core.windows.net/music/the_watermark_high/the_watermark_high_-_no_matter_where_i_go,_i_end_up_me.mp3" >}}
 
 To pick up the metaphor where we left off, if Loneliness As An Art Form is an experiment, then it surely is a success. Beautiful and at times haunting, the music on this album is not harsh but never dull. With this album The Watermark High has revealed its intent to create some of the most interresting electro-accoustic music that is being produced in South Africa today.
 

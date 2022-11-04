@@ -15,5 +15,7 @@ _My Dreams_ is the second free track Popskarr are giving away as a prelude to th
 
 The production matches the title, with Lapse laying down serene and dreamy electro-pop over which IAmWaves pours his haunting vocals. On _My Dreams_ it becomes clear that Popskarr have grown in studio, without losing what made them Popskarr in the first place. July cannot come soon enough!
 
-\[download#290#nohits\]
+{{< audio
+    caption="Popskarr - My Dreams"
+    src="https://stetcoza.blob.core.windows.net/music/popskarr/popskarr_-_my_dreams.mp3" >}}
 

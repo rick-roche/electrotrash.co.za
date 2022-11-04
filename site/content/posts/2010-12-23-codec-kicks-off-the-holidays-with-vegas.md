@@ -15,7 +15,9 @@ Long time electrotrash.co.za supporter [CoDeC](/artists/codec/ "CoDeC") dropped 
 
 The track is "very much influenced by the sounds of Jean Michele Jarre, and the _Yamaha CS_\-_80_ a polyphonic analog _synthesizer_"... Enjoy!
 
-\[dl\] \[download#265#nohits\]
+{{< audio
+    caption="CoDeC - Vegas"
+    src="https://stetcoza.blob.core.windows.net/music/codec/codec_-_vegas.mp3" >}}
 
 Have a great festive season!
 

@@ -17,7 +17,13 @@ They are currently working on pulling together tracks for their debut EP, as wel
 
 Grab two grinding tracks below and practice in your room.
 
-Download - \[download#248#nohits\] Download - \[download#249#nohits\]
+{{< audio
+    caption="Sparrow - Girl's Noise (Instrumental Version)"
+    src="https://stetcoza.blob.core.windows.net/music/sparrow/sparrow_-_girls_noise_(instrumental_version).mp3" >}}
+
+{{< audio
+    caption="Sparrow - No Justice"
+    src="https://stetcoza.blob.core.windows.net/music/sparrow/sparrow_-_no_justice.mp3" >}}
 
  [Sparrow - Girl's Noise (Instrumental Version)](http://soundcloud.com/garethgraham/sparrow-girls-noise-instrumental-version) by [garethgraham](http://soundcloud.com/garethgraham)
 

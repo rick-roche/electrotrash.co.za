@@ -15,7 +15,9 @@ featured: '/wp-content/uploads/2010/09/haezer-live01-304x190.jpg'
 
 Download it below and let us know what you think. Give HAEZER some support on Facebook over [here](http://www.facebook.com/pages/HAEZER/24353086721 "HAEZER on Facebook")!
 
-\[download#253#nohits\]
+{{< audio
+    caption="HAEZER - James Bond"
+    src="https://stetcoza.blob.core.windows.net/music/haezer/haezer_-_james_bond.mp3" >}}
 
 We are told the separates will be out soon for any one to remix the track, so stay tuned!
 

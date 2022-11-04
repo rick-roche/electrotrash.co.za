@@ -21,7 +21,9 @@ P.H. Fat on _Spring Step_ drops some ill rhymes over a glitched out beat, while 
 
 Mix n Blend have really put something special together with this album. It is clean and professional in composition and great fun to listen to. They boys from Cape Town have resisted the urge to follow a single formula for their tracks which allows for some great variety in terms of genre, yet have maintained a sound that is definitely their own. Decide for yourself by streaming the album below and then buy a copy! I guarantee you won’t be disappointed. Also grab two tracks below in order to have something for your iPod until you get your copy.
 
-\[download#193#nohits\]
+{{< audio
+    caption="Mix n Blend feat Fletcher & Sindy - Shall We Swing"
+    src="https://stetcoza.blob.core.windows.net/music/mix_n_blend/mix_n_blend_-_shall_we_swing_(feat_fletcher_&_sindy).mp3" >}}
 
  [Mix n Blend Look Mom No Hands](http://soundcloud.com/mixnblend/sets/mix-n-blend-look-mom-no-hands) by [mixnblend](http://soundcloud.com/mixnblend)
 

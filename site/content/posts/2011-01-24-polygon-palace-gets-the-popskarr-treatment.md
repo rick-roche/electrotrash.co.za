@@ -15,7 +15,9 @@ So I woke up around lunchtime to find this gem, fresh from being mastered, in my
 
 The original is one of those electro/indie feel good tracks complete with stabby guitar riffs with support by upbeat drums and synth-cheese dripping from all sides. For their remix, Popskarr strip the track down to bare bones and then proceed to subtly layer these in order to create a remix that sounds like Popskarr while retaining the essence of the original. Popskarr once again does not disappoint, but the entire EP is worth a listen. You can buy a copy [here](http://polygonpalace.bandcamp.com/album/we-have-visual-single-pack).
 
-\[download#269#nohits\]
+{{< audio
+    caption="Polygon Palace - We Have A Visual (Popskarr Remix)"
+    src="https://stetcoza.blob.core.windows.net/music/popskarr/polygon_palace_-_we_have_a_visual_(popskarr_remix).mp3" >}}
 
  [Polygon Palace - We Have a Visual (Popskarr Remix)](http://soundcloud.com/popskarr/polygon-palace-we-have-a-visual-popskarr-remix) by [POPSKARR](http://soundcloud.com/popskarr)
 

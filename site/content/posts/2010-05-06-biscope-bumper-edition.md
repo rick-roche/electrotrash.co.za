@@ -17,7 +17,9 @@ You ready?
 
 First up... the bootleg... A slow burning dubstep mashup of Nirvana's "_Something in the Way_". It's probably the first nirvana song I like! Something chilled to wake up to.
 
-\[download#241#nohits\] - _11MB of 320kps awesomeness_
+{{< audio
+    caption="Biscope - Something in the Way (Bootleg)"
+    src="https://stetcoza.blob.core.windows.net/music/biscope/nirvana_-_something_in_the_way_(biscope_bootleg).mp3" >}}
 
  [Something In The Way (Biscope Boot)](http://soundcloud.com/biscope/something-in-the-way-biscope-boot) by [biscope](http://soundcloud.com/biscope)
 

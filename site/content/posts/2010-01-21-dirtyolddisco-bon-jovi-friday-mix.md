@@ -13,7 +13,9 @@ Here is the first Bon Jovi Friday Mix of 2010... The mixes will be posted monthl
 
 This first mix was done by the [dirtyoldDisco](http://dirtyolddisco.blogspot.com/ "dirtyoldDisco") (dirtyoldman and myself) and is a pretty nicely balanced banging (just over an) hour of music with a smooth build-up! Listen to it and let us know what you think!
 
-\[download#213#nohits\] - _89MB, just over an hour!_
+{{< audio
+    caption="dirtyoldDisco - Bon Jovi Friday Mix"
+    src="https://stetcoza.blob.core.windows.net/music/dirtyolddisco/dirtyolddisco_-_bon_jovi_friday_mix.mp3" >}}
 
 If you would like to submit a mix for our **Bon Jovi Friday** slot, get in touch via the [Contact box](/contact "Contact Us!")!
 

@@ -15,7 +15,9 @@ Who Killed JR? is back with a brand new remix. This time he is taking on legen-w
 
 The Robot Rock remix is itself quite epic. Although the original was a great track, that sampled guitar riff from Release the Beast by Breakwater does become a bit monotonous. The remix overcomes this by chopping the guitars up and layering filtered guitar arps over everything. The execution is perfect and you would be forgiven for thinking that this some unreleased Daft Punk edit. The track continually builds that by the time the final break hits all layers are of such epic proportions that the track simply feels massive! With the amount of Daft Punk remixes floating around, it easy to get lost in the sounds, but this one is bound to stick out amongst the rest as one of the greats. Grab it below and tell us what you think!
 
-\[download#267#nohits\]
+{{< audio
+    caption="Daft Punk - Robot Rock (Who Killed JR's sledgehammer mix)"
+    src="https://stetcoza.blob.core.windows.net/music/who_killed_jr/daft_punk_-_robot_rock_(who_killed_jrs_sledgehammer_mix).mp3" >}}
 
  [Daft Punk - Robot Rock (Who Killed JR remix)](http://soundcloud.com/who-killed-jr/daft-punk-robot-rock-who-killed-jr-remix) by [Who Killed JR?](http://soundcloud.com/who-killed-jr)
 

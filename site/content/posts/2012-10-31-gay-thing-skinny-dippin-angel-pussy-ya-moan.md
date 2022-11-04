@@ -13,9 +13,8 @@ featured: '/wp-content/uploads/2012/10/artworks-000031910198-1pxbgb-original-304
 
 Gay Thing and their brand of high energy electropop with camp lyrics, are pushing out material at a intense pace. Since the last time we featured them, they've dropped three new tracks for your downloading and listening pleasure. Now that summer's here, there's no excuse to get silly in very little clothing, so slap the tracks onto cd and blast it on the way to the beach.
 
-Download: \[download#383#nohits\]
+{{< soundcloud 84758010 >}}
 
-Download: \[download#384#nohits\]
+{{< soundcloud 84758389 >}}
 
-Download: \[download#385#nohits\]
-
+{{< soundcloud 84759197 >}}

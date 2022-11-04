@@ -19,7 +19,4 @@ women who kill brings the Bass with his laid back ode to the olympics. In his ow
 >
 > You need headphones or proper speakers for this one.
 
-Download: \[download#364#nohits\]
-
-\[soundcloud url="http://api.soundcloud.com/tracks/55480386" params="" width="100%" height="166" iframe="true" /\]
-
+{{< soundcloud 55480386 >}}

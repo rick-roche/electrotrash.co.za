@@ -13,7 +13,9 @@ featured: '/wp-content/uploads/2010/05/cos-t-shirt-304x190.jpg'
 
 We have a new artist on the site... welcome to Card On Spokes! Read more about C.O.S. in our Artists section [here](/artists/card-on-spokes "Card On Spokes") and download this 10 minute mix of his stuff as a teaser below!
 
-\[download#242#nohits\]
+{{< audio
+    caption="Card On Spokes - 10 Minutes"
+    src="https://stetcoza.blob.core.windows.net/music/card_on_spokes/card_on_spokes_-_ten_minutes_mix.mp3" >}}
 
 There are also a few tracks that you can listen to on the Card On Spokes Soundcloud page... [checkit](http://soundcloud.com/cardonspokes/ "Card On Soundcloud")!
 

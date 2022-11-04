@@ -13,10 +13,8 @@ featured: '/wp-content/uploads/2011/01/allnight-249x190.jpg'
 
 The track is starts soft and dreamy and breaks into a feel good chorus of happy arps and disco claps. Laser pads and snappy four on the flour beats complete the spectrum. IAmWaves and Johnnys voices layer and combine like a chocolate and vanilla soft-serve. Just one kiss...
 
-\[download#266#nohits\]
+{{< audio
+    caption="Popskarr feat. Johnny Neon - All Night"
+    src="https://stetcoza.blob.core.windows.net/music/popskarr/popskarr_feat_johnny_neon_-_all_night_(master).mp3" >}}
 
 On a side note, Lapse is one year older today (Happy Birthday Dude!). Wish him Happy Birthday tomorrow @ [Future Disco](/event/future-disco/)!
-
-
-
-Popskarr, Johnny Neon, All Night

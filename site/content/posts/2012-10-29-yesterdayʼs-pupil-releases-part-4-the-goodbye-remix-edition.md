@@ -19,5 +19,4 @@ Part 4: The Goodbye Remix Edition features remixes by Haezer, Minnaar, The Water
 
 Download The Goodbye Remix Edition here for FREE: [http://www.yesterdayspupil.com](http://www.yesterdayspupil.com)
 
-Download: \[download#381#nohits\]
-
+{{< soundcloud 63741673 >}}

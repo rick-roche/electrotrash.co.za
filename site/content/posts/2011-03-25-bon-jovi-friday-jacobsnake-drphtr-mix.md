@@ -15,7 +15,18 @@ A Bon Jovi Friday on a Friday!?! What gives? The short answer, technical problem
 
 [JakobSnake](http://twitter.com/jakobsnake), one half of bteam, sent us this mix which simply oozes class. Well slease at times, but mostly class... In just under 45 minutes he explores a palette of (minimal) techno and acid house through tracks which almost necessitate a quality listening setup. So get out your quality cans, crank up the tube headphone amp and enjoy the ride. I could go on an on about this mix, telling you that it is on repeat on my stereo and in my car, but I think this mix speak for itself. Grab below and tell us what you think in the comments. Enjoy the weekend!
 
-\[download#281#nohits\] (~97.5 MB @ 320kbps)
+_~97.5 MB @ 320kbps_
 
-Dop - No More Daddy (Ame Remix) Marc Houle - Selection Das Glow & Strip Steve - Calcium Tony Planet - Azidwar Adam Proll - Fetch My Blades Soft Touch Operation - Only Girl Heartz4 - Intimacy Girl (Someone Else Remix) Caribou - Kalli (Walls Remix) Totally Enourmous Extinct Dinosaurs - Waulking Song (Lone Remix)
+{{< audio
+    caption="JakobSnake - DrphtR mix"
+    src="https://stetcoza.blob.core.windows.net/music/mixes/jacobsnake_-_drphtr_mix.mp3" >}}
 
+- Dop – No More Daddy (Ame Remix)
+- Marc Houle – Selection
+- Das Glow & Strip Steve – Calcium
+- Tony Planet – Azidwar
+- Adam Proll – Fetch My Blades
+- Soft Touch Operation – Only Girl
+- Heartz4 – Intimacy Girl (Someone Else Remix)
+- Caribou – Kalli (Walls Remix)
+- Totally Enourmous Extinct Dinosaurs – Waulking Song (Lone Remix)

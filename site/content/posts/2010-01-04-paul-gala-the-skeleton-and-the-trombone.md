@@ -13,7 +13,9 @@ featured: 'wp-content/uploads/2010/01/paulgala-277x190.jpg'
 
 Paul Gala (_previously part of South African electro band Black Rabbit_) sent us his latest track... a winding club tune filled with bass and beats sure to get you shaking it.
 
-\[download#206#nohits\]
+{{< audio
+    caption="Paul Gala - The Skeleton and the Trombone"
+    src="https://stetcoza.blob.core.windows.net/music/paul_gala/paul_gala_-_the_skeleton_and_the_trombone.mp3" >}}
 
 Check out his [Soundcloud page](http://soundcloud.com/paulgala "Paul Gala on Soundcloud") for more tracks from him.
 

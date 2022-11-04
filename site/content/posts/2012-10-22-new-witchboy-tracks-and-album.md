@@ -13,7 +13,6 @@ featured: '/wp-content/uploads/2012/10/2596728714-1-304x190.jpg'
 
 Calling Witchboy a busy man is an understatement. Since releasing his album, [_Le Pervese Universe_](http://auralsects.bandcamp.com/album/le-universe-perverse), on Aural Sects earlier this year, he has produced and released a slew of material, as well as producing for Coco Carbon. His album was described in Rolling Stone as ”..a robots heart beat under a layer of lazer grime, a plaintive spook of a voice, and chiming distant organs, it’s exactly the kind of music you want to get stupidly lost to, stumbling around dressed in pleather, just before dawn, in a nightclub in a fictional city, deep underground.” The album is available over at [Bandcamp](http://auralsects.bandcamp.com/album/le-universe-perverse) but you can listen to it below.
 
-Download: \[download#377#nohits\]
+{{< soundcloud 55084931 >}}
 
-Download: \[download#378#nohits\]
-
+{{< soundcloud 55496139 >}}

@@ -13,5 +13,5 @@ featured: '/wp-content/uploads/2012/11/1304937807-1-304x190.jpg'
 
 If you dig the tune and wanna play it out, why not buy it over at [Bandcamp](http://wetdreamsrecordings.bandcamp.com/track/the-frown-dark-arts-big-space-remix) for the price of your choice.
 
-Download: \[download#387#nohits\]
+Download: ~~https://soundcloud.com/bigspace/the-frown-dark-arts-big-space~~
 

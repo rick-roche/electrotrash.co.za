@@ -13,5 +13,6 @@ featured: '/wp-content/uploads/2012/09/artworks-000030316906-pb677h-original-304
 
 Battle Beyond the Stars' entry into the Sébastien Tellier remix contest is a tribute to that classic French Touch Tellier helped pioneer, complete with draw-out pads and walking bassline. We've managed to get our grubby paws on it and are offering it up for download. That's right, free and without guilt!
 
-Download: \[download#374#nohits\]
-
+{{< audio
+    src="https://stetcoza.blob.core.windows.net/music/battle_beyond_the_stars/sebastien_tellier_-_russian_attractions_(battle_beyond_the_stars_remix).mp3"
+    caption="Sébastien Tellier - Russian Attractions (Battle Beyond the Stars Remix)" >}}

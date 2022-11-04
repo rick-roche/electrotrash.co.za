@@ -17,7 +17,9 @@ We're giving you a free track below... listen to it, love it and keep your ears 
 
 Check out PRADA on Facebook over [here](http://www.facebook.com/pages/PRADA/131853080164234 "Prada")!
 
-\[download#251#nohits\]
+{{< audio
+    caption="Prada - Lagoss"
+    src="https://stetcoza.blob.core.windows.net/music/prada/prada_-_lagoss.mp3" >}}
 
 Let us know what you think! ^5!
 

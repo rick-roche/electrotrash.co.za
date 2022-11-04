@@ -17,5 +17,6 @@ Most 20-something's grew up to the sound of cheesy80's hits. In amongst the huge
 
 Grab it below and then click [here](http://www.youtube.com/watch?v=arUqoKjU3D4) to watch the original video.
 
-\[download#234#nohits\]
-
+{{< audio
+    caption="The Human League - Dont You Want Me (The Sound Bootleg Remix)"
+    src="https://stetcoza.blob.core.windows.net/music/the_sound/the_human_league_-_dont_you_want_me_(the_sound_bootleg_remix).mp3" >}}

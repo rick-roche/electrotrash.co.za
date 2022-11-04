@@ -15,7 +15,6 @@ French due Cassius need no introduction and neither do Popskarr, come to think o
 
 It is not surprising then, that a remix by Cape Town based Popskarr would work so well. Infusing the original with that unmistakeable, sexy Popskarr sound, the remix brings the original to the dancefloor. With an epic build-up that breaks into pure dance-bliss, the boys have managed to retain that positive Cassius vibe. Be it with their own productions or their remixes, it seems Lapse and IAmWaves can do no wrong. Grab the track below!
 
-Edit: download link fixed!
-
-\[download#262#nohits\]
-
+{{< audio
+    caption="Cassius - I Love You So (Popskarr Remix)"
+    src="https://stetcoza.blob.core.windows.net/music/popskarr/cassius_-_i_love_you_so_(popskarr_remix).mp3" >}}

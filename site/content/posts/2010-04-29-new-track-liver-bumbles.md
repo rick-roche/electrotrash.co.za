@@ -13,7 +13,9 @@ featured: '/wp-content/uploads/2010/04/bumbles-304x190.jpg'
 
 Liver dropped off this sick, choppy beat for you... Something different coming from him, it is still awesome. Always fresh to hear guys coming out with very different stuff.
 
-\[download#240#nohits\]
+{{< audio
+    caption="Liver - Bumbles"
+    src="https://stetcoza.blob.core.windows.net/music/liver/liver_-_bumbles.mp3" >}}
 
 What do you think?
 

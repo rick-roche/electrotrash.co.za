@@ -15,9 +15,12 @@ Cape Town based DJ and Producer, Battle Beyond the Stars, has just completed his
 
 _Memory Metal_ is like taking a drive down memory lane with a hangover from the night before. Gentle and subtle, the intro is led by a palm-muted guitar chord progression and a simple lead guitar melody. Add to this a pretty straight forward drum pattern and the severly distorted bass synth that follows, is an unexpected, but not unwelcome surprise. The synth really transforms the track from a gentle, summer melody into a song with more substance and emotion.
 
-\[download#270#nohits\]
+{{< audio
+    caption="Battle Beyond the Stars - Memory Metal"
+    src="https://stetcoza.blob.core.windows.net/music/battle_beyond_the_stars/battle_beyond_the_stars_-_memory_metal.mp3" >}}
 
 The second track features what can only be described as synthesised steel drums, distorted and filtered beyond recognition, producing a playful melody over Rock & Roll drums and a squelching bass synth. Think of this as the soundtrack to Fear and Loathing in Jamaica. \[_Rum Diaries? -ed.\]_
 
-\[download#271#nohits\]
-
+{{< audio
+    caption="Battle Beyond the Stars - Caribbean Monsters"
+    src="https://stetcoza.blob.core.windows.net/music/battle_beyond_the_stars/battle_beyond_the_stars_-_caribbean_monsters.mp3" >}}

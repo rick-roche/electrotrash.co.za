@@ -17,7 +17,9 @@ If you missed Haezer while he was up in Gauteng, shame on you! You missed some e
 
 Haezer turns it up to 11 and makes it filthy as fuck. Apart from shredding up the synths and adding some epic build ups and breaks, the remix also features some classic Haezer vocal samples. Grab it below!
 
-\[download#237#nohits\]
+{{< audio
+    caption="F.O.O.L - We're not French (HAEZER remix)"
+    src="https://stetcoza.blob.core.windows.net/music/haezer/fool_-_were_not_french_(haezer_remix).mp3" >}}
 
 and here is some promo material that was meant to go up last week, but somehow the scheduled post failed to appear...
 

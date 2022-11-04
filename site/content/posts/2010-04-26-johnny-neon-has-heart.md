@@ -13,5 +13,6 @@ featured: '/wp-content/uploads/2010/04/johnny-neon-304x190.jpg'
 
 Johnny Neon dropped off a new track over the weekend. It's called _Hearts_ and is a sweet little electro-pop number. You can buy his album over at [amazon.co.uk](http://www.amazon.co.uk/Johnny-Neon/dp/B002NS4F08/ref=sr_1_1?ie=UTF8&s=dmusic&qid=1272284516&sr=8-1) for about 80 rond, so swing round and get clicking!
 
-\[download#239#nohits\]
-
+{{< audio
+    caption="Johnny Neon - Hearts"
+    src="https://stetcoza.blob.core.windows.net/music/johnny_neon/johnny_neon_-_hearts.mp3" >}}

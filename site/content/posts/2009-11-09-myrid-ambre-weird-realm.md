@@ -17,5 +17,6 @@ For the rest of us, here is another track from this minimal mastemind. Winding, 
 
 The man behind Myrid Ambre is looking for someone to join him in a gig at the Waiting Room (Cape Town) in December / January on a Monday. If you are interested please get in touch with us and we will point you in the right direction! He is awesome, his music is awesome, you won't regret it.
 
-\[download#180#nohits\]
-
+{{< audio
+    src="https://stetcoza.blob.core.windows.net/music/myrid_ambre/myrid_ambre_-_weird_realm.mp3"
+    caption="Myrid Ambre - Weird Realm" >}}

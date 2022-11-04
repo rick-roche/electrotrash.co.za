@@ -13,5 +13,6 @@ featured: '/wp-content/uploads/2011/03/artworks-000005819957-sjezu4-original-304
 
 I honestly do not know where Richard finds the time to produce such ill bootlegs. Taking a cut n paste approach, he reduces and changes samples and rearranges slices in a way that creates a new sound. A good bootleg is both familiar and yet strange, and _Sin n Juice_ does that perfectly!
 
-\[download#283#nohits\]
-
+{{< audio
+    caption="Richard The Third - Sin and Juice (Snoop Boot)"
+    src="https://stetcoza.blob.core.windows.net/music/richard_the_third/richard_the_third_-_sin_and_juice_(snoop_boot).mp3" >}}

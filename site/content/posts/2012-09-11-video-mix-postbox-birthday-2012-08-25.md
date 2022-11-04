@@ -17,9 +17,13 @@ featured: '/wp-content/uploads/2012/09/elec_ben_postbox-304x190.jpg'
 
 Little Rock put together the first video for [Electrotrash TV](http://www.youtube.com/user/electrotrashTV "Electrotrash TV") from the night... its effing awesome!
 
+{{< youtube id="MtzBu8nP0ZI" class="youtube-container" >}}
+
 I played that night and recorded my set as I was doing my thing, I have uploaded it (mistakes and all) for your listening pleasure!
 
-**Download:** \[download#371#nohits\] (116 MB, V0 MP3, 67 minutes)
+{{< audio
+    src="https://stetcoza.blob.core.windows.net/music/mixes/rick_disco_-_postbox_birthday_set_-_2012-08-25.mp3"
+    caption="Rick Disco - PostBox Birthday Set - 2012-08-25" >}}
 
 [![PostBox Rick Disco](/wp-content/uploads/2012/09/elec_disco_postbox-1024x802.jpg "PostBox Rick Disco")](/wp-content/uploads/2012/09/elec_disco_postbox.jpg)Rick Disco
 

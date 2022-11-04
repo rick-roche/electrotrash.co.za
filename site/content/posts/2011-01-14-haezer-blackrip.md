@@ -13,5 +13,6 @@ featured: '/wp-content/uploads/2011/01/rip-304x190.jpg'
 
 Haezer is off to Portugal but left us with a little something to remember him by until he gets back. _Black (RIP)_ is massive in ways only Haezer can manage. It opens with an intro that brings a smile to the metal-head in me, before breaking into what can only be described as  headbanging nirvana. As is typical for a Haezer track, there are no times for pleasantries or cutesy build-up. Haezer co-conspirator Circe delivers the vocal treatment in her usual cool manner. This is pure, in your face, electronic mayhem. It's just a pity synth-metal sounds so camp, or that's what I'd use to describe his sound. Grab the track below and for those of you who want more, be sure to grab a copy of _Here Come the Punks_ over at [Beatport](http://beatport.com/s/t6SHjf)!
 
-\[download#268#nohits\]
-
+{{< audio
+    caption="HAEZER - Black(RIP) feat. Circe"
+    src="https://stetcoza.blob.core.windows.net/music/haezer/haezer_-_black(rip)_feat_circe.mp3" >}}

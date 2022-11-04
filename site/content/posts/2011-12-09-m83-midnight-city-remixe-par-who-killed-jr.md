@@ -13,5 +13,6 @@ featured: '/wp-content/uploads/2011/12/M83-EYES-2.jpg'
 
 With his latest remix, Who Killed JR takes the moody, dreamy _Midnight City_ by M83 out of its after hours club feel and injects some 2am energy. With the piano intro, he adds an accoustic touch. Jacking the bass and drums up a notch, and gating the main synth gives the track that WKJR feel while staying faithful to the _leitmotiv_ of the original. Nuff said, grab it!
 
-\[download#323#nohits\]
-
+{{< audio
+    src="https://stetcoza.blob.core.windows.net/music/who_killed_jr/m83_-_who_killed_jr_-_m83_-_midnight_city_(remixe_par_who_killed_jr)_16a.mp3"
+    caption="M83 - Midnight City (remixé par Who Killed JR)" >}}

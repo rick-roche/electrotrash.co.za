@@ -15,7 +15,9 @@ featured: '/wp-content/uploads/2009/12/madscientist-304x190.jpg'
 
 A pretty banging tune that got me grooving in my room, clearly showing us the direction this producer is heading in! Grab it...
 
-\[download#202#nohits\]
+{{< audio
+    caption="CoDeC - Mad Scientist"
+    src="https://stetcoza.blob.core.windows.net/music/codec/codec_-_mad_scientist.mp3" >}}
 
 ^5!
 

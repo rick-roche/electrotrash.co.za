@@ -23,7 +23,9 @@ This kicked off his career as a regular DJ in the Cape Town Scene playing the fu
 
 To say, "keep your eyes peeled" would fit into a cliche that does no justice to this young, enthusiastic, insanely talented force of Electronic music nature!
 
-\[download#282#nohits\]
+{{< audio
+    caption="Das Kapital - Overload"
+    src="https://stetcoza.blob.core.windows.net/music/das_kapital/das_kapital_-_overload.mp3" >}}
 
  [Das Kapital - Overload](http://soundcloud.com/red-bull-studio-ct/das-kapital-overload) by [Red Bull Studio CT](http://soundcloud.com/red-bull-studio-ct)
 

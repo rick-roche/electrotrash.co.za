@@ -19,8 +19,14 @@ Richard the Third has been a dominant force in South African electronic music, b
 
 _Slip_ features the emotive vocals of Black Porcelain which at to the dark and moody atmosphere of the track. This is dubstep at its finest, sleek and minimal, yet never boring. Dank takes the track into a playful yet dirty direction. An 8-bit synth dominates the melody, while a deep, rolling bass fills out the bottom-end. A quick once-over in the Glitch-o-matic and you have a massive remix, which while retaining elements of the original, is nothing like it. Loving it!
 
-\[download#279#nohits\]   _Dragonfly_ features the vocal talents of Zaki Ibrahim, which are soft, almost whispy, yet with depth and soul in the chorus. The track moves towards the direction of future garage, with a shuffled two-step beat setting the foundation for an array of synths and samples that are varied but never overwhelming.  [Richard The Third - Dragonfly feat. Zaki Ibrahim](http://soundcloud.com/africandope/richard-the-third-dragonfly) by [africandope](http://soundcloud.com/africandope)
+{{< audio
+    caption="Richard the Third - Slip (Dank Remix)"
+    src="https://stetcoza.blob.core.windows.net/music/richard_the_third/richard_the_third_-_slip_(dank_remix).mp3" >}}
+
+Dragonfly_ features the vocal talents of Zaki Ibrahim, which are soft, almost whispy, yet with depth and soul in the chorus. The track moves towards the direction of future garage, with a shuffled two-step beat setting the foundation for an array of synths and samples that are varied but never overwhelming.  [Richard The Third - Dragonfly feat. Zaki Ibrahim](http://soundcloud.com/africandope/richard-the-third-dragonfly) by [africandope](http://soundcloud.com/africandope)
 
 As an added bonus check out this sweet bootleg that Richard put together. It is a tribute to Nate Dogg (RIP) featuring Burial and Four Tet. An awesome mashup and tribute.
 
-\[download#280#nohits\]
+{{< audio
+    caption="Nate Dogg vs  Burial vs Four Tet - I Got Ego (Richard the Third Bootleg)"
+    src="https://stetcoza.blob.core.windows.net/music/richard_the_third/nate_dogg_vs__burial_vs_four_tet_-_i_got_ego_(richard_the_third_bootleg).mp3" >}}

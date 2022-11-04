@@ -15,9 +15,13 @@ P.H.Fat are the latest addition to the Electrotrash family. This Cape Town group
 
 Their first full-length album was just launched and we will be bringing you a review in the very near future. In the mean time, check out these two bangers that they boys sent us. _Big Five_ features [Fuzzy Slippers](http://www.facebook.com/pages/Fuzzy-Slippers/61646648742) and urges us to get down like animals. Will do. A phat (!) and heavy bassline sets the stage for rhymes which share the secrets of the animal world. We love animals indeed.
 
-\[download#274#nohits\]
+{{< audio
+    caption="P.H.Fat - Big Five (feat. Fuzzy Slippers)"
+    src="https://stetcoza.blob.core.windows.net/music/phfat/phfat_-_big_five_(feat_fuzzy_slippers).mp3" >}}
 
 Did I say the previous bassline was heavy? Ooops. _Dinosaur Blood_ seems even heavier. Oh well,  squelchy and dirty will work as well. Melodicy synthy arps complete the backdrop. The lyrics are... absurd, out-there or fantastic (in the truest sense of the word!). I only have one question. Who is this Paranormal Ox-Man?
 
-\[download#275#nohits\]
+{{< audio
+    caption="P.H.Fat - Dinosaur Blood"
+    src="https://stetcoza.blob.core.windows.net/music/phfat/phfat_-_dinosaur_blood.mp3" >}}
 

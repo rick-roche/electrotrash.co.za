@@ -15,7 +15,9 @@ These guys have been very busy lately which is great! I am told they destroyed D
 
 So a long story short, these guys are making waves and are incredibly good at it so don't miss out on catching them live every chance you get! Just listen to this new track of theirs featuring [Spoek Mathambo](http://www.myspace.com/spoek "Spoek") ([Sweat.X](http://www.myspace.com/sweatx "Sweat.X")) to see what I mean!
 
-\[download#252#nohits\]
+{{< audio
+    caption="POPSKARR - The Light feat. Spoek Mathambo"
+    src="https://stetcoza.blob.core.windows.net/music/popskarr/popskarr_-_the_light_feat_spoek_mathambo_(official).mp3" >}}
 
 What do you think?
 

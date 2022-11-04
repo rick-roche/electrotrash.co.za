@@ -17,5 +17,7 @@ The boys of Biscope add their own special touch to the track 'Rockit' by Sub Foc
 
 Grab the bass-heavy, bitchin', boot below!
 
-\[download#215#nohits\]
+{{< audio
+    caption="Sub Focus - Rockit (Biscope Boot)"
+    src="https://stetcoza.blob.core.windows.net/music/biscope/sub_focus_-_rockit_(biscope_boot).mp3" >}}
 

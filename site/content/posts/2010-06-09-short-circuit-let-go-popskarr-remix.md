@@ -15,7 +15,9 @@ featured: '/wp-content/uploads/2010/06/POP-PICn-304x190.jpg'
 
 Grab the remix below, let us know what you think!
 
-\[download#244#nohits\]
+{{< audio
+    caption="Short Circuit - Let Go (Popskarr Remix)"
+    src="https://stetcoza.blob.core.windows.net/music/popskarr/short_circuit_-_let_go_(popskarr_remix).mp3" >}}
 
 ^5!
 
