@@ -7,7 +7,9 @@ authors: ["dirtyoldman"]
 
 [![](/wp-content/uploads/2011/03/HAEZER.jpg "HAEZER")](/artists/haezer/haezer-3/)
 
-[Facebook](http://www.facebook.com/HaezerElectro) [MySpace](http://myspace.com/haezer) [Soundcloud](http://soundcloud.com/haezer)
+[Facebook](http://www.facebook.com/HaezerElectro)\
+[MySpace](http://myspace.com/haezer) \
+[Soundcloud](http://soundcloud.com/haezer)
 
 HAEZER originates from Cape Town, South Africa and had been producing his signature trash/electro sound since late 2008. He began his live career at THE ASSEMBLY, opening for visiting internationals such as Steve Aoki, Gtronic, Djedjotronic and Le Castle Vania. Soon after, HAEZER teamed up with Cyberpunkers (ITALY) and Saint Pauli (GERMANY) to collaborate on his debut single Who The Fuck is HAEZER (released on Freakz me Out Records, GERMANY) and later on touring together with Cyberpunkers on their 2010 SA tour. The Toxic Avenger met up with HAEZER on his 2009 tour to South Africa, a meeting that later resulted in HAEZER being invited to remix his new single N’importe Comment featuring Orelsan, recently released on ROY Records (FRANCE).
 

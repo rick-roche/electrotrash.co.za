@@ -5,7 +5,10 @@ draft: false
 authors: ["dirtyoldman"]
 ---
 
-![](/wp-content/uploads/2011/02/68849_156368764399126_145102632192406_235042_179266_n-e1296772688172.jpg "Jam Jarr")[Facebook](http://www.facebook.com/jamjarrcpt) [Soundcloud](http://www.soundcloud.com/jamjarrcpt)
+![](/wp-content/uploads/2011/02/68849_156368764399126_145102632192406_235042_179266_n-e1296772688172.jpg "Jam Jarr")
+
+[Facebook](http://www.facebook.com/jamjarrcpt) \
+[Soundcloud](http://www.soundcloud.com/jamjarrcpt)
 
 A spasm of electronic, a shiver of dirty, filthy, salt up your nose kinda bass. Jam Jarr is a glitch-rap duo made up of Soundproof and Bakaman, and they’re here to tear your eardrums asunder with a cache of tracks ranging from dubstep to glitch-hop, and all the other beat-stops inbetween. Their first EP - Fat Fruit - was released on African Dope Records, and their second - I Am The Danger - is scheduled for release in March. A release on Dutch record label "Subfinity Records" in collaboration with 'Process Rebel' is also coming out early 2011.
 

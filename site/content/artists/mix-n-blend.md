@@ -15,4 +15,6 @@ We started playing music to people about seven years ago when we found out that 
 
 We DJ and cut styles up from funk to reggae to breaks to drum n bass, we basically just aim to try make your socks fall off and your mouth hurt from smiling.
 
-[http://www.mixnblend.com](http://www.mixnblend.com) [www.myspace.com/mixnblend](www.myspace.com/mixnblend) [http://www.facebook.com/pages/Mix-n-Blend/10242376754?ref=ts](http://www.facebook.com/pages/Mix-n-Blend/10242376754?ref=ts)
+[http://www.mixnblend.com](http://www.mixnblend.com) \
+[www.myspace.com/mixnblend](www.myspace.com/mixnblend) \
+[http://www.facebook.com/pages/Mix-n-Blend/10242376754?ref=ts](http://www.facebook.com/pages/Mix-n-Blend/10242376754?ref=ts)

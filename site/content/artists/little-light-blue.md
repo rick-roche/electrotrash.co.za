@@ -7,7 +7,10 @@ authors: ["Rick Disco"]
 
 [![](/wp-content/uploads/2011/07/little_light_blue.jpg "Little Light Blue")](/wp-content/uploads/2011/07/little_light_blue.jpg)
 
-_Websites:_ [www.facebook.com/littlelightblue](http://www.facebook.com/littlelightblue) [soundcloud.com/littlelightblue](http://soundcloud.com/littlelightblue) [www.myspace.com/littlelightblue](http://www.myspace.com/littlelightblue)
+_Websites:_ \
+[www.facebook.com/littlelightblue](http://www.facebook.com/littlelightblue) \
+[soundcloud.com/littlelightblue](http://soundcloud.com/littlelightblue) \
+[www.myspace.com/littlelightblue](http://www.myspace.com/littlelightblue)
 
 _Members:_ Jaco Loots
 

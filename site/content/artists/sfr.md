@@ -7,7 +7,9 @@ authors: ["dirtyoldman"]
 
 [![](/wp-content/uploads/2011/08/sfr_press_pic_09_1.jpg "SFR")](/artists/sfr/sfr_press_pic_09_1/)
 
-[Facebook](http://www.facebook.com/djsfr) [Twitter](http://www.twitter.com/deejaysfr) [Soundcloud](http://soundcloud.com/deejaysfr)
+[Facebook](http://www.facebook.com/djsfr) \
+[Twitter](http://www.twitter.com/deejaysfr) \
+[Soundcloud](http://soundcloud.com/deejaysfr)
 
 Over the last 7 years, SFR has built up a solid reputation as the “go to guy” for quality South African Bass Music. A testament to this is his extensive discography of 12” vinyl releases on international labels including the massive UK-based imprints, Trouble On Vinyl and Zombie Recordings.
 
