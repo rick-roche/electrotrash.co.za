@@ -15,7 +15,10 @@ Jozi based producer [Veld](https://soundcloud.com/veld) makes beautiful electron
 
 Download: ~~https://soundcloud.com/veld/ap-slender/download~~
 
+{{< soundcloud 54847592 >}}
+
 The afro-tech rythms of _a deed_ make it more upbeat, but vicious synth stabs and a slightly detuned organ leave you feeling slightly unsettled.
 
 Download: ~~https://soundcloud.com/veld/a-deed/download~~
 
+{{< soundcloud 54846796 >}}

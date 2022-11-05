@@ -13,6 +13,4 @@ featured: '/wp-content/uploads/2012/07/artworks-000026754611-881z08-original-304
 
 Sex and nostalgia. Cape Town based Gateway Drugs have it down with their new track _Airwaves_. Synthpop awesomeness abound!
 
-{{< audio
-    src="https://stetcoza.blob.core.windows.net/music/gateway_drugs/gateway_drugs_-_airwaves.mp3"
-    caption="Gateway Drugs - Airwaves" >}}
+{{< soundcloud 53015512 >}}

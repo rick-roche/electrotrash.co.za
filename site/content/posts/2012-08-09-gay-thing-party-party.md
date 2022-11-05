@@ -16,3 +16,5 @@ featured: '/wp-content/uploads/2012/08/Gay-thing-Poster-2-copy-304x190.jpg'
 {{< audio
     src="https://stetcoza.blob.core.windows.net/music/gay_thing/gay_thing_-_party_party.mp3"
     caption="Gay Thing - Party Party" >}}
+
+{{< soundcloud 54758663 >}}

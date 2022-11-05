@@ -13,7 +13,7 @@ featured: '/wp-content/uploads/2012/05/mixmatchlogo-304x190.jpg'
 
 The new edition of Mix & Match is out featuring Dirty Paraffin. Give it a listen to hear a bit about the crew and they favourite tunes.
 
-Download: \[download#349#nohits\]
+{{< soundcloud 54575068 >}}
 
 Tracklist:
 

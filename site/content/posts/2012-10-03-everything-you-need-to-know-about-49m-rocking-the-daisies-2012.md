@@ -11,7 +11,11 @@ featured: '/wp-content/uploads/2012/10/daisies-304x190.jpg'
 
 [![](/wp-content/uploads/2012/10/daisies.jpg "daisies")](/2012/10/03/everything-you-need-to-know-about-49m-rocking-the-daisies-2012/daisies/)
 
-Rocking the Daisies is proud to announce that 49M have acquired naming rights for SA’s greenest annual concert Rocking The Daisies. The festival will now be known as the 49M Rocking The Daisies. The 7th edition of 49M Rocking the Daisies is nearly upon us. Each year there are changes, new additions and farewells, but one thing is for sure it only gets better and this year is going to be EPIC! The most notable change is that we will be opening the camping area on Thursday evening for all those keen party animals looking to get a head start on the good times. Stage schedules have changed with an earlier start on Friday and an earlier close on Sunday. CARLING BLACK LABEL CAMPSITE STAGE & BAR
+Rocking the Daisies is proud to announce that 49M have acquired naming rights for SA’s greenest annual concert Rocking The Daisies. The festival will now be known as the 49M Rocking The Daisies. The 7th edition of 49M Rocking the Daisies is nearly upon us. Each year there are changes, new additions and farewells, but one thing is for sure it only gets better and this year is going to be EPIC! The most notable change is that we will be opening the camping area on Thursday evening for all those keen party animals looking to get a head start on the good times. Stage schedules have changed with an earlier start on Friday and an earlier close on Sunday.
+
+{{< youtube id="PqPz7R-bS4Y" class="youtube-container">}}
+
+CARLING BLACK LABEL CAMPSITE STAGE & BAR
 
 Ensuring that 49M Rocking the Daisies is a music festival for the champions, Black Label is back again this year providing us with ice-cold beers from the Black Label bar in the Main Stage arena, and reminding us why Darling changed its name to Carling for the weekend. Expect some really awesome champion-themed activation’s again this year. Catch the best of local up-and-coming bands blasting open the festival on 04 October, Thursday night at the Black Label Campsite Stage.
 

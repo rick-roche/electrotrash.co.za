@@ -13,3 +13,4 @@ featured: '/wp-content/uploads/2012/09/cosmv-304x190.jpg'
 
 _Disguises_ is sex, with it's deep, grinding bass and smooth melody. The video treatment is like '[Sabotage](https://www.youtube.com/watch?v=z5rRZdiu1UE)' meets '[Kung-Pow](https://www.youtube.com/watch?v=GXrAYdSeWY8)' and was done by Ari Kruger at Sketchbook Studios. Mixed and mastered by Sibot at Say Thank You, it is a taste of the new material Card On Spokes is putting out. A touch of skweee, a lil ghetto glitch, a whole lot of awesome. Check out the video below and share it if you enjoyed it!
 
+{{< youtube id="1r9wkZ3t9mg" class="youtube-container">}}

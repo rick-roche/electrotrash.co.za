@@ -16,3 +16,5 @@ The third track from Gay Thing in a fortnightly release schedule leading up to G
 {{< audio
     src="https://stetcoza.blob.core.windows.net/music/gay_thing/gay_thing_-_gaydar.mp3"
     caption="Gay Thing - Gaydar" >}}
+
+{{< soundcloud 57916195 >}}

@@ -21,11 +21,43 @@ And on the topic of Turntablism, DJing and Electronic and Beat Music in general,
 
 This year of course sees the Red Bull Studios continuing efforts to present the best local Electronica and Dance to the festival masses. With a line-up that includes the heavy-weight House styling’s of **Goldfish, Black Motion** and **Leighton Moody**, the thumping Bass of **Pascal & Pearce**, **Twelv & Thesis** and **RudeOne**, the cutting-edge live Electronica of **Christian Tiger School**, **Card On Spokes** and **Dank**, alongside many more, it’s likely that the job is pretty much done.
 
+{{< soundcloud-playlist 2566726 >}}
+
 **FRIDAY 5**
 
-13:00    Rebel Clef 14:00    Oltak 15:00    Soulo Starr 16:00    Dank 16:45    Raiko 18:00    Jakobsnake 19:00    Leighton Moody 20:00    Terrence Pearce 21:00    Bruno Morphet 22:00    Black Motion 23:00    Grand Master Flash 00:00    Koan Sound 01:30    Das Kapital 02:30    Pascal & Pearce 03:30    Afterlife 04:30    Close
+13:00    Rebel Clef \
+14:00    Oltak \
+15:00    Soulo Starr \
+16:00    Dank \
+16:45    Raiko \
+18:00    Jakobsnake \
+19:00    Leighton Moody \
+20:00    Terrence Pearce \
+21:00    Bruno Morphet \
+22:00    Black Motion \
+23:00    Grand Master Flash \
+00:00    Koan Sound \
+01:30    Das Kapital \
+02:30    Pascal & Pearce \
+03:30    Afterlife \
+04:30    Close
 
-**SATURDAY 6 **
+**SATURDAY 6**
 
-11:00    DJ Tempo 13:00    Christian Tiger School 14:00    Card on Spokes 15:00    Blotchy 16:00    Nastie Ed 17:00    Kabila 18:00    Floyd Lavine 19:00    Toby2Shoes 20:00    Youngsta 20:30    Yoda 21:30    Rudeone 22:30    Twelv & Thesis 23:30    Toy Toy 01:00    Goldfish 02:00    Agoria 03:30    Space Time Continuum 05:00    Close
-
+11:00    DJ Tempo \
+13:00    Christian Tiger School \
+14:00    Card on Spokes \
+15:00    Blotchy \
+16:00    Nastie Ed \
+17:00    Kabila \
+18:00    Floyd Lavine \
+19:00    Toby2Shoes \
+20:00    Youngsta \
+20:30    Yoda \
+21:30    Rudeone \
+22:30    Twelv & Thesis \
+23:30    Toy Toy \
+01:00    Goldfish \
+02:00    Agoria \
+03:30    Space Time Continuum \
+05:00    Close

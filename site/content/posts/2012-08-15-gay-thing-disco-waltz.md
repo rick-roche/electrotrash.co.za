@@ -14,3 +14,5 @@ featured: '/wp-content/uploads/2012/08/Disco-Waltz-2-304x190.jpg'
 {{< audio
     src="https://stetcoza.blob.core.windows.net/music/gay_thing/gay_thing_-_disco_waltz.mp3"
     caption="Gay Thing - Disco Waltz" >}}
+
+{{< soundcloud 56273786 >}}

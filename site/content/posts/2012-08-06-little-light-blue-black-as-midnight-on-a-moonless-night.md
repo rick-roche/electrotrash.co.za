@@ -17,4 +17,6 @@ You can get the whole album here: https://www.mediafire.com/?jv9dx3tfas9djdd
 
 and listen to a mashup of _Black As Midnight On A Moonless Night_ and _Where The Light Is Brightest_ below:
 
+{{< soundcloud 54022130 >}}
+
 {{< soundcloud 54018732 >}}

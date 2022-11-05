@@ -16,3 +16,9 @@ Calling Witchboy a busy man is an understatement. Since releasing his album, [_L
 {{< soundcloud 55084931 >}}
 
 {{< soundcloud 55496139 >}}
+
+{{< bandcamp-album 3301829727 >}}
+
+{{< youtube id="P70CH731X7k" class="youtube-container">}}
+
+{{< vimeo 46533363 >}}

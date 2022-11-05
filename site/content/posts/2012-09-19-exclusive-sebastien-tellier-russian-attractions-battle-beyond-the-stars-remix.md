@@ -16,3 +16,7 @@ Battle Beyond the Stars' entry into the Sébastien Tellier remix contest is a tr
 {{< audio
     src="https://stetcoza.blob.core.windows.net/music/battle_beyond_the_stars/sebastien_tellier_-_russian_attractions_(battle_beyond_the_stars_remix).mp3"
     caption="Sébastien Tellier - Russian Attractions (Battle Beyond the Stars Remix)" >}}
+
+{{< soundcloud 59716288 >}}
+
+{{< youtube id="ILxORt-uCjA" class="youtube-container">}}

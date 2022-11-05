@@ -13,5 +13,4 @@ featured: '/wp-content/uploads/2012/08/artworks-000027422130-oo5xpn-original-304
 
 Battle Beyond the Stars goes all tropical with his remix of Van She's latest single _Jamaica._ Dropping most of the vocals to reveal a track which yearns for summer. Find a sunny spot, put this on repeat and enjoy a mini trip to the Islands!
 
-Download: \[download#350#nohits\]
-
+{{< soundcloud 54290823 >}}

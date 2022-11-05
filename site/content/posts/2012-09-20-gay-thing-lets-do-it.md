@@ -16,3 +16,5 @@ _Let's Do It_ is the latest release by [Gay Thing](https://soundcloud.com/gaythi
 {{< audio
     src="https://stetcoza.blob.core.windows.net/music/gay_thing/gay_thing_-_lets_do_it.mp3"
     caption="Gay Thing - Let's Do It" >}}
+
+{{< soundcloud 59530189 >}}
