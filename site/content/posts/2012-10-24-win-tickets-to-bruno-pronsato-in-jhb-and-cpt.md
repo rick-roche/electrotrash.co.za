@@ -23,7 +23,19 @@ American born Steven Ford, better known as Bruno Pronsato, is a DJ and producer 
 >
 > Lineup:
 >
-> 14h00 Terrence Pearce 15h30 Marshall 17h00 Dan C 18h30 Marq 20h00 Jimmy Chronic 21h30 One Track Mike 23h00 Floyd Lavine 00h30 BRUNO PRONSATO (live) 02h00 Killer Robot
+> 14h00 Terrence Pearce \
+> 15h30 Marshall \
+> 17h00 Dan C \
+> 18h30 Marq \
+> 20h00 Jimmy Chronic \
+> 21h30 One Track Mike \
+> 23h00 Floyd Lavine \
+> 00h30 BRUNO PRONSATO (live) \
+> 02h00 Killer Robot
+
+{{< youtube id="sFmSl3caymc" class="youtube-container">}}
 
 Listen to the podcast below to get a taste of what to expect:
+
+{{< mixcloud >}}
 

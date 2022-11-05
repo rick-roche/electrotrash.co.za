@@ -15,3 +15,4 @@ SLABOFMISUSE is a Cape Town producer of downtempo Glitch/Hip Hop. Having previou
 
 Download: ~~http://www.mediafire.com/?5d8rw343a5pgng2'~~
 
+{{< soundcloud-playlist 2365682 >}}

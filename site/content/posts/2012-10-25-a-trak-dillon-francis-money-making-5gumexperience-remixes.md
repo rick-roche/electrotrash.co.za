@@ -13,3 +13,10 @@ featured: '/wp-content/uploads/2012/10/564114_498199716865334_2055007435_n-304x1
 
 With the #5GumExperience around the corner and the remix competition closed, we thought it would be nice to share the remixes with you and highlight those crafted by the electrotrash family.
 
+{{< soundcloud 64558781 >}}
+
+{{< soundcloud 64507691 >}}
+
+{{< soundcloud 64463220 >}}
+
+{{< soundcloud 64414274 >}}

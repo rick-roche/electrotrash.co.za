@@ -15,5 +15,7 @@ Halloween is here and that means it's time to party in silly costumes. We've got
 
 > Halloween's here, which can mean only one thing: a legendary weekend of mayhem right here at The Assembly! Prepare yourself for two nights of wickedness with trick-or-treaters Guns N Lazers, Zebra & Giraffe, The Wedding DJs, Shortstraw, Candice Heyns, Petite Noir, plus loads more!
 
+{{< youtube id="RW-vjPum48U" class="youtube-container">}}
+
 [![](/wp-content/uploads/2012/10/sat-halloween-e1350911511694.jpg "sat-halloween")](/2012/10/22/2x-double-ticket-give-away-halloween-weekend-extravaganza-the-assembly/sat-halloween/)
 

@@ -4,7 +4,7 @@
 </div>
 {{ else }}
 <figure class="audio-container-center">
-    <audio controls preload="{{ .Get "preload" | default "metadata" }}">
+    <audio controls preload="{{ .Get "preload" | default "none" }}">
     {{ with .Get "src" }}<source src="{{ . | absURL }}" type="audio/mpeg">{{ end }}
     </audio>
     <figcaption>{{ with .Get "caption" }}{{ . }}{{ end }}  {{ with .Get "src" }}<button onclick='downloadSong("{{ . | absURL }}")'><i class="fa fa-download"></i></button>{{ end }}</figcaption>
