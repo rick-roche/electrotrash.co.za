@@ -1,0 +1,20 @@
+<li id="search-widget" class="widget">
+  <div class="widget-content">
+    <h4 class="widget-title">Search</h4>
+    <form id="search" role="search">
+      <input type="search" id="search-input" class="search-input" />
+      <input type="submit" id="search-submit" value="Search" />
+    </form>
+  </div>
+  <div class="widget-bottom"></div>
+</li>
+
+<template id="search-result-template" hidden>
+  <article id="search-result" class="entry">
+    <h3 class="group-title"><a class="summary-title-link"></a></h3>
+    <summary class="summary entry"></summary>
+    <div class="read-more-container">
+      <a class="read-more-link">{{ i18n "readMore" }} »</a>
+    </div>
+  </article>
+</template>

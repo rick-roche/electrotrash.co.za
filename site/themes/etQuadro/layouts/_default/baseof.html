@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    {{- partial "head.html" . -}}
+    <body>
+        {{- partial "header.html" . -}}
+        <div id="container" class="clearfix">
+        <div id="main">{{- block "main" . }}{{- end }}</div>
+
+        {{- .Render "sidebar" }}
+        </div>
+        <!-- /container -->
+        {{- partial "footer.html" . -}}
+
+    </body>
+</html>

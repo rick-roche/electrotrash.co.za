@@ -1,0 +1,8 @@
+<div class="meta clearfix">
+  <span class="date-post">Posted on {{ .PublishDate.Format "January 2 2006" }}</span>
+  <a class="read-more" href="{{ .RelPermalink }}" title="Keep Reading...">Read more...</a>
+</div>
+<h3 class="title">
+  <a href="{{ .RelPermalink }}" title="{{ .Title }}">{{ .Title }}</a>
+</h3>
+<div class="entry clearfix">{{ partial "post-thumbnail.html" (dict "page" .) }} {{ .Summary }}</div>

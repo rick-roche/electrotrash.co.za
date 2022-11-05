@@ -1,0 +1,24 @@
+<div id="mini-post-wrap" class="clearfix">
+<!-- render each mini post -->
+{{ $paginator := .Paginate (where .Site.RegularPages "Type" "posts") }}
+{{- range $i,$p := $paginator.Pages }}
+    {{if not (modBool $i 2)}}
+    <div class="mini-post even">
+    {{ else }}
+    <div class="mini-post odd">
+    {{end}}
+    {{- .Render "mini-post" }}
+    </div>
+{{- end }}
+</div>
+<!-- /mini-post-wrap -->
+<div class="navigation clearfix">
+  {{ if gt $paginator.TotalPages 1 }}
+    {{ if $paginator.HasNext }}
+    <div class="alignleft"><a href="{{ $paginator.Next.URL }}">&laquo; Older Entries</a></div>
+    {{ end }}
+    {{ if $paginator.HasPrev }}
+      <div class="alignright"><a href="{{ $paginator.Prev.URL }}">Newer Entries &raquo;</a></div>
+    {{ end }}
+  {{ end }}
+</div>

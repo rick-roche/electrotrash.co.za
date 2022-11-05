@@ -1,0 +1,40 @@
+{{ define "main" }}
+<div id="content">
+    <div id="content-in">
+      <div class="post">
+        <h3 class="title">All {{ .Title }}</h3>
+        <div class="entry">
+            {{- $pages := .Pages.GroupByDate "2006" -}}
+            {{- with .Site.Params.section.paginate | default .Site.Params.paginate -}}
+                {{- $pages = $.Paginate $pages . -}}
+            {{- else -}}
+                {{- $pages = .Paginate $pages -}}
+            {{- end -}}
+
+            <p>
+                Jump to&nbsp;
+                {{- range $pages.PageGroups -}}
+                    <a href="#{{ .Key }}">{{ .Key }}</a> |&nbsp;
+                {{- end -}}
+            </p>
+
+            {{- range $pages.PageGroups -}}
+                <a id="{{ .Key }}"><h2 class="group-title">{{ .Key }}</h3></a>
+                {{- range .Pages -}}
+                    <article class="archive-item">
+                        <a href="{{ .RelPermalink }}" class="archive-item-link">
+                            {{- .Title -}}
+                        </a>
+                        <span class="archive-item-date">
+                            ({{- $.Site.Params.section.dateFormat | default "2 January" | .Date.Format -}})
+                        </span>
+                    </article>
+                {{- end -}}
+            {{- end -}}
+        </div>
+        <div class="clear"></div>
+    </div>
+    <div class="bottomthing"></div>
+</div>
+</div>
+{{ end }}
