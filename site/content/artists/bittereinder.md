@@ -1,5 +1,5 @@
 ---
-title: 'bittereinder'
+title: 'Bittereinder'
 date: Thu, 11 Nov 2010 17:12:55 +0000
 draft: false
 authors: ["dirtyoldman"]
