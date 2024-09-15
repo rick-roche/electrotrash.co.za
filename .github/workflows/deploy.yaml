@@ -79,6 +79,9 @@ jobs:
                   repositoryToken='${{ secrets.WORKFLOW_TOKEN }}' \
                   tags='${{ env.RESOURCE_TAGS }}'
 
+      - name: Install jq
+        run: sudo apt-get install -y jq
+
       - name: Get Static Web App API Key
         id: static_web_app_apikey
         # if: github.event_name != 'pull_request'
