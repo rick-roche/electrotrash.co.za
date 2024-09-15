@@ -14,6 +14,7 @@ env:
   RESOURCE_TAGS: '{"owner":"rick.roche", "app":"electrotrash.co.za", "repo":"https://github.com/rick-roche/electrotrash.co.za" }'
   APP_NAME: 'et-co-za'
   LOCATION: 'westeurope'
+  DOTNET_SYSTEM_GLOBALIZATION_INVARIANT: '1'
 
 jobs:
   validate-infra:
@@ -35,16 +36,15 @@ jobs:
           azcliversion: latest
           inlineScript: |
             az version
-            az deployment group validate --help
-            # az deployment group validate \
-            #   --resource-group ${{ env.RESOURCE_GROUP }} \
-            #   --template-file ./infra/main.bicep \
-            #   --parameters \
-            #       appName='${{ env.APP_NAME }}' \
-            #       location='${{ env.LOCATION }}' \
-            #       repositoryUrl='https://github.com/rick-roche/electrotrash.co.za' \
-            #       repositoryToken='${{ secrets.WORKFLOW_TOKEN }}' \
-            #       tags='${{ env.RESOURCE_TAGS }}'
+            az deployment group validate \
+              --resource-group ${{ env.RESOURCE_GROUP }} \
+              --template-file ./infra/main.bicep \
+              --parameters \
+                  appName='${{ env.APP_NAME }}' \
+                  location='${{ env.LOCATION }}' \
+                  repositoryUrl='https://github.com/rick-roche/electrotrash.co.za' \
+                  repositoryToken='${{ secrets.WORKFLOW_TOKEN }}' \
+                  tags='${{ env.RESOURCE_TAGS }}'
 
   deploy-infra-app:
     runs-on: ubuntu-latest
