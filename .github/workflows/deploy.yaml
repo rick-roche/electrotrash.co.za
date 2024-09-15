@@ -27,6 +27,9 @@ jobs:
         with:
           creds: ${{ secrets.AZURE_CREDENTIALS }}
 
+      - name: Install libicu-dev
+        run: sudo apt-get install -y libicu-dev
+
       - name: Validate Infra
         id: validate_infra
         # if: github.event_name != 'pull_request'
