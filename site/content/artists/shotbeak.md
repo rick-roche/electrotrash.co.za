@@ -15,4 +15,4 @@ Shotbeak resides in South Africa in a University town by name of Stellenbosch. H
 
 He makes music solely with FL Studio at the moment.
 
-Check out our [Downloads](/downloads "electrotrash Downloads") section to get a whole lot of music from Shotbeak!
+Check out our [Downloads](/downloads/shotbeak/ "electrotrash Downloads") section to get a whole lot of music from Shotbeak!
