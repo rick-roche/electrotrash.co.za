@@ -19,19 +19,19 @@ Ola grew up with a background in music starting at the age of four when her gran
 
 The following members have become part of the fulka project. These members appear on the debut album, live gigs and future recordings.
 
-1\. Ola Kobak - A singer, songwriter and banjo-player, who has plucking guitar skills, banging piano chord talent along with polish harmonic accordion melodies sourced from her heart.
+1. Ola Kobak - A singer, songwriter and banjo-player, who has plucking guitar skills, banging piano chord talent along with polish harmonic accordion melodies sourced from her heart.
 
-2\. Jacob Israel - An ex-arctic polar bear with expertise in drum beats, vintage synthesizers and production.
+2. Jacob Israel - An ex-arctic polar bear with expertise in drum beats, vintage synthesizers and production.
 
-3\. Corne Roodt - A mulit-talented boere musician gifted in playing piano, guitar, bass, drums, accordion, banjo, etc, etc, etc, etc, etc, etc, etc.
+3. Corne Roodt - A mulit-talented boere musician gifted in playing piano, guitar, bass, drums, accordion, banjo, etc, etc, etc, etc, etc, etc, etc.
 
-4\. Nicole Van Heerden - she is thegirlwiththesexyshoes.blogspot, sometimes known as Nak. She has a nak for fashion and is currently throwing threads into the Fulka mix.
+4. Nicole Van Heerden - she is thegirlwiththesexyshoes.blogspot, sometimes known as Nak. She has a nak for fashion and is currently throwing threads into the Fulka mix.
 
-5\. Nicola Wheeler - A movie loving, special effects makeup artist who loves transforming others whether it is using a brush or latex!
+5. Nicola Wheeler - A movie loving, special effects makeup artist who loves transforming others whether it is using a brush or latex!
 
 Additional guests (on special occasions):
 
-6\. Zbyszek Kobak - The father of Ola Kobak, an ex-refugee that fled communist Poland back in the early 80's who finished his master's degree in trombone.
+6. Zbyszek Kobak - The father of Ola Kobak, an ex-refugee that fled communist Poland back in the early 80's who finished his master's degree in trombone.
 
 [Facebook](http://www.facebook.com/pages/Fulka/251276848642)
 

@@ -29,4 +29,4 @@ What has largely precipitated this thinking has been the consistent lack of acce
 
 KLIKTRAK continues to operate in the underground...
 
-[Get FREE music from KLIKTRAK on electrotrash here](/downloads/#kliktrak "electrotrash Downloads")!
+[Get FREE music from KLIKTRAK on electrotrash here](/downloads/kliktrak/ "electrotrash Downloads")!

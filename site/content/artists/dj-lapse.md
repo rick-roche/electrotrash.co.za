@@ -17,4 +17,4 @@ Kind words by VEREVÜLFF
 >
 > His is the soundtrack to all you salmon swimming upstream. "
 
-[Get FREE music from DJ Lapse on electrotrash here](/downloads/#lapse "electrotrash Downloads")!
+[Get FREE music from DJ Lapse on electrotrash here](/downloads/dj-lapse/ "electrotrash Downloads")!

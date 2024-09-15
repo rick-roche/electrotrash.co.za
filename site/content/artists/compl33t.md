@@ -25,4 +25,4 @@ _Releases:_
 
 *   You Wish...(2005) - 5 Track EP as well as Lucidity (2006) - 5 Track EP
 
-[Get FREE music from Compl33t on electrotrash here](/downloads/#compl33t "electrotrash Downloads")!
+[Get FREE music from Compl33t on electrotrash here](/downloads/compl33t/ "electrotrash Downloads")!

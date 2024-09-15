@@ -21,7 +21,7 @@ Jacob is currently working on new multitouch audio performances, and he loves to
 
 Visit [www.chrisus.tv](http://www.chrisus.tv "Chrisus.tv") to download his albums and to view the videos.
 
-[Get FREE music from Jacob Israel on electrotrash here](/downloads/#jacob "electrotrash Downloads")!
+[Get FREE music from Jacob Israel on electrotrash here](/downloads/jacob-israel/ "electrotrash Downloads")!
 
 [![](/wp-content/uploads/2008/08/screen-300x146.jpg "jacob israel - screen")](/wp-content/uploads/2008/08/screen.jpg)
 

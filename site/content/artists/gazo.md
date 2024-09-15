@@ -15,4 +15,4 @@ GaZo's music can include anything from soft acoustic instrumentals, to glitchy I
 
 GaZo is busy building up his reputation as a passionate computer music enthusiast, but feels that the technology should not drive you to a specific genre. All music in the end of the day is music. What is important to GaZo is the importance of melody, harmony, songwriting, and the intertwining of it all. GaZo invites you into his music realm and keeps you listening. His experimentation and manipulation of sound and music is both interesting and intriguing. GaZo is busy working on his debut album, Shoegazer. One should expect the release in the beginning of 2009.
 
-[FREE music from GaZo on electrotrash here](/downloads/#gazo "electrotrash Downloads")!
+[FREE music from GaZo on electrotrash here](/downloads/gazo/ "electrotrash Downloads")!

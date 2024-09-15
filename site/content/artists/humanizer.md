@@ -19,4 +19,4 @@ What I’m really enjoying now is playing with recording techniques like recordi
 
 I don’t think I’ll ever stop making music in one form or another. The music will change constantly and what inspires me has always been what is happening on the fringes. I’ve never been that interested in the mainstream but It's great to see that groundbreaking ideas do eventually filter into popular culture, even if it takes 15 years. You just have to listen out for all that pseudo-glitch stuff on the radio to know what I’m talking about.
 
-[Get FREE music from Humanizer on electrotrash here](/downloads/#humanizer "electrotrash Downloads")!
+[Get FREE music from Humanizer on electrotrash here](/downloads/humanizer/ "electrotrash Downloads")!

@@ -17,4 +17,4 @@ Some of the more synth driven, electronic tracks such as ‘Supercilious’, ‘
 
 Overall this album is as diverse as it is well-rounded. Yesterday’s Pupil has a sound that is entirely his own and yet is strangely familiar. Capturing the energy of his live shows is no easy feat and while nothing can ever compare to seeing an artist live on stage, this album does deliver. For those that have seen his live show, this album will not disappoint, while those unfamiliar with his music and who crave electronic music with something a little different will no doubt enjoy it as well.
 
-While we don't have any of his tracks for you to sample you can get the Haezer remix of 'You'll Poly Die' in our [Downloads](/downloads/#yestpupil) section and you can watch the music video for 'Lines and Colours' [here](/2009/06/22/music-video-yesterdays-pupil-lines-and-colours/).
+While we don't have any of his tracks for you to sample you can get the Haezer remix of 'You'll Poly Die' in our [Downloads](/downloads/yesterdays-pupil/) section and you can watch the music video for 'Lines and Colours' [here](/2009/06/22/music-video-yesterdays-pupil-lines-and-colours/).

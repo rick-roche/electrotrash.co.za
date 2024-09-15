@@ -1,0 +1,9 @@
+---
+title: "Little Light Blue"
+draft: false
+authors: ["Rick Disco"]
+---
+
+{{< playlist
+    links="https://stetcoza.blob.core.windows.net/music/little_light_blue_black_as_midnight_on_a_moonless_night/01_little_light_blue_-_black_as_midnight_on_a_moonless_night.mp3,https://stetcoza.blob.core.windows.net/music/little_light_blue_black_as_midnight_on_a_moonless_night/02_little_light_blue_-_common_thread.mp3,https://stetcoza.blob.core.windows.net/music/little_light_blue_black_as_midnight_on_a_moonless_night/03_little_light_blue_-_bigger_they_are.mp3,https://stetcoza.blob.core.windows.net/music/little_light_blue_black_as_midnight_on_a_moonless_night/04_little_light_blue_-_the_owls_are_not_what_they_seem.mp3,https://stetcoza.blob.core.windows.net/music/little_light_blue_black_as_midnight_on_a_moonless_night/05_little_light_blue_-_for_your_understanding.mp3,https://stetcoza.blob.core.windows.net/music/little_light_blue_black_as_midnight_on_a_moonless_night/06_little_light_blue_-_where_the_light_is_brightest.m4a,https://stetcoza.blob.core.windows.net/music/little_light_blue_black_as_midnight_on_a_moonless_night/07_little_light_blue_-_something_about_seahorses_remix_(original_by_iron_clad_giant).mp3,https://stetcoza.blob.core.windows.net/music/little_light_blue_black_as_midnight_on_a_moonless_night/08_little_light_blue_-_light_is_brightest_on_a_moonless_night.mp3"
+    titles="Little Light Blue - Black As Midnight On A Moonless Night,Little Light Blue - Common Thread,Little Light Blue - Bigger They Are,Little Light Blue - The Owls Are Not What They Seem,Little Light Blue - For Your Understanding,Little Light Blue - Where The Light Is Brightest,Little Light Blue - Something About Seahorses Remix (Original by Iron Clad Giant),Little Light Blue - Light Is Brightest On A Moonless Night" >}}

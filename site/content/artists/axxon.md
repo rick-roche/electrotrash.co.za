@@ -25,4 +25,4 @@ _Releases:_
 *   Sleeper - 2007
 *   Sanctum - 2008
 
-[FREE music from Axxon on electrotrash here](/downloads/#axxon "electrotrash Downloads")!
+[FREE music from Axxon on electrotrash here](/downloads/axxon/ "electrotrash Downloads")!
