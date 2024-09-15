@@ -34,8 +34,11 @@ jobs:
         with:
           azcliversion: latest
           inlineScript: |
+            az version
+            az account show
             az bicep install
             az bicep version
+            az deployment group validate --help
             az deployment group validate \
               --resource-group ${{ env.RESOURCE_GROUP }} \
               --template-file ./infra/main.bicep \
