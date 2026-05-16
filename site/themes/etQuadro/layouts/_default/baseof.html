@@ -6,7 +6,7 @@
         <div id="container" class="clearfix">
         <div id="main">{{- block "main" . }}{{- end }}</div>
 
-        {{- .Render "sidebar" }}
+        {{- partial "sidebar.html" . }}
         </div>
         <!-- /container -->
         {{- partial "footer.html" . -}}
