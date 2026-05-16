@@ -61,7 +61,7 @@ jobs:
         uses: peaceiris/actions-hugo@v3
         with:
           hugo-version: '0.154.2'
-          extended: false
+          extended: true
 
       - name: Build site
         working-directory: site
