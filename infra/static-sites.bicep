@@ -49,7 +49,6 @@ resource staticSite 'Microsoft.Web/staticSites@2021-02-01' = { // https://docs.m
   sku: sku
   properties: {
     allowConfigFileUpdates: allowConfigFileUpdates
-    provider: 'GitHub'
     repositoryUrl: repositoryUrl
     repositoryToken: repositoryToken
     branch: repositoryBranch
