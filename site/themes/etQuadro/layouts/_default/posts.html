@@ -4,6 +4,20 @@
       <div class="post">
         <h3 class="title">All {{ .Title }}</h3>
         <div class="entry">
+            <h1>Posts by Year</h1>
+            <ul>
+                {{ range .Pages.GroupByDate "2006" }}
+                    <li>
+                        <h2>{{ .Key }}</h2>
+                        <ul>
+                            {{ range .Pages }}
+                                <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+                            {{ end }}
+                        </ul>
+                    </li>
+                {{ end }}
+            </ul>
+
             {{- $pages := .Pages.GroupByDate "2006" -}}
             {{- with .Site.Params.section.paginate | default .Site.Params.paginate -}}
                 {{- $pages = $.Paginate $pages . -}}
@@ -17,6 +31,7 @@
                     <a href="#{{ .Key }}">{{ .Key }}</a> |&nbsp;
                 {{- end -}}
             </p>
+
 
             {{- range $pages.PageGroups -}}
                 <a id="{{ .Key }}"><h2 class="group-title">{{ .Key }}</h3></a>

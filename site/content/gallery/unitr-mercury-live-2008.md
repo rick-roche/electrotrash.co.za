@@ -1,6 +1,6 @@
 ---
 title: 'Unit.r @ Mercury Live, Cpt - 01-08-2008'
-date: Sun, 3 Aug 2008 17:06:31 +0000
+date: 2008-08-03T17:06:31Z
 draft: false
 authors: ["Rick Disco"]
 ---

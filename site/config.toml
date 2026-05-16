@@ -28,7 +28,7 @@ relativeURLs = 'true'
     page = ["HTML"]
     home = ["HTML", "RSS", "SearchIndex"]
     section = ["HTML", "RSS"]
-    taxonomyTerm = ["HTML", "RSS"]
+    term = ["HTML", "RSS"]
     taxonomy = ["HTML", "RSS"]
 
 # Theme Settings

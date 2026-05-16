@@ -1,18 +1,5 @@
 <div id="featured-post-wrap" class="clearfix">
-  <script type="text/javascript">
-    $j2(document).ready(function () {
-      $j2("#featured-post").cycle({
-        fx: "fade",
-        speed: "fast",
-        timeout: 6000,
-        pause: 2,
-        next: "#featured-next",
-        prev: "#featured-prev",
-      });
-    });
-  </script>
   <div id="featured-post">
-    <!-- https://damien.co/blog/2020-06-13-hugo-featured-posts-list/ -->
     <!-- each featured item in here -->
     {{ range ( where .Site.RegularPages "Type" "posts" | first 3 ) }}
     <div class="featured-item">
@@ -29,7 +16,7 @@
                 {{ end }}
             </span>
             <div class="entry">
-                {{ .Summary | truncate 350 }}
+                {{ .Summary | plainify | truncate 350 }}
             </div>
             <a class="read-more" href="{{ .RelPermalink }}" title="Continue Reading...">Continue Reading...</a>
         </div>

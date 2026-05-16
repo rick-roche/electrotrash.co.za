@@ -1,6 +1,6 @@
 ---
 title: 'Shut Up Im Dancing Presents Sexy Results, Jhb - 05-04-2008'
-date: Sun, 6 Apr 2008 17:06:31 +0000
+date: 2008-04-06T17:06:31Z
 draft: false
 authors: ["Rick Disco"]
 ---

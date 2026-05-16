@@ -106,4 +106,4 @@ jobs:
           output_location: 'public' # relative to app_location
           app_build_command: hugo --gc --minify --buildFuture
         env:
-          HUGO_VERSION: 0.102.3
+          HUGO_VERSION: 0.154.2

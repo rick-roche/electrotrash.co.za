@@ -9,7 +9,7 @@ thumbnail: '/wp-content/uploads/2011/12/boss-150x150.png'
 featured: '/wp-content/uploads/2011/12/boss-304x190.png'
 ---
 
-_[![](<i>/wp-content/uploads/2011/12/boss-e1323131647742.png "boss")](/2011/12/06/richard-the-third-feat-rebone-boss-out-now/boss/)_
+_[![](/wp-content/uploads/2011/12/boss-e1323131647742.png "boss")](/2011/12/06/richard-the-third-feat-rebone-boss-out-now/boss/)_
 
 Released today, Boss is the latest single from [Richard The Third](http://thirdworldfromthesun.wordpress.com/). We really loved the track when he first released the teaser. In his words the single is:
 

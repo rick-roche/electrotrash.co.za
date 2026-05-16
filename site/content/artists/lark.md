@@ -1,6 +1,6 @@
 ---
 title: 'Lark'
-date: Sun, 1 Oct 2006 02:45:30 +0000
+date: 2006-10-01T02:45:30Z
 draft: false
 authors: ["Rick Disco"]
 ---
