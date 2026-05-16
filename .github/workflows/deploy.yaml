@@ -57,6 +57,16 @@ jobs:
         with:
           node-version: '20'
 
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: '0.154.2'
+          extended: false
+
+      - name: Build site
+        working-directory: site
+        run: hugo --gc --minify --buildFuture
+
       - name: Azure Login
         uses: azure/login@v2
         with:
@@ -99,9 +109,6 @@ jobs:
           repo_token: ${{ secrets.GITHUB_TOKEN }} # Used for GitHub integrations (i.e. PR comments)
           action: 'upload'
           # Build configuration for Azure Static Web Apps: https://aka.ms/swaworkflowconfig
-          app_location: 'site'
+          app_location: 'site/public'
           api_location: ''
-          output_location: 'public' # relative to app_location
-          app_build_command: hugo --gc --minify --buildFuture
-        env:
-          HUGO_VERSION: 0.154.2
+          output_location: ''
