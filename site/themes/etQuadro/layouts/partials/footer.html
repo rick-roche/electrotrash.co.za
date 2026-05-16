@@ -1,8 +1,10 @@
 <div id="footer">
   <p id="sponsor">Copyright © 2022 electrotrash.co.za</p>
 
-  {{ $css := resources.Match "css/*.css" | resources.Concat "theme/min.css" | minify }}
+  {{ with resources.Match "css/*.css" }}
+  {{ $css := . | resources.Concat "theme/min.css" | minify }}
   <link rel="stylesheet" href="{{ $css.Permalink }}" />
+  {{ end }}
 
   <script type="text/javascript" src="/js/jquery.easing.min.js"></script>
   <script type="text/javascript" src="/js/jquery.lavalamp.js"></script>
@@ -54,15 +56,21 @@
   <script type="text/javascript" src="/js/lunr-search.js"></script>
 
   <!-- audio shortcodes -->
-  {{ $scss := resources.Get "sass/audio-player.scss" | css.Sass | minify }}
+  {{ with resources.Get "sass/audio-player.scss" }}
+  {{ $scss := . | css.Sass | minify }}
   <link rel="stylesheet" href="{{ $scss.Permalink }}" />
+  {{ end }}
 
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-  {{ $scss := resources.Get "sass/audio.scss" | css.Sass | minify }}
+  {{ with resources.Get "sass/audio.scss" }}
+  {{ $scss := . | css.Sass | minify }}
   <link rel="stylesheet" href="{{ $scss.Permalink }}" />
+  {{ end }}
 
   <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/axios/0.19.2/axios.min.js"></script>
-  {{ $js := resources.Get "js/audio.js" | minify }}
+  {{ with resources.Get "js/audio.js" }}
+  {{ $js := . | minify }}
   <script type="text/javascript" src="{{ $js.Permalink }}"></script>
+  {{ end }}
 
 </div>
