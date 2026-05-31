@@ -1,0 +1,37 @@
+{{ define "main" }}
+<div id="content">
+    <div id="content-in">
+      <div class="post">
+        <h3 class="title">All {{ .Title }}</h3>
+        <div class="entry">
+            <h1>Posts by Year</h1>
+            {{- $groups := .Pages.GroupByDate "2006" -}}
+
+            <p>
+                Jump to&nbsp;
+                {{- range $index, $group := $groups -}}
+                    <a href="#{{ $group.Key }}">{{ $group.Key }}</a>{{ if lt $index (sub (len $groups) 1) }} |&nbsp;{{ end }}
+                {{- end -}}
+            </p>
+
+
+            {{- range $groups -}}
+                <h2 id="{{ .Key }}" class="group-title">{{ .Key }}</h2>
+                {{- range .Pages -}}
+                    <article class="archive-item">
+                        <a href="{{ .RelPermalink }}" class="archive-item-link">
+                            {{- .Title -}}
+                        </a>
+                        <span class="archive-item-date">
+                            ({{- $.Site.Params.section.dateFormat | default "2 January" | .Date.Format -}})
+                        </span>
+                    </article>
+                {{- end -}}
+            {{- end -}}
+        </div>
+        <div class="clear"></div>
+    </div>
+    <div class="bottomthing"></div>
+</div>
+</div>
+{{ end }}

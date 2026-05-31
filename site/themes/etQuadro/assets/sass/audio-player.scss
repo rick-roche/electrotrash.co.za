@@ -1,0 +1,41 @@
+.playlist-container {
+  margin: 1em auto 2em;
+  max-width: 45em;
+
+  audio {
+    width: 100%;
+  }
+
+  .now-playing {
+    font-size: medium;
+    text-align: center;
+  }
+
+  #playlist {
+    list-style: decimal-leading-zero;
+    margin: 1em 0;
+
+    li {
+      margin: 0.5em 0;
+      p {
+        display: none;
+      }
+    }
+
+    li.active {
+      >a {
+        font-weight: bold;
+      }
+      p {
+        display: block;
+      }
+    }
+  }
+
+  #controls {
+    display: flex;
+    justify-content: space-between;
+    margin: 1em 1em 2em;
+    font-size: large;
+  }
+}

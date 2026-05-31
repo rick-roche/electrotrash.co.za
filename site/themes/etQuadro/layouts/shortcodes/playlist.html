@@ -1,0 +1,40 @@
+<div class="playlist-container">
+  {{ $links := split (.Get "links") "," }}
+  {{ $titles := split (.Get "titles") "," }}
+
+  <audio id="player" preload="none" tabindex="0" controls>
+    <source src="{{ index $links 0 }}" type="audio/mpeg">
+  </audio>
+
+  <h4 class="now-playing">
+    <div id="now-playing">Now playing: {{ index $titles 0 }}</div>
+  </h4>
+
+  <div id="controls">
+    <a id="prev" href="#prev">&#x23EE; Previous</a>
+    <a id="next" href="#next">Next &#x23ED;</a>
+  </div>
+
+  <ol id="playlist">
+    {{ range $index, $title := $titles }}
+        {{ if eq $index 0 }}
+    <li class="active">
+        {{ else }}
+    <li>
+        {{ end }}
+      <a class="track" href="{{ index $links $index }}">{{ $title }}</a>
+    </li>
+    {{ end }}
+  </ol>
+</div>
+
+{{ $js := resources.Get "js/audio-player.js" | js.Build | minify }}
+<script type="text/javascript" src="{{ $js.Permalink }}"></script>
+
+<!-- {{ range $index, $link := $links }}
+<div>
+    index:{{ $index }}
+    link:{{ $link }}
+    title:{{ index $titles $index }}
+</div>
+{{ end }} -->

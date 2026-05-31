@@ -1,0 +1,23 @@
+{{ define "main" }}
+<div id="content">
+  <div id="content-in">
+    <div class="post">
+      <h3 class="title">{{ title .Section }} Gallerrrrrrry</h3>
+      <div class="entry">
+        {{ .Content }}
+
+        <ul>
+          <!-- Ranges through content/x/*.md -->
+          {{ range sort .Pages ".Title" }}
+          <li>
+            <a href="{{.Permalink}}">{{.Title}}</a>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+      <div class="clear"></div>
+    </div>
+    <div class="bottomthing"></div>
+  </div>
+</div>
+{{ end }}

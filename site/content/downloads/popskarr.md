@@ -1,0 +1,9 @@
+---
+title: "Popskarr"
+draft: false
+authors: ["Rick Disco"]
+---
+
+{{< playlist
+    links="https://stetcoza.blob.core.windows.net/music/popskarr/cassius_-_i_love_you_so_(popskarr_remix).mp3,https://stetcoza.blob.core.windows.net/music/popskarr/polygon_palace_-_we_have_a_visual_(popskarr_remix).mp3,https://stetcoza.blob.core.windows.net/music/popskarr/popskarr_-_empathy.mp3,https://stetcoza.blob.core.windows.net/music/popskarr/popskarr_-_my_dreams.mp3,https://stetcoza.blob.core.windows.net/music/popskarr/popskarr_-_spills.mp3,https://stetcoza.blob.core.windows.net/music/popskarr/popskarr_-_the_finish_line_(bass_version).mp3,https://stetcoza.blob.core.windows.net/music/popskarr/popskarr_-_the_light_feat_spoek_mathambo_(official).mp3,https://stetcoza.blob.core.windows.net/music/popskarr/popskarr_-_the_rise.mp3,https://stetcoza.blob.core.windows.net/music/popskarr/popskarr_-_tonight.mp3,https://stetcoza.blob.core.windows.net/music/popskarr/popskarr_-_tonight_(mr_vega_remix).mp3,https://stetcoza.blob.core.windows.net/music/popskarr/popskarr_feat_gazelle_-_obession.mp3,https://stetcoza.blob.core.windows.net/music/popskarr/popskarr_feat_johnny_neon_-_all_night_(master).mp3,https://stetcoza.blob.core.windows.net/music/popskarr/short_circuit_-_let_go_(popskarr_remix).mp3,https://stetcoza.blob.core.windows.net/music/popskarr/we_have_band_-_oh!_(popskarr_remix).mp3"
+    titles="Cassius - I Love You So (Popskarr Remix),Polygon Palace - We Have A Visual (Popskarr Remix),Popskarr - Empathy,Popskarr - My Dreams,Popskarr - Spills,Popskarr - The Finish Line (Bass Version),Popskarr - The Light Feat Spoek Mathambo (Official),Popskarr - The Rise,Popskarr - Tonight,Popskarr - Tonight (Mr Vega Remix),Popskarr Feat Gazelle - Obession,Popskarr Feat Johnny Neon - All Night (Master),Short Circuit - Let Go (Popskarr Remix),We Have Band - Oh! (Popskarr Remix)" >}}
