@@ -5,36 +5,18 @@
         <h3 class="title">All {{ .Title }}</h3>
         <div class="entry">
             <h1>Posts by Year</h1>
-            <ul>
-                {{ range .Pages.GroupByDate "2006" }}
-                    <li>
-                        <h2>{{ .Key }}</h2>
-                        <ul>
-                            {{ range .Pages }}
-                                <li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-                            {{ end }}
-                        </ul>
-                    </li>
-                {{ end }}
-            </ul>
-
-            {{- $pages := .Pages.GroupByDate "2006" -}}
-            {{- with .Site.Params.section.paginate | default .Site.Params.paginate -}}
-                {{- $pages = $.Paginate $pages . -}}
-            {{- else -}}
-                {{- $pages = .Paginate $pages -}}
-            {{- end -}}
+            {{- $groups := .Pages.GroupByDate "2006" -}}
 
             <p>
                 Jump to&nbsp;
-                {{- range $pages.PageGroups -}}
-                    <a href="#{{ .Key }}">{{ .Key }}</a> |&nbsp;
+                {{- range $index, $group := $groups -}}
+                    <a href="#{{ $group.Key }}">{{ $group.Key }}</a>{{ if lt $index (sub (len $groups) 1) }} |&nbsp;{{ end }}
                 {{- end -}}
             </p>
 
 
-            {{- range $pages.PageGroups -}}
-                <a id="{{ .Key }}"><h2 class="group-title">{{ .Key }}</h3></a>
+            {{- range $groups -}}
+                <h2 id="{{ .Key }}" class="group-title">{{ .Key }}</h2>
                 {{- range .Pages -}}
                     <article class="archive-item">
                         <a href="{{ .RelPermalink }}" class="archive-item-link">
