@@ -5,7 +5,7 @@ draft: false
 authors: ["dirtyoldman"]
 tags: ["dj lapse", "La Roux Bulletproof Lapse Remix", "La Roux Bulletproof Remix", "lapse"]
 categories: ["Music"]
-thumbnail: '/wp-content/uploads/2009/08/6171_133532728474_133529193474_3151907_7371426_n-150x150.jpg'
+thumbnail: '/wp-content/uploads/2009/08/6171_133532728474_133529193474_3151907_7371426_n1-150x150.jpg'
 featured: '/wp-content/uploads/2009/08/6171_133532728474_133529193474_3151907_7371426_n1-304x190.jpg'
 ---
 

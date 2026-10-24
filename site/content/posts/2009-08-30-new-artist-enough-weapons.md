@@ -10,7 +10,7 @@ thumbnail: "/wp-content/uploads/2009/08/enough-weapons1-150x150.jpg"
 featured: "/wp-content/uploads/2009/08/enough-weapons1-304x190.jpg"
 ---
 
-[![Enough Weapons](/wp-content/uploads/2009/08/enough-weapons1.jpg "Enough Weapons")](/wp-content/uploads/2009/08/enough-weapons1.jpg)
+[![Enough Weapons](/wp-content/uploads/2009/08/enough-weapons.jpg "Enough Weapons")](/wp-content/uploads/2009/08/enough-weapons.jpg)
 
 So after a whole bunch of technical difficulties the site is back to running as normal. We have a new events section that is slightly different, but way cooler so give it a look! If you have problems with anything please let us know so we can fix it ASAP!
 

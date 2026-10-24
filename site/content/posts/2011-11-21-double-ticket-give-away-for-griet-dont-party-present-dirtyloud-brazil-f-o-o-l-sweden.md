@@ -5,7 +5,7 @@ draft: false
 authors: ["dirtyoldman"]
 tags: ["DIRTYLOUD", "F.O.O.L"]
 categories: ["Free Tickets", "Gig Promotion", "Music"]
-thumbnail: '/wp-content/uploads/2011/11/draft-3-Small=-150x150.png'
+thumbnail: '/wp-content/uploads/2011/11/draft-3-Small-150x150.png'
 featured: '/wp-content/uploads/2011/11/draft-3-Small-166x190.png'
 ---
 

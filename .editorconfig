@@ -10,6 +10,6 @@ trim_trailing_whitespace = true
 # Two trailing spaces can be an intentional Markdown line break.
 trim_trailing_whitespace = false
 
-[*.{yml,yaml,json,bicep}]
+[*.{yml,yaml,json}]
 indent_style = space
 indent_size = 2

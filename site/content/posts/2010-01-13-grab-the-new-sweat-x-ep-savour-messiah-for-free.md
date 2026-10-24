@@ -1,15 +1,15 @@
 ---
-title: 'Grab the new SWEAT.X EP Savour & Messiah for free!!!'
+title: "Grab the new SWEAT.X EP Savour & Messiah for free!!!"
 date: Wed, 13 Jan 2010 10:00:25 +0000
 draft: false
 authors: ["dirtyoldman"]
 tags: ["Saviour & Messiah", "Sweat X"]
 categories: ["Music"]
-thumbnail: '/wp-content/uploads/2010/01/SITEFACE3.preview1-150x150.jpg'
-featured: '/wp-content/uploads/2010/01/SITEFACE3.preview1-304x190.jpg'
+thumbnail: "/wp-content/uploads/2010/01/SITEFACE3.preview1-150x150.jpg"
+featured: "/wp-content/uploads/2010/01/SITEFACE3.preview1-304x190.jpg"
 ---
 
-[![](/wp-content/uploads/2010/01/SITEFACE3.preview.jpg "SWEAT.X - SAVIOUR & MESSIAH EP")](/wp-content/plugins/download-monitor/download.php?id=211)
+![](/wp-content/uploads/2010/01/SITEFACE3.preview.jpg "SWEAT.X - SAVIOUR & MESSIAH EP")
 
 Ok, so this is like 2 weeks old, but I was in Cape Town on holiday so... [Saviour & Messiah](http://2faced1.com/blogs/zombo/download-sweatx-saviour-messiah-ep) is the brand new EP from SWEAT.X (that's Spoek and Markus Wormstorm) and features 8 tracks including a few remixes. Check out the track list below and click the link to grab it!
 
@@ -23,4 +23,3 @@ Ok, so this is like 2 weeks old, but I was in Cape Town on holiday so... [Saviou
 8. Jack (The Bulgarian Remix)
 
 > ⚠️ Dead link: the original Mediafire download — _Sweat.X - Saviour & Messiah EP_ ([http://www.mediafire.com/?tz2mg2ejdlt](http://www.mediafire.com/?tz2mg2ejdlt)) is no longer available. If you have a copy, please [get in touch](/contact).
-

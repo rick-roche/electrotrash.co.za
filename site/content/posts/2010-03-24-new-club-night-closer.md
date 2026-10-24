@@ -6,7 +6,7 @@ authors: ["Rick Disco"]
 tags: ["closer", "deconstruction", "fourways", "jhb", "kat trim", "tokyo sky", "trouble magazine"]
 categories: ["Events", "Gig Promotion"]
 thumbnail: '/wp-content/uploads/2010/03/closer-150x150.jpg'
-featured: '/wp-content/uploads/2010/03/closer200x190.jpg'
+featured: '/wp-content/uploads/2010/03/closer.jpg'
 ---
 
 [![](/wp-content/uploads/2010/03/closer.jpg "Closer")](/wp-content/uploads/2010/03/closer.jpg)

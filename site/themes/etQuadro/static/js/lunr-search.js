@@ -1,220 +1,142 @@
-window.addEventListener("DOMContentLoaded", event => {
-    let index = null;
-    let lookup = null;
-    let queuedTerm = null;
-    let queuedDoNotAddState = false;
-    let origContent = null;
-
+window.addEventListener("DOMContentLoaded", () => {
     const form = document.getElementById("search");
     const input = document.getElementById("search-input");
-    form.addEventListener("submit", function(event) {
-        event.preventDefault();
+    const status = document.getElementById("search-status");
+    const target = document.getElementById("main");
+    const originalTitle = document.title;
+    let originalContent = null;
+    let indexPromise = null;
+    let generation = 0;
 
-        let term = input.value.trim();
-        if (!term) {
-            return;
+    function loadIndex() {
+        if (!indexPromise) {
+            indexPromise = fetch("/search.json", { signal: AbortSignal.timeout(15000) })
+                .then(response => {
+                    if (!response.ok) throw new Error("Search index unavailable");
+                    return response.json();
+                })
+                .then(documents => {
+                    if (!Array.isArray(documents)) throw new Error("Invalid search index");
+                    const lookup = new Map();
+                    const index = lunr(function() {
+                        this.ref("uri");
+                        for (const field of ["title", "subtitle", "content", "description", "categories", "authors", "tags"]) {
+                            this.field(field);
+                        }
+                        for (const document of documents) {
+                            this.add(document);
+                            lookup.set(document.uri, document);
+                        }
+                    });
+                    return { index, lookup };
+                })
+                .catch(error => {
+                    indexPromise = null;
+                    throw error;
+                });
         }
-        startSearch(term, false);
-    }, false);
-
-    if (history.state && history.state.type == "search") {
-        startSearch(history.state.term, true);
+        return indexPromise;
     }
 
-    window.addEventListener("popstate", function(event) {
-        console.log("addEventListener");
-        if (event.state && event.state.type == "search") {
-            startSearch(event.state.term, true);
-        }
-        else if (!event.state && origContent) {
-            // let target = document.querySelector(".main-inner");
-            // let target = document.querySelector("#content-in");
-            let target = document.querySelector("#main");
-            while (target.firstChild) {
-                target.removeChild(target.firstChild);
-            }
-
-            for (let node of origContent) {
-                target.appendChild(node);
-            }
-            origContent = null;
-        }
-    }, false);
-
-    function startSearch(term, doNotAddState) {
-        console.log("startSearch");
+    async function startSearch(term, keepURL) {
+        const current = ++generation;
         input.value = term;
+        status.textContent = "Searching…";
         form.setAttribute("data-running", "true");
-        if (index) {
-            search(term, doNotAddState);
-        }
-        else if (queuedTerm) {
-            queuedTerm = term;
-            queuedDoNotAddState = doNotAddState;
-        }
-        else {
-            queuedTerm = term;
-            queuedDoNotAddState = doNotAddState;
-            initIndex();
-        }
-    }
-
-    function searchDone() {
-        console.log("searchDone");
-        form.removeAttribute("data-running");
-
-        // A magic trick to make search field loses focus on mobile,
-        // which prevents the virtual keyboard from popping up.
-        const header = document.querySelector('.header');
-        if (header && header.classList.contains('fade')) {
-            input.blur();
-        }
-
-        queuedTerm = null;
-        queuedDoNotAddState = false;
-    }
-
-    function initIndex() {
-        console.log("initIndex");
-        let request = new XMLHttpRequest();
-        request.open("GET", "/search.json");
-        request.responseType = "json";
-        request.addEventListener("load", function(event) {
-            let documents = request.response;
-            if (!documents)
-            {
-                console.error("Search index could not be downloaded, was it generated?");
-                searchDone();
-                return;
-            }
-
-            lookup = {};
-            index = lunr(function() {
-                this.ref("uri");
-                this.field("title");
-                this.field("subtitle");
-                this.field("content");
-                this.field("description");
-                this.field("categories");
-                this.field("authors");
-                this.field("tags");
-
-                for (let document of documents) {
-                    this.add(document);
-                    lookup[document.uri] = document;
-                }
-            });
-
-            search(queuedTerm, queuedDoNotAddState);
-        }, false);
-        request.addEventListener("error", searchDone, false);
-        request.send(null);
-    }
-
-    function search(term, doNotAddState) {
         try {
-            let results = index.search(term);
-
-            // let target = document.querySelector(".main-inner");
-            // let target = document.querySelector("#content-in");
-            let target = document.querySelector("#main");
-            let replaced = [];
-            while (target.firstChild) {
-                replaced.push(target.firstChild);
-                target.removeChild(target.firstChild);
-            }
-            if (!origContent) {
-                origContent = replaced;
-            }
-
-            let content = document.createElement("div");
+            const { index, lookup } = await loadIndex();
+            if (current !== generation) return;
+            const results = index.search(term);
+            const content = document.createElement("div");
             content.id = "content";
-            let contentIn = document.createElement("div");
+            const contentIn = document.createElement("div");
             contentIn.id = "content-in";
-            let post = document.createElement("div");
+            const post = document.createElement("div");
             post.className = "post";
-            let bottomThing = document.createElement("div");
-            bottomThing.className = "bottomthing";
-
-            let title = document.createElement("h1");
+            const title = document.createElement("h1");
             title.id = "search-results";
-            // title.className = "list-title";
             title.className = "title";
-
-            // This is an overly simple pluralization scheme, it will only work
-            // for some languages.
-            if (results.length == 0) {
-                title.textContent = `No results found for “${term}”`;
-            }
-            else if (results.length == 1) {
-                title.textContent = `Found one result for “${term}”`;
-            }
-            else {
-                title.textContent = `Found ${results.length} results for “${term}”`;
-            }
-            // target.appendChild(title);
+            title.textContent = results.length === 0 ? `No results found for “${term}”`
+                : `Found ${results.length === 1 ? "one result" : `${results.length} results`} for “${term}”`;
             post.appendChild(title);
 
-            document.title = title.textContent;
-
-            let template = document.getElementById("search-result-template");
-            // let template = document.getElementById("content-in");
-
-            for (let result of results) {
-                let doc = lookup[result.ref];
-
-                let element = template.content.cloneNode(true);
-                // let element = template.content.querySelector("#search-result").cloneNode(true);
-
-                element.querySelector(".summary-title-link").href = element.querySelector(".read-more-link").href = doc.uri;
+            const template = document.getElementById("search-result-template");
+            for (const result of results) {
+                const doc = lookup.get(result.ref);
+                const element = template.content.cloneNode(true);
+                element.querySelector(".summary-title-link").href = doc.uri;
+                element.querySelector(".read-more-link").href = doc.uri;
                 element.querySelector(".summary-title-link").textContent = doc.title;
                 element.querySelector(".summary").textContent = truncateToEndOfSentence(doc.content, 70);
-                // target.appendChild(element);
                 post.appendChild(element);
             }
-            title.scrollIntoView(true);
-
-            if (!doNotAddState) {
-                history.pushState({type: "search", term: term}, title.textContent, "#search=" + encodeURIComponent(term));
-            }
-
-            contentIn.appendChild(post);
-            contentIn.appendChild(bottomThing);
+            const bottom = document.createElement("div");
+            bottom.className = "bottomthing";
+            contentIn.append(post, bottom);
             content.appendChild(contentIn);
-            target.appendChild(content);
 
-        }
-        finally {
-            searchDone();
+            if (!originalContent) originalContent = Array.from(target.childNodes);
+            target.replaceChildren(content);
+            document.title = title.textContent;
+            status.textContent = title.textContent;
+            if (!keepURL) {
+                history.pushState(null, "", "#search=" + encodeURIComponent(term));
+            }
+            title.scrollIntoView(true);
+        } catch (error) {
+            if (current !== generation) return;
+            status.textContent = error.name === "QueryParseError"
+                ? "Invalid search query. Check the syntax and try again."
+                : "Search could not load. Please retry.";
+        } finally {
+            if (current === generation) form.removeAttribute("data-running");
         }
     }
 
-    // This matches Hugo's own summary logic:
-    // https://github.com/gohugoio/hugo/blob/b5f39d23b86f9cb83c51da9fe4abb4c19c01c3b7/helpers/content.go#L543
-    function truncateToEndOfSentence(text, minWords)
-    {
+    function restoreFromURL() {
+        // Invalidate pending work even when the original DOM has not been replaced yet.
+        generation++;
+        form.removeAttribute("data-running");
+        status.textContent = "";
+        if (location.hash.startsWith("#search=")) {
+            try {
+                const term = decodeURIComponent(location.hash.slice(8)).trim();
+                if (term) {
+                    startSearch(term, true);
+                    return;
+                }
+            } catch (_) {
+                status.textContent = "Invalid search query URL.";
+            }
+        }
+        if (originalContent) {
+            target.replaceChildren(...originalContent);
+            originalContent = null;
+        }
+        document.title = originalTitle;
+        input.value = "";
+    }
+
+    form.addEventListener("submit", event => {
+        event.preventDefault();
+        const term = input.value.trim();
+        if (term) startSearch(term, false);
+    });
+    window.addEventListener("popstate", restoreFromURL);
+    window.addEventListener("hashchange", restoreFromURL);
+    restoreFromURL();
+
+    // Match Hugo summaries by extending the minimum word count to a sentence boundary.
+    function truncateToEndOfSentence(text, minWords) {
         let match;
         let result = "";
         let wordCount = 0;
-        let regexp = /(\S+)(\s*)/g;
-        while (match = regexp.exec(text)) {
+        const regexp = /(\S+)(\s*)/g;
+        while ((match = regexp.exec(text))) {
             wordCount++;
-            if (wordCount <= minWords) {
-                result += match[0];
-            }
-            else
-            {
-                let char1 = match[1][match[1].length - 1];
-                let char2 = match[2][0];
-                if (/[.?!"]/.test(char1) || char2 == "\n") {
-                    result += match[1];
-                    break;
-                }
-                else {
-                    result += match[0];
-                }
-            }
+            result += match[0];
+            if (wordCount > minWords && (/[.?!"]$/.test(match[1]) || match[2].startsWith("\n"))) break;
         }
         return result;
     }
-}, {once: true});
+}, { once: true });

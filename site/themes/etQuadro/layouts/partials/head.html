@@ -7,6 +7,9 @@
   <meta name="robots" content="max-image-preview:large" />
   {{- end }}
   <link rel="canonical" href="{{ .Permalink }}" />
+  {{ if or (.HasShortcode "gallery") (.HasShortcode "figure") }}
+  <link rel="stylesheet" href="{{ "css/hugo-easy-gallery.css" | relURL }}" />
+  {{ end }}
 
   <title>{{ .Site.Title }}</title>
 

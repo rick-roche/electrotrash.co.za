@@ -9,7 +9,7 @@ thumbnail: '/wp-content/uploads/2009/08/enough-weapons1-150x150.jpg'
 featured: '/wp-content/uploads/2009/08/enough-weapons1-304x190.jpg'
 ---
 
-[![](/wp-content/uploads/2009/08/enough-weapons1.jpg "Enough Weapons")](/wp-content/uploads/2009/08/enough-weapons1.jpg)
+[![](/wp-content/uploads/2009/08/enough-weapons.jpg "Enough Weapons")](/wp-content/uploads/2009/08/enough-weapons.jpg)
 
 [Enough Weapons](/artists/enough-weapons/ "Enough Weapons") are a production and DJing duo comprised of Dave Love and Hiyarant who make knock-your-block-off nu-skool breakbeat.
 
@@ -22,4 +22,3 @@ Ok enough talk, Enough Weapons – Take the Bull by the Horns, probably the bigg
 [Enough Weapons - Take The Bull By The Horns](http://soundcloud.com/red-bull-studio-ct/enough-weapons-take-the-bull-by-the-horns) by [Red Bull Studio CT](http://soundcloud.com/red-bull-studio-ct)
 
 Then onto Red Bull Music Academy Radio, this show is a selection of fine cuts from the kings of breakbeat, the Stanton Warriors.
-

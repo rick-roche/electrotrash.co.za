@@ -6,7 +6,7 @@ authors: ["dirtyoldman"]
 tags: ["Chris Punda & Richard the Third – Cosmic Manganje", "Chris Punda & Richard the Third – Waars My Meisie", "i art party", "Quinton Lewis", "Red Bull Studio Cape Town", "the Kids Of Woodstock & Richard the Third – Ali Bama"]
 categories: ["Red Bull Studio Cape Town"]
 thumbnail: '/wp-content/uploads/2011/04/i-art-party-150x150.jpg'
-featured: '/wp-content/uploads/2011/04/i-art-party-340x190.jpg'
+featured: '/wp-content/uploads/2011/04/i-art-party-304x190.jpg'
 ---
 
 [![](/wp-content/uploads/2011/04/i-art-party-e1303121100845.jpg "i art party")](/2011/04/18/red-bull-studio-cape-town-i-art-party/i-art-party/)
@@ -30,4 +30,3 @@ Lastly “Ali Bama” is a classic Klaapse Klopse tune with a guest performance 
  [Quinton Lewis, the Kids Of Woodstock & Richard the Third - Ali Bama](http://soundcloud.com/red-bull-studio-ct/ali-bama) by [Red Bull Studio CT](http://soundcloud.com/red-bull-studio-ct)
 
 In the end the project shows incredible promise in terms of future endeavours. Already the music created is something that is ambitiously collaborative.
-

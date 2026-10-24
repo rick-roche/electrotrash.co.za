@@ -6,7 +6,7 @@ authors: ["Rick Disco"]
 tags: ["chris saunders", "dj lapse", "GaZo", "haezer", "jacob israel", "mtkidu", "Poll", "richard the third", "scarcream", "top 5"]
 categories: ["News", "Poll"]
 thumbnail: '/wp-content/uploads/2009/02/mtkidu-winners-chris-saunders-450-150x150.jpg'
-featured: '/wp-content/uploads/2009/02/mtkidu-winners-chris-saunders-450-304x190.jpg'
+featured: '/wp-content/uploads/2009/02/mtkidu-winners-chris-saunders-450.jpg'
 ---
 
 [![Mtkidu: Winners by Chris Saunders](/wp-content/uploads/2009/02/mtkidu-winners-chris-saunders-450.jpg "Mtkidu: Winners by Chris Saunders")](/wp-content/uploads/2009/02/mtkidu-winners-chris-saunders-450.jpg) _Photo by Chris Saunders_

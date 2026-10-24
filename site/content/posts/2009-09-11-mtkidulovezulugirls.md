@@ -18,7 +18,7 @@ thumbnail: "/wp-content/uploads/2009/09/skull-150x150.jpg"
 featured: "/wp-content/uploads/2009/09/skull-304x190.jpg"
 ---
 
-![Shakawon](/wp-content/uploads/2009/09/skull-300x225.jpg "Shakawon")
+![Shakawon](/wp-content/uploads/2009/09/skull.jpg "Shakawon")
 
 ‘Shakawon’, the second offering from Jozi based Mtkidu, continues the groups’ efforts to change the way music is created and performed. This is primarily done by combining visual elements with the music, which enhance the stories told rather than simply offer a pretty distraction during live shows.
 

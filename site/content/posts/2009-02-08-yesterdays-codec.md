@@ -16,7 +16,7 @@ tags:
   ]
 categories: ["Music", "News"]
 thumbnail: "/wp-content/uploads/2009/02/yp-live-150x150.jpg"
-featured: "/wp-content/uploads/2009/02/yp-live-304x190.jpg"
+featured: "/wp-content/uploads/2009/02/yp-live-300x199.jpg"
 ---
 
 [![Yesterday's Pupil: Live](/wp-content/uploads/2009/02/yp-live.jpg "Yesterday's Pupil: Live")](/wp-content/uploads/2009/02/yp-live.jpg)

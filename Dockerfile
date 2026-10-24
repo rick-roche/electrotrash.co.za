@@ -15,6 +15,7 @@ RUN HUGO_NOINDEX="${HUGO_NOINDEX}" hugo --baseURL "${HUGO_BASEURL}" --gc --minif
 # Serve generated files with Nginx
 FROM nginx:stable-alpine
 
+COPY nginx/default.conf /etc/nginx/conf.d/default.conf
 COPY --from=builder /src/public/ /usr/share/nginx/html/
 
 EXPOSE 80

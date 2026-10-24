@@ -10,7 +10,7 @@ if (window.loadphotoswipejs) {
 var loadphotoswipejs = 1
 
 /* TODO: Make the share function work */
-$( document ).ready(function() {
+jQuery(function($) {
 	/*
 	Initialise Photoswipe
 	*/
@@ -25,6 +25,7 @@ $( document ).ready(function() {
 			$src	= $a.attr('href'),
 			$title  = $img.attr('alt'),
 			$msrc	= $img.attr('src');
+		if (!$src || !$msrc) return true;
 		// if data-size on <a> tag is set, read it and create an item
 		if ($a.data('size')) {
 			var $size 	= $a.data('size').split('x');
@@ -46,20 +47,18 @@ $( document ).ready(function() {
 				msrc	: $msrc
 			};
 			console.log("Using default dimensions for " + $src);
-			// load the image to check its dimensions
-			// update the item as soon as w and h are known (check every 30ms)
-			var img = new Image(); 
-			img.src = $src;
-			var wait = setInterval(function() {
+			// An image load event also handles cached images without a polling timer.
+			var img = new Image();
+			img.onload = function() {
 				var w = img.naturalWidth,
 					h = img.naturalHeight;
 				if (w && h) {
-					clearInterval(wait);
 					item.w = w;
 					item.h = h;
 					console.log("Got actual dimensions for " + img.src);
 				}
-			}, 30);
+			};
+			img.src = $src;
 	   	}
 		// Save the index of this image then add it to the array
 		var index = items.length;

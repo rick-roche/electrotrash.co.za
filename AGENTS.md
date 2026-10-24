@@ -12,7 +12,9 @@ setup and contributor workflows.
 - `site/layouts/` can override theme templates; inspect both locations before editing.
 - `site/static/` contains historical uploads. WordPress-named asset directories
   are static compatibility assets, not evidence that PHP or WordPress is required.
-- Azure templates: `infra/`; build and smoke tests: `.github/workflows/ci.yml`.
+- Coolify builds the root `Dockerfile` and serves the Nginx container on port 80.
+  Static routing and legacy download mappings: `nginx/default.conf`.
+  Build, archive checks, and browser tests: `.github/workflows/ci.yml` and `tests/`.
 
 ## Change constraints
 
@@ -27,8 +29,8 @@ setup and contributor workflows.
   Preserve third-party notices and do not infer media rights from `LICENSE`.
 - Keep changes focused. Do not add a package manager or framework without a
   task-specific reason; Hugo currently builds the frontend directly.
-- Do not deploy infrastructure, upload media, or commit credentials as part of a
-  routine site change. CI currently builds and tests only.
+- Do not deploy, change live Coolify settings, upload media, or commit credentials
+  as part of a routine site change. CI currently builds and tests only.
 - Check `git status` before editing and preserve unrelated user changes.
 
 ## Verification
@@ -38,6 +40,7 @@ Run commands from the repository root. Use Hugo Extended v0.168.0, matching
 
 ```sh
 hugo --source site --gc --minify --buildFuture --cleanDestinationDir
+python3 tests/archive_test.py
 docker build --tag electrotrash:local .
 ```
 

@@ -6,7 +6,7 @@ authors: ["dirtyoldman"]
 tags: ["Felix Da Housecat We All Wanna be Prince Lapse Discomix", "machette jacobite", "Machette Jacobite - Envelope3-Repeat"]
 categories: ["Music"]
 thumbnail: '/wp-content/uploads/2009/08/6772_109033982908_80280407908_2224152_7925372_n-150x150.jpg'
-featured: '/wp-content/uploads/2009/08/6772_109033982908_80280407908_2224152_7925372_n-304x190.jpg'
+featured: '/wp-content/uploads/2009/08/6772_109033982908_80280407908_2224152_7925372_n.jpg'
 ---
 
 ![Machette Jacobite](/wp-content/uploads/2009/08/6772_109033982908_80280407908_2224152_7925372_n.jpg "Machette Jacobite")

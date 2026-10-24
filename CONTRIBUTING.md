@@ -51,18 +51,22 @@ those features are affected, and check the browser console for errors.
 ## Validate and submit
 
 - Run the [production build](README.md#production-build).
+- Run `python3 tests/archive_test.py` to catch missing local assets and obsolete
+  local download endpoints. Keep archive notes for unavailable originals explicit.
 - For site or container changes, build and run the Docker image and perform the
   [HTTP smoke checks](README.md#validation). CI performs these checks, but not a
-  full link audit or browser test suite.
+  full external-link audit. Run the browser regression tests documented in the
+  README for interactive changes; CI also runs them against the container.
 - Run `git diff --check` and inspect `git status --short`. Exclude generated
   output, local migration material, and credentials.
 - In your pull request, describe the reason for the change, affected pages or
   URLs, and commands/checks you ran. Include screenshots for visual changes and
   call out checks you could not run or broken external links you encountered.
 
-Infrastructure changes under `infra/` should be reviewed separately for public
-storage access, credentials, and resource impact. Do not deploy or change live
-media as an incidental part of a content or theme update.
+Coolify builds the root Dockerfile and routes traffic to container port 80.
+Review container, domain, TLS, proxy, and media-host changes separately. Do not
+deploy, change live Coolify settings, or modify live media as an incidental part
+of a content or theme update. Never commit deployment credentials.
 
 For bug reports, include the affected URL, reproduction steps, expected and
 actual behaviour, and relevant browser or build errors. Never include secrets

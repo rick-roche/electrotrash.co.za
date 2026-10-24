@@ -15,7 +15,7 @@ tags:
     "south africa",
   ]
 categories: ["Music"]
-thumbnail: "/wp-content/uploads/2009/06/biscope_richrob1-105x150.jpg"
+thumbnail: "/wp-content/uploads/2009/06/biscope_richrob1-150x150.jpg"
 featured: "/wp-content/uploads/2009/06/biscope_richrob1-304x190.jpg"
 ---
 
