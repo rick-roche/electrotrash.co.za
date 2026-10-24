@@ -61,6 +61,18 @@ class ArchiveAssets(unittest.TestCase):
                 image.seek(16)
                 self.assertEqual(struct.unpack('>II', image.read(8)), size, filename)
 
+    def test_about_page_reflects_the_archive_preservation_mission(self):
+        about = (ROOT / 'site/content/about.md').read_text()
+        self.assertIn('Electrotrash.co.za started in mid-2005', about)
+        self.assertIn('## The archive', about)
+        self.assertIn('## Help us keep it alive', about)
+        self.assertIn('## Thanks', about)
+        self.assertIn('dirtyoldman, RickDisco and the rest of the Electrotrash crew.', about)
+
+    def test_relaunch_post_signoff_matches_about_page_credits(self):
+        post = (ROOT / 'site/content/posts/2026-10-24-help-recover-the-electrotrash-archive.md').read_text()
+        self.assertIn('**— dirtyoldman, RickDisco and the rest of the Electrotrash crew.**', post)
+
     def test_contact_page_uses_spam_controls_without_exposing_recipient(self):
         contact = (ROOT / 'site/content/contact.md').read_text()
         form = (ROOT / 'site/themes/etQuadro/layouts/shortcodes/contact-form.html').read_text()

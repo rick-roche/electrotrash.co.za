@@ -5,16 +5,52 @@ draft: false
 authors: ["Rick Disco"]
 ---
 
-_electrotrash.co.za_ was started in mid 2005 by Rick Disco and dirtyoldman in order to keep track of all the happenings in the growing South African electronic music scene as no such service was available. We wanted to expose the producers of electronic music, showcase their music and help promote their shows and parties.
+Electrotrash.co.za started in mid-2005, when RickDisco and dirtyoldman decided to do something about the lack of coverage of South African electronic music.
 
-Starting small and limited to the Pretoria/Johannesburg area, _electrotrash.co.za_ has grown over time. As we continue to network and make new friends, [new artist profiles](/artists/ "electrotrash Artists") are added regularly and [free downloads](/downloads "electrotrash Downloads") of their tracks are made available. Reviews of shows and albums have been a part of the website from the beginning and with the addition of new writers from different parts of the country, the shows we are able to review have grown.
+There was plenty happening. Producers were making great music, DJs were playing interesting parties, and a growing scene was finding its feet. But there wasn't really one place to keep track of it all.
 
-_electrotrash.co.za_ has undergone a number of facelifts over the years, in order to keep up with the demands of our users. First time visitors are encouraged to join our [facebook page](https://www.facebook.com/electrotrash.co.za "electrotrash Facebook Page") to stay in touch as well as to contribute to the content we provide. Every visitor is able to add details for upcoming parties amongst other features.
+We wanted to change that.
 
-_electrotrash.co.za_ was started to help the scene grow without having a bloated website. We are proud of the fact that we provide free downloads for a large number of artists that represent the broad spectrum of South African electronic music!
+Starting in Pretoria and Johannesburg, Electrotrash grew into a place to discover local artists, download their music, find out about upcoming parties and read about what was happening in the scene. Over time, contributors and friends from around the country helped us cover more music, more artists and more events.
 
-We always appreciate feedback and suggestions, so feel free to [contact us](/contact "Contact Us!").
+We weren't trying to build a business or become the authority on anything. We just loved the music and wanted more people to hear it.
 
-Thank you to all of you for your continued support. We love you all and we hope to achieve many great things in times to come!
+## The archive
 
-Take it easy dirtyoldman, RickDisco and the rest of the electrotrash team. ^5!
+Electrotrash was active from 2005 until 2013. A lot has changed since then, both in South African electronic music and on the internet.
+
+Many of the artists we featured have gone on to do great things. Others have moved on to different projects or disappeared from view. The parties, clubs and small labels that helped shape the scene have changed too.
+
+Unfortunately, much of the music from that time has also become difficult to find. File-hosting services have closed, download links have died, and entire websites have disappeared.
+
+In 2026, we decided to dust off the old site and give it a more permanent home.
+
+We've moved Electrotrash from its ageing WordPress installation to a simple static website, preserving the original articles, artist profiles, reviews, images and downloads wherever possible.
+
+This isn't a relaunch of Electrotrash as an active music blog. It's an attempt to preserve a little bit of South African electronic music history.
+
+The original content remains largely as it was published. Some links won't work, some opinions may have aged badly, and there's probably the odd questionable haircut lurking in the photographs. That's all part of the history.
+
+## Help us keep it alive
+
+The archive is still a work in progress.
+
+Some of the music we originally shared was hosted on third-party websites and has since disappeared. We've recovered what we can, but there are still missing tracks, mixes and images.
+
+If you come across a broken link, missing file or something that doesn't work, please [let us know](/contact/).
+
+And if you happen to have copies of music that has gone missing, or know where we might find it, we'd love to hear from you. Old hard drives, forgotten CD-Rs and dusty music collections might hold the missing pieces.
+
+We'd like to make as much of it available as possible, with the permission of the people who created it.
+
+## Thanks
+
+Electrotrash was only ever possible because of the artists who shared their music, the promoters who invited us along, the writers who contributed their time, and everyone who visited, commented, downloaded something or told a friend.
+
+Thanks for being part of it.
+
+Take it easy,
+
+**dirtyoldman, RickDisco and the rest of the Electrotrash crew.**
+
+^5!

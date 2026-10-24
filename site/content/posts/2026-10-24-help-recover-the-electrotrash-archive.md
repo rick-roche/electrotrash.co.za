@@ -97,4 +97,4 @@ If nothing else, it's been good digging through the archives again.
 
 Enjoy the trip down memory lane.
 
-**— rickdisco & dirtyoldman**
+**— dirtyoldman, RickDisco and the rest of the Electrotrash crew.**
