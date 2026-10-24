@@ -1,5 +1,5 @@
 baseURL = "https://www.electrotrash.co.za"
-languageCode = "en-us"
+locale = "en-US"
 title = "electrotrash.co.za | Is South African Electronic Music"
 theme = "etQuadro"
 

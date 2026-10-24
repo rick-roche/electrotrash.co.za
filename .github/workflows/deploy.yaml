@@ -57,10 +57,13 @@ jobs:
         with:
           node-version: '20'
 
+      - name: Install Dart Sass
+        run: npm install --global sass
+
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v3
         with:
-          hugo-version: '0.154.2'
+          hugo-version: '0.168.0'
           extended: true
 
       - name: Build site

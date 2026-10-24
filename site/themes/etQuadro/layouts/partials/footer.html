@@ -60,14 +60,14 @@
   <!-- audio shortcodes -->
   {{- $audioPlayer := resources.Get "sass/audio-player.scss" -}}
   {{- if $audioPlayer -}}
-    {{- $scss := $audioPlayer | css.Sass | minify -}}
+    {{- $scss := $audioPlayer | css.Sass (dict "transpiler" "dartsass") | minify -}}
     <link rel="stylesheet" href="{{ $scss.Permalink }}" />
   {{- end -}}
 
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   {{- $audioStyles := resources.Get "sass/audio.scss" -}}
   {{- if $audioStyles -}}
-    {{- $scss := $audioStyles | css.Sass | minify -}}
+    {{- $scss := $audioStyles | css.Sass (dict "transpiler" "dartsass") | minify -}}
     <link rel="stylesheet" href="{{ $scss.Permalink }}" />
   {{- end -}}
 
