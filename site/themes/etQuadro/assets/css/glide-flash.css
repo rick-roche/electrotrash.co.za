@@ -4,17 +4,18 @@
 	position: relative;
 	padding: 13px 0 16px;
 	margin: 0px auto 16px;
-	background-color: black;
 }
 
 #featured-post {
 	margin: 0 auto;
 	z-index: 1;
+	background-color: #ffffff;
 }
 
 .featured-item {
 	height: 206px;
 	overflow: hidden;
+	background-color: #ffffff;
 }
 
 .featured-thumb {
@@ -53,7 +54,7 @@
 .featured-item .post {
 	margin: 0;
 	padding: 0;
-	background: none;
+	background: #ffffff;
 	float: left;
 	width: 618px;
 }

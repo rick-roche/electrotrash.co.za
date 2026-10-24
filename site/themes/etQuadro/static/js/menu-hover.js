@@ -8,7 +8,7 @@ function initEtTheme() {
   etThemeInitialized = true;
 
   $j2("#page-menu .lavaLampWithImage").lavaLamp({
-    fx: "backout",
+    fx: "easeOutBack",
     speed: 700,
     click: function (event, menuItem) {
       return true;
