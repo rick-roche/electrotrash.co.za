@@ -1,12 +1,12 @@
 ---
-title: 'New MTKIDU track leaked!'
+title: "New MTKIDU track leaked!"
 date: Wed, 21 Apr 2010 08:18:52 +0000
 draft: false
 authors: ["dirtyoldman"]
 tags: ["AWB vs ANC", "mtkidu"]
 categories: ["Music"]
-thumbnail: '/wp-content/uploads/2010/04/awb-vs-anc-150x150.jpg'
-featured: '/wp-content/uploads/2010/04/awb-vs-anc-304x190.jpg'
+thumbnail: "/wp-content/uploads/2010/04/awb-vs-anc-150x150.jpg"
+featured: "/wp-content/uploads/2010/04/awb-vs-anc-304x190.jpg"
 ---
 
 [![](/wp-content/uploads/2010/04/awb-vs-anc.jpg "awb-vs-anc")](/2010/04/21/new-mtkidu-track-leaked/awb-vs-anc/)
@@ -17,4 +17,4 @@ The track was actually written 3 months ago, but seems very relevant right now. 
 
 {{< audio
     caption="MTKIDU - AWB vs ANC (unmastered leak)"
-    src="https://stetcoza.blob.core.windows.net/music/mtkidu/mtkidu_-_awb_vs_anc_(unmastered).mp3" >}}
+    src="https://media.electrotrash.co.za/mtkidu/mtkidu_-_awb_vs_anc_(unmastered).mp3" >}}

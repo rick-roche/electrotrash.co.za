@@ -1,12 +1,12 @@
 ---
-title: 'dirtyoldDisco - Bon Jovi Friday Mix'
+title: "dirtyoldDisco - Bon Jovi Friday Mix"
 date: Thu, 21 Jan 2010 11:15:30 +0000
 draft: false
 authors: ["Rick Disco"]
 tags: ["Bon Jovi Friday Mix", "dirtyoldDisco"]
 categories: ["Artists", "Music"]
-thumbnail: '/wp-content/uploads/2010/01/dirtyoldDisco-logo_web_bw-304-150x150.png'
-featured: '/wp-content/uploads/2010/01/dirtyoldDisco-logo_web_bw-304.png'
+thumbnail: "/wp-content/uploads/2010/01/dirtyoldDisco-logo_web_bw-304-150x150.png"
+featured: "/wp-content/uploads/2010/01/dirtyoldDisco-logo_web_bw-304.png"
 ---
 
 Here is the first Bon Jovi Friday Mix of 2010... The mixes will be posted monthly (for now) on a Thursday at midday for all of you that are having a Bon Jovi Friday to enjoy... Watch the video to see what we mean!
@@ -15,9 +15,8 @@ This first mix was done by the [dirtyoldDisco](http://dirtyolddisco.blogspot.com
 
 {{< audio
     caption="dirtyoldDisco - Bon Jovi Friday Mix"
-    src="https://stetcoza.blob.core.windows.net/music/dirtyolddisco/dirtyolddisco_-_bon_jovi_friday_mix.mp3" >}}
+    src="https://media.electrotrash.co.za/dirtyolddisco/dirtyolddisco_-_bon_jovi_friday_mix.mp3" >}}
 
 If you would like to submit a mix for our **Bon Jovi Friday** slot, get in touch via the [Contact box](/contact "Contact Us!")!
 
 ^5!
-

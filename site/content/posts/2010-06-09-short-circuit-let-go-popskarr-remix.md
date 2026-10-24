@@ -1,12 +1,12 @@
 ---
-title: 'Short Circuit - Let Go (POPSKARR REMIX)'
+title: "Short Circuit - Let Go (POPSKARR REMIX)"
 date: Wed, 09 Jun 2010 11:00:42 +0000
 draft: false
 authors: ["Rick Disco"]
 tags: ["Binary Entertainment", "Let Go", "Popskarr", "remix", "Short Circuit"]
 categories: ["Music"]
-thumbnail: '/wp-content/uploads/2010/06/POP-PICn-150x150.jpg'
-featured: '/wp-content/uploads/2010/06/POP-PICn-304x190.jpg'
+thumbnail: "/wp-content/uploads/2010/06/POP-PICn-150x150.jpg"
+featured: "/wp-content/uploads/2010/06/POP-PICn-304x190.jpg"
 ---
 
 [![](/wp-content/uploads/2010/06/POP-PICn.jpg "POP PICn")](/wp-content/uploads/2010/06/POP-PICn.jpg)
@@ -17,7 +17,6 @@ Grab the remix below, let us know what you think!
 
 {{< audio
     caption="Short Circuit - Let Go (Popskarr Remix)"
-    src="https://stetcoza.blob.core.windows.net/music/popskarr/short_circuit_-_let_go_(popskarr_remix).mp3" >}}
+    src="https://media.electrotrash.co.za/popskarr/short_circuit_-_let_go_(popskarr_remix).mp3" >}}
 
 ^5!
-

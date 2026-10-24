@@ -1,12 +1,22 @@
 ---
-title: 'Video + Mix: PostBox Birthday 2012-08-25'
+title: "Video + Mix: PostBox Birthday 2012-08-25"
 date: Tue, 11 Sep 2012 18:57:40 +0000
 draft: false
 authors: ["Rick Disco"]
-tags: ["Arcade Empire", "Little Rock", "PlaatJaapie", "PostBox", "rick disco", "sassquatch", "TV", "yesterdays pupil"]
+tags:
+  [
+    "Arcade Empire",
+    "Little Rock",
+    "PlaatJaapie",
+    "PostBox",
+    "rick disco",
+    "sassquatch",
+    "TV",
+    "yesterdays pupil",
+  ]
 categories: ["Music", "TV"]
-thumbnail: '/wp-content/uploads/2012/09/elec_ben_postbox-150x150.jpg'
-featured: '/wp-content/uploads/2012/09/elec_ben_postbox-304x190.jpg'
+thumbnail: "/wp-content/uploads/2012/09/elec_ben_postbox-150x150.jpg"
+featured: "/wp-content/uploads/2012/09/elec_ben_postbox-304x190.jpg"
 ---
 
 [![PostBox Sassquatch](/wp-content/uploads/2012/09/elec_ben_postbox-1024x802.jpg "PostBox Sassquatch")](/wp-content/uploads/2012/09/elec_ben_postbox.jpg)Sassquatch Doing His Thing
@@ -22,7 +32,7 @@ Little Rock put together the first video for [Electrotrash TV](http://www.youtub
 I played that night and recorded my set as I was doing my thing, I have uploaded it (mistakes and all) for your listening pleasure!
 
 {{< audio
-    src="https://stetcoza.blob.core.windows.net/music/mixes/rick_disco_-_postbox_birthday_set_-_2012-08-25.mp3"
+    src="https://media.electrotrash.co.za/mixes/rick_disco_-_postbox_birthday_set_-_2012-08-25.mp3"
     caption="Rick Disco - PostBox Birthday Set - 2012-08-25" >}}
 
 [![PostBox Rick Disco](/wp-content/uploads/2012/09/elec_disco_postbox-1024x802.jpg "PostBox Rick Disco")](/wp-content/uploads/2012/09/elec_disco_postbox.jpg)Rick Disco
@@ -30,4 +40,3 @@ I played that night and recorded my set as I was doing my thing, I have uploaded
 [![PostBox Yesterdays Pupil](/wp-content/uploads/2012/09/elec_peach_postbox-1024x802.jpg "PostBox Yesterdays Pupil")](/wp-content/uploads/2012/09/elec_peach_postbox.jpg)Yesterday's Pupil was great!
 
 Till next time! ^5!
-

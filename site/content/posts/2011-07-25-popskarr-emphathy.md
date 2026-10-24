@@ -1,12 +1,12 @@
 ---
-title: 'Popskarr - Emphathy'
+title: "Popskarr - Emphathy"
 date: Mon, 25 Jul 2011 10:58:34 +0000
 draft: false
 authors: ["dirtyoldman"]
 tags: ["Empathy", "Popskarr"]
 categories: ["Music"]
-thumbnail: '/wp-content/uploads/2011/07/Popskarr_Empathy-150x150.jpg'
-featured: '/wp-content/uploads/2011/07/Popskarr_Empathy-304x190.jpg'
+thumbnail: "/wp-content/uploads/2011/07/Popskarr_Empathy-150x150.jpg"
+featured: "/wp-content/uploads/2011/07/Popskarr_Empathy-304x190.jpg"
 ---
 
 [![](/wp-content/uploads/2011/07/Popskarr_Empathy.jpg "Popskarr Empathy")](/2011/07/25/popskarr-emphathy/popskarr_empathy/)
@@ -15,4 +15,4 @@ Popskarr are back with a brand new singled entitled _Empathy._ In true Popskarr 
 
 {{< audio
     caption="Popskarr - Empathy"
-    src="https://stetcoza.blob.core.windows.net/music/popskarr/popskarr_-_empathy.mp3" >}}
+    src="https://media.electrotrash.co.za/popskarr/popskarr_-_empathy.mp3" >}}

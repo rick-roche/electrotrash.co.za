@@ -1,12 +1,12 @@
 ---
-title: 'Daft Punk remix & Who Killed JR? artist page!'
+title: "Daft Punk remix & Who Killed JR? artist page!"
 date: Mon, 10 Jan 2011 22:53:40 +0000
 draft: false
 authors: ["dirtyoldman"]
 tags: ["artist page", "Daft Punk", "remix", "Robot Rock", "Who Killed JR"]
 categories: ["Artists", "Music"]
-thumbnail: '/wp-content/uploads/2011/01/dp-150x150.jpg'
-featured: '/wp-content/uploads/2011/01/dp.jpg'
+thumbnail: "/wp-content/uploads/2011/01/dp-150x150.jpg"
+featured: "/wp-content/uploads/2011/01/dp.jpg"
 ---
 
 [![](/wp-content/uploads/2011/01/dp.jpg "Daft Punk!")](/2011/01/11/daft-punk-remix-who-killed-jr-artist-page/dp/)
@@ -17,7 +17,6 @@ The Robot Rock remix is itself quite epic. Although the original was a great tra
 
 {{< audio
     caption="Daft Punk - Robot Rock (Who Killed JR's sledgehammer mix)"
-    src="https://stetcoza.blob.core.windows.net/music/who_killed_jr/daft_punk_-_robot_rock_(who_killed_jrs_sledgehammer_mix).mp3" >}}
+    src="https://media.electrotrash.co.za/who_killed_jr/daft_punk_-_robot_rock_(who_killed_jrs_sledgehammer_mix).mp3" >}}
 
- [Daft Punk - Robot Rock (Who Killed JR remix)](http://soundcloud.com/who-killed-jr/daft-punk-robot-rock-who-killed-jr-remix) by [Who Killed JR?](http://soundcloud.com/who-killed-jr)
-
+[Daft Punk - Robot Rock (Who Killed JR remix)](http://soundcloud.com/who-killed-jr/daft-punk-robot-rock-who-killed-jr-remix) by [Who Killed JR?](http://soundcloud.com/who-killed-jr)

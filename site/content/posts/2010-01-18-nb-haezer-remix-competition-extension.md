@@ -1,12 +1,12 @@
 ---
-title: 'NB! HAEZER Remix Competition: EXTENSION!'
+title: "NB! HAEZER Remix Competition: EXTENSION!"
 date: Mon, 18 Jan 2010 10:37:50 +0000
 draft: false
 authors: ["Rick Disco"]
 tags: ["crack in the wall", "haezer", "remix competition"]
 categories: ["Music", "remix competition"]
-thumbnail: '/wp-content/uploads/2009/04/haezer-live1-150x150.jpg'
-featured: '/wp-content/uploads/2009/04/haezer-live1-304x190.jpg'
+thumbnail: "/wp-content/uploads/2009/04/haezer-live1-150x150.jpg"
+featured: "/wp-content/uploads/2009/04/haezer-live1-304x190.jpg"
 ---
 
 [![](/wp-content/uploads/2009/04/haezer-live1.jpg "HAEZER")](/wp-content/uploads/2009/04/haezer-live1.jpg)
@@ -23,7 +23,6 @@ Grab this banging edit HAEZER did of  Sebastian for some inspiration!
 
 {{< audio
     caption="Sebastian - Motor (HAEZER Edit)"
-    src="https://stetcoza.blob.core.windows.net/music/haezer/sebastian_-_motor_(haezer_bootleg_re-edit).mp3" >}}
+    src="https://media.electrotrash.co.za/haezer/sebastian_-_motor_(haezer_bootleg_re-edit).mp3" >}}
 
 ^5!
-

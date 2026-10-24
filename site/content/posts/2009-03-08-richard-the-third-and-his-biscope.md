@@ -1,12 +1,23 @@
 ---
-title: 'Richard The Third and his Biscope'
+title: "Richard The Third and his Biscope"
 date: Sun, 08 Mar 2009 11:41:27 +0000
 draft: false
 authors: ["Rick Disco"]
-tags: ["biscope", "cape town", "dubstep", "richard rumney", "richard the third", "robert rumney", "south africa", "twelv", "unto dust"]
+tags:
+  [
+    "biscope",
+    "cape town",
+    "dubstep",
+    "richard rumney",
+    "richard the third",
+    "robert rumney",
+    "south africa",
+    "twelv",
+    "unto dust",
+  ]
 categories: ["Music", "News"]
-thumbnail: '/wp-content/uploads/2009/03/biscope1-150x150.jpg'
-featured: '/wp-content/uploads/2009/03/biscope1-304x190.jpg'
+thumbnail: "/wp-content/uploads/2009/03/biscope1-150x150.jpg"
+featured: "/wp-content/uploads/2009/03/biscope1-304x190.jpg"
 ---
 
 [![Biscope](/wp-content/uploads/2009/03/biscope.jpg "Biscope")](/wp-content/uploads/2009/03/biscope.jpg)
@@ -18,5 +29,5 @@ Read more about Biscope on our [Featured Artist](/artists "electrotrash Artists"
 They sent us a sample track as well...
 
 {{< audio
-    src="https://stetcoza.blob.core.windows.net/music/biscope/biscope_-_unto_dust.mp3"
+    src="https://media.electrotrash.co.za/biscope/biscope_-_unto_dust.mp3"
     caption="Biscope - Unto Dust" >}}

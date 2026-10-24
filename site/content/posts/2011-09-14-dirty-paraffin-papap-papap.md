@@ -1,12 +1,12 @@
 ---
-title: 'Dirty Paraffin - Papap! Papap!'
+title: "Dirty Paraffin - Papap! Papap!"
 date: Wed, 14 Sep 2011 13:25:19 +0000
 draft: false
 authors: ["dirtyoldman"]
 tags: ["Dirty Paraffin", "Papap! Papap!"]
 categories: ["Music"]
-thumbnail: '/wp-content/uploads/2011/09/artworks-000011092231-5g86kn-crop-150x150.jpg'
-featured: '/wp-content/uploads/2011/09/artworks-000011092231-5g86kn-crop-304x190.jpg'
+thumbnail: "/wp-content/uploads/2011/09/artworks-000011092231-5g86kn-crop-150x150.jpg"
+featured: "/wp-content/uploads/2011/09/artworks-000011092231-5g86kn-crop-304x190.jpg"
 ---
 
 [![](/wp-content/uploads/2011/09/artworks-000011092231-5g86kn-crop.jpg "artworks-000011092231-5g86kn-crop")](/2011/09/14/dirty-paraffin-papap-papap/artworks-000011092231-5g86kn-crop/)
@@ -15,4 +15,4 @@ Our friends over at [Andile's Bored Company](http://andilesbored.com/2011/09/02/
 
 {{< audio
     caption="Dirty Paraffin - Papap! Papap!"
-    src="https://stetcoza.blob.core.windows.net/music/dirty_paraffin/dirty_paraffin_-_papap!_papap!.mp3" >}}
+    src="https://media.electrotrash.co.za/dirty_paraffin/dirty_paraffin_-_papap!_papap!.mp3" >}}

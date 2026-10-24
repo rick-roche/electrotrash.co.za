@@ -1,12 +1,27 @@
 ---
-title: 'Crack in the Wall remix competition Top 5!'
+title: "Crack in the Wall remix competition Top 5!"
 date: Wed, 03 Feb 2010 16:24:33 +0000
 draft: false
 authors: ["dirtyoldman"]
-tags: ["Audionite", "codec", "crack in the wall", "flw", "haezer", "Paul D", "remix competition", "The Bytonics", "the sound", "Travis Taylor", "Warriors", "Wh!te No!se", "Why Not"]
+tags:
+  [
+    "Audionite",
+    "codec",
+    "crack in the wall",
+    "flw",
+    "haezer",
+    "Paul D",
+    "remix competition",
+    "The Bytonics",
+    "the sound",
+    "Travis Taylor",
+    "Warriors",
+    "Wh!te No!se",
+    "Why Not",
+  ]
 categories: ["Music", "Poll", "remix competition"]
-thumbnail: '/wp-content/uploads/2010/02/crack-on-a-wall-thumb5196995-150x150.jpg'
-featured: '/wp-content/uploads/2010/02/crack-on-a-wall-thumb5196995-233x190.jpg'
+thumbnail: "/wp-content/uploads/2010/02/crack-on-a-wall-thumb5196995-150x150.jpg"
+featured: "/wp-content/uploads/2010/02/crack-on-a-wall-thumb5196995-233x190.jpg"
 ---
 
 [![](/wp-content/uploads/2010/02/crack-on-a-wall-thumb5196995.jpg "Crack in the Wall")](/2010/02/03/crack-in-the-wall-remix-competition-top-5/crack-on-a-wall-thumb5196995/)
@@ -17,27 +32,27 @@ Here are the Top 5 tracks in no particular order:
 
 {{< audio
     caption="Haezer - Crack in the Wall (Chains Remix)"
-    src="https://stetcoza.blob.core.windows.net/music/haezer/crack_in_the_wall_remixes/haezer_-_crack_in_the_wall_(chains_remix).mp3" >}}
+    src="https://media.electrotrash.co.za/haezer/crack_in_the_wall_remixes/haezer_-_crack_in_the_wall_(chains_remix).mp3" >}}
 
 {{< audio
     caption="Haezer - Crack in the Wall (Wh!te No!se Remix)"
-    src="https://stetcoza.blob.core.windows.net/music/haezer/crack_in_the_wall_remixes/haezer_-_crack_in_the_wall_(wh!te_no!se_remix).mp3" >}}
+    src="https://media.electrotrash.co.za/haezer/crack_in_the_wall_remixes/haezer_-_crack_in_the_wall_(wh!te_no!se_remix).mp3" >}}
 
 {{< audio
     caption="Haezer - Crack in the Wall (CoDeC Remix)"
-    src="https://stetcoza.blob.core.windows.net/music/haezer/crack_in_the_wall_remixes/haezer_-_crack_in_the_wall_(codec_remix).mp3" >}}
+    src="https://media.electrotrash.co.za/haezer/crack_in_the_wall_remixes/haezer_-_crack_in_the_wall_(codec_remix).mp3" >}}
 
 {{< audio
     caption="HAEZER - Crack In The Wall (The Sound Remix)"
-    src="https://stetcoza.blob.core.windows.net/music/haezer/crack_in_the_wall_remixes/haezer_-_crack_in_the_wall_(the_sound_remix).mp3" >}}
+    src="https://media.electrotrash.co.za/haezer/crack_in_the_wall_remixes/haezer_-_crack_in_the_wall_(the_sound_remix).mp3" >}}
 
 Update: HAEZER - Crack In The Wall (the W4RRIORS Remix) not available for download :(
 
- [HAEZER - Crack in the wall(ChainChomp remix)](http://soundcloud.com/industrial86/haezer-crack-in-the-wall-chains-remix) by [ChainChomp](http://soundcloud.com/industrial86)
+[HAEZER - Crack in the wall(ChainChomp remix)](http://soundcloud.com/industrial86/haezer-crack-in-the-wall-chains-remix) by [ChainChomp](http://soundcloud.com/industrial86)
 
- [Crack in the Wall (Wh!te No!se remix)](http://soundcloud.com/wh-te-no-se/crack-in-the-wall-wh-te-no-se-remix) by [Wh!te No!se](http://soundcloud.com/wh-te-no-se)
+[Crack in the Wall (Wh!te No!se remix)](http://soundcloud.com/wh-te-no-se/crack-in-the-wall-wh-te-no-se-remix) by [Wh!te No!se](http://soundcloud.com/wh-te-no-se)
 
- [Crack In The Wall (the W4RRIORS Remix) - Haezer](http://soundcloud.com/w4rriors/crack-in-the-wall-the-w4rriors-remix-haezer) by [W4RRIORS](http://soundcloud.com/w4rriors)
+[Crack In The Wall (the W4RRIORS Remix) - Haezer](http://soundcloud.com/w4rriors/crack-in-the-wall-the-w4rriors-remix-haezer) by [W4RRIORS](http://soundcloud.com/w4rriors)
 
 \[poll id="3"\]
 
@@ -52,4 +67,3 @@ Click more for a few other remixes that didn't quite make the Top 5!
 [HAEZER - Crack In The Wall (Audionite Remix)](http://soundcloud.com/audionite/haezer-crack-in-the-wall-audionite-remix) by [Audionite](http://soundcloud.com/audionite)
 
 Update: The Paul D Remix is available [here](http://www.spiralrecordings.com/files/Haezer-Crack-In-The-Wall-PaulD-RMX.mp3 "Paul D Remix")! There used to be a Paul D remix available [here](http://soundcloud.com/paul-d/haezer-crack-in-the-wall-pauld-rmx) ([cached](http://74.125.95.132/search?q=cache:2Pydpe0D0IEJ:soundcloud.com/paul-d/haezer-crack-in-the-wall-pauld-rmx+Haezer+Crack+In+The+Wall+Remix+paul+d&cd=1&hl=en&ct=clnk&gl=za&client=firefox-a)), but it seems it has disappeared... Myrid Ambre has his available on his [Myspace](http://www.myspace.com/myridambre "Myrid Ambre") and i really hope we havent forgotten anyone on this post! If we have please just paste a link to the remix in the comments section and we will revise the post!
-

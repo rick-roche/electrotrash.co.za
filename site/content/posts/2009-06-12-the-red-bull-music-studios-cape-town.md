@@ -1,12 +1,19 @@
 ---
-title: 'The Red Bull Music Studios Cape Town'
+title: "The Red Bull Music Studios Cape Town"
 date: Fri, 12 Jun 2009 09:32:39 +0000
 draft: false
 authors: ["Rick Disco"]
-tags: ["gazelle", "killa kat", "moleke mbembe", "red bull", "Red Bull Music Studios Cape Town"]
+tags:
+  [
+    "gazelle",
+    "killa kat",
+    "moleke mbembe",
+    "red bull",
+    "Red Bull Music Studios Cape Town",
+  ]
 categories: ["Music", "News"]
-thumbnail: '/wp-content/uploads/2009/06/moleke1-150x150.png'
-featured: '/wp-content/uploads/2009/06/moleke1-304x190.png'
+thumbnail: "/wp-content/uploads/2009/06/moleke1-150x150.png"
+featured: "/wp-content/uploads/2009/06/moleke1-304x190.png"
 ---
 
 [![Moleke Mbembe](/wp-content/uploads/2009/06/moleke.png "Moleke Mbembe")](/wp-content/uploads/2009/06/moleke.png)
@@ -28,7 +35,7 @@ The best part about it all is that all the content coming through the Red Bull M
 To get a taste of what's been going down at the studio, grab this download of [Moleke Mebembe](http://www.myspace.com/molekembembe "Moleke Mbembe on Myspace")'s ‘Killa Kat' featuring [Gazelle](/artists/gazelle/ "Gazelle"). It's a dark slow disco burner:
 
 {{< audio
-    src="https://stetcoza.blob.core.windows.net/music/moleke_mbembe/moleke_mbembe_-_killa_kat_featuring_gazelle.mp3"
+    src="https://media.electrotrash.co.za/moleke_mbembe/moleke_mbembe_-_killa_kat_featuring_gazelle.mp3"
     caption="Moleke Mbembe - Killa Kat featuring Gazelle" >}}
 
 Otherwise for more tunes from the studio head over to the blog at [www.redbullstudioscapetown.wordpress.com](http://www.redbullstudioscapetown.wordpress.com "Red Bull Studios Cape Town").

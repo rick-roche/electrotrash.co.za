@@ -1,12 +1,12 @@
 ---
-title: 'Popskarr loves Cassius so...'
+title: "Popskarr loves Cassius so..."
 date: Tue, 26 Oct 2010 00:52:38 +0000
 draft: false
 authors: ["dirtyoldman"]
 tags: ["Cassius", "I Love You So", "Popskarr", "remix"]
 categories: ["Music"]
-thumbnail: '/wp-content/uploads/2010/10/i-love-you-so-popskarr-150x150.jpg'
-featured: '/wp-content/uploads/2010/10/i-love-you-so-popskarr-304x190.jpg'
+thumbnail: "/wp-content/uploads/2010/10/i-love-you-so-popskarr-150x150.jpg"
+featured: "/wp-content/uploads/2010/10/i-love-you-so-popskarr-304x190.jpg"
 ---
 
 [![](/wp-content/uploads/2010/10/i-love-you-so-popskarr.jpg "i love you so popskarr")](/2010/10/26/popskarr-loves-cassius-so/i-love-you-so-popskarr/)
@@ -17,4 +17,4 @@ It is not surprising then, that a remix by Cape Town based Popskarr would work s
 
 {{< audio
     caption="Cassius - I Love You So (Popskarr Remix)"
-    src="https://stetcoza.blob.core.windows.net/music/popskarr/cassius_-_i_love_you_so_(popskarr_remix).mp3" >}}
+    src="https://media.electrotrash.co.za/popskarr/cassius_-_i_love_you_so_(popskarr_remix).mp3" >}}

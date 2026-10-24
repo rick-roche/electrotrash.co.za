@@ -1,12 +1,13 @@
 ---
-title: 'Anoraak killed JR!'
+title: "Anoraak killed JR!"
 date: Mon, 06 Dec 2010 19:50:10 +0000
 draft: false
 authors: ["dirtyoldman"]
-tags: ["Anoraak", "Crazy Eyes", "Who Killed JR", "Who Killed JR's robopop remix"]
+tags:
+  ["Anoraak", "Crazy Eyes", "Who Killed JR", "Who Killed JR's robopop remix"]
 categories: ["Music"]
-thumbnail: '/wp-content/uploads/2010/12/artworks-000003289831-722w7u-original-150x150.jpg'
-featured: '/wp-content/uploads/2010/12/artworks-000003289831-722w7u-original-304x190.jpg'
+thumbnail: "/wp-content/uploads/2010/12/artworks-000003289831-722w7u-original-150x150.jpg"
+featured: "/wp-content/uploads/2010/12/artworks-000003289831-722w7u-original-304x190.jpg"
 ---
 
 [![](/wp-content/uploads/2010/12/artworks-000003289831-722w7u-original.jpg "anoraak")](/2010/12/06/anoraak-killed-jr/artworks-000003289831-722w7u-original/)
@@ -15,4 +16,4 @@ Regular readers should recognise the name Who Killed JR as the guy who did that 
 
 {{< audio
     caption="Anoraak - Crazy Eyes - (Who Killed JR's robopop remix)"
-    src="https://stetcoza.blob.core.windows.net/music/who_killed_jr/anoraak_-_crazy_eyes_(who_killed_jrs_robopop_remix).mp3" >}}
+    src="https://media.electrotrash.co.za/who_killed_jr/anoraak_-_crazy_eyes_(who_killed_jrs_robopop_remix).mp3" >}}

@@ -1,12 +1,12 @@
 ---
-title: 'CoDeC - Mad Scientist'
+title: "CoDeC - Mad Scientist"
 date: Mon, 21 Dec 2009 08:19:27 +0000
 draft: false
 authors: ["Rick Disco"]
 tags: ["codec", "gerald van wyk", "mad scientist"]
 categories: ["Uncategorized"]
-thumbnail: '/wp-content/uploads/2009/12/madscientist-150x150.jpg'
-featured: '/wp-content/uploads/2009/12/madscientist-304x190.jpg'
+thumbnail: "/wp-content/uploads/2009/12/madscientist-150x150.jpg"
+featured: "/wp-content/uploads/2009/12/madscientist-304x190.jpg"
 ---
 
 [![Mad Scientist](/wp-content/uploads/2009/12/madscientist.jpg "Mad Scientist")](/wp-content/uploads/2009/12/madscientist.jpg)
@@ -17,7 +17,6 @@ A pretty banging tune that got me grooving in my room, clearly showing us the di
 
 {{< audio
     caption="CoDeC - Mad Scientist"
-    src="https://stetcoza.blob.core.windows.net/music/codec/codec_-_mad_scientist.mp3" >}}
+    src="https://media.electrotrash.co.za/codec/codec_-_mad_scientist.mp3" >}}
 
 ^5!
-

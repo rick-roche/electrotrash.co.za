@@ -1,12 +1,12 @@
 ---
-title: 'CoDeC - The Square ft Circe!'
+title: "CoDeC - The Square ft Circe!"
 date: Thu, 21 Oct 2010 16:25:39 +0000
 draft: false
 authors: ["Rick Disco"]
 tags: ["codec"]
 categories: ["Music"]
-thumbnail: '/wp-content/uploads/2010/10/the-codec-150x150.jpg'
-featured: '/wp-content/uploads/2010/10/the-codec-304x190.jpg'
+thumbnail: "/wp-content/uploads/2010/10/the-codec-150x150.jpg"
+featured: "/wp-content/uploads/2010/10/the-codec-304x190.jpg"
 ---
 
 [![](/wp-content/uploads/2010/10/the-codec.jpg "The Codec")](/wp-content/uploads/2010/10/the-codec.jpg)
@@ -17,7 +17,6 @@ CoDeC brings out a lot of beautiful bass in this one as well as some really well
 
 {{< audio
     caption="CoDeC - The Square ft Circe"
-    src="https://stetcoza.blob.core.windows.net/music/codec/codec_-_the_square_ft_circe.mp3" >}}
+    src="https://media.electrotrash.co.za/codec/codec_-_the_square_ft_circe.mp3" >}}
 
 ^5!
-

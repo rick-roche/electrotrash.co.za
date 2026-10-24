@@ -1,12 +1,12 @@
 ---
-title: 'The Human League don''t want The Sound (or do they?)'
+title: "The Human League don't want The Sound (or do they?)"
 date: Wed, 31 Mar 2010 15:31:25 +0000
 draft: false
 authors: ["dirtyoldman"]
 tags: ["Bootleg Remix", "Don't You Want Me", "The Human League", "the sound"]
 categories: ["Music"]
-thumbnail: '/wp-content/uploads/2010/03/The-Human-League-Dont-You-Want-Me-The-Sound-Bootleg-Remix-150x150.jpg'
-featured: '/wp-content/uploads/2010/03/The-Human-League-Dont-You-Want-Me-The-Sound-Bootleg-Remix-300x190.jpg'
+thumbnail: "/wp-content/uploads/2010/03/The-Human-League-Dont-You-Want-Me-The-Sound-Bootleg-Remix-150x150.jpg"
+featured: "/wp-content/uploads/2010/03/The-Human-League-Dont-You-Want-Me-The-Sound-Bootleg-Remix-300x190.jpg"
 ---
 
 [![](/wp-content/uploads/2010/03/The-Human-League-Dont-You-Want-Me-The-Sound-Bootleg-Remix.jpg "The Human League - Don't You Want Me (The Sound Bootleg Remix)")](/2010/03/31/the-human-league-dont-want-the-sound-or-do-they/the-human-league-dont-you-want-me-the-sound-bootleg-remix/)
@@ -19,4 +19,4 @@ Grab it below and then click [here](http://www.youtube.com/watch?v=arUqoKjU3D4) 
 
 {{< audio
     caption="The Human League - Dont You Want Me (The Sound Bootleg Remix)"
-    src="https://stetcoza.blob.core.windows.net/music/the_sound/the_human_league_-_dont_you_want_me_(the_sound_bootleg_remix).mp3" >}}
+    src="https://media.electrotrash.co.za/the_sound/the_human_league_-_dont_you_want_me_(the_sound_bootleg_remix).mp3" >}}

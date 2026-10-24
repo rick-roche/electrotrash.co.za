@@ -1,12 +1,12 @@
 ---
-title: 'New Track: Liver - Bumbles'
+title: "New Track: Liver - Bumbles"
 date: Thu, 29 Apr 2010 17:03:56 +0000
 draft: false
 authors: ["Rick Disco"]
 tags: ["bumbles", "Liver"]
 categories: ["Music"]
-thumbnail: '/wp-content/uploads/2010/04/bumbles-150x150.jpg'
-featured: '/wp-content/uploads/2010/04/bumbles-304x190.jpg'
+thumbnail: "/wp-content/uploads/2010/04/bumbles-150x150.jpg"
+featured: "/wp-content/uploads/2010/04/bumbles-304x190.jpg"
 ---
 
 [![](/wp-content/uploads/2010/04/bumbles.jpg "bumbles")](/wp-content/uploads/2010/04/bumbles.jpg)
@@ -15,11 +15,10 @@ Liver dropped off this sick, choppy beat for you... Something different coming f
 
 {{< audio
     caption="Liver - Bumbles"
-    src="https://stetcoza.blob.core.windows.net/music/liver/liver_-_bumbles.mp3" >}}
+    src="https://media.electrotrash.co.za/liver/liver_-_bumbles.mp3" >}}
 
 What do you think?
 
- [Bumbles](http://soundcloud.com/theliver/bumbles) by [theLiver](http://soundcloud.com/theliver)
+[Bumbles](http://soundcloud.com/theliver/bumbles) by [theLiver](http://soundcloud.com/theliver)
 
 Go give Liver some soundcloud love [here](http://soundcloud.com/theliver/ "the liver")!
-

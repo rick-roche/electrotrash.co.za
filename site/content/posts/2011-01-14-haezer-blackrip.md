@@ -1,12 +1,12 @@
 ---
-title: 'Haezer - Black(RIP)'
+title: "Haezer - Black(RIP)"
 date: Fri, 14 Jan 2011 20:54:05 +0000
 draft: false
 authors: ["dirtyoldman"]
 tags: ["Black (RIP)", "Circe", "haezer"]
 categories: ["Music"]
-thumbnail: '/wp-content/uploads/2011/01/rip-150x150.jpg'
-featured: '/wp-content/uploads/2011/01/rip-304x190.jpg'
+thumbnail: "/wp-content/uploads/2011/01/rip-150x150.jpg"
+featured: "/wp-content/uploads/2011/01/rip-304x190.jpg"
 ---
 
 [![](/wp-content/uploads/2011/01/rip.jpg "Black (RIP)")](/2011/01/14/haezer-blackrip/rip/)
@@ -15,4 +15,4 @@ Haezer is off to Portugal but left us with a little something to remember him by
 
 {{< audio
     caption="HAEZER - Black(RIP) feat. Circe"
-    src="https://stetcoza.blob.core.windows.net/music/haezer/haezer_-_black(rip)_feat_circe.mp3" >}}
+    src="https://media.electrotrash.co.za/haezer/haezer_-_black(rip)_feat_circe.mp3" >}}

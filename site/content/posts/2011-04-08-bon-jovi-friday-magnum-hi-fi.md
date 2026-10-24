@@ -1,12 +1,12 @@
 ---
-title: 'Bon Jovi Friday: Magnum Hi-Fi'
+title: "Bon Jovi Friday: Magnum Hi-Fi"
 date: Fri, 08 Apr 2011 11:12:42 +0000
 draft: false
 authors: ["dirtyoldman"]
 tags: ["April 2011", "Bon Jovi Friday", "magnum hi-fi", "Welcome"]
 categories: ["Music"]
-thumbnail: '/wp-content/uploads/2011/04/artworks-000006138738-h1ybbh-original-150x150.jpg'
-featured: '/wp-content/uploads/2011/04/artworks-000006138738-h1ybbh-original-304x190.jpg'
+thumbnail: "/wp-content/uploads/2011/04/artworks-000006138738-h1ybbh-original-150x150.jpg"
+featured: "/wp-content/uploads/2011/04/artworks-000006138738-h1ybbh-original-304x190.jpg"
 ---
 
 [![](/wp-content/uploads/2011/04/artworks-000006138738-h1ybbh-original-e1302259588418.jpg "Magnum Hi-Fi")](/2011/04/08/bon-jovi-friday-magnum-hi-fi/artworks-000006138738-h1ybbh-original/)
@@ -15,7 +15,7 @@ This weeks Bon Jovi Friday mix comes courtesy of Magnum Hi-Fi, one half of the n
 
 {{< audio
     caption="Magnum Hi-Fi - Welcome April 2011"
-    src="https://stetcoza.blob.core.windows.net/music/mixes/magnum_hi-fi_-_welcome_mix.mp3" >}}
+    src="https://media.electrotrash.co.za/mixes/magnum_hi-fi_-_welcome_mix.mp3" >}}
 
 Tracklist:
 
@@ -33,7 +33,7 @@ Tracklist:
 12. Hoping (Herbert’s High Dub) – Louie Austen
 13. Le Velour (Original Mix) – Shonky
 14. Battle For Middle You – Julio Bashmore
-15. Magnificent (Justin Martin’s No Heart and Soul Mix) – Iz And  Diz
+15. Magnificent (Justin Martin’s No Heart and Soul Mix) – Iz And Diz
 16. Don’t Turn The Lights On (Christian Martin Remix) – Chromeo
 17. War Paint feat. Gina Mitchell (Claude VonStroke Remix) – Poxymuzic
 18. Vocal Chords (DJ Version) – Claude VonStroke

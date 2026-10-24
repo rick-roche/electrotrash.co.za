@@ -1,12 +1,13 @@
 ---
-title: 'Paul Gala - The Skeleton and the Trombone'
+title: "Paul Gala - The Skeleton and the Trombone"
 date: Mon, 04 Jan 2010 16:33:15 +0000
 draft: false
 authors: ["Rick Disco"]
-tags: ["Biscuit", "EXX", "paul gala", "The Skeleton and the Trombone", "Tomcraft"]
+tags:
+  ["Biscuit", "EXX", "paul gala", "The Skeleton and the Trombone", "Tomcraft"]
 categories: ["Music"]
-thumbnail: '/wp-content/uploads/2010/01/paulgala-150x150.jpg'
-featured: 'wp-content/uploads/2010/01/paulgala-277x190.jpg'
+thumbnail: "/wp-content/uploads/2010/01/paulgala-150x150.jpg"
+featured: "wp-content/uploads/2010/01/paulgala-277x190.jpg"
 ---
 
 [![](/wp-content/uploads/2010/01/paulgala.jpg "Paul Gala")](/wp-content/uploads/2010/01/paulgala.jpg)
@@ -15,7 +16,7 @@ Paul Gala (_previously part of South African electro band Black Rabbit_) sent us
 
 {{< audio
     caption="Paul Gala - The Skeleton and the Trombone"
-    src="https://stetcoza.blob.core.windows.net/music/paul_gala/paul_gala_-_the_skeleton_and_the_trombone.mp3" >}}
+    src="https://media.electrotrash.co.za/paul_gala/paul_gala_-_the_skeleton_and_the_trombone.mp3" >}}
 
 Check out his [Soundcloud page](http://soundcloud.com/paulgala "Paul Gala on Soundcloud") for more tracks from him.
 
@@ -24,4 +25,3 @@ Paul also recently did a remix of Tomcraft - Biscuit that you can buy [here](htt
 With an EP due to be out in the next five weeks, I'm sure we will have a lot to say about Paul this year... Stay tuned!
 
 ^5!
-

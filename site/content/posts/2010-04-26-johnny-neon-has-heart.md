@@ -1,12 +1,12 @@
 ---
-title: 'Johnny Neon has Heart'
+title: "Johnny Neon has Heart"
 date: Mon, 26 Apr 2010 12:34:42 +0000
 draft: false
 authors: ["dirtyoldman"]
 tags: ["Hearts", "johnny neon"]
 categories: ["Music"]
-thumbnail: '/wp-content/uploads/2010/04/johnny-neon-150x150.jpg'
-featured: '/wp-content/uploads/2010/04/johnny-neon-304x190.jpg'
+thumbnail: "/wp-content/uploads/2010/04/johnny-neon-150x150.jpg"
+featured: "/wp-content/uploads/2010/04/johnny-neon-304x190.jpg"
 ---
 
 [![](/wp-content/uploads/2010/04/johnny-neon.jpg "johnny neon")](/2010/04/26/johnny-neon-has-heart/johnny-neon-3/)
@@ -15,4 +15,4 @@ Johnny Neon dropped off a new track over the weekend. It's called _Hearts_ and i
 
 {{< audio
     caption="Johnny Neon - Hearts"
-    src="https://stetcoza.blob.core.windows.net/music/johnny_neon/johnny_neon_-_hearts.mp3" >}}
+    src="https://media.electrotrash.co.za/johnny_neon/johnny_neon_-_hearts.mp3" >}}

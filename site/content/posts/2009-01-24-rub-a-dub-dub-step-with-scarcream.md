@@ -1,5 +1,5 @@
 ---
-title: 'Rub A Dub Dub-Step with ScarCream'
+title: "Rub A Dub Dub-Step with ScarCream"
 date: Sat, 24 Jan 2009 10:15:05 +0000
 draft: false
 authors: ["Rick Disco"]
@@ -14,5 +14,5 @@ Dubstep isn't the biggest genre in South Africa but [ScarCream](/artists/scarcre
 The join us as our latest [Featured Artist](/artists/ "electrotrash Artists")! Horay! Read more about them [here](/artists/scarcream "ScarCream") and then grab some free tunes below, or in our [Downloads](/downloads "electrotrash Downloads") section [here](/downloads "electrotrash Downloads")!
 
 {{< playlist
-    links="https://stetcoza.blob.core.windows.net/music/scarcream/scarcream_-_bad_house_music.mp3,https://stetcoza.blob.core.windows.net/music/scarcream/scarcream_-_sangoma.mp3"
+    links="https://media.electrotrash.co.za/scarcream/scarcream_-_bad_house_music.mp3,https://media.electrotrash.co.za/scarcream/scarcream_-_sangoma.mp3"
     titles="ScarCream - Bad House Music,ScarCream - Sangoma" >}}

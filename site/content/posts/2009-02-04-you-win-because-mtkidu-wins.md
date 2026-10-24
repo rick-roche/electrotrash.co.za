@@ -1,12 +1,20 @@
 ---
-title: 'You Win Because Mtkidu Wins!'
+title: "You Win Because Mtkidu Wins!"
 date: Wed, 04 Feb 2009 13:58:12 +0000
 draft: false
 authors: ["Rick Disco"]
-tags: ["comic", "mtkidu", "presents", "shakawon", "song", "the girl who does not exist"]
+tags:
+  [
+    "comic",
+    "mtkidu",
+    "presents",
+    "shakawon",
+    "song",
+    "the girl who does not exist",
+  ]
 categories: ["Music", "News"]
-thumbnail: '/wp-content/uploads/2009/02/shakawon11-150x58.jpg'
-featured: '/wp-content/uploads/2009/02/shakawon1.jpg'
+thumbnail: "/wp-content/uploads/2009/02/shakawon11-150x58.jpg"
+featured: "/wp-content/uploads/2009/02/shakawon1.jpg"
 ---
 
 [![Shakawon](/wp-content/uploads/2009/02/shakawon1.jpg "Shakawon")](/wp-content/uploads/2009/02/shakawon1.jpg)
@@ -18,7 +26,7 @@ Grab the link to the track and read the comic after the jump!
 First download the song:
 
 {{< audio
-    src="https://stetcoza.blob.core.windows.net/music/mtkidu/mtkidu_-_the_girl_who_does_not_exist.mp3"
+    src="https://media.electrotrash.co.za/mtkidu/mtkidu_-_the_girl_who_does_not_exist.mp3"
     caption="Mtkidu - The Girl Who Does Not Exist" >}}
 
 Then read the comic!

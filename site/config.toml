@@ -1,12 +1,12 @@
-# baseURL = 'https://www.electrotrash.co.za'
-languageCode = 'en-us'
-title = 'electrotrash.co.za | Is South African Electronic Music'
-theme = 'etQuadro'
+baseURL = "https://www.electrotrash.co.za"
+languageCode = "en-us"
+title = "electrotrash.co.za | Is South African Electronic Music"
+theme = "etQuadro"
 
-relativeURLs = 'true'
+relativeURLs = "true"
 
 [permalinks]
-  posts = '/:year/:month/:day/:title/'
+  posts = "/:year/:month/:day/:title/"
 
 [taxonomies]
   author = "authors"
@@ -37,3 +37,4 @@ relativeURLs = 'true'
   enablePostTags = true
   displayPostDescription = false
   categoryBy = "categories"
+  mediaBaseURL = "https://media.electrotrash.co.za/"

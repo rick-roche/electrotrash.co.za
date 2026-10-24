@@ -1,12 +1,12 @@
 ---
-title: 'Popskarr - The Rise'
+title: "Popskarr - The Rise"
 date: Mon, 14 Mar 2011 10:09:59 +0000
 draft: false
 authors: ["dirtyoldman"]
 tags: ["Popskarr", "The Rise"]
 categories: ["Music"]
-thumbnail: '/wp-content/uploads/2011/03/artworks-000002745322-b9u67o-original-150x150.jpg'
-featured: '/wp-content/uploads/2011/03/artworks-000002745322-b9u67o-original-304x190.jpg'
+thumbnail: "/wp-content/uploads/2011/03/artworks-000002745322-b9u67o-original-150x150.jpg"
+featured: "/wp-content/uploads/2011/03/artworks-000002745322-b9u67o-original-304x190.jpg"
 ---
 
 [![](/wp-content/uploads/2011/03/artworks-000002745322-b9u67o-original-e1300096790547.jpg "Popskarr")](/2011/03/14/popskarr-the-rise/artworks-000002745322-b9u67o-original/) Popskarr will be releasing their debut EP in a few months time and decided to give away one free track a month until it is released. Yay!
@@ -17,4 +17,4 @@ Judging from what I have heard, their debut will be something to look forward to
 
 {{< audio
     caption="Popskarr - The Rise"
-    src="https://stetcoza.blob.core.windows.net/music/popskarr/popskarr_-_the_rise.mp3" >}}
+    src="https://media.electrotrash.co.za/popskarr/popskarr_-_the_rise.mp3" >}}

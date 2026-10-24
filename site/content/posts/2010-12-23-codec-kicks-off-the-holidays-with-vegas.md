@@ -1,12 +1,12 @@
 ---
-title: 'CoDeC Kicks Off The Holidays With Vegas!'
+title: "CoDeC Kicks Off The Holidays With Vegas!"
 date: Thu, 23 Dec 2010 09:57:18 +0000
 draft: false
 authors: ["Rick Disco"]
 tags: ["codec"]
 categories: ["Music"]
-thumbnail: '/wp-content/uploads/2010/12/vegas-150x150.jpg'
-featured: '/wp-content/uploads/2010/12/vegas-304x190.jpg'
+thumbnail: "/wp-content/uploads/2010/12/vegas-150x150.jpg"
+featured: "/wp-content/uploads/2010/12/vegas-304x190.jpg"
 ---
 
 [![](/wp-content/uploads/2010/12/vegas.jpg "vegas")](/wp-content/uploads/2010/12/vegas.jpg)
@@ -17,7 +17,7 @@ The track is "very much influenced by the sounds of Jean Michele Jarre, and the 
 
 {{< audio
     caption="CoDeC - Vegas"
-    src="https://stetcoza.blob.core.windows.net/music/codec/codec_-_vegas.mp3" >}}
+    src="https://media.electrotrash.co.za/codec/codec_-_vegas.mp3" >}}
 
 Have a great festive season!
 

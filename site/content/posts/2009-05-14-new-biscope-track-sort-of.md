@@ -1,12 +1,12 @@
 ---
-title: 'New Biscope Track! (sort of)'
+title: "New Biscope Track! (sort of)"
 date: Thu, 14 May 2009 11:40:26 +0000
 draft: false
 authors: ["dirtyoldman"]
 tags: ["biscope"]
 categories: ["Music"]
-thumbnail: '/wp-content/uploads/2009/05/n56014940263_2240822_34721691-150x150.jpg'
-featured: '/wp-content/uploads/2009/05/n56014940263_2240822_34721691-240x190.jpg'
+thumbnail: "/wp-content/uploads/2009/05/n56014940263_2240822_34721691-150x150.jpg"
+featured: "/wp-content/uploads/2009/05/n56014940263_2240822_34721691-240x190.jpg"
 ---
 
 ![Biscope](/wp-content/uploads/2009/05/n56014940263_2240822_3472169.jpg "Biscope Stencil")
@@ -17,7 +17,7 @@ I'm going to have to speak to Richard the Third because i'm a little confused. D
 
 (320kbps & 16Mb totally worth it!)
 {{< audio
-    src="https://stetcoza.blob.core.windows.net/music/biscope/biscope_-_ol_dirty_(shimmy_shimmy_ya_dubstep_remix).mp3"
+    src="https://media.electrotrash.co.za/biscope/biscope_-_ol_dirty_(shimmy_shimmy_ya_dubstep_remix).mp3"
     caption="Biscope - Ol Dirty (Shimmy Shimmy Ya Dubstep Remix)" >}}
 
 Also visit our [Downloads](/downloads/) section for another Biscope track as well as a bunch of other tracks!

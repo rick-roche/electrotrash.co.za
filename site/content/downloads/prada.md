@@ -5,5 +5,5 @@ authors: ["Rick Disco"]
 ---
 
 {{< playlist
-    links="https://stetcoza.blob.core.windows.net/music/prada/prada_-_lagoss.mp3,https://stetcoza.blob.core.windows.net/music/prada/prada_-_regerde_moi.mp3"
+    links="https://media.electrotrash.co.za/prada/prada_-_lagoss.mp3,https://media.electrotrash.co.za/prada/prada_-_regerde_moi.mp3"
     titles="Prada - Lagoss,Prada - Regerde Moi" >}}

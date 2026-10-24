@@ -1,12 +1,12 @@
 ---
-title: 'Bon Jovi Friday: JakobSnake - Umlungu Shuffle (AfroClap! Mix:02)'
+title: "Bon Jovi Friday: JakobSnake - Umlungu Shuffle (AfroClap! Mix:02)"
 date: Thu, 01 Sep 2011 12:09:21 +0000
 draft: false
 authors: ["dirtyoldman"]
 tags: ["JakobSnake", "Umlungu Shuffle"]
 categories: ["Bon Jovi Friday", "Music"]
-thumbnail: '/wp-content/uploads/2011/09/umlungu-150x150.jpg'
-featured: '/wp-content/uploads/2011/09/umlungu-304x190.jpg'
+thumbnail: "/wp-content/uploads/2011/09/umlungu-150x150.jpg"
+featured: "/wp-content/uploads/2011/09/umlungu-304x190.jpg"
 ---
 
 [![](/wp-content/uploads/2011/09/umlungu-e1314878465579.jpg "umlungu")](/2011/09/01/bon-jovi-friday-jakobsnake-umlungu-shuffle-afroclap-mix02/umlungu/)
@@ -21,7 +21,7 @@ This is a great start to the weekend. Download it, pump it and dance!
 
 {{< audio
     caption="JakobSnake - Umlungu Shuffle"
-    src="https://stetcoza.blob.core.windows.net/music/mixes/jakobsnake_-_umlungu_shuffle.mp3" >}}
+    src="https://media.electrotrash.co.za/mixes/jakobsnake_-_umlungu_shuffle.mp3" >}}
 
 TRACKLIST:
 

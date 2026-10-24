@@ -5,5 +5,5 @@ authors: ["Rick Disco"]
 ---
 
 {{< playlist
-    links="https://stetcoza.blob.core.windows.net/music/the_hotlips/the_hotlips_-_secretry.mp3"
+    links="https://media.electrotrash.co.za/the_hotlips/the_hotlips_-_secretry.mp3"
     titles="The Hotlips - Secretry" >}}

@@ -1,12 +1,12 @@
 ---
-title: 'HAEZER Crack In The Wall Remix Competition Winner!'
+title: "HAEZER Crack In The Wall Remix Competition Winner!"
 date: Sun, 07 Feb 2010 15:05:02 +0000
 draft: false
 authors: ["Rick Disco"]
 tags: ["Chains", "Crack In The Wall Remix Competition", "haezer", "Winner"]
 categories: ["Music", "remix competition"]
-thumbnail: '/wp-content/uploads/2010/02/chains-150x150.jpg'
-featured: '/wp-content/uploads/2010/02/chains-304x190.jpg'
+thumbnail: "/wp-content/uploads/2010/02/chains-150x150.jpg"
+featured: "/wp-content/uploads/2010/02/chains-304x190.jpg"
 ---
 
 [![](/wp-content/uploads/2010/02/chains.jpg "Chains")](/wp-content/uploads/2010/02/chains.jpg)
@@ -29,7 +29,6 @@ He sent us this awesome new track of his for you to download as thanks! Grab it 
 
 {{< audio
     caption="HAEZER - Anarchy"
-    src="https://stetcoza.blob.core.windows.net/music/haezer/haezer_-_anarchy_!.mp3" >}}
+    src="https://media.electrotrash.co.za/haezer/haezer_-_anarchy_!.mp3" >}}
 
 ^5!
-

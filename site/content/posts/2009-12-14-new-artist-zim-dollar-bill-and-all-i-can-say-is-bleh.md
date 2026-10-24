@@ -1,12 +1,12 @@
 ---
-title: 'New Artist: zim dollar bill (and all I can say is bleh!)'
+title: "New Artist: zim dollar bill (and all I can say is bleh!)"
 date: Mon, 14 Dec 2009 17:58:52 +0000
 draft: false
 authors: ["dirtyoldman"]
 tags: ["bleh!", "zim dollar bill"]
 categories: ["Artists", "Music"]
-thumbnail: '/wp-content/uploads/2009/12/cover-150x150.jpg'
-featured: '/wp-content/uploads/2009/12/cover-304x190.jpg'
+thumbnail: "/wp-content/uploads/2009/12/cover-150x150.jpg"
+featured: "/wp-content/uploads/2009/12/cover-304x190.jpg"
 ---
 
 ![zimdollarbill](/wp-content/uploads/2009/12/cover-300x158.jpg "zimdollarbill")
@@ -15,4 +15,4 @@ zim dollar bill are Narch and Liver. You may recall Richard the Third writing a 
 
 {{< audio
     caption="zim dollar bill - bleh!"
-    src="https://stetcoza.blob.core.windows.net/music/zim_dollar_bill/zim_dollar_bill_-_bleh!.mp3" >}}
+    src="https://media.electrotrash.co.za/zim_dollar_bill/zim_dollar_bill_-_bleh!.mp3" >}}

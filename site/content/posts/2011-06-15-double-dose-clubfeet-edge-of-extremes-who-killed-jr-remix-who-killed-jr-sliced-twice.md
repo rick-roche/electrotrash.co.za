@@ -1,12 +1,20 @@
 ---
-title: 'Double Dose: Clubfeet - Edge of Extremes (Who Killed JR Remix) & Who Killed JR - Sliced Twice'
+title: "Double Dose: Clubfeet - Edge of Extremes (Who Killed JR Remix) & Who Killed JR - Sliced Twice"
 date: Wed, 15 Jun 2011 14:48:13 +0000
 draft: false
 authors: ["dirtyoldman"]
-tags: ["Clubfeet", "Edge of Extremes", "Music Video", "Sliced Twice", "Who Killed JR", "Who Killed JR Remix"]
+tags:
+  [
+    "Clubfeet",
+    "Edge of Extremes",
+    "Music Video",
+    "Sliced Twice",
+    "Who Killed JR",
+    "Who Killed JR Remix",
+  ]
 categories: ["Music", "Music Video"]
-thumbnail: '/wp-content/uploads/2011/06/Edge-of-Extremes-A-1.01-580x580-150x150.jpg'
-featured: '/wp-content/uploads/2011/06/Edge-of-Extremes-A-1.01-580x580-304x190.jpg'
+thumbnail: "/wp-content/uploads/2011/06/Edge-of-Extremes-A-1.01-580x580-150x150.jpg"
+featured: "/wp-content/uploads/2011/06/Edge-of-Extremes-A-1.01-580x580-304x190.jpg"
 ---
 
 [![](/wp-content/uploads/2011/06/Edge-of-Extremes-A-1.01-580x580-e1308140835177.jpg "Edge-of-Extremes")](/2011/06/15/double-dose-clubfeet-edge-of-extremes-who-killed-jr-remix-who-killed-jr-sliced-twice/edge-of-extremes-a-1-01-580x580/)
@@ -15,10 +23,10 @@ I have been sitting on this remix for a while now, waiting for [WKJR](http://sou
 
 {{< audio
     caption="Clubfeet - Edge of Extremes (Who Killed JR remix)"
-    src="https://stetcoza.blob.core.windows.net/music/who_killed_jr/clubfeet_-_edge_of_extremes_(who_killed_jr_remix).mp3" >}}
+    src="https://media.electrotrash.co.za/who_killed_jr/clubfeet_-_edge_of_extremes_(who_killed_jr_remix).mp3" >}}
 
 Sliced Twice is a diamond amongst the gems in WKJRs catalogue in that it is the only original he has released to date. Featuring that gut punching slap bass that almost defines his sound, the track comes at you like a freight-train. Vocoder arps and a playful 8bit synth add to the madness. Fuck yeah!
 
 {{< audio
     caption="Who Killed JR - Sliced Twice n Caught in the Vice"
-    src="https://stetcoza.blob.core.windows.net/music/who_killed_jr/who_killed_jr_-_sliced_twice_n_caught_in_the_vice.mp3" >}}
+    src="https://media.electrotrash.co.za/who_killed_jr/who_killed_jr_-_sliced_twice_n_caught_in_the_vice.mp3" >}}

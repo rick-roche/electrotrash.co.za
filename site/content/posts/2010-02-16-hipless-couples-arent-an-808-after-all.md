@@ -1,12 +1,12 @@
 ---
-title: 'Hipless Couples aren''t an 808 after all!'
+title: "Hipless Couples aren't an 808 after all!"
 date: Tue, 16 Feb 2010 11:48:46 +0000
 draft: false
 authors: ["dirtyoldman"]
 tags: ["hipless couples", "im not an 808 after all"]
 categories: ["Music"]
-thumbnail: '/wp-content/uploads/2010/02/808-150x150.jpg'
-featured: '/wp-content/uploads/2010/02/808-304x190.jpg'
+thumbnail: "/wp-content/uploads/2010/02/808-150x150.jpg"
+featured: "/wp-content/uploads/2010/02/808-304x190.jpg"
 ---
 
 [![](/wp-content/uploads/2010/02/808.jpg "808")](/2010/02/16/hipless-couples-arent-an-808-after-all/attachment/808/)
@@ -15,4 +15,4 @@ We've been having quite the busy time IRL, which has led to a slight neglect of
 
 {{< audio
     caption="Hipless Couples - I'm not an 808 after all"
-    src="https://stetcoza.blob.core.windows.net/music/hipless_couples/hipless_couples_-_im_not_an_808_after_all.mp3" >}}
+    src="https://media.electrotrash.co.za/hipless_couples/hipless_couples_-_im_not_an_808_after_all.mp3" >}}

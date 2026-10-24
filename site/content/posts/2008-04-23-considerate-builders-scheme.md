@@ -1,5 +1,5 @@
 ---
-title: 'Considerate Builders Scheme'
+title: "Considerate Builders Scheme"
 date: Wed, 23 Apr 2008 17:14:53 +0000
 draft: false
 authors: ["dirtyoldman"]
@@ -15,15 +15,15 @@ Most reviews focus on the hip-hop feel of the album, which comes from the glitch
 
 This track opens the album. Nice busted-up beats!
 {{< audio
-    src="https://stetcoza.blob.core.windows.net/music/the_considerate_builders_scheme/the_considerate_builders_scheme_-_three_beats_short.mp3"
+    src="https://media.electrotrash.co.za/the_considerate_builders_scheme/the_considerate_builders_scheme_-_three_beats_short.mp3"
     caption="Considerate Builders Scheme - Three Beats Short" >}}
 
 You probably heard this in an ad and wondered what it was... now you know :)
 {{< audio
-    src="https://stetcoza.blob.core.windows.net/music/the_considerate_builders_scheme/the_considerate_builders_scheme_-_spare_change.mp3"
+    src="https://media.electrotrash.co.za/the_considerate_builders_scheme/the_considerate_builders_scheme_-_spare_change.mp3"
     caption="Considerate Builders Scheme - Spare Change" >}}
 
 I had to put this track up just cause it sums the album quite nicely. Go on, give it a listen...
 {{< audio
-    src="https://stetcoza.blob.core.windows.net/music/the_considerate_builders_scheme/the_considerate_builders_scheme_-_down_nine.mp3"
+    src="https://media.electrotrash.co.za/the_considerate_builders_scheme/the_considerate_builders_scheme_-_down_nine.mp3"
     caption="Considerate Builders Scheme - Down Nine" >}}

@@ -1,12 +1,12 @@
 ---
-title: 'Tigerstrike - Xanax'
+title: "Tigerstrike - Xanax"
 date: Tue, 02 Feb 2010 21:46:15 +0000
 draft: false
 authors: ["Rick Disco"]
 tags: ["tigerstrike", "xanax"]
 categories: ["Music"]
-thumbnail: '/wp-content/uploads/2010/02/tigerstrike-150x150.jpg'
-featured: '/wp-content/uploads/2010/02/tigerstrike-304x190.jpg'
+thumbnail: "/wp-content/uploads/2010/02/tigerstrike-150x150.jpg"
+featured: "/wp-content/uploads/2010/02/tigerstrike-304x190.jpg"
 ---
 
 [![](/wp-content/uploads/2010/02/tigerstrike.jpg "tigerstrike")](/wp-content/uploads/2010/02/tigerstrike.jpg)
@@ -17,9 +17,8 @@ Grab the track below... it is has a haunting, synthpop'ish melody that I couldn'
 
 {{< audio
     caption="Tigerstrike - Xanax"
-    src="https://stetcoza.blob.core.windows.net/music/tigerstrike/tigerstrike_-_xanax.mp3" >}}
+    src="https://media.electrotrash.co.za/tigerstrike/tigerstrike_-_xanax.mp3" >}}
 
 I have been promised some killer remixes in the not too distant future so stay tuned!
 
 ^5!
-

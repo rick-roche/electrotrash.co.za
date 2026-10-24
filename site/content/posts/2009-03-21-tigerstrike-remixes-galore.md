@@ -1,12 +1,22 @@
 ---
-title: 'Tigerstrike Remixes Galore!'
+title: "Tigerstrike Remixes Galore!"
 date: Sat, 21 Mar 2009 12:15:20 +0000
 draft: false
 authors: ["Rick Disco"]
-tags: ["cape town", "disappear remix", "dj lapse", "indie-electro", "len cockraft", "remix", "the assembly", "tigerstrike"]
+tags:
+  [
+    "cape town",
+    "disappear remix",
+    "dj lapse",
+    "indie-electro",
+    "len cockraft",
+    "remix",
+    "the assembly",
+    "tigerstrike",
+  ]
 categories: ["Music"]
-thumbnail: '/wp-content/uploads/2009/03/tigerstrike-live1-150x150.jpg'
-featured: '/wp-content/uploads/2009/03/tigerstrike-live1-304x190.jpg'
+thumbnail: "/wp-content/uploads/2009/03/tigerstrike-live1-150x150.jpg"
+featured: "/wp-content/uploads/2009/03/tigerstrike-live1-304x190.jpg"
 ---
 
 [![Tigerstrike Live @ The Assembly, Cape Town](/wp-content/uploads/2009/03/tigerstrike-live.jpg "Tigerstrike Live @ The Assembly, Cape Town")](/wp-content/uploads/2009/03/tigerstrike-live.jpg)
@@ -17,12 +27,12 @@ Electrotrash regulars [DJ Lapse](/artists/dj-lapse "DJ Lapse") and Hipless Coupl
 
 An ear-jarring journey!
 {{< audio
-    src="https://stetcoza.blob.core.windows.net/music/tigerstrike/tigerstrike_-_disappear_(hipless_couples_remix).mp3"
+    src="https://media.electrotrash.co.za/tigerstrike/tigerstrike_-_disappear_(hipless_couples_remix).mp3"
     caption="Tigerstrike - Disappear (Hipless Couples Remix)" >}}
 
- Synth driven, the way we like it!
- {{< audio
-    src="https://stetcoza.blob.core.windows.net/music/tigerstrike/tigerstrike_-_disappear_(dj_lapse_remix).mp3"
+Synth driven, the way we like it!
+{{< audio
+    src="https://media.electrotrash.co.za/tigerstrike/tigerstrike_-_disappear_(dj_lapse_remix).mp3"
     caption="Tigerstrike - Disappear (DJ Lapse Dub Mix)" >}}
 
 ^5!

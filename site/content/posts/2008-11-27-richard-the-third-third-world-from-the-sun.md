@@ -1,9 +1,21 @@
 ---
-title: 'Richard The Third - Third World From the Sun'
+title: "Richard The Third - Third World From the Sun"
 date: Thu, 27 Nov 2008 13:48:53 +0000
 draft: false
 authors: ["dirtyoldman"]
-tags: ["dancing with the Dj's Girl mp3", "desmond and the tutus", "disco", "download", "electro", "johannesburg", "Richard da IIIrd", "richard rumney", "Richard the IIIrd", "richard the third"]
+tags:
+  [
+    "dancing with the Dj's Girl mp3",
+    "desmond and the tutus",
+    "disco",
+    "download",
+    "electro",
+    "johannesburg",
+    "Richard da IIIrd",
+    "richard rumney",
+    "Richard the IIIrd",
+    "richard the third",
+  ]
 categories: ["Music", "News"]
 ---
 
@@ -16,5 +28,5 @@ However, as a favour to us he sent us the dirty disco banger "Dancing with the D
 So in case that doesn't work, or you just never go out but love listening to banging electro here it is:
 
 {{< audio
-    src="https://stetcoza.blob.core.windows.net/music/richard_the_third/richard_the_third_-_dancing_with_the_djs_girl.mp3"
+    src="https://media.electrotrash.co.za/richard_the_third/richard_the_third_-_dancing_with_the_djs_girl.mp3"
     caption="Richard TheThird - Dancing With The DJ's Girl " >}}

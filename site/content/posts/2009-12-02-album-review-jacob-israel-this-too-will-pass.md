@@ -1,12 +1,18 @@
 ---
-title: 'Album Review: Jacob Israel - This Too Will Pass'
+title: "Album Review: Jacob Israel - This Too Will Pass"
 date: Wed, 02 Dec 2009 14:57:07 +0000
 draft: false
 authors: ["dirtyoldman"]
-tags: ["he'll think of you", "jacob israel", "think of someone you love", "This Too Will Pass"]
+tags:
+  [
+    "he'll think of you",
+    "jacob israel",
+    "think of someone you love",
+    "This Too Will Pass",
+  ]
 categories: ["Music"]
-thumbnail: '/wp-content/uploads/2009/12/2-150x150.jpg'
-featured: '/wp-content/uploads/2009/12/2-304x190.jpg'
+thumbnail: "/wp-content/uploads/2009/12/2-150x150.jpg"
+featured: "/wp-content/uploads/2009/12/2-304x190.jpg"
 ---
 
 ![Jacob Israel - This Too Will Pass](/wp-content/uploads/2009/12/2.jpg "Jacob Israel - This Too Will Pass")
@@ -29,4 +35,4 @@ This track will be available for a limited time only so grab it now!
 
 {{< audio
     caption="Jacob Israel - think of Someone you love"
-    src="https://stetcoza.blob.core.windows.net/music/jacob_israel/jacob_israel_-_think_of_someone_you_love,__hell_think_of_you.mp3" >}}
+    src="https://media.electrotrash.co.za/jacob_israel/jacob_israel_-_think_of_someone_you_love,__hell_think_of_you.mp3" >}}

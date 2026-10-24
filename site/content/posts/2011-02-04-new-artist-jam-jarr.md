@@ -1,12 +1,12 @@
 ---
-title: 'New Artist: Jam Jarr!!!'
+title: "New Artist: Jam Jarr!!!"
 date: Fri, 04 Feb 2011 14:52:02 +0000
 draft: false
 authors: ["dirtyoldman"]
 tags: ["Jam Jarr", "Neck Low", "Phat Cat Wet"]
 categories: ["Artists", "Music"]
-thumbnail: '/wp-content/uploads/2011/02/64309_151488571553812_145102632192406_216974_483053_n-150x150.jpg'
-featured: '/wp-content/uploads/2011/02/64309_151488571553812_145102632192406_216974_483053_n-304x190.jpg'
+thumbnail: "/wp-content/uploads/2011/02/64309_151488571553812_145102632192406_216974_483053_n-150x150.jpg"
+featured: "/wp-content/uploads/2011/02/64309_151488571553812_145102632192406_216974_483053_n-304x190.jpg"
 ---
 
 ![](/wp-content/uploads/2011/02/64309_151488571553812_145102632192406_216974_483053_n-e1296774146568.jpg "Jam Jarr")
@@ -19,15 +19,14 @@ Neck Low is a grinding dubstep track featuring raw rhymes and phat, wobbly bass.
 
 {{< audio
     caption="Jam Jarr - Neck Low"
-    src="https://stetcoza.blob.core.windows.net/music/jam_jarr/jam_jarr_-_neck_low.mp3" >}}
+    src="https://media.electrotrash.co.za/jam_jarr/jam_jarr_-_neck_low.mp3" >}}
 
- [Jam Jarr - Neck Low](http://soundcloud.com/jamjarrcpt/jam-jarr-neck-low) by [Jam Jarr](http://soundcloud.com/jamjarrcpt)
+[Jam Jarr - Neck Low](http://soundcloud.com/jamjarrcpt/jam-jarr-neck-low) by [Jam Jarr](http://soundcloud.com/jamjarrcpt)
 
 Taken from Honey Beats Vol. 1, _Phat Cat Wet_ is an uptempo, electro-hop track which just screams Party Time! Bakamans witty rhymes lead the way here, while the beats and bass should tempt even the most reserved to bounce on the dancefloor.  Honey Beats Vol.1 is a free download available to members of the African Dope Records mailing list. Sign up [here](http://www.africandope.co.za/lists/?p=subscribe&id=1) to get access!
 
 {{< audio
     caption="Jam Jarr - Phat Cat Wet"
-    src="https://stetcoza.blob.core.windows.net/music/jam_jarr/jam_jarr_-_phat_cat_wet.mp3" >}}
+    src="https://media.electrotrash.co.za/jam_jarr/jam_jarr_-_phat_cat_wet.mp3" >}}
 
- [Jam Jarr - Phat Cat Wet](http://soundcloud.com/jamjarrcpt/jam-jarr-phat-cat-wet) by [Jam Jarr](http://soundcloud.com/jamjarrcpt)
-
+[Jam Jarr - Phat Cat Wet](http://soundcloud.com/jamjarrcpt/jam-jarr-phat-cat-wet) by [Jam Jarr](http://soundcloud.com/jamjarrcpt)

@@ -1,13 +1,21 @@
 ---
-title: 'A little bit about Hipless Couples!'
+title: "A little bit about Hipless Couples!"
 date: Mon, 20 Oct 2008 16:37:50 +0000
 draft: false
 authors: ["Rick Disco"]
-tags: ["daydream nation", "download", "free mp3", "hipless couples", "len cockraft", "wild eyes"]
+tags:
+  [
+    "daydream nation",
+    "download",
+    "free mp3",
+    "hipless couples",
+    "len cockraft",
+    "wild eyes",
+  ]
 categories: ["News"]
 ---
 
- [![](/wp-content/uploads/2008/10/hipless.jpg "hipless couples") _Hipless Couples (Nabbed off the Daydream Nation Facebook group)_](/wp-content/uploads/2008/10/hipless.jpg)
+[![](/wp-content/uploads/2008/10/hipless.jpg "hipless couples") _Hipless Couples (Nabbed off the Daydream Nation Facebook group)_](/wp-content/uploads/2008/10/hipless.jpg)
 
 I have been really slow in getting this post up! A while ago Len Cockraft aka _Hipless Couples_ dropped a track in my inbox. The track is called "_Just FFFuck_" and it's a pretty hard hitting, banging electro track.
 
@@ -16,5 +24,5 @@ Len used to be the drummer for the band "[The Wild Eyes](http://www.thewildeyes.
 Grab the track below (or check our Downloads page!)
 
 {{< audio
-    src="https://stetcoza.blob.core.windows.net/music/hipless_couples/hipless_couples_-_just_fffuck.mp3"
+    src="https://media.electrotrash.co.za/hipless_couples/hipless_couples_-_just_fffuck.mp3"
     caption="Hipless Couples - Just FFFuck" >}}

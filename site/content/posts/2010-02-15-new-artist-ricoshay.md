@@ -1,12 +1,12 @@
 ---
-title: 'New Artist: Ricoshay'
+title: "New Artist: Ricoshay"
 date: Mon, 15 Feb 2010 11:45:36 +0000
 draft: false
 authors: ["dirtyoldman"]
 tags: ["Luna", "Ricoshay"]
 categories: ["Artists", "Music"]
-thumbnail: '/wp-content/uploads/2010/02/rico01-150x150.jpg'
-featured: '/wp-content/uploads/2010/02/rico01-304x190.jpg'
+thumbnail: "/wp-content/uploads/2010/02/rico01-150x150.jpg"
+featured: "/wp-content/uploads/2010/02/rico01-304x190.jpg"
 ---
 
 ![](/wp-content/uploads/2010/02/rico01-e1266234011716.jpg "Ricoshay")
@@ -15,5 +15,4 @@ Gary from GaZo has started a new project with Mark Norrie from Durban rock band 
 
 {{< audio
     caption="Ricoshay - Luna"
-    src="https://stetcoza.blob.core.windows.net/music/ricoshay/ricoshay_-_luna.mp3" >}}
-
+    src="https://media.electrotrash.co.za/ricoshay/ricoshay_-_luna.mp3" >}}

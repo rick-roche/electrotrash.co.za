@@ -1,12 +1,12 @@
 ---
-title: 'Liver - Lethargy'
+title: "Liver - Lethargy"
 date: Tue, 01 Jun 2010 12:37:43 +0000
 draft: false
 authors: ["Rick Disco"]
 tags: ["lethargy", "Liver"]
 categories: ["Music"]
-thumbnail: '/wp-content/uploads/2010/05/liver-150x150.jpg'
-featured: '/wp-content/uploads/2010/05/liver-304x190.jpg'
+thumbnail: "/wp-content/uploads/2010/05/liver-150x150.jpg"
+featured: "/wp-content/uploads/2010/05/liver-304x190.jpg"
 ---
 
 [![](/wp-content/uploads/2010/05/liver.jpg "Liver")](/wp-content/uploads/2010/05/liver.jpg)
@@ -15,7 +15,6 @@ Liver has been playing a bunch of shows around Cape Town recently and still mana
 
 {{< audio
     caption="Liver - Lethargy"
-    src="https://stetcoza.blob.core.windows.net/music/liver/liver_-_lethargy.mp3" >}}
+    src="https://media.electrotrash.co.za/liver/liver_-_lethargy.mp3" >}}
 
 ^5!
-

@@ -1,12 +1,12 @@
 ---
-title: 'Kavinsky - Nightcall (Battle Beyond the Stars Remix)'
+title: "Kavinsky - Nightcall (Battle Beyond the Stars Remix)"
 date: Wed, 23 Nov 2011 12:50:44 +0000
 draft: false
 authors: ["dirtyoldman"]
 tags: ["Battle Beyond the Stars Remix", "Kavinsky", "Nightcall"]
 categories: ["Music"]
-thumbnail: '/wp-content/uploads/2011/11/artworks-000001728612-wce0d1-original-150x150.jpg'
-featured: '/wp-content/uploads/2011/11/artworks-000001728612-wce0d1-original-304x190.jpg'
+thumbnail: "/wp-content/uploads/2011/11/artworks-000001728612-wce0d1-original-150x150.jpg"
+featured: "/wp-content/uploads/2011/11/artworks-000001728612-wce0d1-original-304x190.jpg"
 ---
 
 [![](/wp-content/uploads/2011/11/artworks-000001728612-wce0d1-original.jpg)](/2011/11/23/kavinsky-nightcall-battle-beyond-the-stars-remix/artworks-000001728612-wce0d1-original/)
@@ -15,4 +15,4 @@ A year in the making, this remix is the latest from Cape Town based producer Bat
 
 {{< audio
     caption="Kavinsky - Nightcall (Battle Beyond the Stars Remix)"
-    src="https://stetcoza.blob.core.windows.net/music/battle_beyond_the_stars/kavinsky_-_nightcall_(battle_beyond_the_stars_remix).mp3" >}}
+    src="https://media.electrotrash.co.za/battle_beyond_the_stars/kavinsky_-_nightcall_(battle_beyond_the_stars_remix).mp3" >}}

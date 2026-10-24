@@ -1,12 +1,12 @@
 ---
-title: 'New Artist: PRADA'
+title: "New Artist: PRADA"
 date: Wed, 08 Sep 2010 07:25:21 +0000
 draft: false
 authors: ["Rick Disco"]
 tags: ["Johnny Kotze", "johnny neon", "Popskarr", "PRADA", "Yannick Ilunga"]
 categories: ["Music"]
-thumbnail: '/wp-content/uploads/2010/06/prada-150x150.jpg'
-featured: '/wp-content/uploads/2010/06/prada-304x190.jpg'
+thumbnail: "/wp-content/uploads/2010/06/prada-150x150.jpg"
+featured: "/wp-content/uploads/2010/06/prada-304x190.jpg"
 ---
 
 [![](/wp-content/uploads/2010/06/prada.jpg "prada")](/wp-content/uploads/2010/06/prada.jpg)
@@ -19,7 +19,6 @@ Check out PRADA on Facebook over [here](http://www.facebook.com/pages/PRADA/1318
 
 {{< audio
     caption="Prada - Lagoss"
-    src="https://stetcoza.blob.core.windows.net/music/prada/prada_-_lagoss.mp3" >}}
+    src="https://media.electrotrash.co.za/prada/prada_-_lagoss.mp3" >}}
 
 Let us know what you think! ^5!
-

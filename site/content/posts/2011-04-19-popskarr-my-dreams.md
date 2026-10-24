@@ -1,12 +1,12 @@
 ---
-title: 'Popskarr - My Dreams'
+title: "Popskarr - My Dreams"
 date: Tue, 19 Apr 2011 11:55:59 +0000
 draft: false
 authors: ["dirtyoldman"]
 tags: ["My Dreams", "Popskarr"]
 categories: ["Music"]
-thumbnail: '/wp-content/uploads/2011/04/artworks-000002745389-a9u4gk-original-150x150.jpg'
-featured: '/wp-content/uploads/2011/04/artworks-000002745389-a9u4gk-original-304x190.jpg'
+thumbnail: "/wp-content/uploads/2011/04/artworks-000002745389-a9u4gk-original-150x150.jpg"
+featured: "/wp-content/uploads/2011/04/artworks-000002745389-a9u4gk-original-304x190.jpg"
 ---
 
 [![(c) Max Mogale Photography](/wp-content/uploads/2011/04/artworks-000002745389-a9u4gk-original.jpg "Popskarr")](/2011/04/19/popskarr-my-dreams/artworks-000002745389-a9u4gk-original/)
@@ -17,5 +17,4 @@ The production matches the title, with Lapse laying down serene and dreamy elect
 
 {{< audio
     caption="Popskarr - My Dreams"
-    src="https://stetcoza.blob.core.windows.net/music/popskarr/popskarr_-_my_dreams.mp3" >}}
-
+    src="https://media.electrotrash.co.za/popskarr/popskarr_-_my_dreams.mp3" >}}

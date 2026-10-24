@@ -1,12 +1,12 @@
 ---
-title: 'Offset Joins The Electrotrash Club!'
+title: "Offset Joins The Electrotrash Club!"
 date: Wed, 20 Oct 2010 17:12:06 +0000
 draft: false
 authors: ["Rick Disco"]
 tags: ["durban", "kevin louw", "Offset"]
 categories: ["Music"]
-thumbnail: '/wp-content/uploads/2010/10/OFFSET_blue-150x150.jpg'
-featured: '/wp-content/uploads/2010/10/OFFSET_blue-304x190.jpg'
+thumbnail: "/wp-content/uploads/2010/10/OFFSET_blue-150x150.jpg"
+featured: "/wp-content/uploads/2010/10/OFFSET_blue-304x190.jpg"
 ---
 
 [![](/wp-content/uploads/2010/10/OFFSET_djing-camden.jpg "OFFSET_djing-camden")](/wp-content/uploads/2010/10/OFFSET_djing-camden.jpg)
@@ -19,15 +19,14 @@ His remix of "Pressure" by The Fuzz is a slow winder that builds up really nicel
 
 {{< audio
     caption="The La Els & OFFSET - Soulkiller (OFFSET Drum & Bass mix)"
-    src="https://stetcoza.blob.core.windows.net/music/offset/the_la_els_&_offset_-_soulkiller_(offset_drum_&_bass_mix).mp3" >}}
+    src="https://media.electrotrash.co.za/offset/the_la_els_&_offset_-_soulkiller_(offset_drum_&_bass_mix).mp3" >}}
 
 {{< audio
     caption="The Fuzz - Pressure (Offset Disco Mix)"
-    src="https://stetcoza.blob.core.windows.net/music/offset/the_fuzz_-_pressure_(offset_disco_mix).mp3" >}}
+    src="https://media.electrotrash.co.za/offset/the_fuzz_-_pressure_(offset_disco_mix).mp3" >}}
 
 {{< audio
     caption="Offset - Scratch That Lick"
-    src="https://stetcoza.blob.core.windows.net/music/offset/offset_-_scratch_that_lick.mp3" >}}
+    src="https://media.electrotrash.co.za/offset/offset_-_scratch_that_lick.mp3" >}}
 
 ^5!
-

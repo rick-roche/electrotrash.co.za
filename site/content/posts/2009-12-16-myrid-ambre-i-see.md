@@ -1,12 +1,12 @@
 ---
-title: 'Myrid Ambre - I See'
+title: "Myrid Ambre - I See"
 date: Wed, 16 Dec 2009 20:15:44 +0000
 draft: false
 authors: ["Rick Disco"]
 tags: ["I See", "myrid ambre", "stephen timm"]
 categories: ["Uncategorized"]
-thumbnail: '/wp-content/uploads/2009/12/isee-150x150.jpg'
-featured: '/wp-content/uploads/2009/12/isee-299x190.jpg'
+thumbnail: "/wp-content/uploads/2009/12/isee-150x150.jpg"
+featured: "/wp-content/uploads/2009/12/isee-299x190.jpg"
 ---
 
 [![I See](/wp-content/uploads/2009/12/isee.jpg "I See")](/wp-content/uploads/2009/12/isee.jpg)
@@ -19,7 +19,6 @@ Sounds good? Get yourself one!
 
 {{< audio
     caption="Myrid Ambre - I See"
-    src="https://stetcoza.blob.core.windows.net/music/myrid_ambre/myrid_ambre_-_i_see.mp3" >}}
+    src="https://media.electrotrash.co.za/myrid_ambre/myrid_ambre_-_i_see.mp3" >}}
 
 ^5!
-

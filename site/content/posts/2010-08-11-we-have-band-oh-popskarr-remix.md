@@ -1,12 +1,12 @@
 ---
-title: 'We Have Band - Oh! (Popskarr Remix)'
+title: "We Have Band - Oh! (Popskarr Remix)"
 date: Wed, 11 Aug 2010 17:22:10 +0000
 draft: false
 authors: ["dirtyoldman"]
 tags: ["oh!", "Popskarr", "remix", "video", "we have band"]
 categories: ["Music", "Music Video"]
-thumbnail: '/wp-content/uploads/2010/08/we-have-band-150x150.jpg'
-featured: '/wp-content/uploads/2010/08/we-have-band-304x190.jpg'
+thumbnail: "/wp-content/uploads/2010/08/we-have-band-150x150.jpg"
+featured: "/wp-content/uploads/2010/08/we-have-band-304x190.jpg"
 ---
 
 [![](/wp-content/uploads/2010/08/we-have-band.jpg "we have band oh!")](/2010/08/11/we-have-band-oh-popskarr-remix/we-have-band/)
@@ -15,4 +15,4 @@ Them boys from Popskarr dropped off this awesome remix of We Have Band's Oh! The
 
 {{< audio
     caption="We Have Band - Oh! (Popskarr Remix)"
-    src="https://stetcoza.blob.core.windows.net/music/popskarr/we_have_band_-_oh!_(popskarr_remix).mp3" >}}
+    src="https://media.electrotrash.co.za/popskarr/we_have_band_-_oh!_(popskarr_remix).mp3" >}}

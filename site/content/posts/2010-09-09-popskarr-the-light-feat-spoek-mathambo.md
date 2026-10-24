@@ -1,12 +1,12 @@
 ---
-title: 'Popskarr - The Light feat. Spoek Mathambo'
+title: "Popskarr - The Light feat. Spoek Mathambo"
 date: Thu, 09 Sep 2010 05:36:07 +0000
 draft: false
 authors: ["Rick Disco"]
 tags: ["Popskarr", "Spoek Mathambo", "The Light"]
 categories: ["Music"]
-thumbnail: '/wp-content/uploads/2010/09/popskarr-yannick-150x150.jpg'
-featured: '/wp-content/uploads/2010/09/popskarr-yannick-304x190.jpg'
+thumbnail: "/wp-content/uploads/2010/09/popskarr-yannick-150x150.jpg"
+featured: "/wp-content/uploads/2010/09/popskarr-yannick-304x190.jpg"
 ---
 
 [![Kids Will Cuss!](/wp-content/uploads/2010/09/popskarr-yannick.jpg "Popskarr - Yannick")](/wp-content/uploads/2010/09/popskarr-yannick.jpg) _Yannick rocking a [Kids Will Cuss](http://kidswillcuss.blogspot.com/ "Kids Will cuss") T-Shirt!_
@@ -17,9 +17,8 @@ So a long story short, these guys are making waves and are incredibly good at it
 
 {{< audio
     caption="POPSKARR - The Light feat. Spoek Mathambo"
-    src="https://stetcoza.blob.core.windows.net/music/popskarr/popskarr_-_the_light_feat_spoek_mathambo_(official).mp3" >}}
+    src="https://media.electrotrash.co.za/popskarr/popskarr_-_the_light_feat_spoek_mathambo_(official).mp3" >}}
 
 What do you think?
 
 ^5!
-

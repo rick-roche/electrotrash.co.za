@@ -5,5 +5,5 @@ authors: ["Rick Disco"]
 ---
 
 {{< playlist
-    links="https://stetcoza.blob.core.windows.net/music/fulka/fulka_-_misunderstood.mp3"
+    links="https://media.electrotrash.co.za/fulka/fulka_-_misunderstood.mp3"
     titles="Fulka - Misunderstood" >}}

@@ -1,12 +1,12 @@
 ---
-title: 'New Artist: Placid Larry!'
+title: "New Artist: Placid Larry!"
 date: Tue, 28 Sep 2010 12:42:09 +0000
 draft: false
 authors: ["Rick Disco"]
 tags: ["placid larry"]
 categories: ["Music"]
-thumbnail: '/wp-content/uploads/2010/09/PL-150x150.jpg'
-featured: '/wp-content/uploads/2010/09/PL-304x190.jpg'
+thumbnail: "/wp-content/uploads/2010/09/PL-150x150.jpg"
+featured: "/wp-content/uploads/2010/09/PL-304x190.jpg"
 ---
 
 [![](/wp-content/uploads/2010/09/PL.jpg "Placid Larry")](/wp-content/uploads/2010/09/PL.jpg)
@@ -19,11 +19,10 @@ Give Placid Larry some Facebook love over [here](http://www.facebook.com/pages/P
 
 {{< audio
     caption="Placid Larry - Backwash"
-    src="https://stetcoza.blob.core.windows.net/music/placid_larry/placid_larry_-_backwash.mp3" >}}
+    src="https://media.electrotrash.co.za/placid_larry/placid_larry_-_backwash.mp3" >}}
 
- {{< audio
+{{< audio
     caption="Placid Larry - Time Saver"
-    src="https://stetcoza.blob.core.windows.net/music/placid_larry/placid_larry_-_time_saver.mp3" >}}
+    src="https://media.electrotrash.co.za/placid_larry/placid_larry_-_time_saver.mp3" >}}
 
 ^5!
-

@@ -1,9 +1,18 @@
 ---
-title: 'VEREVÜLFF mix from Atlantis To The Interzone'
+title: "VEREVÜLFF mix from Atlantis To The Interzone"
 date: Tue, 02 Sep 2008 14:17:36 +0000
 draft: false
 authors: ["Rick Disco"]
-tags: ["atlantis to the interzone", "cchq", "dance", "Electrotrash Related", "electrotrash.co.za", "free download", "verevulff"]
+tags:
+  [
+    "atlantis to the interzone",
+    "cchq",
+    "dance",
+    "Electrotrash Related",
+    "electrotrash.co.za",
+    "free download",
+    "verevulff",
+  ]
 categories: ["Gig Reviews", "Music"]
 ---
 
@@ -34,7 +43,7 @@ Thanks a lot to VEREVÜLFF for this mix! You can get a hold of him through his F
 The mix can be found in our [downloads](/downloads "electrotrash Downloads") area or listen below. It is about 91mb large, but totally worth it!
 
 {{< audio
-    src="https://stetcoza.blob.core.windows.net/music/verevulff/verevuelff_-_atlantis_to_interzone_set.mp3"
+    src="https://media.electrotrash.co.za/verevulff/verevuelff_-_atlantis_to_interzone_set.mp3"
     caption="VEREV√úLFF - Atlantis to the Interzone mix" >}}
 
 Rick Disco ^5!

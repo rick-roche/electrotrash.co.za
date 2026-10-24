@@ -1,12 +1,12 @@
 ---
-title: 'Polygon Palace gets the Popskarr treatment!'
+title: "Polygon Palace gets the Popskarr treatment!"
 date: Mon, 24 Jan 2011 15:56:48 +0000
 draft: false
 authors: ["dirtyoldman"]
 tags: ["Polygon Palace", "Popskarr Remix", "We Have A Visual"]
 categories: ["Music"]
-thumbnail: '/wp-content/uploads/2011/01/polygonpalacewehaveavisual-150x150.jpg'
-featured: '/wp-content/uploads/2011/01/polygonpalacewehaveavisual-304x190.jpg'
+thumbnail: "/wp-content/uploads/2011/01/polygonpalacewehaveavisual-150x150.jpg"
+featured: "/wp-content/uploads/2011/01/polygonpalacewehaveavisual-304x190.jpg"
 ---
 
 [![](/wp-content/uploads/2011/01/polygonpalacewehaveavisual.jpg "polygonpalacewehaveavisual")](/2011/01/24/polygon-palace-gets-the-popskarr-treatment/polygonpalacewehaveavisual/)
@@ -17,7 +17,6 @@ The original is one of those electro/indie feel good tracks complete with stabby
 
 {{< audio
     caption="Polygon Palace - We Have A Visual (Popskarr Remix)"
-    src="https://stetcoza.blob.core.windows.net/music/popskarr/polygon_palace_-_we_have_a_visual_(popskarr_remix).mp3" >}}
+    src="https://media.electrotrash.co.za/popskarr/polygon_palace_-_we_have_a_visual_(popskarr_remix).mp3" >}}
 
- [Polygon Palace - We Have a Visual (Popskarr Remix)](http://soundcloud.com/popskarr/polygon-palace-we-have-a-visual-popskarr-remix) by [POPSKARR](http://soundcloud.com/popskarr)
-
+[Polygon Palace - We Have a Visual (Popskarr Remix)](http://soundcloud.com/popskarr/polygon-palace-we-have-a-visual-popskarr-remix) by [POPSKARR](http://soundcloud.com/popskarr)

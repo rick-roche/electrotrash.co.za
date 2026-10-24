@@ -1,12 +1,12 @@
 ---
-title: 'Card On Spokes: 10 Minute Mix!'
+title: "Card On Spokes: 10 Minute Mix!"
 date: Sun, 30 May 2010 16:57:41 +0000
 draft: false
 authors: ["Rick Disco"]
 tags: ["10 minute mix", "card on spokes", "shane cooper"]
 categories: ["Artists", "Music"]
-thumbnail: '/wp-content/uploads/2010/05/cos-t-shirt-150x150.jpg'
-featured: '/wp-content/uploads/2010/05/cos-t-shirt-304x190.jpg'
+thumbnail: "/wp-content/uploads/2010/05/cos-t-shirt-150x150.jpg"
+featured: "/wp-content/uploads/2010/05/cos-t-shirt-304x190.jpg"
 ---
 
 [![](/wp-content/uploads/2010/05/cos-t-shirt.jpg "Card On Spokes")](/wp-content/uploads/2010/05/cos-t-shirt.jpg)
@@ -15,9 +15,8 @@ We have a new artist on the site... welcome to Card On Spokes! Read more about C
 
 {{< audio
     caption="Card On Spokes - 10 Minutes"
-    src="https://stetcoza.blob.core.windows.net/music/card_on_spokes/card_on_spokes_-_ten_minutes_mix.mp3" >}}
+    src="https://media.electrotrash.co.za/card_on_spokes/card_on_spokes_-_ten_minutes_mix.mp3" >}}
 
 There are also a few tracks that you can listen to on the Card On Spokes Soundcloud page... [checkit](http://soundcloud.com/cardonspokes/ "Card On Soundcloud")!
 
 ^5!
-

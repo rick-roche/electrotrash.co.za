@@ -1,12 +1,21 @@
 ---
-title: 'New Artist: Sparrow!'
+title: "New Artist: Sparrow!"
 date: Fri, 03 Sep 2010 11:32:00 +0000
 draft: false
 authors: ["Rick Disco"]
-tags: ["cape town", "Gareth H. Graham", "Gavin Gilowey", "get shitfaced and dance", "girls noise", "no justice", "sparrow"]
+tags:
+  [
+    "cape town",
+    "Gareth H. Graham",
+    "Gavin Gilowey",
+    "get shitfaced and dance",
+    "girls noise",
+    "no justice",
+    "sparrow",
+  ]
 categories: ["Artists", "Music"]
-thumbnail: '/wp-content/uploads/2010/09/sparrow-150x150.jpg'
-featured: '/wp-content/uploads/2010/09/sparrow-304x190.jpg'
+thumbnail: "/wp-content/uploads/2010/09/sparrow-150x150.jpg"
+featured: "/wp-content/uploads/2010/09/sparrow-304x190.jpg"
 ---
 
 [![](/wp-content/uploads/2010/09/sparrow.jpg "sparrow")](/wp-content/uploads/2010/09/sparrow.jpg)
@@ -19,15 +28,14 @@ Grab two grinding tracks below and practice in your room.
 
 {{< audio
     caption="Sparrow - Girl's Noise (Instrumental Version)"
-    src="https://stetcoza.blob.core.windows.net/music/sparrow/sparrow_-_girls_noise_(instrumental_version).mp3" >}}
+    src="https://media.electrotrash.co.za/sparrow/sparrow_-_girls_noise_(instrumental_version).mp3" >}}
 
 {{< audio
     caption="Sparrow - No Justice"
-    src="https://stetcoza.blob.core.windows.net/music/sparrow/sparrow_-_no_justice.mp3" >}}
+    src="https://media.electrotrash.co.za/sparrow/sparrow_-_no_justice.mp3" >}}
 
- [Sparrow - Girl's Noise (Instrumental Version)](http://soundcloud.com/garethgraham/sparrow-girls-noise-instrumental-version) by [garethgraham](http://soundcloud.com/garethgraham)
+[Sparrow - Girl's Noise (Instrumental Version)](http://soundcloud.com/garethgraham/sparrow-girls-noise-instrumental-version) by [garethgraham](http://soundcloud.com/garethgraham)
 
- [Sparrow - No Justice](http://soundcloud.com/garethgraham/sparrow-no-justice) by [garethgraham](http://soundcloud.com/garethgraham)
+[Sparrow - No Justice](http://soundcloud.com/garethgraham/sparrow-no-justice) by [garethgraham](http://soundcloud.com/garethgraham)
 
 Excellent! ^5!
-

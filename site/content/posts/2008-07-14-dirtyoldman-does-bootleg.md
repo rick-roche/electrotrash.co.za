@@ -1,5 +1,5 @@
 ---
-title: 'dirtyoldman does bootleg'
+title: "dirtyoldman does bootleg"
 date: Mon, 14 Jul 2008 17:01:26 +0000
 draft: false
 authors: ["dirtyoldman"]
@@ -12,5 +12,5 @@ categories: ["Music"]
 We here at the 'trash absolutely love the new self titled Crystal Castles album. We also dig the funky sounds voice of Jamie Lidell. It thus seemed a good idea to mash the two together and see what came out. Well this is the result. Now be kind 'cause it's my first attempt at making a bootleg in a loooong while. The link is below.
 
 {{< playlist
-    links="https://stetcoza.blob.core.windows.net/music/dirtyoldman/jamie_lidell_vs_chrystal_castles_-_little_feel_good_magic_spells_(dirtyoldman_bootleg).mp3"
+    links="https://media.electrotrash.co.za/dirtyoldman/jamie_lidell_vs_chrystal_castles_-_little_feel_good_magic_spells_(dirtyoldman_bootleg).mp3"
     titles="Jamie Lidell vs Crystal Castles - Little Feel Good Magic Spells (dirtyoldman bootleg)" >}}

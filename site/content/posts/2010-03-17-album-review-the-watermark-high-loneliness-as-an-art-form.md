@@ -1,12 +1,19 @@
 ---
-title: 'Album Review: The Watermark High - Loneliness As An Art Form'
+title: "Album Review: The Watermark High - Loneliness As An Art Form"
 date: Wed, 17 Mar 2010 12:29:08 +0000
 draft: false
 authors: ["dirtyoldman"]
-tags: ["I Don't Need Serotonin", "I End Up Me", "Loneliness As An Art From", "No Matter Where I Go", "The Watermark High"]
+tags:
+  [
+    "I Don't Need Serotonin",
+    "I End Up Me",
+    "Loneliness As An Art From",
+    "No Matter Where I Go",
+    "The Watermark High",
+  ]
 categories: ["Music", "Reviews"]
-thumbnail: '/wp-content/uploads/2010/03/watermark-high-150x150.jpg'
-featured: '/wp-content/uploads/2010/03/watermark-high-304x190.jpg'
+thumbnail: "/wp-content/uploads/2010/03/watermark-high-150x150.jpg"
+featured: "/wp-content/uploads/2010/03/watermark-high-304x190.jpg"
 ---
 
 [![](/wp-content/uploads/2010/03/watermark-high-e1268757531655.jpg "The Watermark High - Loneliness As An Art Form")](/2010/03/17/album-review-the-watermark-high-loneliness-as-an-art-form/watermark-high/)
@@ -23,15 +30,14 @@ _I don’t need Serotonin_ is for me the stand-out track on the album, with it�
 
 {{< audio
     caption="The Watermark High - I Don't Need Serotonin"
-    src="https://stetcoza.blob.core.windows.net/music/the_watermark_high/the_watermark_high_-_i_dont_need_serotonin.mp3" >}}
+    src="https://media.electrotrash.co.za/the_watermark_high/the_watermark_high_-_i_dont_need_serotonin.mp3" >}}
 
 As a whole the tracks on this album come together to form an aural entity that can be described as greater than the sum of it’s parts, as the saying goes. Cheesey saying or not, the album is cohesive thanks to the songs on it. _No matter where I go, I end up me_ is a good example of one of those tracks which transforms itself from a crazy drum led piece to a simple melodic one.
 
 {{< audio
     caption="The Watermark High - No Matter Where I Go"
-    src="https://stetcoza.blob.core.windows.net/music/the_watermark_high/the_watermark_high_-_no_matter_where_i_go,_i_end_up_me.mp3" >}}
+    src="https://media.electrotrash.co.za/the_watermark_high/the_watermark_high_-_no_matter_where_i_go,_i_end_up_me.mp3" >}}
 
 To pick up the metaphor where we left off, if Loneliness As An Art Form is an experiment, then it surely is a success. Beautiful and at times haunting, the music on this album is not harsh but never dull. With this album The Watermark High has revealed its intent to create some of the most interresting electro-accoustic music that is being produced in South Africa today.
 
 Finally, in today’s digital world one always needs a compelling reason to purchase music on physical media. The packaging for Loneliness As An Art Form is perhaps as beautiful as the music, with just as much attention to detail.  You can get your copy at shows as they are very limited in numbers, alternatively you can grab a free download of the album from the bands website (for a limited time only!)... [www.thewatermarkhigh.co.za](http://www.thewatermarkhigh.co.za/ "The Watermark High")!
-

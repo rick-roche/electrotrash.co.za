@@ -5,5 +5,5 @@ authors: ["Rick Disco"]
 ---
 
 {{< playlist
-    links="https://stetcoza.blob.core.windows.net/music/dirtyolddisco/dirtyolddisco_-_bon_jovi_friday_mix.mp3,https://stetcoza.blob.core.windows.net/music/dirtyolddisco/dirtyolddisco_-_koolaid_mix.mp3"
+    links="https://media.electrotrash.co.za/dirtyolddisco/dirtyolddisco_-_bon_jovi_friday_mix.mp3,https://media.electrotrash.co.za/dirtyolddisco/dirtyolddisco_-_koolaid_mix.mp3"
     titles="Dirtyolddisco - Bon Jovi Friday Mix,Dirtyolddisco - Koolaid Mix" >}}

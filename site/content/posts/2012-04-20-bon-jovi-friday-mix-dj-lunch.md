@@ -1,12 +1,23 @@
 ---
-title: 'Bon Jovi Friday Mix: DJ LUNCH'
+title: "Bon Jovi Friday Mix: DJ LUNCH"
 date: Fri, 20 Apr 2012 11:54:13 +0000
 draft: false
 authors: ["Rick Disco"]
-tags: ["Bon Jovi Friday Mix", "broaden a new sound", "data takashi", "dj danger ingozi", "jhb", "kitcheners carvery", "Riaan Botha", "Style vs Fashion", "Style vs Sound"]
+tags:
+  [
+    "Bon Jovi Friday Mix",
+    "broaden a new sound",
+    "data takashi",
+    "dj danger ingozi",
+    "jhb",
+    "kitcheners carvery",
+    "Riaan Botha",
+    "Style vs Fashion",
+    "Style vs Sound",
+  ]
 categories: ["Bon Jovi Friday", "Music"]
-thumbnail: '/wp-content/uploads/2012/04/style-vs-sound-april-150x150.jpg'
-featured: '/wp-content/uploads/2012/04/style-vs-sound-april-304x190.jpg'
+thumbnail: "/wp-content/uploads/2012/04/style-vs-sound-april-150x150.jpg"
+featured: "/wp-content/uploads/2012/04/style-vs-sound-april-304x190.jpg"
 ---
 
 \[caption id="attachment\_5048" align="aligncenter" width="509" caption="Style vs Sound April"\][![Style vs Sound April](/wp-content/uploads/2012/04/style-vs-sound-april.jpg "Style vs Sound April")](/wp-content/uploads/2012/04/style-vs-sound-april.jpg)\[/caption\]
@@ -18,8 +29,7 @@ Ri asked for folks to drop of mixes if they wanted to play and LUNCH stepped up 
 So grab LUNCH's mix below and then head on over to the next Style Vs Sound next Thursday (16 April 2012) and have a great night out!
 
 {{< audio
-    src="https://stetcoza.blob.core.windows.net/music/mixes/dj_lunch_-_bangers_and_mash_volume_1.mp3"
+    src="https://media.electrotrash.co.za/mixes/dj_lunch_-_bangers_and_mash_volume_1.mp3"
     caption="LUNCH - Bangers and Mash Volume 1" >}}
 
 Check out the Facebook link to the party for more info: [Style Vs Sound - 26 April 2012](https://www.facebook.com/events/200642383385562/ "Style Vs Sound")
-

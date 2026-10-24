@@ -1,12 +1,12 @@
 ---
-title: 'HAEZER - Dominator'
+title: "HAEZER - Dominator"
 date: Tue, 12 Jan 2010 13:23:06 +0000
 draft: false
 authors: ["Rick Disco"]
 tags: ["dominator", "haezer"]
 categories: ["Music", "remix competition"]
-thumbnail: '/wp-content/uploads/2010/01/dominator-150x150.jpg'
-featured: '/wp-content/uploads/2010/01/dominator-304x190.jpg'
+thumbnail: "/wp-content/uploads/2010/01/dominator-150x150.jpg"
+featured: "/wp-content/uploads/2010/01/dominator-304x190.jpg"
 ---
 
 [![](/wp-content/uploads/2010/01/dominator.jpg "dominator")](/wp-content/uploads/2010/01/dominator.jpg) _I just google image searched "Dominator" for this one_
@@ -17,7 +17,6 @@ Grab it below!
 
 {{< audio
     caption="HAEZER - Dominator"
-    src="https://stetcoza.blob.core.windows.net/music/haezer/haezer_-_dominator.mp3" >}}
+    src="https://media.electrotrash.co.za/haezer/haezer_-_dominator.mp3" >}}
 
 ^5!
-

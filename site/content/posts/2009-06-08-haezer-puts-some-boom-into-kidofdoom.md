@@ -1,12 +1,23 @@
 ---
-title: 'HAEZER puts some boom into kidofdoom!'
+title: "HAEZER puts some boom into kidofdoom!"
 date: Mon, 08 Jun 2009 06:00:19 +0000
 draft: false
 authors: ["Rick Disco"]
-tags: ["electro", "gotham city", "haezer", "haezer remix", "kidofdoom", "mini-mix", "south africa", "synth", "tour"]
+tags:
+  [
+    "electro",
+    "gotham city",
+    "haezer",
+    "haezer remix",
+    "kidofdoom",
+    "mini-mix",
+    "south africa",
+    "synth",
+    "tour",
+  ]
 categories: ["Music", "News"]
-thumbnail: '/wp-content/uploads/2009/06/haezer-june-20091-150x150.jpg'
-featured: '/wp-content/uploads/2009/06/haezer-june-20091-304x190.jpg'
+thumbnail: "/wp-content/uploads/2009/06/haezer-june-20091-150x150.jpg"
+featured: "/wp-content/uploads/2009/06/haezer-june-20091-304x190.jpg"
 ---
 
 [![HAEZER June Tour 2009](/wp-content/uploads/2009/06/haezer-june-2009.jpg "HAEZER June Tour 2009")](/wp-content/uploads/2009/06/haezer-june-2009.jpg)
@@ -16,7 +27,7 @@ featured: '/wp-content/uploads/2009/06/haezer-june-20091-304x190.jpg'
 First off is a remix he did of a pretty boring [kidofdoom](http://www.facebook.com/pages/kidofdoom/7541330893 "kidofdoom on Facebook") track... Gotham City (see the video [here](http://www.speakerbox.co.za/content/video.aspx?id=315 "kidofdoom - Gotham City Video on Spearbox")!). He turns it into a synthed up masterpiece that I can't stop listening to!
 
 {{< audio
-    src="https://stetcoza.blob.core.windows.net/music/haezer/kidofdoom_-_gotham_city_(haezers_only_for_the_brave_remix).mp3"
+    src="https://media.electrotrash.co.za/haezer/kidofdoom_-_gotham_city_(haezers_only_for_the_brave_remix).mp3"
     caption="kidofdoom - Gotham City (HAEZER's Only For The Brave Remix)" >}}
 
 Then he kindly made a mini-mix to let us know what to expect next week...

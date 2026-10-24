@@ -1,12 +1,18 @@
 ---
-title: 'Before Die Antwoord there was...'
+title: "Before Die Antwoord there was..."
 date: Thu, 08 Apr 2010 15:14:48 +0000
 draft: false
 authors: ["dirtyoldman"]
-tags: ["die antwoord", "Puff the Magik", "The Original Evergreen", "Watkin Tudor Jones"]
+tags:
+  [
+    "die antwoord",
+    "Puff the Magik",
+    "The Original Evergreen",
+    "Watkin Tudor Jones",
+  ]
 categories: ["Music"]
-thumbnail: '/wp-content/uploads/2010/04/original-evergreen-back-Large-150x150.jpg'
-featured: '/wp-content/uploads/2010/04/original-evergreen-back-Large-304x190.jpg'
+thumbnail: "/wp-content/uploads/2010/04/original-evergreen-back-Large-150x150.jpg"
+featured: "/wp-content/uploads/2010/04/original-evergreen-back-Large-304x190.jpg"
 ---
 
 [![](/wp-content/uploads/2010/04/original-evergreen-back-Large-e1270638944116.jpg "The Original Evergreen")](/2010/04/08/before-die-antwoord-there-was/original-evergreen-back-large/)
@@ -17,7 +23,6 @@ Instead I'm going to post the first Waddy track that most people living in South
 
 {{< audio
     caption="The Original Evergreen - Puff The Magik (Radio Edit)"
-    src="https://stetcoza.blob.core.windows.net/music/the_original_evergreen/the_original_evergreen_-_puff_the_magik_(radio_edit).mp3" >}}
+    src="https://media.electrotrash.co.za/the_original_evergreen/the_original_evergreen_-_puff_the_magik_(radio_edit).mp3" >}}
 
 P.S.: Hey Waddy, if you want me to take this track down, [email me](mailto:dirtyoldman@electrotrash.co.za).
-

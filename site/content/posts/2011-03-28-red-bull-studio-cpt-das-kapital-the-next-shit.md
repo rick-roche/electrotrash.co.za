@@ -1,12 +1,12 @@
 ---
-title: 'Red Bull Studio CPT: Das Kapital - The Next Shit'
+title: "Red Bull Studio CPT: Das Kapital - The Next Shit"
 date: Mon, 28 Mar 2011 11:14:27 +0000
 draft: false
 authors: ["Richard the Third"]
 tags: ["Das Kapital", "Red Bull Studio Cape Town"]
 categories: ["Music", "Red Bull Studio Cape Town"]
-thumbnail: '/wp-content/uploads/2011/03/Das_Kapital-150x150.jpg'
-featured: '/wp-content/uploads/2011/03/Das_Kapital-304x190.jpg'
+thumbnail: "/wp-content/uploads/2011/03/Das_Kapital-150x150.jpg"
+featured: "/wp-content/uploads/2011/03/Das_Kapital-304x190.jpg"
 ---
 
 [![](/wp-content/uploads/2011/03/Das_Kapital.jpg "Das_Kapital")](/2011/03/28/red-bull-studio-cpt-das-kapital-the-next-shit/das_kapital/)
@@ -25,10 +25,8 @@ To say, "keep your eyes peeled" would fit into a cliche that does no justice to 
 
 {{< audio
     caption="Das Kapital - Overload"
-    src="https://stetcoza.blob.core.windows.net/music/das_kapital/das_kapital_-_overload.mp3" >}}
+    src="https://media.electrotrash.co.za/das_kapital/das_kapital_-_overload.mp3" >}}
 
- [Das Kapital - Overload](http://soundcloud.com/red-bull-studio-ct/das-kapital-overload) by [Red Bull Studio CT](http://soundcloud.com/red-bull-studio-ct)
-
-
+[Das Kapital - Overload](http://soundcloud.com/red-bull-studio-ct/das-kapital-overload) by [Red Bull Studio CT](http://soundcloud.com/red-bull-studio-ct)
 
 Das Kapital, Red Bull Studio Cape TownDas Kapital, Red Bull Studio Cape TownDas Kapital, Red Bull Studio Cape Town

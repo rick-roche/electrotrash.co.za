@@ -1,12 +1,19 @@
 ---
-title: 'Bloody Beetroots - Theolonius (King Voodoo)'
+title: "Bloody Beetroots - Theolonius (King Voodoo)"
 date: Fri, 06 Nov 2009 18:44:11 +0000
 draft: false
 authors: ["dirtyoldman"]
-tags: ["bloody beetroots", "gazelle", "King Voodoo", "Theolonius", "Xander Ferreira"]
+tags:
+  [
+    "bloody beetroots",
+    "gazelle",
+    "King Voodoo",
+    "Theolonius",
+    "Xander Ferreira",
+  ]
 categories: ["Music"]
-thumbnail: '/wp-content/uploads/2009/11/The+Bloody+Beetroots+bloodybeetroots3-150x150.jpg'
-featured: '/wp-content/uploads/2009/11/The+Bloody+Beetroots+bloodybeetroots3-304x190.jpg'
+thumbnail: "/wp-content/uploads/2009/11/The+Bloody+Beetroots+bloodybeetroots3-150x150.jpg"
+featured: "/wp-content/uploads/2009/11/The+Bloody+Beetroots+bloodybeetroots3-304x190.jpg"
 ---
 
 ![The Bloody Beetroots](/wp-content/uploads/2009/11/The+Bloody+Beetroots+bloodybeetroots3-236x300.jpg "The Bloody Beetroots")
@@ -18,5 +25,5 @@ I bet you're wondering why we're featuring an Italian group on a blog that is fo
 Those of you that saw the [Bloody Beetroots](http://www.myspace.com/thebloodybeetroots) live a few months back know how awesome this duo is. Some of you may even have a copy of their album Romborama, released earlier this year. If you do in fact have a copy, then the voice featured on the 12th track called 'Theolonius (King Voodoo) may have sounded familiar. Turns out it is Xander Ferreira, better known as the face of Limpop act Gazelle. I thought I'd share this with you guys in the hope of showing you that you don't have to be Dave Matthews or Seether to break beyond our borders. A case in point being the Mr. Vega remix of Popskarr (He's from Brooklyn) or the Saint Pauli and Toxic Avenger remixes of the new Haezer single (more on that in the future...). I guess what I'm saying is just keep making the best music you can and try not to limit yourselves to Jozi or Cape Town or even just South Africa. Like the saying goes: "think locally, act globally". Not sure if that applies, but it sure sounds good!
 
 {{< audio
-    src="https://stetcoza.blob.core.windows.net/music/the_bloody_beetroots/the_bloody_beetroots_-_theolonius_(king_voodoo).mp3"
+    src="https://media.electrotrash.co.za/the_bloody_beetroots/the_bloody_beetroots_-_theolonius_(king_voodoo).mp3"
     caption="The Bloody Beetroots - Theolonius (King Voodoo)" >}}

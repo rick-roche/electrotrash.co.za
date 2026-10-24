@@ -1,12 +1,23 @@
 ---
-title: 'New EP: Richard the Third - Dragonfly Slip + free Dank remix'
+title: "New EP: Richard the Third - Dragonfly Slip + free Dank remix"
 date: Fri, 18 Mar 2011 17:30:58 +0000
 draft: false
 authors: ["dirtyoldman"]
-tags: ["black porcelain", "Burial", "Dank Remix", "Dragonfly Slip", "Four Tet", "I got ego", "Nate Dogg", "richard the third", "The Slip"]
+tags:
+  [
+    "black porcelain",
+    "Burial",
+    "Dank Remix",
+    "Dragonfly Slip",
+    "Four Tet",
+    "I got ego",
+    "Nate Dogg",
+    "richard the third",
+    "The Slip",
+  ]
 categories: ["Bootlegs", "Music", "Releases"]
-thumbnail: '/wp-content/uploads/2011/03/Conjur-150x150.jpg'
-featured: '/wp-content/uploads/2011/03/Conjur-304x190.jpg'
+thumbnail: "/wp-content/uploads/2011/03/Conjur-150x150.jpg"
+featured: "/wp-content/uploads/2011/03/Conjur-304x190.jpg"
 ---
 
 [![by Fuzzy Slippers](/wp-content/uploads/2011/03/Conjur.jpg "Conjur")](/2011/03/18/new-ep-richard-the-third-dragonfly-slip-free-dank-remix/conjur/)
@@ -21,12 +32,12 @@ _Slip_ features the emotive vocals of Black Porcelain which at to the dark and m
 
 {{< audio
     caption="Richard the Third - Slip (Dank Remix)"
-    src="https://stetcoza.blob.core.windows.net/music/richard_the_third/richard_the_third_-_slip_(dank_remix).mp3" >}}
+    src="https://media.electrotrash.co.za/richard_the_third/richard_the_third_-_slip_(dank_remix).mp3" >}}
 
-Dragonfly_ features the vocal talents of Zaki Ibrahim, which are soft, almost whispy, yet with depth and soul in the chorus. The track moves towards the direction of future garage, with a shuffled two-step beat setting the foundation for an array of synths and samples that are varied but never overwhelming.  [Richard The Third - Dragonfly feat. Zaki Ibrahim](http://soundcloud.com/africandope/richard-the-third-dragonfly) by [africandope](http://soundcloud.com/africandope)
+Dragonfly_ features the vocal talents of Zaki Ibrahim, which are soft, almost whispy, yet with depth and soul in the chorus. The track moves towards the direction of future garage, with a shuffled two-step beat setting the foundation for an array of synths and samples that are varied but never overwhelming. [Richard The Third - Dragonfly feat. Zaki Ibrahim](http://soundcloud.com/africandope/richard-the-third-dragonfly) by [africandope](http://soundcloud.com/africandope)
 
 As an added bonus check out this sweet bootleg that Richard put together. It is a tribute to Nate Dogg (RIP) featuring Burial and Four Tet. An awesome mashup and tribute.
 
 {{< audio
     caption="Nate Dogg vs  Burial vs Four Tet - I Got Ego (Richard the Third Bootleg)"
-    src="https://stetcoza.blob.core.windows.net/music/richard_the_third/nate_dogg_vs__burial_vs_four_tet_-_i_got_ego_(richard_the_third_bootleg).mp3" >}}
+    src="https://media.electrotrash.co.za/richard_the_third/nate_dogg_vs__burial_vs_four_tet_-_i_got_ego_(richard_the_third_bootleg).mp3" >}}
