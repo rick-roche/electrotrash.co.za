@@ -1,0 +1,15 @@
+# Repository metadata and local tooling
+.git
+.github
+.codegraph
+.wip
+cleanup
+**/.DS_Store
+
+# Generated Hugo output and local work files
+site/public
+site/resources/_gen
+site/tmp
+site/.hugo_build.lock
+site/hugo_stats.json
+site/assets/jsconfig.json

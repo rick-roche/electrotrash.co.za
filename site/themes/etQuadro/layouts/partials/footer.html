@@ -1,0 +1,41 @@
+<div id="footer">
+  <p id="sponsor">Copyright © 2022 electrotrash.co.za</p>
+
+  {{- /* CSS concatenation - skip if resources unavailable */ -}}
+  {{- $cssFiles := resources.Match "css/*.css" -}}
+  {{- if $cssFiles -}}
+    {{- $css := $cssFiles | resources.Concat "theme/min.css" | minify -}}
+    <link rel="stylesheet" href="{{ $css.RelPermalink }}" />
+  {{- end -}}
+
+  <script type="text/javascript" src="/js/jquery.easing-1.4.1.min.js"></script>
+  <script type="text/javascript" src="/js/jquery.lavalamp.js"></script>
+
+  {{ if eq .Kind "home" }}
+  <!-- this is only needed for the featured loader -->
+  <script type="text/javascript" src="/js/jquery.cycle.all.min.js"></script>
+  {{ end }}
+  <script type="text/javascript" src="/js/menu-hover.js"></script>
+
+  {{ if .HasShortcode "load-photoswipe" }}
+    {{ partial "photoswipe.html" . }}
+  {{ end }}
+
+  <!-- search -->
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lunr@2.3.8/lunr.min.js" integrity="sha384-vRQ9bDyE0Wnu+lMfm57BlYLO0/XauFuKpVsZPs7KEDwYKktWi5+Kz3MP8++DFlRY" crossorigin="anonymous"></script>
+  <script type="text/javascript" src="/js/lunr-search.js"></script>
+
+  <!-- audio shortcodes -->
+  {{- if .HasShortcode "playlist" -}}
+    {{- $audioPlayer := resources.Get "sass/audio-player.scss" -}}
+    {{- $scss := $audioPlayer | css.Sass (dict "transpiler" "dartsass") | minify -}}
+    <link rel="stylesheet" href="{{ $scss.RelPermalink }}" />
+  {{- end -}}
+
+  {{- if .HasShortcode "audio" -}}
+    {{- $audioStyles := resources.Get "sass/audio.scss" -}}
+    {{- $scss := $audioStyles | css.Sass (dict "transpiler" "dartsass") | minify -}}
+    <link rel="stylesheet" href="{{ $scss.RelPermalink }}" />
+  {{- end -}}
+
+</div>

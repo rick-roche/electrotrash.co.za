@@ -1,0 +1,78 @@
+/* search widget*/
+#sidebar #search .widget-content {}
+
+#sidebar #search .widget-content {
+	text-align: center;
+	padding-top: 10px;
+}
+
+#sidebar #search #searchform {
+	padding-bottom: 6px;
+}
+
+#searchform #s {
+	width: 190px;
+}
+
+#search #search-input {
+	width: 200px;
+}
+
+/* ads widget */
+#ads-125-125 {
+	text-align: center;
+}
+
+#ads-125x125 .widget-content {
+	padding: 12px 6px 4px;
+}
+
+.img-adv {
+	margin: 0 10px 10px 0;
+}
+
+.img-adv.right {
+	margin-right: 0;
+}
+
+.img-adv.bottom {
+	margin-bottom: 0;
+}
+
+.img-adv.last {
+	margin: 0;
+}
+
+/* callendar widget */
+#wp-calendar {
+	empty-cells: show;
+	width: 100%;
+}
+
+/*
+#wp-calendar a { color:#CFA03A !important; }
+
+#wp-calendar a:hover { color:#956B58 !important; }
+*/
+
+#wp-calendar th,
+#wp-calendar td {
+	text-align: center;
+}
+
+#wp-calendar th {
+	font-weight: bold;
+}
+
+#wp-calendar #today {
+	border: 1px solid #D8E4F0;
+	background-color: #ff33ff;
+}
+
+#wp-calendar #next {
+	text-align: right !important;
+}
+
+#wp-calendar #prev {
+	text-align: left !important;
+}

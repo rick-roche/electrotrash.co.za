@@ -1,0 +1,57 @@
+.lavaLampWithImage {
+	position: relative;
+	height: 42px;
+	padding: 0;
+	overflow: hidden;
+	margin: 0 auto;
+	width: 942px;
+}
+
+.lavaLampWithImage li {
+	float: left;
+	list-style: none;
+	z-index: 9;
+	height: 42px;
+	margin: 0;
+}
+
+.lavaLampWithImage li a {
+	color: #ffffff;
+	text-decoration: none;
+	outline: none;
+	text-align: center;
+	z-index: 11;
+	display: block;
+	float: left;
+	font: normal 11px Tahoma, Verdana, Arial;
+	height: 42px;
+	line-height: 42px;
+	position: relative;
+	text-transform: uppercase;
+	margin: 0 20px;
+}
+
+.lavaLampWithImage li a:hover,
+.lavaLampWithImage li a:active,
+.lavaLampWithImage li.current_page_item a {
+	color: #ffffff;
+}
+
+.lavaLampWithImage li.back {
+	width: 9px;
+	height: 42px;
+	z-index: 5;
+	position: absolute;
+	margin: 0;
+	top: 0;
+	/* inportant, please don't remove*/
+}
+
+.lavaLampWithImage li.back .left {
+	background: #9c0303 url('/images/lava.png') repeat-x 0 0;
+	height: 42px;
+	margin-right: 0;
+	/* 7px is the width of the rounded shape */
+	z-index: 6;
+	padding: 0 20px;
+}

@@ -1,0 +1,35 @@
+
+<li id="archives" class="widget">
+    <div class="widget-content">
+    <h4 class="widget-title">Archives</h4>
+    <label class="screen-reader-text" for="archives-dropdown">Archives</label>
+    <select id="archives-dropdown" name="archive-dropdown">
+        <option value="">Select Year</option>
+
+        {{ range $index, $value := (where .Site.RegularPages "Type" "posts").GroupByDate "2006" }}
+            <option value="{{ .Key }}">{{ .Key }}</option>
+        {{- end -}}
+
+    </select>
+    <script type="text/javascript">
+        /* <![CDATA[ */
+        (function () {
+          var dropdown = document.getElementById("archives-dropdown");
+          function onArchiveChange() {
+            if (dropdown.options[dropdown.selectedIndex].value !== "") {
+            //   document.location.href = "/posts/#" + this.options[this.selectedIndex].value;
+
+              window.location = "/posts/#" + this.options[this.selectedIndex].value;
+            }
+          }
+          dropdown.onchange = onArchiveChange;
+        })();
+        /* ]]> */
+      </script>
+    </div>
+    <div class="widget-bottom"></div>
+</li>
+
+
+
+

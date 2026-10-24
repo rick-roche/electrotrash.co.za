@@ -1,0 +1,31 @@
+<div id="featured-post-wrap" class="clearfix">
+  <div id="featured-post">
+    <!-- each featured item in here -->
+    {{ range ( where .Site.RegularPages "Type" "posts" | first 3 ) }}
+    <div class="featured-item">
+        <img class="featured-thumb" src="{{ .Params.featured }}" alt="{{ .Title }}" width="304" height="190" />
+        <div class="post clearfix">
+            <p class="date-post">{{ .PublishDate.Format "Monday, January 2 2006" }}</p>
+            <h2 class="title">
+                <a href="{{ .RelPermalink }}" title="{{ .Title }}">{{ .Title }}</a>
+            </h2>
+            <span class="author-post"> by
+                {{- range $index, $element := .Params.authors }}
+                {{ if gt $index 0 }} & {{ end }}
+                <a href="/authors/{{ urlize . }}">{{ . }}</a>
+                {{ end }}
+            </span>
+            <div class="entry">
+                {{ .Summary | plainify | truncate 350 }}
+            </div>
+            <a class="read-more" href="{{ .RelPermalink }}" title="Continue Reading...">Continue Reading...</a>
+        </div>
+    </div>
+    {{end}}
+  </div>
+  <!-- /featured-post -->
+  <a id="featured-prev">prev</a>
+  <a id="featured-next">next</a>
+  <div class="left"></div>
+  <div class="right"></div>
+</div>

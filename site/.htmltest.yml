@@ -1,0 +1,7 @@
+DirectoryPath: "public"
+
+CheckInternal: false
+CheckExternal: true
+
+IgnoreURLs:
+- "electrotrash.co.za"

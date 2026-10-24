@@ -1,0 +1,84 @@
+name: Build and test Docker image
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - migrate-from-wp
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-24.04
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Check local archive assets
+        run: python3 tests/archive_test.py
+
+      - name: Set up Node for browser tests
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
+      - name: Install browser test tools outside the site
+        run: |
+          npm install --prefix "$RUNNER_TEMP/browser-tests" --no-save --package-lock=false playwright@1.58.2
+          "$RUNNER_TEMP/browser-tests/node_modules/.bin/playwright" install --with-deps chromium
+
+      - name: Build Docker image
+        run: docker build --tag electrotrash:${{ github.sha }} .
+
+      - name: Smoke test container
+        env:
+          IMAGE: electrotrash:${{ github.sha }}
+        run: |
+          set -euo pipefail
+
+          docker run --detach --rm \
+            --name electrotrash-smoke \
+            --publish 127.0.0.1:8080:80 \
+            "$IMAGE"
+          trap 'docker stop electrotrash-smoke >/dev/null 2>&1 || true' EXIT
+
+          ready=false
+          for attempt in $(seq 1 30); do
+            if curl --fail --silent http://127.0.0.1:8080/ >/dev/null; then
+              ready=true
+              break
+            fi
+            sleep 1
+          done
+          if [ "$ready" != true ]; then
+            docker logs electrotrash-smoke
+            exit 1
+          fi
+
+          curl --fail --silent --show-error http://127.0.0.1:8080/ >/dev/null
+          curl --fail --silent --show-error \
+            http://127.0.0.1:8080/2009/11/03/don-diablo-is-never-too-late/ >/dev/null
+          curl --fail --silent --show-error \
+            http://127.0.0.1:8080/js/jquery/jquery.min.js >/dev/null
+
+          status=$(curl --silent --output /dev/null --write-out '%{http_code}' \
+            http://127.0.0.1:8080/this-page-should-not-exist/)
+          if [ "$status" != 404 ]; then
+            echo "Expected missing page to return 404, got $status"
+            exit 1
+          fi
+
+          NODE_PATH="$RUNNER_TEMP/browser-tests/node_modules" \
+            SITE_URL=http://127.0.0.1:8080 \
+            CONTAINER_TESTS=1 \
+            node --test tests/browser.test.cjs

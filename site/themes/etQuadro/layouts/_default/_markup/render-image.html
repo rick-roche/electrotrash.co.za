@@ -1,0 +1,6 @@
+<img
+  class="aligncenter size-full wp-image-6177"
+  src="{{ .Destination | safeURL }}"
+  alt="{{ .Text }}"
+  {{- with .Title }} title="{{ . }}"{{- end }}
+/>

@@ -1,0 +1,12 @@
+{{ if .Get "link-only" }}
+<div class="audio-container-left">
+    <figcaption>{{ with .Get "src" }}<a href="{{ . | absURL }}" target="_blank" rel="noopener">Open / download audio</a>{{ end }}  {{ with .Get "caption" }}{{ . }}{{ end }}</figcaption>
+</div>
+{{ else }}
+<figure class="audio-container-center">
+    <audio controls preload="{{ .Get "preload" | default "none" }}">
+    {{ with .Get "src" }}<source src="{{ . | absURL }}" type="audio/mpeg">{{ end }}
+    </audio>
+    <figcaption>{{ with .Get "caption" }}{{ . }}{{ end }}  {{ with .Get "src" }}<a href="{{ . | absURL }}" target="_blank" rel="noopener">Open / download audio</a>{{ end }}</figcaption>
+</figure>
+{{ end }}
