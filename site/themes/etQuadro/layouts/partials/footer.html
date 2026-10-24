@@ -4,7 +4,7 @@
   {{- /* CSS concatenation - skip if resources unavailable */ -}}
   {{- $cssFiles := resources.Match "css/*.css" -}}
   {{- if $cssFiles -}}
-    {{- $css := $cssFiles | resources.Concat "theme/min.css" | minify -}}
+    {{- $css := $cssFiles | resources.Concat "theme/min.css" | minify | fingerprint -}}
     <link rel="stylesheet" href="{{ $css.RelPermalink }}" />
   {{- end -}}
 
