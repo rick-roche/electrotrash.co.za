@@ -1,7 +1,12 @@
 <head profile="http://gmpg.org/xfn/11">
   <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
   <meta name="author" content="electrotrash.co.za" />
+  {{- if eq (getenv "HUGO_NOINDEX") "true" }}
+  <meta name="robots" content="noindex, nofollow" />
+  {{- else }}
   <meta name="robots" content="max-image-preview:large" />
+  {{- end }}
+  <link rel="canonical" href="{{ .Permalink }}" />
 
   <title>{{ .Site.Title }}</title>
 
