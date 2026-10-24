@@ -1,0 +1,67 @@
+name: Build and test Docker image
+
+on:
+  push:
+    branches:
+      - migrate-from-wp
+      - main
+  pull_request:
+    branches:
+      - migrate-from-wp
+      - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Build Docker image
+        run: docker build --tag electrotrash:${{ github.sha }} .
+
+      - name: Smoke test container
+        env:
+          IMAGE: electrotrash:${{ github.sha }}
+        run: |
+          set -euo pipefail
+
+          docker run --detach --rm \
+            --name electrotrash-smoke \
+            --publish 127.0.0.1:8080:80 \
+            "$IMAGE"
+          trap 'docker stop electrotrash-smoke >/dev/null 2>&1 || true' EXIT
+
+          ready=false
+          for attempt in $(seq 1 30); do
+            if curl --fail --silent http://127.0.0.1:8080/ >/dev/null; then
+              ready=true
+              break
+            fi
+            sleep 1
+          done
+          if [ "$ready" != true ]; then
+            docker logs electrotrash-smoke
+            exit 1
+          fi
+
+          curl --fail --silent --show-error http://127.0.0.1:8080/ >/dev/null
+          curl --fail --silent --show-error \
+            http://127.0.0.1:8080/2009/11/03/don-diablo-is-never-too-late/ >/dev/null
+          curl --fail --silent --show-error \
+            http://127.0.0.1:8080/js/jquery/jquery.min.js >/dev/null
+
+          status=$(curl --silent --output /dev/null --write-out '%{http_code}' \
+            http://127.0.0.1:8080/this-page-should-not-exist/)
+          if [ "$status" != 404 ]; then
+            echo "Expected missing page to return 404, got $status"
+            exit 1
+          fi
