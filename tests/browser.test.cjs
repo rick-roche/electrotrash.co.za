@@ -156,3 +156,30 @@ test('shared section lists retain their introductions and artist links', async t
   await page.goto(baseURL + '/downloads/');
   assert.match(await page.locator('#main').innerText(), /Electrotrash.co.za brings you the best free downloads/);
 });
+
+test('the contact page renders a protected Web3Forms form without exposing the inbox', async t => {
+  const page = await pageFor(t, '/contact/');
+  const form = page.locator('form[action="https://api.web3forms.com/submit"]');
+  assert.equal(await form.locator('input[name="access_key"]').inputValue(), '8224f060-84ce-4775-b7df-621899c79cd8');
+  assert.equal(await form.locator('input[name="botcheck"]').count(), 1);
+  assert.equal(await form.locator('.h-captcha[data-captcha="true"]').count(), 1);
+  assert.equal(await page.getByText('electrotrash.za@gmail.com').count(), 0);
+  assert.equal(await form.locator('input[name="email"]').getAttribute('type'), 'email');
+  assert.equal(await form.locator('textarea[name="message"]').getAttribute('maxlength'), '5000');
+});
+
+test('the recovery checklist includes every unique dead-link reference', async t => {
+  const context = await browser.newContext();
+  t.after(() => context.close());
+  const legacy = await context.request.get(baseURL + '/2026/10/24/help-us-recover-the-electrotrash-archive/');
+  assert.match(await legacy.text(), /electrotrash-is-back-sort-of/);
+  const page = await pageFor(t, '/2026/10/24/electrotrash-is-back-sort-of/');
+  const postImage = page.locator('#main img[alt="Electrotrash is back online, celebrating South African electronic music"]');
+  assert.equal(await postImage.count(), 1);
+  assert.equal(new URL(await postImage.getAttribute('src'), page.url()).pathname, '/wp-content/uploads/2026/10/electrotrash-is-back-620x620.png');
+  assert.equal(await postImage.evaluate(image => image.naturalWidth), 620);
+  assert.equal(await page.locator('#main input[type="checkbox"]').count(), 28);
+  assert.equal(await page.locator('#main li').count(), 28);
+  assert.equal(await page.locator('#main a[href*="contact"]').count() >= 1, true);
+  assert.equal(await page.locator('#main a[href="http://www.mediafire.com/?tz2mg2ejdlt"]').count(), 1);
+});

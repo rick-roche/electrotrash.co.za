@@ -1,5 +1,6 @@
 """Check local archive assets without depending on external historical sites."""
 import re
+import struct
 import unittest
 from pathlib import Path
 from urllib.parse import unquote
@@ -18,6 +19,57 @@ class ArchiveAssets(unittest.TestCase):
                            ['site/static', 'site/themes/etQuadro/static']):
                     missing.append(f'{page.relative_to(ROOT)}: {url}')
         self.assertEqual(missing, [], '\n'.join(missing))
+
+    def test_recovery_post_copies_every_dead_link_reference(self):
+        sources = '\n'.join(page.read_text() for page in (ROOT / 'site/content/posts').glob('*.md'))
+        recovery = (ROOT / 'site/content/posts/2026-10-24-help-recover-the-electrotrash-archive.md').read_text()
+        self.assertIn('Electrotrash is back. Sort of.', recovery)
+        self.assertIn('It\'s been a while. Thirteen years, to be precise.', recovery)
+        self.assertIn('aliases:', recovery)
+        self.assertIn('/2026/10/24/help-us-recover-the-electrotrash-archive/', recovery)
+        self.assertIn('Missing tracks and downloads', recovery)
+        recovery_items = re.findall(r'^- \[ \] \*\*(.+?)\*\*', recovery, re.M)
+        self.assertEqual(len(recovery_items), 28)
+        for page in (ROOT / 'site/content/posts').glob('*.md'):
+            in_dead_links = False
+            for line in page.read_text().splitlines():
+                if 'Dead link' in line:
+                    in_dead_links = True
+                elif in_dead_links and not line.startswith('>'):
+                    in_dead_links = False
+                if in_dead_links:
+                    for url in re.findall(r'https?://[^\s\])]+', line):
+                        self.assertIn(url, recovery, f'{url} from {page.name}')
+
+    def test_announcement_post_uses_archive_image_sizes(self):
+        post = (ROOT / 'site/content/posts/2026-10-24-help-recover-the-electrotrash-archive.md').read_text()
+        upload_dir = ROOT / 'site/static/wp-content/uploads/2026/10'
+        expected = [
+            '/wp-content/uploads/2026/10/electrotrash-is-back-620x620.png',
+            '/wp-content/uploads/2026/10/electrotrash-is-back-304x190.png',
+            '/wp-content/uploads/2026/10/electrotrash-is-back-150x150.png',
+        ]
+        for image in expected:
+            self.assertIn(image, post)
+            self.assertTrue((ROOT / 'site/static' / image.lstrip('/')).is_file(), image)
+        dimensions = {'electrotrash-is-back.png': (1254, 1254),
+                     'electrotrash-is-back-620x620.png': (620, 620),
+                     'electrotrash-is-back-304x190.png': (304, 190),
+                     'electrotrash-is-back-150x150.png': (150, 150)}
+        for filename, size in dimensions.items():
+            with (upload_dir / filename).open('rb') as image:
+                image.seek(16)
+                self.assertEqual(struct.unpack('>II', image.read(8)), size, filename)
+
+    def test_contact_page_uses_spam_controls_without_exposing_recipient(self):
+        contact = (ROOT / 'site/content/contact.md').read_text()
+        form = (ROOT / 'site/themes/etQuadro/layouts/shortcodes/contact-form.html').read_text()
+        self.assertIn('{{< contact-form >}}', contact)
+        self.assertIn('web3forms.com/submit', form)
+        self.assertIn('8224f060-84ce-4775-b7df-621899c79cd8', form)
+        self.assertIn('h-captcha', form)
+        self.assertIn('botcheck', form)
+        self.assertNotIn('electrotrash.za@gmail.com', contact + form)
 
 
 if __name__ == '__main__':
