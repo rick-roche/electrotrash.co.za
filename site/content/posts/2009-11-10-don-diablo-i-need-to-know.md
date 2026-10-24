@@ -15,7 +15,12 @@ Our friend Stephen from [Muzikology](http://www.muzikology.com "Muzikology") sen
 
 [Don Diablo](http://www.myspace.com/dondiablo "Don Diablo")'s trademark guitarlicks, staccato basslines and distorted synths are all united in this funky little number called 'I need to know'. It will not be on his forthcoming album, but it does come in two versions, an original version and an extended mix for those who are not afraid to try shake things up in their neighbourhood disco. Do you want to get Don Diablo's forthcoming album for **FREE**, straight into your inbox 6 weeks ahead of release? Then sign up here and tell your friends about it: [www.dondiablo.com/freestuff](http://www.dondiablo.com/freestuff "Don Diablo: Free Stuff")! Tracks below:
 
-\[download#181#nohits\] - _Mediafire link, 5.69 MB_ \[download#182#nohits\] - _Mediafire link, 14.01 MB_
+> ⚠️ Dead links: the original Mediafire downloads are no longer available:
+>
+> - _Don Diablo - I Need To Know_ — [http://www.mediafire.com/?tbontmdjdmy](http://www.mediafire.com/?tbontmdjdmy) (5.69 MB)
+> - _Don Diablo - I Need To Know (Don Diablo's Sellout Sessions Mix)_ — [http://www.mediafire.com/?qnzmnyq0qkm](http://www.mediafire.com/?qnzmnyq0qkm) (14.01 MB)
+>
+> If you have a copy, please [get in touch](/contact).
 
 There you have it, Boosh! ^5!
 

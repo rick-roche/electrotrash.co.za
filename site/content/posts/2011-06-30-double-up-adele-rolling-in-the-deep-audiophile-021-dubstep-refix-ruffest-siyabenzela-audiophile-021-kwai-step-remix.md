@@ -15,9 +15,9 @@ Audiophile 021 is in a remix frenzy at the moment. Before having a chance to put
 
 First up is his remix of the _Rolling in the Deep_ by Adele. The bass, thanks to Native Instruments, is massive, hovering underneath those amazing vocals. Audiophile 021 keeps things simple on this remix/fix which make the track that much crisper and polished. In terms of execution I think its right up there with the Jaimie XX Shuffle!
 
-\[download#301#nohits\]
+> ⚠️ Dead link: the original SoundCloud track — _Adele - Rolling In The Deep (Audiophile 021 Dubstep Refix)_ ([http://soundcloud.com/audiophile021/adele-rolling-in-the-deep](http://soundcloud.com/audiophile021/adele-rolling-in-the-deep)) is no longer available. If you have a copy, please [get in touch](/contact).
 
 Ruffest are a Cape Town based kwaito-house group and a name to keep an eye on. These guys are going to be big, soon. The remix is deep and dense, the bass low with a slight wobble. Only the typical kwaito synth-bell melody of the original remain, along with the occasional Haibo!
 
-\[download#302#nohits\]
+> ⚠️ Dead link: the original SoundCloud track — _Ruffest - Siyabenzela (Audiophile 021 Kwai Step Remix)_ ([http://soundcloud.com/audiophile021/ruffest-siyabenzela-audiophile](http://soundcloud.com/audiophile021/ruffest-siyabenzela-audiophile)) is no longer available. If you have a copy, please [get in touch](/contact).
 

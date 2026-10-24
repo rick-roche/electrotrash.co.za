@@ -15,7 +15,7 @@ Round two of  the Vampire Radio Remixes features Das Kapital and Battle Beyond 
 
 Das Kapital drops some radical rhythms, with an equally bouncy bassline to keep that groove going. Think coke-fuelled carribean conga's and you're on the right track. Grab the download below.
 
-\[download#311#nohits\]
+{{< soundcloud 21448178 >}}
 
 Battle Beyond the Stars disturbs the original through dissonance. With a biting synth lead and drums that are hard as nails, this remix grabs you by the crotch and doesn't let go.
 

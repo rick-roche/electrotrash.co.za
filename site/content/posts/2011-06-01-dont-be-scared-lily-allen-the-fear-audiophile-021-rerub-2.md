@@ -11,5 +11,5 @@ featured: '/wp-content/uploads/2011/06/lilyallenthefear-304x190.jpg'
 
 [![aaaaaaah!](/wp-content/uploads/2011/06/lilyallenthefear.jpg "lilyallenthefear")Audiophile 021](http://www.facebook.com/AP021) sent through his latest remix and damn is it large! My first thought was, really, Lily Allen and dubstep? Luckily I didn't say it out loud or I would have had to swallow my words. In contrast to the pop-feel of the main vocal loop and build up from the original, his bass drops in deep and dirty. Slow and grinding, the atmosphere lends itself surprisingly well to the lyrics and vocals. The remix works, because of this contrast.
 
-\[download#292#nohits\]
+> ⚠️ Dead link: the original SoundCloud track — _Lily Allen - The Fear (Audiophile 021 Dubstep ReRub)_ ([http://soundcloud.com/audiophile021/lily-allen-the-fear](http://soundcloud.com/audiophile021/lily-allen-the-fear)) is no longer available. If you have a copy, please [get in touch](/contact).
 

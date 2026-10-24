@@ -23,9 +23,7 @@ More tracks after the jump including their remix of Gazelle & Fat Freddys Drop, 
 
 This remix of their track Shall We Swing by Liver is pretty dope and has a nice soulful groove to it!
 
-\[download#183#nohits\]
-
-[Shall We Swing (Liver Remix)](http://soundcloud.com/mixnblend/shall-we-swing-liver-remix) by [mixnblend](http://soundcloud.com/mixnblend)
+> ⚠️ Dead link: the original SoundCloud track — _Mix n Blend – Shall We Swing (Liver Remix)_ ([http://soundcloud.com/mixnblend/shall-we-swing-liver-remix](http://soundcloud.com/mixnblend/shall-we-swing-liver-remix)) is no longer available. If you have a copy, please [get in touch](/contact).
 
 This track shows off that they can pull of dark & deep dubstep like the best of 'em!
 
@@ -33,15 +31,11 @@ This track shows off that they can pull of dark & deep dubstep like the best of 
 
 Their re-edit of Fat Freddys Drop is really dope!
 
-\[download#184#nohits\]
-
- [Fat Freddys Drop - The Raft (Mix n Blend n Sfr's Re-edit)](http://soundcloud.com/mixnblend/fat-freddys-drop-the-raft-mix-n-blend-n-sfrs-re-edit) by [mixnblend](http://soundcloud.com/mixnblend)
+{{< soundcloud 881682 >}}
 
 Finally, their remix of Gazelle's first single 'Die Verlore Seun' is an awesome dubbed out deep grinder. Siiiick!
 
-\[download#185#nohits\]
-
- [Gazelle - Die Velore Seun (Mix n Blend remix)](http://soundcloud.com/mixnblend/die-velore-seun-mix-n-blend-remix) by [mixnblend](http://soundcloud.com/mixnblend)
+> ⚠️ Dead link: the original SoundCloud track — _Gazelle - Die Velore Seun (Mix n Blend remix)_ ([http://soundcloud.com/mixnblend/die-velore-seun-mix-n-blend-remix](http://soundcloud.com/mixnblend/die-velore-seun-mix-n-blend-remix)) is no longer available. If you have a copy, please [get in touch](/contact).
 
 Check out their [Soundcloud page](http://soundcloud.com/mixnblend) for lots more free tracks.
 

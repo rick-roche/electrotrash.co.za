@@ -15,7 +15,7 @@ featured: '/wp-content/uploads/2011/10/rtd-180x190.jpg'
 
 Our good friend Audiophile 021 put this dubstep mix together for 5FM, which features tracks by some of the usual suspects, plus a few hidden gems. Check out the Callan Maart remix!
 
-\[download#316#nohits\]
+> ⚠️ Dead link: the original SoundCloud track — _Audiophile 021 - 5FM Rocking The Daisies Promo Mix_ ([http://soundcloud.com/audiophile021/audiophile-021-5fm-rocking-the](http://soundcloud.com/audiophile021/audiophile-021-5fm-rocking-the)) is no longer available. If you have a copy, please [get in touch](/contact).
 
  Track List
 
@@ -33,6 +33,6 @@ Our good friend Audiophile 021 put this dubstep mix together for 5FM, which feat
 
 T-Minus is just here for the Techno and we're not complaining. This driving mix will give you a taste of his RTD set.
 
-\[download#317#nohits\]
+> ⚠️ Dead link: the original SoundCloud track — _T-Minus - I'm Just Here For The Techno_ ([http://soundcloud.com/thedjtminus/im-just-here-for-the-techno](http://soundcloud.com/thedjtminus/im-just-here-for-the-techno)) is no longer available. If you have a copy, please [get in touch](/contact).
 
 See y'all at RTD!

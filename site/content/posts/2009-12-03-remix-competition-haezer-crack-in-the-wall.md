@@ -19,13 +19,17 @@ The competition ends mid January 2010, exact date will be announced closer to th
 
 ### **HOW TO ENTER**
 
-Download the separates for the track here: \[download#197#nohits\] - _Mediafire link, 19.42MB_
+Download the separates for the track here:
+
+> ⚠️ Dead link: the original Mediafire download — _HAEZER - Crack In The Wall Separates_ ([http://www.mediafire.com/?maznzcnytzn](http://www.mediafire.com/?maznzcnytzn), 19.42 MB) is no longer available. If you have a copy, please [get in touch](/contact).
 
 Once you have completed your remix, simply send an email to _remixhaezer.hat.electrotrash.co.za_ (you get what i mean, yeah? We dont want too much spam) with a link to your remix as well as ways for us to get in touch with you and maybe a bit about you. It would also be pretty cool if everyone entering would also paste the link to their remix in the comment box at the end of this post (you need to click on the post name and be viewing this post only, not on the frontpage) so that all our readers can give the remixes a listen as well!
 
 We recommend using [Soundcloud](http://soundcloud.com/ "Soundcloud") to host your remix, it's awesome.
 
-Update: Download the original of the track below... \[download#198#nohits\]
+Update: Download the original of the track below...
+
+> ⚠️ Dead link: the original Mediafire download — _HAEZER - Crack In The Wall_ ([http://www.mediafire.com/?xmndtjzmczn](http://www.mediafire.com/?xmndtjzmczn)) is no longer available. If you have a copy, please [get in touch](/contact).
 
 Looking forward to hearing all the remixes! ^5!
 

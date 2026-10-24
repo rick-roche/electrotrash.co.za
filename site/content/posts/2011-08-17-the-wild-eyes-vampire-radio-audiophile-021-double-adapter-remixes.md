@@ -13,5 +13,7 @@ featured: '/wp-content/uploads/2011/08/bloodlip-304x190.jpg'
 
 Audiophile 021 takes the track to the horror show, re-recording the vocals and screams that are downright freaky. The bass is as filthy as the back alley in which the murders for the re-recording took place. Dim the lights, boost the bass and get ready to shit your pants.
 
-\[download#309#nohits\]   The Double Adapter remix is a full-on 4 on the floor, 7 gram rock, electro_thrash_ banger. The distorted synths hit you hard and induce nosebleeds, with visions of kids in neon, punching the snot out of each other. It's like they don't give a fuck, or something...
+{{< soundcloud 21235052 >}}
+
+The Double Adapter remix is a full-on 4 on the floor, 7 gram rock, electro_thrash_ banger. The distorted synths hit you hard and induce nosebleeds, with visions of kids in neon, punching the snot out of each other. It's like they don't give a fuck, or something...
 

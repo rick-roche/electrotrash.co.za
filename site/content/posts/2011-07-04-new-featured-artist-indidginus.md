@@ -19,5 +19,5 @@ downtempo soundscapes through to dubstep, dub and dancehall. Check out his artis
 
 _Hold Your Vision_ was recorded at the Red Bull Studio in Cape Town and is deep, thoughtful dubstep. Featuring the trademark didgeridoo sound of Indidginus, the track sounds  different from any dubstep you probably have heard, which is refreshing!
 
-\[download#303#nohits\]
+> ⚠️ Dead link: the original SoundCloud track — _Indidginus - Hold Your Vision_ ([http://soundcloud.com/indidginus/indidginus-hold-your-vision](http://soundcloud.com/indidginus/indidginus-hold-your-vision)) is no longer available. If you have a copy, please [get in touch](/contact).
 

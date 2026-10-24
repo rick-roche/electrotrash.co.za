@@ -13,11 +13,11 @@ featured: '/wp-content/uploads/2011/06/witchboy3-304x190.jpg'
 
 Witchboy is the dark side of Nikhil Singh, one-third of the Wild Eyes. Creating what he calls _Necro-electro_, his music finds itself in the largely unexplored (at least in South Africa) rooms of Witchhouse. Dissonance & distortion colour the sound spectrum. If Jacques Derrida made electronic music, it would sound like this. Check out the brand new [Witchboy artist page](/artists/witchboy/ ‎)!
 
-\[download#297#nohits\]
+{{< soundcloud 14454200 >}}
 
-\[download#298#nohits\]
+{{< soundcloud 13970032 >}}
 
-\[download#299#nohits\]
+{{< soundcloud 16562717 >}}
 
-\[download#300#nohits\]
+{{< soundcloud 15714330 >}}
 

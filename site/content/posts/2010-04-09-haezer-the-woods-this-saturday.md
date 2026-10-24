@@ -11,7 +11,7 @@ featured: '/wp-content/uploads/2010/04/haezer-event-200x190.jpg'
 
 Catch Haezer this Saturday at the Woods with support from Baggy Dawg (Desmond & The Tutus), dirtyoldDisco, Moe Joe and Double Adapter. 50 bucks gets you in. It's gonna be madness! Grab an exclusive mix of Haezer's _Here Come the Punks_ below.
 
-\[download#236#nohits\]
+> ⚠️ Dead link: the original Mediafire download — _Haezer - Here Come the Punks_ ([http://www.mediafire.com/?yhtm5nryy3n](http://www.mediafire.com/?yhtm5nryy3n)) is no longer available. If you have a copy, please [get in touch](/contact).
 
 [![](http://profile.ak.fbcdn.net/object2/801/71/n108199985869994_1102.jpg)](http://www.facebook.com/event.php?eid=108199985869994&ref=ts)
 

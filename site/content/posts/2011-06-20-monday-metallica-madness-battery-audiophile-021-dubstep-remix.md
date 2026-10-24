@@ -13,7 +13,7 @@ featured: '/wp-content/uploads/2011/06/metallica-batteryaudiophile021remix-304x1
 
 Angry dubstep courtesy of Audiophile 021! Some how this remix just works, but I am a bit confused. Should I be bouncing or headbanging?
 
-\[download#296#nohits\]
+> ⚠️ Dead link: the original SoundCloud track — _Metallica - Battery (Audiophile 021 Dubstep Remix)_ ([http://soundcloud.com/audiophile021/metallica-battery-audiophile](http://soundcloud.com/audiophile021/metallica-battery-audiophile)) is no longer available. If you have a copy, please [get in touch](/contact).
 
 
 

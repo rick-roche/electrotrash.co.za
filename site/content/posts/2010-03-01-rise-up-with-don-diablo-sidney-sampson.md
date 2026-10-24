@@ -19,13 +19,13 @@ Anyway, back to the music. Our dutch buddy Don Diablo is releasing his latest pr
 
 Grab it here:
 
-\[download#228#nohits\]
+> ⚠️ Dead link: the original download — _Don Diablo & Sidney Sampson - Rise Up_ ([http://www.muzikology.com/music/Don_Diablo_and_Sidney_Samson_-_Rise_Up.mp3](http://www.muzikology.com/music/Don_Diablo_and_Sidney_Samson_-_Rise_Up.mp3)) is no longer available. If you have a copy, please [get in touch](/contact).
 
 or \[[via zshare](http://www.zshare.net/audio/730528855ffc121e/)\]
 
 The Don has also put a mix together which you can grab from mediafire here:
 
-\[download#229#nohits\] (82.96 MB)
+> ⚠️ Dead link: the original Mediafire download — _Don Diablo's Live From Somewhere Mix (March 2010)_ ([http://www.mediafire.com/?zcnmgzrizjw](http://www.mediafire.com/?zcnmgzrizjw), 82.96 MB) is no longer available. If you have a copy, please [get in touch](/contact).
 
 or \[[via zshare](http://www.zshare.net/audio/728041928dea31c2/)\]
 

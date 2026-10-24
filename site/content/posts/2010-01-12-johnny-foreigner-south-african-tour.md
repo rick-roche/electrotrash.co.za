@@ -15,7 +15,7 @@ Some of you may have heard that Johnny Foreigner will be touring South Africa th
 
 They have put together a promo sampler for you to download, along with album art that you can print out to make a complete package! Grab it below!
 
-\[download#209#nohits\] - _Mediafire link_
+> ⚠️ Dead link: the original Mediafire download — _Johnny Foreigner - This Summer_ ([http://www.mediafire.com/?nmwzyzjoi2y](http://www.mediafire.com/?nmwzyzjoi2y)) is no longer available. If you have a copy, please [get in touch](/contact).
 
 Have a look at the pr0mo video below as well as read the press release after the jump!
 

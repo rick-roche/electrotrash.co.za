@@ -23,5 +23,5 @@ Haezer turns it up to 11 and makes it filthy as fuck. Apart from shredding up th
 
 and here is some promo material that was meant to go up last week, but somehow the scheduled post failed to appear...
 
-\[download#236#nohits\]
+> ⚠️ Dead link: the original Mediafire download — _Haezer - Here Come the Punks_ ([http://www.mediafire.com/?yhtm5nryy3n](http://www.mediafire.com/?yhtm5nryy3n)) is no longer available. If you have a copy, please [get in touch](/contact).
 

@@ -22,5 +22,5 @@ Ok, so this is like 2 weeks old, but I was in Cape Town on holiday so... [Saviou
 7. Jack (Pussy Scheme Purple Crush)
 8. Jack (The Bulgarian Remix)
 
-\[download#211#nohits\]
+> ⚠️ Dead link: the original Mediafire download — _Sweat.X - Saviour & Messiah EP_ ([http://www.mediafire.com/?tz2mg2ejdlt](http://www.mediafire.com/?tz2mg2ejdlt)) is no longer available. If you have a copy, please [get in touch](/contact).
 

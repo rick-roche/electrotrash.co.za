@@ -17,7 +17,7 @@ No matter, because there are a new breed of sonic perverts who’ve taken the ba
 
 Rather I’m gonna be sharing some music from a smaller project (as of the time being) which features production by Disco Israel from P.H.fat, and rhymes from two of the mother city’s busiest boys, Fuzzy Slippers and Jake Lipmann. The project in question is the brainchild of these two muppets and is called Voicetag. Although a lot of their music is experimentations in beat-box KAOS pad sampling, the track below is just mad glitch-hoptronica brilliance.
 
-\[download#175#nohits\] - _Mediafire link_
+> ⚠️ Dead link: the original Mediafire download — _Voicetag – Spiders and Moths_ ([http://www.mediafire.com/download.php?ymnixyxjgjq](http://www.mediafire.com/download.php?ymnixyxjgjq)) is no longer available. If you have a copy, please [get in touch](/contact).
 
 
 

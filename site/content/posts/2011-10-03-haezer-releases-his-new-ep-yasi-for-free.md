@@ -29,7 +29,7 @@ YASI is [HAEZER](/artists/haezer/ "HAEZER")’s first EP release since ‘_It’
 
 Download the EP below for **FREE**, courtesy of [Griet](http://www.griet.co.za "Griet")!
 
-\[dl\] \[download#315#nohits\] - _19MB, .zip file!_
+> ⚠️ Dead link: the original download — _HAEZER - Yasi EP_ ([http://tinyurl.com/haezer-yasi-download](http://tinyurl.com/haezer-yasi-download), 19 MB .zip) is no longer available. If you have a copy, please [get in touch](/contact).
 
 Let us know what you think!
 

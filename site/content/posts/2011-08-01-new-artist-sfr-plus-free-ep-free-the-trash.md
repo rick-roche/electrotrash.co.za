@@ -15,7 +15,7 @@ Adding a new face to the Electrotrash family this week, we have SFR all the way 
 
 For a bit of his flavour download his aptly named _Feed the Trash_. Grinding, face-melting bass and huge drums. Yes please!
 
-\[download#308#nohits\]
+> ⚠️ Dead link: the original SoundCloud track — _SFR - Free the Trash_ ([http://soundcloud.com/deejaysfr/sfr-free-the-trash](http://soundcloud.com/deejaysfr/sfr-free-the-trash)) is no longer available. If you have a copy, please [get in touch](/contact).
 
 On top of all the international releases, he has also found time to produce a killer EP entitled _Difference in Detail_, which is available as a free download from his website: [www.djsfr.com](http://www.djsfr.com/)! The EP is full of bass heavy, dance-floor fillers that really pack a punch! Grab the EP on his website after giving it a listen below.
 

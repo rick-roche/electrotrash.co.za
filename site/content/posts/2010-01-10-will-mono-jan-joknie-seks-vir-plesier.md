@@ -13,7 +13,7 @@ featured: '/wp-content/uploads/2010/01/SVP-304x190.jpg'
 
 Will Mono sent us his latest track featuring Jan Joknie. It's a groovy piece of Afrikaans electro pop that I guess you will find either really catchy or really monotonous. The download will only be available for the next ten days just as a promotional piece so grab it while you can!
 
-\[download#208#nohits\] - _YouSendIt Link_
+> ⚠️ Dead link: the original YouSendIt download — _Will Mono & Jan Joknie - Seks Vir Plesier_ ([http://rcpt.yousendit.com/800713750/c7847860922d218b09883162f92a6bcd](http://rcpt.yousendit.com/800713750/c7847860922d218b09883162f92a6bcd)) is no longer available. If you have a copy, please [get in touch](/contact).
 
 You can watch the video to "Seks Vir Plesier" via YouTube below...
 

@@ -13,7 +13,7 @@ featured: '/wp-content/uploads/2011/07/artworks-000009642300-uh3dtt-crop-304x190
 
 OppiKoppi is next week and you know Electrotrash is going to be there! Our good friend Audiophile021 sent through this awesome taster mix, to give you guys a, err, taste of what to expect from his set. Expect banging basslines and weird wobbles. Fuck yes. If you wanna chill with the electrotrash crew just yell, dirtyoldman where are you? at the Red Bull Stage. See you kids there!
 
-\[download#307#nohits\]
+> ⚠️ Dead link: the original SoundCloud track — _Audiophile021 - The Unknown Brother Taster_ ([http://soundcloud.com/audiophile021/audiophile021-the-unknown](http://soundcloud.com/audiophile021/audiophile021-the-unknown)) is no longer available. If you have a copy, please [get in touch](/contact).
 
 Track Listing
 
